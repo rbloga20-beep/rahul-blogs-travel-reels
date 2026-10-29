@@ -83,3 +83,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-29-06-59 | Idukki | Pixabay (alexkc71) | https://pixabay.com/videos/id-369302/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-06-59 | Kannur | Pixabay (Thomascm) | https://pixabay.com/videos/id-170321/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-06-59 | Kerala | Pixabay (anijom) | https://pixabay.com/videos/id-304786/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-07-08 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324928/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-07-08 | Varkala | Pixabay (u_pj936q6tod) | https://pixabay.com/videos/id-350639/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-07-08 | Kovalam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kovalam_Beach_Sunrise.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-07-08 | Athirappilly Falls | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:View_from_Athirappilly_Falls.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-07-08 | Idukki | Pixabay (alexkc71) | https://pixabay.com/videos/id-369302/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-07-08 | Kannur | Pixabay (Thomascm) | https://pixabay.com/videos/id-170321/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-07-08 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324930/ | Pixabay Content License, commercial use, no attribution needed |

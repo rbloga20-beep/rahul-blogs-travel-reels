@@ -166,5 +166,30 @@
    "Pixabay https://pixabay.com/videos/id-304786/"
   ],
   "dry": true
+ },
+ {
+  "id": "2026-10-29-07-08",
+  "date": "2026-10-29T07:15:41.399Z",
+  "places": [
+   "Varkala",
+   "Kovalam",
+   "Athirappilly Falls",
+   "Idukki",
+   "Kannur"
+  ],
+  "hook": "Kerala / Top 5 places in Kerala",
+  "sub": "Top 5 places in Kerala",
+  "music": "Serene View.mp3",
+  "seconds": 17.8,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-324928/",
+   "Pixabay https://pixabay.com/videos/id-350639/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Kovalam_Beach_Sunrise.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:View_from_Athirappilly_Falls.jpg",
+   "Pixabay https://pixabay.com/videos/id-369302/",
+   "Pixabay https://pixabay.com/videos/id-170321/",
+   "Pixabay https://pixabay.com/videos/id-324930/"
+  ],
+  "dry": true
  }
 ]
