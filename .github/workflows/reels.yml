@@ -1,0 +1,69 @@
+﻿name: Travel reels
+
+on:
+  schedule:
+    # 6 reels a day, ~6:45 AM, 9:45 AM, 12:45 PM, 3:45 PM, 6:45 PM, 9:45 PM IST
+    - cron: '15 1,4,7,10,13,16 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Only make the reel, do not post'
+        type: boolean
+        default: false
+      place:
+        description: 'Optional place for this run only, e.g. Munnar|Kerala'
+        required: false
+
+concurrency:
+  group: state
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reel:
+    if: github.event_name != 'schedule' || vars.AUTO_POST != 'off'
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      META_SYSTEM_TOKEN: ${{ secrets.META_SYSTEM_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_USERNAME: ${{ secrets.IG_USERNAME }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+      DRY_RUN: ${{ inputs.dry_run || 'false' }}
+      PLACE: ${{ inputs.place || '' }}
+      STORIES: ${{ vars.STORIES || 'true' }}
+      IG_ENABLED: ${{ vars.IG_ENABLED || 'true' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          python3 -m pip install -q pillow
+          ffmpeg -version | head -1
+      - name: Make and post the reel
+        run: node scripts/reel.mjs all
+      - name: Save the reel for 7 days
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reel-${{ github.run_id }}
+          path: output/*.mp4
+          retention-days: 7
+          if-no-files-found: ignore
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "reels-bot"
+          git config user.email "reels-bot@users.noreply.github.com"
+          git add state CREDITS.md
+          git diff --cached --quiet && exit 0
+          git commit -q -m "reel state $(date -u +%F' '%H:%M)"
+          for i in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done

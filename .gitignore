@@ -1,0 +1,5 @@
+.env
+output/
+temp/
+logs/
+node_modules/

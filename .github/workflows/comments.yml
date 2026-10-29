@@ -1,0 +1,47 @@
+﻿name: Comment replies
+
+on:
+  schedule:
+    - cron: '7 * * * *'  # hourly: keeps the private repo inside the free 2,000 Actions minutes
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Only print the replies'
+        type: boolean
+        default: false
+
+concurrency:
+  group: state
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reply:
+    if: github.event_name != 'schedule' || vars.COMMENT_REPLIES != 'off'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      META_SYSTEM_TOKEN: ${{ secrets.META_SYSTEM_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_USERNAME: ${{ secrets.IG_USERNAME }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      DRY_RUN: ${{ inputs.dry_run || 'false' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node scripts/comments.mjs
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "reels-bot"
+          git config user.email "reels-bot@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet && exit 0
+          git commit -q -m "comment state $(date -u +%F' '%H:%M)"
+          for i in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done
