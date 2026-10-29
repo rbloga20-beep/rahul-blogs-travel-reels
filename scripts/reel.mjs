@@ -1,5 +1,6 @@
-﻿// Rahul Blogs travel reel: pick the next place -> real free stock (Pixabay videos + photos, Mixkit) -> FFmpeg reel with
-// hook text, place labels, logo and copyright-free music -> Facebook + Instagram reel and story.
+﻿// Rahul Blogs travel reel: pick the next places -> real free HD stock videos (Pixabay, Mixkit) -> FFmpeg reel in the
+// "N best places" style (big title, numbered spots, end card), logo and copyright-free music -> Facebook + Instagram
+// reel and story.
 // usage: node scripts/reel.mjs [make|all]     (DRY_RUN=true makes the reel without posting; PLACE=... forces a place)
 import fs from 'node:fs';
 import path from 'node:path';
@@ -46,18 +47,22 @@ Return JSON {"places":["Place|Country", ...]} with well-known names that stock-v
   writeJson('state/extra_places.json', extra);
 }
 
-// ---------------- stock footage (free: Pixabay + Mixkit licences, no attribution needed) ----------------
+// ---------------- stock footage: HD videos only (Pixabay + Mixkit licences, no attribution needed) ----------------
+const HD = 1080; // shortest side of the source file must be at least this
 async function pixabay(q) {
   if (!ENV.PIXABAY_API_KEY) return [];
-  const r = await http(`https://pixabay.com/api/videos/?key=${ENV.PIXABAY_API_KEY}&q=${encodeURIComponent(q)}&per_page=60&safesearch=true`);
+  const r = await http(`https://pixabay.com/api/videos/?key=${ENV.PIXABAY_API_KEY}&q=${encodeURIComponent(q)}&per_page=80&safesearch=true`);
   if (!r.ok) { log(`pixabay ${r.status}`); return []; }
   return (r.body.hits || []).map((h) => {
-    const v = h.videos.large?.url ? h.videos.large : h.videos.medium;
-    return { id: 'pxb' + h.id, src: 'Pixabay', page: h.pageURL, text: `${h.tags} ${h.pageURL}`.toLowerCase(), thumb: v.thumbnail,
+    // biggest file that is still a sensible download (4K only when nothing smaller is HD)
+    const v = [h.videos.large, h.videos.medium].find((x) => x?.url && Math.min(x.width, x.height) >= HD) ||
+      (h.videos.xlarge?.url && Math.min(h.videos.xlarge.width, h.videos.xlarge.height) >= HD ? h.videos.xlarge : null);
+    return v && { id: 'pxb' + h.id, src: 'Pixabay', page: h.pageURL, text: `${h.tags} ${h.pageURL}`.toLowerCase(), thumb: v.thumbnail,
       url: v.url, w: v.width, h: v.height, dur: h.duration, user: h.user, pop: Math.log10(1 + (h.likes || 0) * 20 + (h.downloads || 0)) };
-  }).filter((c) => c.url && c.dur >= 4);
+  }).filter((c) => c && c.dur >= 4);
 }
-// Mixkit (Mixkit Stock Video Free License: commercial use, no attribution); no API, so its search page is read
+// Mixkit (Mixkit Stock Video Free License: commercial use, no attribution); no API, so its search page is read.
+// Only the 1080p file is used; the real size is checked again after download.
 async function mixkit(q) {
   const r = await http(`https://mixkit.co/free-stock-video/discover/${encodeURIComponent(q.toLowerCase().replace(/\s+/g, '-'))}/`,
     { headers: { 'User-Agent': 'Mozilla/5.0 RahulBlogsReels' } });
@@ -67,41 +72,29 @@ async function mixkit(q) {
     const id = (card.match(/assets\.mixkit\.co\/videos\/(\d+)\//) || [])[1];
     const title = (card.match(/^">\s*([^<]+)</) || [])[1];
     if (id && title) out.push({ id: 'mix' + id, src: 'Mixkit', page: `https://mixkit.co/free-stock-video/${id}/`, text: title.toLowerCase(),
-      url: `https://assets.mixkit.co/videos/${id}/${id}-1080.mp4`, alt: `https://assets.mixkit.co/videos/${id}/${id}-720.mp4`,
-      thumb: `https://assets.mixkit.co/videos/${id}/${id}-thumb-360-0.jpg`, w: 1920, h: 1080, dur: 8, pop: 2.5 });
+      url: `https://assets.mixkit.co/videos/${id}/${id}-1080.mp4`, thumb: `https://assets.mixkit.co/videos/${id}/${id}-thumb-360-0.jpg`,
+      w: 1920, h: 1080, dur: 8, pop: 2.5 });
   }
   return out;
 }
-// real photos (Pixabay) get a slow camera move; used when a place has too few video clips
-async function pixabayPhotos(q) {
-  if (!ENV.PIXABAY_API_KEY) return [];
-  const r = await http(`https://pixabay.com/api/?key=${ENV.PIXABAY_API_KEY}&q=${encodeURIComponent(q)}&image_type=photo&per_page=80&safesearch=true&min_width=1200`);
-  if (!r.ok) { log(`pixabay photos ${r.status}`); return []; }
-  return (r.body.hits || []).map((h) => ({ id: 'pxp' + h.id, type: 'photo', src: 'Pixabay', page: h.pageURL, user: h.user,
-    text: `${h.tags} ${h.pageURL}`.toLowerCase(), url: h.largeImageURL, thumb: h.previewURL, w: h.imageWidth, h: h.imageHeight,
-    dur: 99, pop: Math.log10(1 + (h.likes || 0) * 20 + (h.downloads || 0)) - 0.8 }));
-}
 
 // only clips whose tags/page name really mention the place (stock tags are often wrong for real places)
-async function clipsFor(place, usedClips, photos = true) {
+async function clipsFor(place, usedClips, max = 7) {
   const kws = keyWords(place.name);
-  let all = [...await pixabay(place.name), ...await mixkit(place.name)];
-  // fewer than 6 matching videos -> real photos fill the gap
-  if (photos && all.filter((c) => kws.every((k) => c.text.includes(k))).length < 6) all = all.concat(await pixabayPhotos(place.name));
+  const all = [...await pixabay(place.name), ...await mixkit(place.name)];
   const ok = all.filter((c) => !usedClips[c.id] && kws.length && kws.every((k) => c.text.includes(k)) &&
     !/\b(people|man|woman|girl|boy|model|selfie|portrait|dance|wedding|ship|port|traffic|construction|farm|food|cooking|interior|office)\b/.test(c.text));
   // most scenic + most liked first, a little randomness so reels differ
-  const score = (c) => (c.text.match(SCENIC) || []).length * 1.2 + (c.pop ?? 2.5) + (c.h > c.w ? 1 : 0) + Math.random() +
-    (c.type === 'photo' ? 0 : 2); // video beats photo when both fit
+  const score = (c) => (c.text.match(SCENIC) || []).length * 1.2 + (c.pop ?? 2.5) + (c.h > c.w ? 1 : 0) + Math.random();
   const ranked = ok.map((c) => ({ ...c, score: score(c) })).sort((a, b) => b.score - a.score);
-  return verifyClips(place, ranked);
+  return verifyClips(place, ranked, max);
 }
 
 // stock tags are often wrong ("munnar" on a river with boats), so Gemini looks at each clip's thumbnail:
 // does it plausibly show this place, and is it scenic? Verdicts are cached; at most VISION_BUDGET checks per run.
-let visionLeft = parseInt(ENV.VISION_BUDGET || '24', 10); // 6 runs x 24 stays well inside the free daily quota
+let visionLeft = parseInt(ENV.VISION_BUDGET || '30', 10); // 6 runs x 30 stays well inside the free daily quota
 async function verifyClips(place, clips, max = 7) {
-  if (!ENV.GEMINI_API_KEY || on('SKIP_VISION')) return clips;
+  if (!ENV.GEMINI_API_KEY || on('SKIP_VISION')) return clips.slice(0, max);
   const cache = readJson('state/clip_checks.json', {});
   const out = [];
   for (const c of clips) {
@@ -115,22 +108,22 @@ async function verifyClips(place, clips, max = 7) {
         const img = await ir.arrayBuffer();
         let r;
         for (const m of (ENV.GEMINI_VISION_MODELS || 'gemini-3.1-flash-lite,gemini-3.5-flash-lite,gemini-3.5-flash').split(',')) {
-        r = await http(`https://generativelanguage.googleapis.com/v1beta/models/${m.trim()}:generateContent`, {
-          method: 'POST', headers: { 'Content-Type': 'application/json', 'x-goog-api-key': ENV.GEMINI_API_KEY },
-          body: JSON.stringify({ contents: [{ role: 'user', parts: [
-            { inline_data: { mime_type: 'image/jpeg', data: Buffer.from(img).toString('base64') } },
-            { text: `This is ${c.type === 'photo' ? 'a stock photo' : 'a frame of a stock video'} tagged "${place.name}"${place.area ? ` (${place.area})` : ''}. ` +
-              'Could it really show that place (landscape, landmarks, vegetation, climate all plausible)? Is it a beautiful travel shot? ' +
-              'Is a person (or vehicle with rider) the main subject? ' +
-              'Return JSON {"plausible": true/false, "scenic": 1-10, "has_text_or_watermark": true/false, "person_main_subject": true/false}' }] }],
-            generationConfig: { responseMimeType: 'application/json', temperature: 0 } }),
-        }, 60000);
-        if (r.ok || ![429, 500, 503, 0].includes(r.status)) break; // busy -> next model
+          r = await http(`https://generativelanguage.googleapis.com/v1beta/models/${m.trim()}:generateContent`, {
+            method: 'POST', headers: { 'Content-Type': 'application/json', 'x-goog-api-key': ENV.GEMINI_API_KEY },
+            body: JSON.stringify({ contents: [{ role: 'user', parts: [
+              { inline_data: { mime_type: 'image/jpeg', data: Buffer.from(img).toString('base64') } },
+              { text: `This is a frame of a stock video tagged "${place.name}"${place.area ? ` (${place.area})` : ''}. ` +
+                'Could it really show that place (landscape, landmarks, vegetation, climate all plausible)? Is it a beautiful travel shot? ' +
+                'Is a person (or vehicle with rider) the main subject? ' +
+                'Return JSON {"plausible": true/false, "scenic": 1-10, "has_text_or_watermark": true/false, "person_main_subject": true/false}' }] }],
+              generationConfig: { responseMimeType: 'application/json', temperature: 0 } }),
+          }, 60000);
+          if (r.ok || ![429, 500, 503, 0].includes(r.status)) break; // busy -> next model
         }
         if (!r.ok) throw new Error(`gemini HTTP ${r.status} ${short(r.body).slice(0, 120)}`);
         const j = JSON.parse(r.body.candidates[0].content.parts.map((p) => p.text || '').join(''));
         await sleep(1500); // stay under the free per-minute limit
-        // landscapes only: our text/labels must never sit on a person
+        // landscapes only: our text must never sit on a person
         cache[key] = { ok: !!j.plausible && !j.has_text_or_watermark && !j.person_main_subject && (j.scenic || 0) >= 6, s: j.scenic || 0 };
       } catch (e) { log(`vision check failed (${e.message}), keeping clip`); cache[key] = null; }
     }
@@ -142,6 +135,10 @@ async function verifyClips(place, clips, max = 7) {
 }
 const SCENIC = /\b(nature|landscape|aerial|drone|waterfall|mountains?|beach|sunset|sunrise|lake|river|sea|ocean|hills?|tea|backwaters?|boat|houseboat|forest|clouds|mist|fog|valley|palm|island|temple|fort|palace|snow|green|scenic|coast|waves|lagoon|garden)\b/g;
 
+// A reel in the style of the reference "Munnar 10 best location": title clip -> numbered spots, one HD clip each ->
+// closing clip ("More beautiful places" / "Follow for more"). shots[] carries role intro|item|outro.
+//   list:   "KERALA / 6 best places to visit" -> 1 Munnar, 2 Varkala ...   (places of one state/country)
+//   single: "MUNNAR / <short line>" -> several clips of that one place, labelled with its name
 async function chooseReel() {
   const used = readJson('state/used_places.json', {});
   const usedClips = readJson('state/used_clips.json', {});
@@ -157,84 +154,93 @@ async function chooseReel() {
   const free = places.filter((p) => ENV.PLACE || !used[p.name] || stale(used[p.name]));
   const noFootage = (p) => { if (!ENV.PLACE && !on('DRY_RUN')) used[p.name] = { date: today, status: 'no footage' }; };
   const save = () => { if (!ENV.PLACE && !on('DRY_RUN')) writeJson('state/used_places.json', used); };
+  const regionOf = (area, india) => ({ name: area, area: '', section: 'region', india });
+  const take = (clip, place, role, num) => ({ ...clip, place, role, num });
 
-  // go state by state (in list order): one place with >= 4 clips -> its own reel; else up to 5 places of that state
   for (let a = 0; a < 6 && free.length; a++) {
     const area = free[0].area;
-    const group = free.filter((p) => p.area === area).slice(0, 12);
+    const group = free.filter((p) => p.area === area).slice(0, 14);
     const found = [];
     for (const p of group) {
-      const c = await clipsFor(p, usedClips);
-      log(`${p.name}: ${c.length} matching clips`);
-      if (c.length >= 4) { save(); return { kind: 'single', places: [p], shots: c.slice(0, 7).map((x) => ({ ...x, place: p })) }; }
+      const c = await clipsFor(p, usedClips, 2);
+      log(`${p.name}: ${c.length} HD clips`);
       if (c.length) found.push([p, c]); else noFootage(p);
-      if (found.length >= 5) break;
+      if (found.length >= 8) break;
     }
-    const shots = found.flatMap(([p, c]) => c.slice(0, 3).map((x) => ({ ...x, place: p })));
-    if (found.length >= 2 && shots.length >= 4) { save(); return { kind: 'list', places: found.map(([p]) => p), shots: shots.slice(0, 8) }; }
-    // not enough in this state: try a state reel, else move on to the next state
-    const region = { name: area, area: '', section: 'region', india: group[0].india };
-    const rc = (await clipsFor(region, usedClips)).filter((c) => !shots.some((s) => s.id === c.id));
-    log(`region ${area}: ${rc.length} matching clips`);
-    if (shots.length + rc.length >= 4) {
+    const region = regionOf(area, group[0].india);
+    const taken = new Set(found.flatMap(([, c]) => c.map((x) => x.id)));
+    const rc = (await clipsFor(region, usedClips, 4)).filter((c) => !taken.has(c.id));
+    log(`region ${area}: ${rc.length} HD clips`);
+    // intro/outro: clips of the whole state, else second clips of the listed places
+    const spare = [...rc, ...found.filter(([, c]) => c[1]).map(([, c]) => c[1])];
+    if (found.length >= 4 && spare.length >= 1) {
       save();
-      const mix = [...shots, ...rc.slice(0, Math.max(0, 6 - shots.length)).map((x) => ({ ...x, place: region }))];
-      return { kind: shots.length ? 'list' : 'region', places: [...found.map(([p]) => p), ...(rc.length ? [region] : [])], shots: mix };
+      const items = found.map(([p, c], i) => take(c[0], p, 'item', i + 1));
+      return { kind: 'list', area: region, places: found.map(([p]) => p),
+        shots: [take(spare[0], region, 'intro'), ...items, take(spare[1] || spare[0], region, 'outro')].filter((s, i, arr) => arr.indexOf(s) === i) };
+    }
+    // one place with plenty of clips of its own
+    for (const [p] of found) {
+      const c = await clipsFor(p, usedClips, 7);
+      if (c.length >= 5) {
+        save();
+        return { kind: 'single', area: region, places: [p],
+          shots: [take(c[0], p, 'intro'), ...c.slice(1, -1).map((x) => take(x, p, 'item')), take(c[c.length - 1], p, 'outro')] };
+      }
+    }
+    // the state itself
+    if (rc.length >= 4) {
+      save();
+      return { kind: 'single', area: region, places: [region],
+        shots: [take(rc[0], region, 'intro'), ...rc.slice(1, -1).map((x) => take(x, region, 'item')), take(rc[rc.length - 1], region, 'outro')] };
     }
     for (const [p] of found) noFootage(p);
     for (const p of group) free.splice(free.indexOf(p), 1);
   }
   save();
-  // last resort: a reel of one state/country with clips tagged with its name (only the region is labelled)
-  for (const area of [...new Set(free.map((p) => p.area))].slice(0, 6)) {
-    const region = { name: area, area: '', section: 'region', india: allPlaces().some((p) => p.area === area && p.india) };
-    const clips = await clipsFor(region, usedClips);
-    log(`region ${area}: ${clips.length} matching clips`);
-    if (clips.length >= 4) return { kind: 'region', places: [region], shots: clips.slice(0, 7).map((c) => ({ ...c, place: region })) };
-  }
-  throw new Error('no place with enough free stock footage found in this run');
+  throw new Error('no place with enough free HD stock footage found in this run');
 }
 
 // ---------------- words ----------------
 async function writeText(reel) {
-  const recent = readJson('state/posts.json', []).slice(-12).map((p) => p.hook).filter(Boolean);
+  const recent = readJson('state/posts.json', []).slice(-12).map((p) => p.sub).filter(Boolean);
+  const list = reel.kind === 'list';
   const names = reel.places.map((p) => (p.area ? `${p.name} (${p.area})` : p.name)).join(', ');
-  const prompt = `You write for "Rahul Blogs", an Indian travel creator's Facebook/Instagram reels (scenic clips + music, no voice).
-Reel type: ${{ single: 'one place', list: 'several places in the same region', region: 'scenes from one state/country' }[reel.kind]}: ${names}.
-Write in natural, human, English (simple words, like a real traveller wrote it; no clichés like "hidden gem", "breathtaking", "nestled").
-Don't repeat the structure of these recent hooks: ${JSON.stringify(recent)}.
+  const prompt = `You write for "Rahul Blogs", an Indian travel creator's Facebook/Instagram reels (scenic clips + music + on-screen text, no voice).
+Reel: ${list ? `numbered list of the best places in ${reel.area.name}: ${names}` : `scenes of ${names}`}.
+Write natural, human English (simple words like a real traveller; no clichés like "hidden gem", "breathtaking", "nestled").
 Return JSON:
-{"hook": "on-screen line shown in the first 2 seconds, max 42 characters, curiosity or feeling, no emoji, no hashtags",
- "caption": "2-3 short lines: one line about the place(s) with 1 true, specific fact (season or best time, what it is famous for), then a question that invites comments; 1-2 emoji allowed",
+{"sub": "short line shown under the big title, max 26 characters, no emoji${list ? `, e.g. "${reel.places.length} best places to visit"` : ', e.g. "In next 3 months", "Best time: Sep to Mar"'}; don't repeat these: ${JSON.stringify(recent)}",
+ "line": "one caption line with 1 true, specific fact (best time to visit, what it is famous for), max 120 characters, 1 emoji allowed",
+ "question": "a short question that invites comments, 1 emoji allowed",
  "hashtags": ["8 to 10 relevant hashtags without #, English letters only, mix of place names and travel tags"]}`;
+  const title = (list ? reel.area.name : reel.places[0].name);
   try {
     const j = await aiJson(prompt, { check: (x) => {
-      const h = String(x.hook || '').trim();
-      if (h.length < 8 || h.length > 60) return 'bad hook';
-      if (!String(x.caption || '').trim() || !Array.isArray(x.hashtags)) return 'missing caption/hashtags';
+      const s = String(x.sub || '').trim();
+      if (s.length < 4 || s.length > 30) return 'bad sub';
+      if (!String(x.line || '').trim() || !Array.isArray(x.hashtags)) return 'missing caption/hashtags';
     } });
-    const hook = String(j.hook || '').replace(/[\p{Extended_Pictographic}ï¸#]/gu, '').trim();
-    if (hook.length < 8 || hook.length > 60) throw new Error('bad hook length');
-    return { hook, caption: String(j.caption || '').trim(), hashtags: (j.hashtags || []).map((h) => String(h).replace(/[^A-Za-z0-9_]/g, '')).filter(Boolean) };
+    return { title, sub: String(j.sub).replace(/[\p{Extended_Pictographic}️#]/gu, '').trim(), line: String(j.line).trim(),
+      question: String(j.question || 'Which one would you visit first? 👇').trim(),
+      hashtags: (j.hashtags || []).map((h) => String(h).replace(/[^A-Za-z0-9_]/g, '')).filter(Boolean) };
   } catch (e) {
     log('AI text failed, using a template: ' + e.message);
-    const p = reel.places[0];
-    const hooks = reel.kind === 'single'
-      ? [`${p.name} doesn't feel real`, `Save this for your ${p.area} trip`, `Have you been to ${p.name}?`, `This is ${p.name}, ${p.area}`]
-      : [`${reel.places.length} places in ${p.area} you'll love`, `${p.area} is unreal`, `Your next ${p.area} trip`];
-    return { hook: pick(hooks), caption: `${reel.places.map((x) => x.name).join(' • ')}\nWhich one would you visit first? 👇`,
-      hashtags: [...reel.places.map((x) => x.name.replace(/\W/g, '')), p.area.replace(/\W/g, ''), 'travel', 'travelreels'] };
+    return { title, sub: list ? `${reel.places.length} best places to visit` : pick(['Save this for your trip', 'Best time: Oct to Mar', 'Add it to your list']),
+      line: list ? `Best places in ${title} 📍` : `${title} 📍`, question: 'Which one would you visit first? 👇',
+      hashtags: [...reel.places.map((x) => x.name.replace(/\W/g, '')), title.replace(/\W/g, ''), 'travel', 'travelreels'] };
   }
 }
 function postText(t, reel) {
   const fixed = (ENV.FIXED_HASHTAGS || 'travel reels explore travelgram wanderlust').split(/[\s,#]+/).filter(Boolean);
-  if (reel.places.some((p) => p.india)) fixed.push('incredibleindia');
+  if (reel.places.some((p) => p.india) || reel.area?.india) fixed.push('incredibleindia');
   const tags = [...new Set([...t.hashtags, ...fixed].map((h) => h.toLowerCase()))].slice(0, 15).map((h) => '#' + h);
-  return `${t.hook}\n\n${t.caption}\n\n${tags.join(' ')}`.slice(0, 2200);
+  const list = reel.kind === 'list' ? '\n\n' + reel.places.map((p, i) => `${i + 1}. ${p.name}`).join('\n') : '';
+  return `${t.title}: ${t.sub}${list}\n\n${t.line}\n${t.question}\n\n${tags.join(' ')}`.slice(0, 2200);
 }
 
 // ---------------- render ----------------
-const XFADES = ['fade', 'dissolve', 'smoothleft', 'smoothright', 'smoothup', 'circleopen', 'slideleft', 'wipeleft', 'zoomin', 'fadeblack'];
+const XFADES = ['fade', 'dissolve', 'smoothleft', 'smoothright', 'smoothup', 'slideleft', 'wipeleft', 'zoomin'];
 
 async function download(url, file) {
   for (let k = 0; k < 4; k++) {
@@ -243,11 +249,12 @@ async function download(url, file) {
       await sleep(1200); // gentle pace towards the stock sites
       const r = await fetch(url, { headers: { 'User-Agent': 'RahulBlogsReels/1.0' } });
       if (r.status === 429) wait = Math.max(wait, 1000 * (parseInt(r.headers.get('retry-after') || '0', 10) || 0));
+      if (r.status === 404) throw Object.assign(new Error('HTTP 404'), { final: true });
       if (!r.ok) throw new Error('HTTP ' + r.status);
       fs.writeFileSync(file, Buffer.from(await r.arrayBuffer()));
       if (fs.statSync(file).size > 30000) return;
       throw new Error('file too small');
-    } catch (e) { log(`download retry ${new URL(url).host} (${e.message})`); await sleep(wait); }
+    } catch (e) { log(`download retry ${new URL(url).host} (${e.message})`); if (e.final) break; await sleep(wait); }
   }
   throw new Error('download failed: ' + new URL(url).host);
 }
@@ -255,87 +262,81 @@ async function download(url, file) {
 async function render(reel, text, id) {
   fs.rmSync(TMP, { recursive: true, force: true });
   fs.mkdirSync(TMP, { recursive: true }); fs.mkdirSync(OUT, { recursive: true });
-  const T = frames(rnd(0.3, 0.5)); // transition length varies per reel
+  const T = frames(rnd(0.25, 0.35)); // short, quick transitions like the reference
   const segs = [];
   for (const [i, c] of reel.shots.entries()) {
-    const raw = path.join(TMP, `raw${i}${c.type === 'photo' ? '.jpg' : '.mp4'}`);
-    await download(c.url, raw).catch(async (e) => { if (!c.alt) throw e; await download(c.alt, raw); });
-    const realDur = c.type === 'photo' ? 99 : parseFloat(ffprobe(raw).format.duration) || c.dur;
-    // ~14-18 s per reel: fewer clips -> each clip stays longer (max ~4.3 s)
-    const base = Math.min(4.3, Math.max(2.4, rnd(14, 18) / reel.shots.length + T));
-    const d = frames(Math.min(realDur - 0.3, i === 0 ? Math.max(base, rnd(2.8, 3.3)) : base * rnd(0.85, 1.15)));
+    const raw = path.join(TMP, `raw${i}.mp4`);
+    try { await download(c.url, raw); } catch (e) {
+      if (c.role === 'item' && reel.shots.filter((s) => s.role === 'item').length > 3) { log(`skipping ${c.page}: ${e.message}`); continue; }
+      throw e;
+    }
+    const info = ffprobe(raw);
+    const vs = info.streams.find((s) => s.codec_type === 'video') || {};
+    if (Math.min(vs.width || 0, vs.height || 0) < HD) { // HD only, whatever the site claimed
+      log(`skipping ${c.page}: only ${vs.width}x${vs.height}`); fs.rmSync(raw);
+      if (c.role !== 'item') throw new Error('intro/outro clip is not HD');
+      continue;
+    }
+    const realDur = parseFloat(info.format.duration) || c.dur;
+    const want = c.role === 'intro' ? rnd(3.0, 3.4) : c.role === 'outro' ? rnd(3.6, 4.0) : (reel.kind === 'list' ? rnd(2.3, 2.7) : rnd(2.6, 3.2));
+    const d = frames(Math.min(realDur - 0.3, want));
     const ss = Math.max(0, rnd(0.3, Math.max(0.4, realDur - d - 0.4))).toFixed(2);
     const dir = Math.random() < 0.5 ? -1 : 1;
-    const zoom = rnd(1.06, 1.14).toFixed(3);
+    const zoom = rnd(1.05, 1.12).toFixed(3);
     const seg = path.join(TMP, `seg${i}.mp4`);
     // fill 9:16, slow pan across the frame, punchier colour; everything forced to bt709 so the joins never stall
-    const look = `eq=saturation=${rnd(1.12, 1.25).toFixed(2)}:contrast=1.04,unsharp=5:5:0.4,fps=${FPS},format=yuv420p,` +
+    const vf = `scale=${W}*${zoom}:${H}*${zoom}:force_original_aspect_ratio=increase,` +
+      `crop=${W}:${H}:x='(iw-${W})*(0.5+${dir}*0.45*(t/${d}-0.5))':y='(ih-${H})/2',` +
+      `eq=saturation=${rnd(1.12, 1.25).toFixed(2)}:contrast=1.04,unsharp=5:5:0.4,fps=${FPS},format=yuv420p,` +
       `setsar=1,setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709:range=tv`;
-    let vf, input;
-    if (c.type === 'photo') {
-      // photo: upscaled 2x so the slow zoom/pan stays smooth (zoompan on a small image jitters)
-      const n = Math.round(d * FPS), z0 = Math.random() < 0.5 ? 1.0 : 1.12, z1 = z0 === 1.0 ? 1.12 : 1.0;
-      vf = `scale=${W * 2}:${H * 2}:force_original_aspect_ratio=increase:out_color_matrix=bt709,crop=${W * 2}:${H * 2},` +
-        `zoompan=z='${z0}+${(z1 - z0).toFixed(2)}*on/${n}':x='(iw-iw/zoom)*(0.5+${dir}*0.4*(on/${n}-0.5))':y='(ih-ih/zoom)/2':d=1:s=${W}x${H}:fps=${FPS},` + look;
-      input = ['-loop', '1', '-framerate', String(FPS), '-i', raw];
-    } else {
-      vf = `scale=${W}*${zoom}:${H}*${zoom}:force_original_aspect_ratio=increase,` +
-        `crop=${W}:${H}:x='(iw-${W})*(0.5+${dir}*0.45*(t/${d}-0.5))':y='(ih-${H})/2',` + look;
-      input = ['-ss', ss, '-i', raw];
-    }
-    run('ffmpeg', ['-y', '-v', 'error', ...input, '-t', String(d), '-an', '-vf', vf, '-c:v', 'libx264', '-preset', 'veryfast',
+    run('ffmpeg', ['-y', '-v', 'error', '-ss', ss, '-i', raw, '-t', String(d), '-an', '-vf', vf, '-c:v', 'libx264', '-preset', 'veryfast',
       '-crf', '17', '-pix_fmt', 'yuv420p', '-color_primaries', 'bt709', '-color_trc', 'bt709', '-colorspace', 'bt709', seg]);
     segs.push({ file: seg, d, c });
     fs.rmSync(raw);
   }
+  // numbers stay 1..n even if a clip was skipped
+  let n = 0;
+  for (const s of segs) if (s.c.role === 'item' && reel.kind === 'list') s.c.num = ++n;
+  reel.shots = segs.map((s) => s.c);
+  if (reel.kind === 'list') reel.places = segs.filter((s) => s.c.role === 'item').map((s) => s.c.place);
   // timeline: segment i starts at sum(d<i) - i*T
   let acc = 0; const starts = [];
   for (const s of segs) { starts.push(acc); acc += s.d - T; }
   const total = frames(acc + T);
 
-  // overlays drawn by Pillow
+  // overlays drawn by Pillow (cards.py)
   const style = {
-    hook_y: pick([0.28, 0.33, 0.42]), hook_size: pick([86, 92, 98]), hook_box: Math.random() < 0.4,
-    hook_stroke: Math.random() < 0.3 ? 4 : 0, hook_color: pick([[255, 255, 255], [255, 255, 255], [255, 236, 170]]),
-    label_y: pick([0.5, 0.56, 0.62]), label_size: pick([84, 92]), pin_color: pick([[234, 67, 53], [255, 82, 82], [255, 193, 7]]),
+    title_y: pick([0.38, 0.42]), title_size: pick([180, 200]), sub_size: 60,
+    grad: pick([[[255, 236, 64], [255, 170, 20]], [[255, 244, 120], [255, 196, 0]], [[255, 226, 90], [255, 140, 40]]]),
+    item_y: pick([0.27, 0.31]), item_size: pick([84, 92]), pin_color: [230, 40, 40],
   };
-  const fonts = path.join(ROOT, 'brand');
-  const items = [{ kind: 'hook', text: text.hook, out: path.join(TMP, 'hook.png') }];
-  const shows = [{ png: path.join(TMP, 'hook.png'), a: 0.15, b: Math.min(starts[1] ?? total, 2.9) }];
-  const sub = (p) => (p.india ? (p.area ? `${p.area}, India` : 'India') : p.area);
-  if (reel.kind !== 'list') {
-    const p = reel.places[0];
-    items.push({ kind: 'place', text: p.name, sub: sub(p), out: path.join(TMP, 'place0.png') });
-    shows.push({ png: path.join(TMP, 'place0.png'), a: starts[1] + 0.25, b: starts[1] + segs[1].d - T - 0.1 });
-    const last = segs.length - 1;
-    shows.push({ png: path.join(TMP, 'place0.png'), a: starts[last] + 0.25, b: total - 0.3 });
-  } else {
-    // the hook is short here; the first clip's place is labelled after it if the next clip is somewhere else
-    if (segs[1].c.place !== segs[0].c.place) {
-      shows[0].b = Math.min(shows[0].b, 2.0);
-      const png = path.join(TMP, 'placeF.png');
-      items.push({ kind: 'place', text: segs[0].c.place.name, sub: sub(segs[0].c.place), out: png });
-      shows.push({ png, a: 2.1, b: Math.max(2.8, starts[1] + T - 0.05) });
+  const b = (f) => path.join(ROOT, 'brand', f);
+  const fonts = { title: b(pick(['Poppins-BlackItalic.ttf', 'Poppins-ExtraBoldItalic.ttf'])), sub: b('Poppins-SemiBold.ttf'), item: b('Poppins-Black.ttf') };
+  const items = [], shows = [];
+  const card = (kind, text, extra, a, bEnd) => {
+    const png = path.join(TMP, `card${items.length}.png`);
+    items.push({ kind, text, out: png, ...extra });
+    shows.push({ png, a, b: bEnd });
+  };
+  segs.forEach((s, i) => {
+    const a = starts[i], end = i + 1 < segs.length ? starts[i + 1] + T : total;
+    if (s.c.role === 'intro') card('title', text.title, { sub: text.sub }, 0, end - 0.05); // visible from frame 0 = thumbnail
+    else if (s.c.role === 'item') card('item', s.c.place.name, { num: reel.kind === 'list' ? s.c.num : null }, a + 0.1, end - 0.05);
+    else {
+      const mid = a + (end - a) * 0.5;
+      card('end', reel.kind === 'list' ? 'More beautiful places' : `More of ${text.title}`, { pin: true }, a + 0.1, mid);
+      card('end', 'Follow for more', { pin: false }, mid, total);
     }
-    // one label spans a run of clips of the same place
-    for (let i = 1, n = 0; i < segs.length; n++) {
-      let j = i;
-      while (j + 1 < segs.length && segs[j + 1].c.place === segs[i].c.place) j++;
-      const png = path.join(TMP, `place${n}.png`);
-      items.push({ kind: 'place', text: segs[i].c.place.name, sub: sub(segs[i].c.place), out: png });
-      shows.push({ png, a: starts[i] + 0.2, b: Math.min(total - 0.2, starts[j] + segs[j].d - T - 0.1) });
-      i = j + 1;
-    }
-  }
+  });
   const spec = path.join(TMP, 'cards.json');
-  const bold = pick(['Poppins-Bold.ttf', 'Poppins-ExtraBold.ttf']);
-  fs.writeFileSync(spec, JSON.stringify({ font: path.join(fonts, bold), font2: path.join(fonts, 'Poppins-SemiBold.ttf'), style, items }));
+  fs.writeFileSync(spec, JSON.stringify({ fonts, style, items }));
   run(PY, [path.join(ROOT, 'scripts', 'cards.py'), spec]);
 
   // music: a random copyright-free track, random start, faded
   const tracks = fs.readdirSync(path.join(ROOT, 'music')).filter((f) => /\.mp3$/i.test(f));
   const recentTracks = readJson('state/posts.json', []).slice(-3).map((p) => p.music);
-  const track = pick(tracks.filter((t) => !recentTracks.includes(t)).length ? tracks.filter((t) => !recentTracks.includes(t)) : tracks);
+  const fresh = tracks.filter((t) => !recentTracks.includes(t));
+  const track = pick(fresh.length ? fresh : tracks);
   const mDur = parseFloat(ffprobe(path.join(ROOT, 'music', track)).format.duration);
   const mStart = Math.max(0, rnd(0, Math.min(40, mDur - total - 1))).toFixed(2);
 
@@ -350,20 +351,21 @@ async function render(reel, text, id) {
   const fc = [];
   let last = '0:v';
   for (let i = 1; i < segs.length; i++) {
-    const off = (starts[i]).toFixed(3);
-    fc.push(`[${last}][${i}:v]xfade=transition=${pick(XFADES)}:duration=${T}:offset=${off}[x${i}]`);
+    fc.push(`[${last}][${i}:v]xfade=transition=${pick(XFADES)}:duration=${T}:offset=${starts[i].toFixed(3)}[x${i}]`);
     last = `x${i}`;
   }
   const logoW = 230; // brand/logo.png is the cropped Rahul Blogs logo (770x652)
   fc.push(`[${logoIdx}:v]scale=${logoW}:-1,format=rgba,colorchannelmixer=aa=0.95[logo]`);
   fc.push(`[${last}][logo]overlay=x=44:y=150:shortest=1[v0]`);
   shows.forEach((s, k) => {
-    const f = 0.3;
-    fc.push(`[${firstOv + k}:v]format=rgba,fade=t=in:st=${s.a.toFixed(2)}:d=${f}:alpha=1,fade=t=out:st=${(s.b - f).toFixed(2)}:d=${f}:alpha=1[o${k}]`);
+    const f = 0.2;
+    const fadeIn = s.a > 0 ? `fade=t=in:st=${s.a.toFixed(2)}:d=${f}:alpha=1,` : ''; // the title is fully there at frame 0
+    const fadeOut = s.b < total - 0.05 ? `,fade=t=out:st=${(s.b - f).toFixed(2)}:d=${f}:alpha=1` : '';
+    fc.push(`[${firstOv + k}:v]format=rgba,${fadeIn}null${fadeOut}[o${k}]`);
     fc.push(`[v${k}][o${k}]overlay=0:0:enable='between(t,${s.a.toFixed(2)},${s.b.toFixed(2)})'[v${k + 1}]`);
   });
   fc.push(`[v${shows.length}]format=yuv420p,setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709:range=tv[vout]`);
-  fc.push(`[${musicIdx}:a]atrim=0:${total},asetpts=N/SR/TB,afade=t=in:st=0:d=0.4,afade=t=out:st=${(total - 1.6).toFixed(2)}:d=1.6,` +
+  fc.push(`[${musicIdx}:a]atrim=0:${total},asetpts=N/SR/TB,afade=t=in:st=0:d=0.3,afade=t=out:st=${(total - 1.6).toFixed(2)}:d=1.6,` +
     `loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[aout]`);
   const outFile = path.join(OUT, `${id}.mp4`);
   args.push('-filter_complex', fc.join(';'), '-map', '[vout]', '-map', '[aout]', '-t', String(total),
@@ -372,6 +374,8 @@ async function render(reel, text, id) {
     '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', outFile + '.tmp.mp4');
   run('ffmpeg', args);
   fs.renameSync(outFile + '.tmp.mp4', outFile);
+  // cover = the title frame (custom thumbnail on Facebook; Instagram uses thumb_offset 0)
+  run('ffmpeg', ['-y', '-v', 'error', '-ss', '0.5', '-i', outFile, '-frames:v', '1', outFile.replace(/\.mp4$/, '_thumb.jpg')]);
   log(`rendered ${path.basename(outFile)}: ${total.toFixed(2)} s, ${segs.length} clips, music "${track}" from ${mStart} s`);
   return { file: outFile, total, track };
 }
@@ -405,6 +409,15 @@ async function fbReel(file, caption, title) {
   }
   if (!link && fin.status === 0) throw new Error('FB reel publish: connection dropped and the reel never appeared');
   log('facebook reel: ' + (link || 'published, status not confirmed yet'));
+  // custom cover = the title frame (best effort; the reel is already live)
+  const thumb = file.replace(/\.mp4$/, '_thumb.jpg');
+  if (fs.existsSync(thumb)) {
+    const fd = new FormData();
+    fd.append('source', new Blob([fs.readFileSync(thumb)], { type: 'image/jpeg' }), 'thumb.jpg');
+    fd.append('is_preferred', 'true'); fd.append('access_token', tok);
+    const th = await http(`${GRAPH}/${vid}/thumbnails`, { method: 'POST', body: fd }, 120000, { retry: true });
+    log(th.ok ? 'facebook cover set' : 'facebook cover failed: ' + short(th.body));
+  }
   return { id: vid, url: link };
 }
 async function fbStory(file) {
@@ -423,7 +436,7 @@ async function igMedia(file, type, caption) {
   need('IG_USER_ID');
   const tok = await pageToken(), ig = ENV.IG_USER_ID;
   const body = { media_type: type, upload_type: 'resumable', access_token: tok };
-  if (type === 'REELS') Object.assign(body, { caption, share_to_feed: true, thumb_offset: 500 });
+  if (type === 'REELS') Object.assign(body, { caption, share_to_feed: true, thumb_offset: 500 }); // title card is on screen from frame 0
   // an extra unused container is harmless, so creating one may be retried
   const c = await http(`${GRAPH}/${ig}/media`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }, 60000, { retry: true });
   if (!c.body.id) throw new Error(`IG ${type} container: ` + short(c.body));
@@ -457,16 +470,16 @@ async function main() {
   const reel = await chooseReel();
   log(`reel ${id}: ${reel.kind} — ${reel.places.map((p) => p.name).join(', ')} (${reel.shots.length} clips)`);
   const text = await writeText(reel);
-  log(`hook: ${text.hook}`);
+  log(`title: ${text.title} / ${text.sub}`);
   const r = await render(reel, text, id);
   const caption = postText(text, reel);
   fs.writeFileSync(r.file.replace(/\.mp4$/, '.txt'), caption);
 
-  const rec = { id, date: new Date().toISOString(), places: reel.places.map((p) => p.name), hook: text.hook, music: r.track,
-    seconds: +r.total.toFixed(2), clips: reel.shots.map((c) => `${c.src} ${c.page}`), dry };
+  const rec = { id, date: new Date().toISOString(), places: reel.places.map((p) => p.name), hook: `${text.title} / ${text.sub}`,
+    sub: text.sub, music: r.track, seconds: +r.total.toFixed(2), clips: reel.shots.map((c) => `${c.src} ${c.page}`), dry };
   if (!dry) {
     need('FB_PAGE_ID', 'META_SYSTEM_TOKEN');
-    const title = text.hook.slice(0, 100);
+    const title = `${text.title}: ${text.sub}`.slice(0, 100);
     const tries = { fb: () => fbReel(r.file, caption, title), ig: () => igMedia(r.file, 'REELS', caption),
       fbStory: () => fbStory(r.file), igStory: () => igMedia(r.file, 'STORIES') };
     if (!on('STORIES', true)) { delete tries.fbStory; delete tries.igStory; }
