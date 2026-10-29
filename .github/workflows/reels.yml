@@ -34,6 +34,7 @@ jobs:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+      UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
       DRY_RUN: ${{ inputs.dry_run || 'false' }}
       PLACE: ${{ inputs.place || '' }}
       STORIES: ${{ vars.STORIES || 'true' }}

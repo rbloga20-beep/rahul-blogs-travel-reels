@@ -81,12 +81,44 @@ async function mixkit(q) {
   return out;
 }
 
+// HD photos, only for places that have no video at all. A photo counts as HD when a full 1080x1920 frame can be cut
+// from it without upscaling. Pixabay's free API stops at 1280 px, so the sources are Unsplash (free key, Unsplash
+// License) and Wikimedia Commons originals that are CC0 / public domain.
+const photoHD = (w, h) => Math.min(w, h * 9 / 16) >= 1080;
+async function unsplash(q) {
+  if (!ENV.UNSPLASH_ACCESS_KEY) return [];
+  const r = await http(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(q)}&per_page=30&content_filter=high`,
+    { headers: { Authorization: 'Client-ID ' + ENV.UNSPLASH_ACCESS_KEY, 'Accept-Version': 'v1' } });
+  if (!r.ok) { log(`unsplash ${r.status}`); return []; }
+  return (r.body.results || []).filter((p) => photoHD(p.width, p.height)).map((p) => ({
+    id: 'uns' + p.id, type: 'photo', src: 'Unsplash', page: p.links.html, user: p.user?.name,
+    text: `${p.description || ''} ${p.alt_description || ''} ${p.slug || ''}`.toLowerCase(),
+    url: `${p.urls.raw}&w=2160&fm=jpg&q=85`, thumb: p.urls.small, w: p.width, h: p.height, track: p.links.download_location,
+    pop: Math.log10(1 + (p.likes || 0) * 20) }));
+}
+async function commonsPhotos(q) {
+  const u = 'https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40' +
+    `&gsrsearch=${encodeURIComponent(q + ' filetype:bitmap')}&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=2160`;
+  const r = await http(u, { headers: { 'User-Agent': 'RahulBlogsReels/1.0 (rbloga20@gmail.com)' } });
+  if (!r.ok) return [];
+  return Object.values(r.body.query?.pages || {}).map((p) => ({ p, ii: p.imageinfo?.[0] })).filter(({ ii }) => ii &&
+    /^(cc0|public domain|pd)/i.test(ii.extmetadata?.LicenseShortName?.value || '') && photoHD(ii.width, ii.height)).map(({ p, ii }) => ({
+    id: 'wmc' + p.pageid, type: 'photo', src: 'Wikimedia Commons', page: ii.descriptionurl, user: '',
+    text: p.title.toLowerCase(), url: ii.thumburl || ii.url, thumb: ii.thumburl?.replace(/\/\d+px-/, '/400px-') || ii.url,
+    w: ii.width, h: ii.height, pop: 2 }));
+}
+
 // only clips whose tags/page name really mention the place (stock tags are often wrong for real places)
 async function clipsFor(place, usedClips, max = 7) {
   const kws = keyWords(place.name);
-  const all = [...await pixabay(place.name), ...await mixkit(place.name)];
-  const ok = all.filter((c) => !usedClips[c.id] && kws.length && kws.every((k) => c.text.includes(k)) &&
-    !/\b(people|man|woman|girl|boy|model|selfie|portrait|dance|wedding|ship|port|traffic|construction|farm|food|cooking|interior|office)\b/.test(c.text));
+  const bad = /\b(people|man|woman|girl|boy|model|selfie|portrait|dance|wedding|ship|port|traffic|construction|farm|food|cooking|interior|office)\b/;
+  let all = [...await pixabay(place.name), ...await mixkit(place.name)];
+  let ok = all.filter((c) => !usedClips[c.id] && kws.length && kws.every((k) => c.text.includes(k)) && !bad.test(c.text));
+  if (!ok.length && place.section !== 'region') {
+    // no video of this place anywhere -> HD photos; the Gemini check below decides whether they really show it
+    all = [...await unsplash(place.name), ...await commonsPhotos(place.name)];
+    ok = all.filter((c) => !usedClips[c.id] && !bad.test(c.text) && (ENV.GEMINI_API_KEY || kws.every((k) => c.text.includes(k))));
+  }
   // most scenic + most liked first, a little randomness so reels differ
   const score = (c) => (c.text.match(SCENIC) || []).length * 1.2 + (c.pop ?? 2.5) + (c.h > c.w ? 1 : 0) + Math.random() +
     (c.hd ? 4 : 0); // an HD clip of the place always beats a 720p one
@@ -116,7 +148,7 @@ async function verifyClips(place, clips, max = 7) {
             method: 'POST', headers: { 'Content-Type': 'application/json', 'x-goog-api-key': ENV.GEMINI_API_KEY },
             body: JSON.stringify({ contents: [{ role: 'user', parts: [
               { inline_data: { mime_type: 'image/jpeg', data: Buffer.from(img).toString('base64') } },
-              { text: `This is a frame of a stock video tagged "${place.name}"${place.area ? ` (${place.area})` : ''}. ` +
+              { text: `This is ${c.type === 'photo' ? 'a stock photo found for' : 'a frame of a stock video tagged'} "${place.name}"${place.area ? ` (${place.area})` : ''}. ` +
                 'Could it really show that place (landscape, landmarks, vegetation, climate all plausible)? Is it a beautiful travel shot? ' +
                 'Is a person (or vehicle with rider) the main subject? ' +
                 'Return JSON {"plausible": true/false, "scenic": 1-10, "has_text_or_watermark": true/false, "person_main_subject": true/false}' }] }],
@@ -131,8 +163,10 @@ async function verifyClips(place, clips, max = 7) {
         cache[key] = { ok: !!j.plausible && !j.has_text_or_watermark && !j.person_main_subject && (j.scenic || 0) >= 6, s: j.scenic || 0 };
       } catch (e) { log(`vision check failed (${e.message}), keeping clip`); cache[key] = null; }
     }
-    if (cache[key] === undefined || cache[key] === null || cache[key].ok) out.push(c);
-    else log(`  dropped ${c.page} (${cache[key].s}/10 or not ${place.name})`);
+    // a photo found by search only (no tag match) needs a passed Gemini check; videos pass on their tags if Gemini is down
+    const tagged = keyWords(place.name).every((k) => c.text.includes(k));
+    if (cache[key]?.ok || ((cache[key] === undefined || cache[key] === null) && (c.type !== 'photo' || tagged))) out.push(c);
+    else log(`  dropped ${c.page} (${cache[key] ? `${cache[key].s}/10 or not ${place.name}` : 'photo not verified'})`);
   }
   if (!on('DRY_RUN')) writeJson('state/clip_checks.json', cache);
   return out;
@@ -261,7 +295,10 @@ function postText(t, reel) {
   if (reel.places.some((p) => p.india) || reel.area?.india) fixed.push('incredibleindia');
   const tags = [...new Set([...t.hashtags, ...fixed].map((h) => h.toLowerCase()))].slice(0, 15).map((h) => '#' + h);
   const list = reel.kind === 'list' ? '\n\n' + reel.places.map((p, i) => `${i + 1}. ${p.name}`).join('\n') : '';
-  return `${t.title}: ${t.sub}${list}\n\n${t.line}\n${t.question}\n\n${tags.join(' ')}`.slice(0, 2200);
+  // Unsplash's API guidelines ask for the photographer's name
+  const uns = [...new Set(reel.shots.filter((c) => c.src === 'Unsplash').map((c) => c.user).filter(Boolean))];
+  const credit = uns.length ? `\n📷 Photos: ${uns.join(', ')} on Unsplash` : '';
+  return `${t.title}: ${t.sub}${list}\n\n${t.line}\n${t.question}${credit}\n\n${tags.join(' ')}`.slice(0, 2200);
 }
 
 // ---------------- render ----------------
@@ -290,19 +327,23 @@ async function render(reel, text, id) {
   const T = frames(rnd(0.25, 0.35)); // short, quick transitions like the reference
   const segs = [];
   for (const [i, c] of reel.shots.entries()) {
-    const raw = path.join(TMP, `raw${i}.mp4`);
+    const photo = c.type === 'photo';
+    const raw = path.join(TMP, `raw${i}${photo ? '.jpg' : '.mp4'}`);
     try { await download(c.url, raw).catch((e) => { if (!c.alt) throw e; return download(c.alt, raw); }); } catch (e) {
       if (c.role === 'item' && reel.shots.filter((s) => s.role === 'item').length > 3) { log(`skipping ${c.page}: ${e.message}`); continue; }
       throw e;
     }
+    // Unsplash asks apps to report each photo they use (API guideline)
+    if (c.track && ENV.UNSPLASH_ACCESS_KEY) http(c.track, { headers: { Authorization: 'Client-ID ' + ENV.UNSPLASH_ACCESS_KEY } }).catch(() => {});
     const info = ffprobe(raw);
     const vs = info.streams.find((s) => s.codec_type === 'video') || {};
-    if (Math.min(vs.width || 0, vs.height || 0) < MIN_RES) { // never below 720p, whatever the site claimed
+    const tooSmall = photo ? !photoHD(vs.width || 0, vs.height || 0) : Math.min(vs.width || 0, vs.height || 0) < MIN_RES;
+    if (tooSmall) { // videos never below 720p, photos only HD, whatever the site claimed
       log(`skipping ${c.page}: only ${vs.width}x${vs.height}`); fs.rmSync(raw);
-      if (c.role !== 'item') throw new Error('intro/outro clip is below 720p');
+      if (c.role !== 'item') throw new Error('intro/outro clip is too small');
       continue;
     }
-    const realDur = parseFloat(info.format.duration) || c.dur;
+    const realDur = photo ? 99 : parseFloat(info.format.duration) || c.dur;
     const want = c.role === 'intro' ? rnd(3.0, 3.4) : c.role === 'outro' ? rnd(3.6, 4.0) : (reel.kind === 'list' ? rnd(2.3, 2.7) : rnd(2.6, 3.2));
     const d = frames(Math.min(realDur - 0.3, want));
     const ss = Math.max(0, rnd(0.3, Math.max(0.4, realDur - d - 0.4))).toFixed(2);
@@ -310,11 +351,21 @@ async function render(reel, text, id) {
     const zoom = rnd(1.05, 1.12).toFixed(3);
     const seg = path.join(TMP, `seg${i}.mp4`);
     // fill 9:16, slow pan across the frame, punchier colour; everything forced to bt709 so the joins never stall
-    const vf = `scale=${W}*${zoom}:${H}*${zoom}:force_original_aspect_ratio=increase,` +
-      `crop=${W}:${H}:x='(iw-${W})*(0.5+${dir}*0.45*(t/${d}-0.5))':y='(ih-${H})/2',` +
-      `eq=saturation=${rnd(1.12, 1.25).toFixed(2)}:contrast=1.04,unsharp=5:5:0.4,fps=${FPS},format=yuv420p,` +
+    const look = `eq=saturation=${rnd(1.12, 1.25).toFixed(2)}:contrast=1.04,unsharp=5:5:0.4,fps=${FPS},format=yuv420p,` +
       `setsar=1,setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709:range=tv`;
-    run('ffmpeg', ['-y', '-v', 'error', '-ss', ss, '-i', raw, '-t', String(d), '-an', '-vf', vf, '-c:v', 'libx264', '-preset', 'veryfast',
+    let vf, input;
+    if (photo) {
+      // photo -> moving shot: worked on at 2x size so the slow zoom + pan stays smooth (zoompan on small frames jitters)
+      const nF = Math.round(d * FPS), z0 = Math.random() < 0.5 ? 1.0 : 1.12, z1 = z0 === 1.0 ? 1.12 : 1.0;
+      vf = `scale=${W * 2}:${H * 2}:force_original_aspect_ratio=increase:out_color_matrix=bt709,crop=${W * 2}:${H * 2},` +
+        `zoompan=z='${z0}+${(z1 - z0).toFixed(2)}*on/${nF}':x='(iw-iw/zoom)*(0.5+${dir}*0.4*(on/${nF}-0.5))':y='(ih-ih/zoom)/2':d=1:s=${W}x${H}:fps=${FPS},` + look;
+      input = ['-loop', '1', '-framerate', String(FPS), '-i', raw];
+    } else {
+      vf = `scale=${W}*${zoom}:${H}*${zoom}:force_original_aspect_ratio=increase,` +
+        `crop=${W}:${H}:x='(iw-${W})*(0.5+${dir}*0.45*(t/${d}-0.5))':y='(ih-${H})/2',` + look;
+      input = ['-ss', ss, '-i', raw];
+    }
+    run('ffmpeg', ['-y', '-v', 'error', ...input, '-t', String(d), '-an', '-vf', vf, '-c:v', 'libx264', '-preset', 'veryfast',
       '-crf', '17', '-pix_fmt', 'yuv420p', '-color_primaries', 'bt709', '-color_trc', 'bt709', '-colorspace', 'bt709', seg]);
     segs.push({ file: seg, d, c });
     fs.rmSync(raw);
