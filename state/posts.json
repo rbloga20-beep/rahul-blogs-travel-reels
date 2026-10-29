@@ -143,5 +143,28 @@
    "Pixabay https://pixabay.com/videos/id-324929/"
   ],
   "dry": true
+ },
+ {
+  "id": "2026-10-29-06-59",
+  "date": "2026-10-29T07:05:32.889Z",
+  "places": [
+   "Athirappilly Falls",
+   "Ponmudi",
+   "Idukki",
+   "Kannur"
+  ],
+  "hook": "Kerala / 4 top places in Kerala",
+  "sub": "4 top places in Kerala",
+  "music": "Slow Pop.mp3",
+  "seconds": 14.83,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-324928/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:View_from_Athirappilly_Falls.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Large_Ponmudi_bush_frog_in_Wayanad.jpg",
+   "Pixabay https://pixabay.com/videos/id-369302/",
+   "Pixabay https://pixabay.com/videos/id-170321/",
+   "Pixabay https://pixabay.com/videos/id-304786/"
+  ],
+  "dry": true
  }
 ]

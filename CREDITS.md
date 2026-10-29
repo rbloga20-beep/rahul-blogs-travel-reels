@@ -77,3 +77,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-29-06-49 | Kollam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kasba_jail_Kachery_kollam_kerala.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-29-06-49 | Kannur | Pixabay (Thomascm) | https://pixabay.com/videos/id-170321/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-06-49 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324929/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-59 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324928/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-59 | Athirappilly Falls | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:View_from_Athirappilly_Falls.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-06-59 | Ponmudi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Large_Ponmudi_bush_frog_in_Wayanad.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-06-59 | Idukki | Pixabay (alexkc71) | https://pixabay.com/videos/id-369302/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-59 | Kannur | Pixabay (Thomascm) | https://pixabay.com/videos/id-170321/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-59 | Kerala | Pixabay (anijom) | https://pixabay.com/videos/id-304786/ | Pixabay Content License, commercial use, no attribution needed |
