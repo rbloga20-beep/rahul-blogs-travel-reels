@@ -355,5 +355,110 @@
   "v": 2,
   "ok": true,
   "s": 6
+ },
+ "wmc58198675|Kudremukh": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc43297446|Dandeli": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc131056683|Nandi Hills": {
+  "v": 2,
+  "ok": false,
+  "s": 2
+ },
+ "pxb118267|Bangalore": {
+  "v": 2,
+  "ok": false,
+  "s": 4
+ },
+ "pxb200023|Bangalore": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb200024|Bangalore": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb328119|Mangalore": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb328118|Mangalore": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc138665217|Araku Valley": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "wmc153948160|Araku Valley": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc149761138|Visakhapatnam": {
+  "v": 2,
+  "ok": false,
+  "s": 4
+ },
+ "wmc150314646|Tirupati": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc13353350|Gandikota": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb23731|South India": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb74821|South India": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb206066|South India": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb206068|South India": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "pxb206065|South India": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb45723|South India": {
+  "v": 2,
+  "ok": false,
+  "s": 3
+ },
+ "pxb285475|South India": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "pxb206063|South India": {
+  "v": 2,
+  "ok": false,
+  "s": 6
  }
 }

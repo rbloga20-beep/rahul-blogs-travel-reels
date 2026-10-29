@@ -112,3 +112,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-29-14-12 | Murudeshwar | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mhatobar_Shri_Murudeshwar_Temple_3,_Karnataka_06.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-29-14-12 | Badami | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Badami_caves_Cave_One_(7).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-29-14-12 | Karnataka | Pixabay (shekharpoorna) | https://pixabay.com/videos/id-32288/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-17-02 | South India | Pixabay (socialsudo) | https://pixabay.com/videos/id-23731/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-17-02 | Dhanushkodi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Waves_in_sea.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-17-02 | Courtallam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Courtallam_(Kutralam)_Falls_-_Tenkasi_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-17-02 | Bangalore | Pixabay (aerialglimpses) | https://pixabay.com/videos/id-200023/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-17-02 | Mangalore | Pixabay (chandi_ra) | https://pixabay.com/videos/id-328119/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-17-02 | South India | Pixabay (aerialglimpses) | https://pixabay.com/videos/id-200024/ | Pixabay Content License, commercial use, no attribution needed |
