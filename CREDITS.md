@@ -68,3 +68,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-29-06-38 | Mahabalipuram | Pixabay (GuruKde) | https://pixabay.com/videos/id-112063/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-06-38 | Thanjavur | Pixabay (43413641) | https://pixabay.com/videos/id-209405/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-06-38 | South India | Pixabay (alexkc71) | https://pixabay.com/videos/id-385428/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-49 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324928/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-49 | Wayanad | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:White_Guard_Volunteers_rescue_operation_in_the_Wayanad_landslide_2024.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-06-49 | Kovalam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kovalam_Beach_Sunrise.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-06-49 | Athirappilly Falls | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Athirappilly_Falls_2024.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-06-49 | Ponmudi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Large_Ponmudi_bush_frog_in_Wayanad.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-06-49 | Idukki | Pixabay (alexkc71) | https://pixabay.com/videos/id-369302/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-49 | Kollam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kasba_jail_Kachery_kollam_kerala.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-06-49 | Kannur | Pixabay (Thomascm) | https://pixabay.com/videos/id-170321/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-49 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324929/ | Pixabay Content License, commercial use, no attribution needed |

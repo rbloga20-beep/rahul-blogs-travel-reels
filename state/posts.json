@@ -114,5 +114,34 @@
    "Pixabay https://pixabay.com/videos/id-385428/"
   ],
   "dry": true
+ },
+ {
+  "id": "2026-10-29-06-49",
+  "date": "2026-10-29T06:56:04.981Z",
+  "places": [
+   "Wayanad",
+   "Kovalam",
+   "Athirappilly Falls",
+   "Ponmudi",
+   "Idukki",
+   "Kollam",
+   "Kannur"
+  ],
+  "hook": "Kerala / 7 top spots in Kerala",
+  "sub": "7 top spots in Kerala",
+  "music": "A Special Feeling.mp3",
+  "seconds": 21.8,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-324928/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:White_Guard_Volunteers_rescue_operation_in_the_Wayanad_landslide_2024.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Kovalam_Beach_Sunrise.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Athirappilly_Falls_2024.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Large_Ponmudi_bush_frog_in_Wayanad.jpg",
+   "Pixabay https://pixabay.com/videos/id-369302/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Kasba_jail_Kachery_kollam_kerala.jpg",
+   "Pixabay https://pixabay.com/videos/id-170321/",
+   "Pixabay https://pixabay.com/videos/id-324929/"
+  ],
+  "dry": true
  }
 ]
