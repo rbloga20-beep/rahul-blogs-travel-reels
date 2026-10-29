@@ -57,3 +57,7 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-29-06-20 | Kerala | Pixabay (anijom) | https://pixabay.com/videos/id-304786/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-06-20 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324923/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-06-20 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324928/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-29 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324930/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-29 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324928/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-29 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324923/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-29 | Kerala | Pixabay (anijom) | https://pixabay.com/videos/id-304786/ | Pixabay Content License, commercial use, no attribution needed |
