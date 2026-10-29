@@ -121,7 +121,8 @@ async function verifyClips(place, clips, max = 7) {
             { inline_data: { mime_type: 'image/jpeg', data: Buffer.from(img).toString('base64') } },
             { text: `This is ${c.type === 'photo' ? 'a stock photo' : 'a frame of a stock video'} tagged "${place.name}"${place.area ? ` (${place.area})` : ''}. ` +
               'Could it really show that place (landscape, landmarks, vegetation, climate all plausible)? Is it a beautiful travel shot? ' +
-              'Return JSON {"plausible": true/false, "scenic": 1-10, "has_text_or_watermark": true/false}' }] }],
+              'Is a person (or vehicle with rider) the main subject? ' +
+              'Return JSON {"plausible": true/false, "scenic": 1-10, "has_text_or_watermark": true/false, "person_main_subject": true/false}' }] }],
             generationConfig: { responseMimeType: 'application/json', temperature: 0 } }),
         }, 60000);
         if (r.ok || ![429, 500, 503, 0].includes(r.status)) break; // busy -> next model
@@ -129,7 +130,8 @@ async function verifyClips(place, clips, max = 7) {
         if (!r.ok) throw new Error(`gemini HTTP ${r.status} ${short(r.body).slice(0, 120)}`);
         const j = JSON.parse(r.body.candidates[0].content.parts.map((p) => p.text || '').join(''));
         await sleep(1500); // stay under the free per-minute limit
-        cache[key] = { ok: !!j.plausible && !j.has_text_or_watermark && (j.scenic || 0) >= 6, s: j.scenic || 0 };
+        // landscapes only: our text/labels must never sit on a person
+        cache[key] = { ok: !!j.plausible && !j.has_text_or_watermark && !j.person_main_subject && (j.scenic || 0) >= 6, s: j.scenic || 0 };
       } catch (e) { log(`vision check failed (${e.message}), keeping clip`); cache[key] = null; }
     }
     if (cache[key] === undefined || cache[key] === null || cache[key].ok) out.push(c);
