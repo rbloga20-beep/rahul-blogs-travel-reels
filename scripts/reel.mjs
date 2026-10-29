@@ -1,4 +1,4 @@
-﻿// Rahul Blogs travel reel: pick the next places -> real free HD stock videos (Pixabay, Mixkit) -> FFmpeg reel in the
+﻿// Rahul Blogs travel reel: pick the next places -> real free stock videos (HD first) (Pixabay, Mixkit) -> FFmpeg reel in the
 // "N best places" style (big title, numbered spots, end card), logo and copyright-free music -> Facebook + Instagram
 // reel and story.
 // usage: node scripts/reel.mjs [make|all]     (DRY_RUN=true makes the reel without posting; PLACE=... forces a place)
@@ -47,22 +47,25 @@ Return JSON {"places":["Place|Country", ...]} with well-known names that stock-v
   writeJson('state/extra_places.json', extra);
 }
 
-// ---------------- stock footage: HD videos only (Pixabay + Mixkit licences, no attribution needed) ----------------
-const HD = 1080; // shortest side of the source file must be at least this
+// ---------------- stock footage: videos, HD first (Pixabay + Mixkit licences, no attribution needed) ----------------
+// HD (1080p+) wherever a clip has it; a 720p clip only where no HD one is available (never below 720p)
+const HD = 1080, MIN_RES = 720;
+const side = (x) => (x?.url ? Math.min(x.width, x.height) : 0);
 async function pixabay(q) {
   if (!ENV.PIXABAY_API_KEY) return [];
   const r = await http(`https://pixabay.com/api/videos/?key=${ENV.PIXABAY_API_KEY}&q=${encodeURIComponent(q)}&per_page=80&safesearch=true`);
   if (!r.ok) { log(`pixabay ${r.status}`); return []; }
   return (r.body.hits || []).map((h) => {
-    // biggest file that is still a sensible download (4K only when nothing smaller is HD)
-    const v = [h.videos.large, h.videos.medium].find((x) => x?.url && Math.min(x.width, x.height) >= HD) ||
-      (h.videos.xlarge?.url && Math.min(h.videos.xlarge.width, h.videos.xlarge.height) >= HD ? h.videos.xlarge : null);
+    // smallest HD file (4K only when nothing smaller is HD), else the best below HD
+    const v = [h.videos.large, h.videos.medium, h.videos.xlarge].find((x) => side(x) >= HD) ||
+      [h.videos.large, h.videos.medium].filter((x) => side(x) >= MIN_RES).sort((a, b) => side(b) - side(a))[0];
     return v && { id: 'pxb' + h.id, src: 'Pixabay', page: h.pageURL, text: `${h.tags} ${h.pageURL}`.toLowerCase(), thumb: v.thumbnail,
-      url: v.url, w: v.width, h: v.height, dur: h.duration, user: h.user, pop: Math.log10(1 + (h.likes || 0) * 20 + (h.downloads || 0)) };
+      url: v.url, w: v.width, h: v.height, hd: side(v) >= HD, dur: h.duration, user: h.user,
+      pop: Math.log10(1 + (h.likes || 0) * 20 + (h.downloads || 0)) };
   }).filter((c) => c && c.dur >= 4);
 }
 // Mixkit (Mixkit Stock Video Free License: commercial use, no attribution); no API, so its search page is read.
-// Only the 1080p file is used; the real size is checked again after download.
+// The 1080p file first, 720p if that is missing; the real size is checked again after download.
 async function mixkit(q) {
   const r = await http(`https://mixkit.co/free-stock-video/discover/${encodeURIComponent(q.toLowerCase().replace(/\s+/g, '-'))}/`,
     { headers: { 'User-Agent': 'Mozilla/5.0 RahulBlogsReels' } });
@@ -72,8 +75,8 @@ async function mixkit(q) {
     const id = (card.match(/assets\.mixkit\.co\/videos\/(\d+)\//) || [])[1];
     const title = (card.match(/^">\s*([^<]+)</) || [])[1];
     if (id && title) out.push({ id: 'mix' + id, src: 'Mixkit', page: `https://mixkit.co/free-stock-video/${id}/`, text: title.toLowerCase(),
-      url: `https://assets.mixkit.co/videos/${id}/${id}-1080.mp4`, thumb: `https://assets.mixkit.co/videos/${id}/${id}-thumb-360-0.jpg`,
-      w: 1920, h: 1080, dur: 8, pop: 2.5 });
+      url: `https://assets.mixkit.co/videos/${id}/${id}-1080.mp4`, alt: `https://assets.mixkit.co/videos/${id}/${id}-720.mp4`,
+      thumb: `https://assets.mixkit.co/videos/${id}/${id}-thumb-360-0.jpg`, w: 1920, h: 1080, hd: true, dur: 8, pop: 2.5 });
   }
   return out;
 }
@@ -85,7 +88,8 @@ async function clipsFor(place, usedClips, max = 7) {
   const ok = all.filter((c) => !usedClips[c.id] && kws.length && kws.every((k) => c.text.includes(k)) &&
     !/\b(people|man|woman|girl|boy|model|selfie|portrait|dance|wedding|ship|port|traffic|construction|farm|food|cooking|interior|office)\b/.test(c.text));
   // most scenic + most liked first, a little randomness so reels differ
-  const score = (c) => (c.text.match(SCENIC) || []).length * 1.2 + (c.pop ?? 2.5) + (c.h > c.w ? 1 : 0) + Math.random();
+  const score = (c) => (c.text.match(SCENIC) || []).length * 1.2 + (c.pop ?? 2.5) + (c.h > c.w ? 1 : 0) + Math.random() +
+    (c.hd ? 4 : 0); // an HD clip of the place always beats a 720p one
   const ranked = ok.map((c) => ({ ...c, score: score(c) })).sort((a, b) => b.score - a.score);
   return verifyClips(place, ranked, max);
 }
@@ -135,7 +139,7 @@ async function verifyClips(place, clips, max = 7) {
 }
 const SCENIC = /\b(nature|landscape|aerial|drone|waterfall|mountains?|beach|sunset|sunrise|lake|river|sea|ocean|hills?|tea|backwaters?|boat|houseboat|forest|clouds|mist|fog|valley|palm|island|temple|fort|palace|snow|green|scenic|coast|waves|lagoon|garden)\b/g;
 
-// A reel in the style of the reference "Munnar 10 best location": title clip -> numbered spots, one HD clip each ->
+// A reel in the style of the reference "Munnar 10 best location": title clip -> numbered spots, one clip each (HD first) ->
 // closing clip ("More beautiful places" / "Follow for more"). shots[] carries role intro|item|outro.
 //   list:   "KERALA / 6 best places to visit" -> 1 Munnar, 2 Varkala ...   (places of one state/country)
 //   single: "MUNNAR / <short line>" -> several clips of that one place, labelled with its name
@@ -163,14 +167,14 @@ async function chooseReel() {
     const found = [];
     for (const p of group) {
       const c = await clipsFor(p, usedClips, 2);
-      log(`${p.name}: ${c.length} HD clips`);
+      log(`${p.name}: ${c.length} clips`);
       if (c.length) found.push([p, c]); else noFootage(p);
       if (found.length >= 8) break;
     }
     const region = regionOf(area, group[0].india);
     const taken = new Set(found.flatMap(([, c]) => c.map((x) => x.id)));
     const rc = (await clipsFor(region, usedClips, 4)).filter((c) => !taken.has(c.id));
-    log(`region ${area}: ${rc.length} HD clips`);
+    log(`region ${area}: ${rc.length} clips`);
     // intro/outro: clips of the whole state, else second clips of the listed places
     const spare = [...rc, ...found.filter(([, c]) => c[1]).map(([, c]) => c[1])];
     if (found.length >= 4 && spare.length >= 1) {
@@ -198,7 +202,7 @@ async function chooseReel() {
     for (const p of group) free.splice(free.indexOf(p), 1);
   }
   save();
-  throw new Error('no place with enough free HD stock footage found in this run');
+  throw new Error('no place with enough free stock footage found in this run');
 }
 
 // ---------------- words ----------------
@@ -266,15 +270,15 @@ async function render(reel, text, id) {
   const segs = [];
   for (const [i, c] of reel.shots.entries()) {
     const raw = path.join(TMP, `raw${i}.mp4`);
-    try { await download(c.url, raw); } catch (e) {
+    try { await download(c.url, raw).catch((e) => { if (!c.alt) throw e; return download(c.alt, raw); }); } catch (e) {
       if (c.role === 'item' && reel.shots.filter((s) => s.role === 'item').length > 3) { log(`skipping ${c.page}: ${e.message}`); continue; }
       throw e;
     }
     const info = ffprobe(raw);
     const vs = info.streams.find((s) => s.codec_type === 'video') || {};
-    if (Math.min(vs.width || 0, vs.height || 0) < HD) { // HD only, whatever the site claimed
+    if (Math.min(vs.width || 0, vs.height || 0) < MIN_RES) { // never below 720p, whatever the site claimed
       log(`skipping ${c.page}: only ${vs.width}x${vs.height}`); fs.rmSync(raw);
-      if (c.role !== 'item') throw new Error('intro/outro clip is not HD');
+      if (c.role !== 'item') throw new Error('intro/outro clip is below 720p');
       continue;
     }
     const realDur = parseFloat(info.format.duration) || c.dur;
