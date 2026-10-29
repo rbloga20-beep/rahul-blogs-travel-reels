@@ -136,7 +136,7 @@ async function verifyClips(place, clips, max = 7) {
   for (const c of clips) {
     if (out.length >= max) break;
     const key = `${c.id}|${place.name}`;
-    if (!cache[key] && c.thumb && visionLeft > 0) {
+    if (!cache[key]?.v && c.thumb && visionLeft > 0) { // v2 verdicts also check "view of the place"
       visionLeft--;
       try {
         const ir = await fetch(c.thumb, { headers: { 'User-Agent': 'RahulBlogsReels/1.0' } });
@@ -150,8 +150,9 @@ async function verifyClips(place, clips, max = 7) {
               { inline_data: { mime_type: 'image/jpeg', data: Buffer.from(img).toString('base64') } },
               { text: `This is ${c.type === 'photo' ? 'a stock photo found for' : 'a frame of a stock video tagged'} "${place.name}"${place.area ? ` (${place.area})` : ''}. ` +
                 'Could it really show that place (landscape, landmarks, vegetation, climate all plausible)? Is it a beautiful travel shot? ' +
-                'Is a person (or vehicle with rider) the main subject? ' +
-                'Return JSON {"plausible": true/false, "scenic": 1-10, "has_text_or_watermark": true/false, "person_main_subject": true/false}' }] }],
+                'Is a person (or vehicle with rider) the main subject? Is it a view of the place itself (landscape, landmark, ' +
+                'town, water, nature scenery) rather than an animal, insect, plant/flower close-up, object, map, drawing or document? ' +
+                'Return JSON {"plausible": true/false, "scenic": 1-10, "has_text_or_watermark": true/false, "person_main_subject": true/false, "place_view": true/false}' }] }],
               generationConfig: { responseMimeType: 'application/json', temperature: 0 } }),
           }, 60000);
           if (r.ok || ![429, 500, 503, 0].includes(r.status)) break; // busy -> next model
@@ -160,12 +161,12 @@ async function verifyClips(place, clips, max = 7) {
         const j = JSON.parse(r.body.candidates[0].content.parts.map((p) => p.text || '').join(''));
         await sleep(1500); // stay under the free per-minute limit
         // landscapes only: our text must never sit on a person
-        cache[key] = { ok: !!j.plausible && !j.has_text_or_watermark && !j.person_main_subject && (j.scenic || 0) >= 6, s: j.scenic || 0 };
+        cache[key] = { v: 2, ok: !!j.plausible && !!j.place_view && !j.has_text_or_watermark && !j.person_main_subject && (j.scenic || 0) >= 6, s: j.scenic || 0 };
       } catch (e) { log(`vision check failed (${e.message}), keeping clip`); cache[key] = null; }
     }
-    // a photo found by search only (no tag match) needs a passed Gemini check; videos pass on their tags if Gemini is down
-    const tagged = keyWords(place.name).every((k) => c.text.includes(k));
-    if (cache[key]?.ok || ((cache[key] === undefined || cache[key] === null) && (c.type !== 'photo' || tagged))) out.push(c);
+    // photos always need a passed Gemini check (a "Ponmudi bush frog" photo once matched by name); videos pass on
+    // their tags only when Gemini could not be asked
+    if (cache[key]?.ok || ((cache[key] === undefined || cache[key] === null) && c.type !== 'photo')) out.push(c);
     else log(`  dropped ${c.page} (${cache[key] ? `${cache[key].s}/10 or not ${place.name}` : 'photo not verified'})`);
   }
   if (!on('DRY_RUN')) writeJson('state/clip_checks.json', cache);
