@@ -105,3 +105,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-29-10-56 | Mahabalipuram | Pixabay (GuruKde) | https://pixabay.com/videos/id-112063/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-10-56 | Thanjavur | Pixabay (43413641) | https://pixabay.com/videos/id-209405/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-10-56 | Tamil Nadu | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rameswaram_Fishing_Harbour,_Tamil_Nadu,_India_(2007).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-14-12 | Karnataka | Pixabay (TuberNxt) | https://pixabay.com/videos/id-42559/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-14-12 | Coorg | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Coorg_landscape.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-14-12 | Mysore | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:KITLV_92039_-_Unknown_-_Palace_of_the_Rajah_at_Mysore_in_India_-_Around_1870.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-14-12 | Udupi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Udupi_Parashurama_Temple_View_from_the_top_March_2025.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-14-12 | Murudeshwar | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mhatobar_Shri_Murudeshwar_Temple_3,_Karnataka_06.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-14-12 | Badami | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Badami_caves_Cave_One_(7).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-29-14-12 | Karnataka | Pixabay (shekharpoorna) | https://pixabay.com/videos/id-32288/ | Pixabay Content License, commercial use, no attribution needed |

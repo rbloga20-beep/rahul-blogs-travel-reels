@@ -231,7 +231,11 @@
   "ok": false,
   "s": 1
  },
- "wmc47883938|Courtallam": null,
+ "wmc47883938|Courtallam": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
  "wmc169340059|Courtallam": {
   "v": 2,
   "ok": true,
@@ -241,5 +245,115 @@
   "v": 2,
   "ok": false,
   "s": 8
+ },
+ "pxb118267|Chennai": {
+  "v": 2,
+  "ok": false,
+  "s": 3
+ },
+ "pxb255496|Chennai": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc113008282|Meghamalai": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc182199469|Velankanni": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc182199492|Velankanni": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc182199495|Velankanni": {
+  "v": 2,
+  "ok": false,
+  "s": 3
+ },
+ "wmc182199477|Velankanni": {
+  "v": 2,
+  "ok": false,
+  "s": 3
+ },
+ "wmc186677960|Coorg": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc39956427|Mysore": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "wmc167087671|Mysore": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "pxb19599|Jog Falls": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc169174861|Udupi": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "wmc145946632|Murudeshwar": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc145946631|Murudeshwar": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc145946787|Murudeshwar": {
+  "v": 2,
+  "ok": true,
+  "s": 6
+ },
+ "wmc145946485|Murudeshwar": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc124380422|Badami": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc124380418|Badami": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc124380426|Badami": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb42559|Karnataka": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb225543|Karnataka": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb32288|Karnataka": {
+  "v": 2,
+  "ok": true,
+  "s": 6
  }
 }
