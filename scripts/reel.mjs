@@ -104,7 +104,7 @@ async function commonsPhotos(q) {
   return Object.values(r.body.query?.pages || {}).map((p) => ({ p, ii: p.imageinfo?.[0] })).filter(({ ii }) => ii &&
     /^(cc0|public domain|pd)/i.test(ii.extmetadata?.LicenseShortName?.value || '') && photoHD(ii.width, ii.height)).map(({ p, ii }) => ({
     id: 'wmc' + p.pageid, type: 'photo', src: 'Wikimedia Commons', page: ii.descriptionurl, user: '',
-    text: p.title.toLowerCase(), url: ii.thumburl || ii.url, thumb: ii.thumburl?.replace(/\/\d+px-/, '/400px-') || ii.url,
+    text: p.title.toLowerCase(), url: ii.thumburl || ii.url, thumb: ii.thumburl?.replace(/\/\d+px-/, '/500px-') || ii.url, // Wikimedia only serves standard thumb widths
     w: ii.width, h: ii.height, pop: 2 }));
 }
 
