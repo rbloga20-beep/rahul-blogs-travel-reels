@@ -53,3 +53,7 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-29-05-47 | Munnar | Pixabay (iarunk) | https://pixabay.com/photos/tea-garden-tea-munnar-india-garden-1751083/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-05-47 | Munnar | Pixabay (Akumarphotos) | https://pixabay.com/photos/munnar-india-tea-nature-mountain-3978401/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-05-47 | Munnar | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324919/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-20 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324930/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-20 | Kerala | Pixabay (anijom) | https://pixabay.com/videos/id-304786/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-20 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324923/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-20 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324928/ | Pixabay Content License, commercial use, no attribution needed |
