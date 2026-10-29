@@ -38,7 +38,7 @@ export function log(msg) {
 }
 export const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-export async function http(url, init = {}, timeout = 60000) {
+async function httpOnce(url, init, timeout) {
   const ac = new AbortController();
   const t = setTimeout(() => ac.abort(), timeout);
   try {
@@ -49,6 +49,21 @@ export async function http(url, init = {}, timeout = 60000) {
   } catch (e) {
     return { ok: false, status: 0, body: { error: String(e.message || e) } };
   } finally { clearTimeout(t); }
+}
+// Network drops (ECONNRESET, "fetch failed", timeouts), 429 and 5xx get retried with growing waits — the Sonam
+// automation failed on exactly these. GETs retry by default; a POST only with {retry: true}, never a publish step,
+// because a POST that timed out may still have gone through (a retry could post twice).
+const RETRYABLE = (s) => s === 0 || s === 429 || s >= 500;
+export async function http(url, init = {}, timeout = 60000, { retry } = {}) {
+  const tries = (retry ?? (!init.method || init.method === 'GET')) ? 4 : 1;
+  let r;
+  for (let k = 0; k < tries; k++) {
+    r = await httpOnce(url, init, timeout);
+    if (!RETRYABLE(r.status) || k === tries - 1) break;
+    const after = parseInt(r.headers?.get?.('retry-after') || '0', 10) * 1000;
+    await sleep(Math.min(120000, Math.max(after, 5000 * 2 ** k)));
+  }
+  return r;
 }
 export const short = (b) => JSON.stringify(b).slice(0, 300);
 
@@ -83,20 +98,29 @@ export async function graph(pathq, params = {}, method = 'GET', tok) {
     body: JSON.stringify({ ...params, access_token: tok }) }, 120000);
 }
 
-// ---- AI writers: JSON out. Gemini (free AI Studio key) first, Groq free as fallback ----
-export async function aiJson(prompt, { temperature = 0.9 } = {}) {
+// ---- AI writers: JSON out. Gemini (free AI Studio key, several models) first, Groq free as fallback ----
+// Each model gets its own retries (429 quota / 503 busy were the Sonam failures); an empty or non-JSON answer
+// ("Gemini gave no quote") counts as a miss and moves on to the next model. `check` can reject a weak answer.
+export async function aiJson(prompt, { temperature = 0.9, check } = {}) {
   const errs = [];
+  const accept = (j, m) => {
+    if (!j || typeof j !== 'object' || !Object.keys(j).length) { errs.push(`${m} empty`); return null; }
+    const bad = check && check(j);
+    if (bad) { errs.push(`${m} ${bad}`); return null; }
+    return j;
+  };
   if (ENV.GEMINI_API_KEY) {
-    const models = (ENV.GEMINI_MODELS || 'gemini-3.5-flash,gemini-3.1-flash-lite').split(',').map((s) => s.trim()).filter(Boolean);
+    const models = (ENV.GEMINI_MODELS || 'gemini-3.5-flash,gemini-3.1-flash-lite,gemini-3.5-flash-lite').split(',').map((s) => s.trim()).filter(Boolean);
     for (const m of models) {
       const r = await http(`https://generativelanguage.googleapis.com/v1beta/models/${m}:generateContent`, {
         method: 'POST', headers: { 'Content-Type': 'application/json', 'x-goog-api-key': ENV.GEMINI_API_KEY },
         body: JSON.stringify({ contents: [{ role: 'user', parts: [{ text: prompt }] }],
           generationConfig: { responseMimeType: 'application/json', temperature } }),
-      }, 90000);
+      }, 90000, { retry: true });
       if (!r.ok) { errs.push(`${m} ${r.status}`); continue; }
-      try { return JSON.parse(r.body.candidates[0].content.parts.map((p) => p.text || '').join('')); }
-      catch { errs.push(`${m} bad JSON`); }
+      let j = null;
+      try { j = JSON.parse(r.body.candidates[0].content.parts.map((p) => p.text || '').join('')); } catch { errs.push(`${m} bad JSON`); continue; }
+      if ((j = accept(j, m))) return j;
     }
   }
   if (ENV.GROQ_API_KEY) {
@@ -105,9 +129,11 @@ export async function aiJson(prompt, { temperature = 0.9 } = {}) {
         method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + ENV.GROQ_API_KEY },
         body: JSON.stringify({ model: m, temperature, response_format: { type: 'json_object' },
           messages: [{ role: 'user', content: prompt + '\nAnswer with one JSON object only.' }] }),
-      }, 90000);
+      }, 90000, { retry: true });
       if (!r.ok) { errs.push(`${m} ${r.status}`); continue; }
-      try { return JSON.parse(r.body.choices[0].message.content); } catch { errs.push(`${m} bad JSON`); }
+      let j = null;
+      try { j = JSON.parse(r.body.choices[0].message.content); } catch { errs.push(`${m} bad JSON`); continue; }
+      if ((j = accept(j, m))) return j;
     }
   }
   throw new Error('AI writers failed: ' + (errs.join('; ') || 'no AI key set'));

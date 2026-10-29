@@ -99,7 +99,7 @@ async function clipsFor(place, usedClips, photos = true) {
 
 // stock tags are often wrong ("munnar" on a river with boats), so Gemini looks at each clip's thumbnail:
 // does it plausibly show this place, and is it scenic? Verdicts are cached; at most VISION_BUDGET checks per run.
-let visionLeft = parseInt(ENV.VISION_BUDGET || '40', 10);
+let visionLeft = parseInt(ENV.VISION_BUDGET || '24', 10); // 6 runs x 24 stays well inside the free daily quota
 async function verifyClips(place, clips, max = 7) {
   if (!ENV.GEMINI_API_KEY || on('SKIP_VISION')) return clips;
   const cache = readJson('state/clip_checks.json', {});
@@ -201,14 +201,18 @@ async function writeText(reel) {
   const names = reel.places.map((p) => (p.area ? `${p.name} (${p.area})` : p.name)).join(', ');
   const prompt = `You write for "Rahul Blogs", an Indian travel creator's Facebook/Instagram reels (scenic clips + music, no voice).
 Reel type: ${{ single: 'one place', list: 'several places in the same region', region: 'scenes from one state/country' }[reel.kind]}: ${names}.
-Write in natural, human, English (simple words, like a real traveller wrote it; no clichÃ©s like "hidden gem", "breathtaking", "nestled").
+Write in natural, human, English (simple words, like a real traveller wrote it; no clichés like "hidden gem", "breathtaking", "nestled").
 Don't repeat the structure of these recent hooks: ${JSON.stringify(recent)}.
 Return JSON:
 {"hook": "on-screen line shown in the first 2 seconds, max 42 characters, curiosity or feeling, no emoji, no hashtags",
  "caption": "2-3 short lines: one line about the place(s) with 1 true, specific fact (season or best time, what it is famous for), then a question that invites comments; 1-2 emoji allowed",
  "hashtags": ["8 to 10 relevant hashtags without #, English letters only, mix of place names and travel tags"]}`;
   try {
-    const j = await aiJson(prompt);
+    const j = await aiJson(prompt, { check: (x) => {
+      const h = String(x.hook || '').trim();
+      if (h.length < 8 || h.length > 60) return 'bad hook';
+      if (!String(x.caption || '').trim() || !Array.isArray(x.hashtags)) return 'missing caption/hashtags';
+    } });
     const hook = String(j.hook || '').replace(/[\p{Extended_Pictographic}ï¸#]/gu, '').trim();
     if (hook.length < 8 || hook.length > 60) throw new Error('bad hook length');
     return { hook, caption: String(j.caption || '').trim(), hashtags: (j.hashtags || []).map((h) => String(h).replace(/[^A-Za-z0-9_]/g, '')).filter(Boolean) };
@@ -218,7 +222,7 @@ Return JSON:
     const hooks = reel.kind === 'single'
       ? [`${p.name} doesn't feel real`, `Save this for your ${p.area} trip`, `Have you been to ${p.name}?`, `This is ${p.name}, ${p.area}`]
       : [`${reel.places.length} places in ${p.area} you'll love`, `${p.area} is unreal`, `Your next ${p.area} trip`];
-    return { hook: pick(hooks), caption: `${reel.places.map((x) => x.name).join(' â€¢ ')}\nWhich one would you visit first? ðŸ‘‡`,
+    return { hook: pick(hooks), caption: `${reel.places.map((x) => x.name).join(' • ')}\nWhich one would you visit first? 👇`,
       hashtags: [...reel.places.map((x) => x.name.replace(/\W/g, '')), p.area.replace(/\W/g, ''), 'travel', 'travelreels'] };
   }
 }
@@ -375,20 +379,22 @@ async function render(reel, text, id) {
 // ---------------- publish ----------------
 async function rupload(url, file, tok) {
   const size = fs.statSync(file).size;
+  // same bytes to the same upload id from offset 0, so a retry after a dropped connection is safe
   const r = await http(url, { method: 'POST', body: fs.readFileSync(file),
-    headers: { Authorization: 'OAuth ' + tok, offset: '0', file_size: String(size), 'Content-Type': 'application/octet-stream' } }, 600000);
+    headers: { Authorization: 'OAuth ' + tok, offset: '0', file_size: String(size), 'Content-Type': 'application/octet-stream' } }, 600000, { retry: true });
   if (!r.ok || !r.body.success) throw new Error('upload failed: ' + short(r.body));
 }
 async function fbReel(file, caption, title) {
   const tok = await pageToken(), page = ENV.FB_PAGE_ID;
   const st = await http(`${GRAPH}/${page}/video_reels`, { method: 'POST', headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ upload_phase: 'start', access_token: tok }) });
+    body: JSON.stringify({ upload_phase: 'start', access_token: tok }) }, 60000, { retry: true });
   if (!st.body.video_id) throw new Error('FB reel start: ' + short(st.body));
   const vid = st.body.video_id;
   await rupload(`https://rupload.facebook.com/video-upload/v26.0/${vid}`, file, tok);
   const fin = await http(`${GRAPH}/${page}/video_reels`, { method: 'POST', headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ upload_phase: 'finish', video_id: vid, video_state: 'PUBLISHED', title, description: caption, access_token: tok }) }, 120000);
-  if (!fin.ok || !fin.body.success) throw new Error('FB reel publish: ' + short(fin.body));
+  // a dropped connection here may still have published: the status check below decides (no blind retry = no double post)
+  if (fin.status !== 0 && (!fin.ok || !fin.body.success)) throw new Error('FB reel publish: ' + short(fin.body));
   let link = '';
   for (let k = 0; k < 40 && !link; k++) {
     await sleep(10000);
@@ -397,13 +403,14 @@ async function fbReel(file, caption, title) {
     if (v.video_status === 'error') throw new Error('FB processing: ' + short(v));
     if (v.publishing_phase?.status === 'complete' || v.video_status === 'ready') link = s.body.permalink_url ? `https://www.facebook.com${s.body.permalink_url.replace(/^https?:\/\/[^/]+/, '')}` : 'ok';
   }
+  if (!link && fin.status === 0) throw new Error('FB reel publish: connection dropped and the reel never appeared');
   log('facebook reel: ' + (link || 'published, status not confirmed yet'));
   return { id: vid, url: link };
 }
 async function fbStory(file) {
   const tok = await pageToken(), page = ENV.FB_PAGE_ID;
   const st = await http(`${GRAPH}/${page}/video_stories`, { method: 'POST', headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ upload_phase: 'start', access_token: tok }) });
+    body: JSON.stringify({ upload_phase: 'start', access_token: tok }) }, 60000, { retry: true });
   if (!st.body.video_id) throw new Error('FB story start: ' + short(st.body));
   await rupload(st.body.upload_url || `https://rupload.facebook.com/video-upload/v26.0/${st.body.video_id}`, file, tok);
   const fin = await http(`${GRAPH}/${page}/video_stories`, { method: 'POST', headers: { 'Content-Type': 'application/json' },
@@ -417,7 +424,8 @@ async function igMedia(file, type, caption) {
   const tok = await pageToken(), ig = ENV.IG_USER_ID;
   const body = { media_type: type, upload_type: 'resumable', access_token: tok };
   if (type === 'REELS') Object.assign(body, { caption, share_to_feed: true, thumb_offset: 500 });
-  const c = await http(`${GRAPH}/${ig}/media`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+  // an extra unused container is harmless, so creating one may be retried
+  const c = await http(`${GRAPH}/${ig}/media`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }, 60000, { retry: true });
   if (!c.body.id) throw new Error(`IG ${type} container: ` + short(c.body));
   await rupload(`https://rupload.facebook.com/ig-api-upload/v26.0/${c.body.id}`, file, tok);
   let st = '';
@@ -429,6 +437,12 @@ async function igMedia(file, type, caption) {
   if (st !== 'FINISHED') throw new Error(`IG ${type} processing not finished in 8 min`);
   const pub = await http(`${GRAPH}/${ig}/media_publish`, { method: 'POST', headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ creation_id: c.body.id, access_token: tok }) }, 120000);
+  if (!pub.body.id && pub.status === 0) {
+    // connection dropped: if the container shows PUBLISHED it went out — take the newest media instead of posting again
+    await sleep(15000);
+    const s = (await http(`${GRAPH}/${c.body.id}?fields=status_code&access_token=${encodeURIComponent(tok)}`)).body.status_code;
+    if (s === 'PUBLISHED') pub.body = { id: (await http(`${GRAPH}/${ig}/media?fields=id&limit=1&access_token=${encodeURIComponent(tok)}`)).body.data?.[0]?.id };
+  }
   if (!pub.body.id) throw new Error(`IG ${type} publish: ` + short(pub.body));
   const pl = (await http(`${GRAPH}/${pub.body.id}?fields=permalink&access_token=${encodeURIComponent(tok)}`)).body.permalink || '';
   log(`instagram ${type.toLowerCase()} posted ${pl}`);
@@ -441,7 +455,7 @@ async function main() {
   const dry = on('DRY_RUN') || mode === 'make';
   const id = new Date().toISOString().replace(/[:T]/g, '-').slice(0, 16);
   const reel = await chooseReel();
-  log(`reel ${id}: ${reel.kind} â€” ${reel.places.map((p) => p.name).join(', ')} (${reel.shots.length} clips)`);
+  log(`reel ${id}: ${reel.kind} — ${reel.places.map((p) => p.name).join(', ')} (${reel.shots.length} clips)`);
   const text = await writeText(reel);
   log(`hook: ${text.hook}`);
   const r = await render(reel, text, id);
@@ -458,7 +472,10 @@ async function main() {
     if (!on('STORIES', true)) { delete tries.fbStory; delete tries.igStory; }
     if (!on('IG_ENABLED', true)) { delete tries.ig; delete tries.igStory; }
     for (const [k, f] of Object.entries(tries)) {
+      // stories only follow a reel that really went out, so a failed run can be retried without double stories
+      if (/Story/.test(k) && rec.fb?.error && (rec.ig?.error || !tries.ig)) { rec[k] = { error: 'skipped: no reel posted' }; continue; }
       try { rec[k] = await f(); } catch (e) { rec[k] = { error: e.message }; log(`${k} FAILED: ${e.message}`); }
+      if (!rec[k].error) fs.writeFileSync(path.join(OUT, 'posted.flag'), k); // tells the workflow not to retry
     }
   }
   // remember what was posted so nothing repeats (dry runs leave the queue alone unless DRY_RUN_KEEP_QUEUE=false)

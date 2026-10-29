@@ -11,7 +11,8 @@ Write a short, warm, human reply (1-2 sentences, max 1 emoji) in EXACTLY the sam
 (Hindi in Devanagari -> Devanagari, Hinglish in Roman letters -> Roman Hinglish, Tamil -> Tamil, Malayalam -> Malayalam, English -> English, etc.).
 Answer travel questions briefly and correctly (best season, how to reach) if you are sure; never invent prices or exact timings; no links; no hashtags.
 Set skip=true for spam, ads, links, abuse, hate, politics, or comments that need no reply (only a tag of a friend, only "." etc.).
-Return JSON {"skip": boolean, "reply": "text"}`, { temperature: 0.7 });
+Return JSON {"skip": boolean, "reply": "text"}`, { temperature: 0.7,
+    check: (x) => (typeof x.skip !== 'boolean' || (!x.skip && !String(x.reply || '').trim()) ? 'no reply' : null) });
   return j.skip ? null : String(j.reply || '').trim() || null;
 }
 
@@ -21,7 +22,7 @@ async function main() {
   const replied = readJson('state/replied.json', {});
   const posts = readJson('state/posts.json', []).filter((p) => !p.dry).slice(-30);
   const pageId = ENV.FB_PAGE_ID, igId = ENV.IG_USER_ID;
-  let count = 0;
+  let count = 0, aiFails = 0;
   const tok = await pageToken();
 
   for (const p of posts.reverse()) {
@@ -36,7 +37,8 @@ async function main() {
         // skip threads we already answered (our reply is a child comment from the page)
         const kids = await graph(`${c.id}/comments`, { fields: 'from{id}', limit: '25' }, 'GET', tok);
         if ((kids.body.data || []).some((k) => k.from?.id === pageId)) { replied[c.id] = 'seen'; continue; }
-        const reply = await writeReply(c.message, context).catch((e) => { log('AI: ' + e.message); return undefined; });
+        const reply = await writeReply(c.message, context).catch((e) => { log('AI: ' + e.message); aiFails++; return undefined; });
+        if (aiFails >= 3) { log('AI keeps failing (quota/busy), stopping this run; comments wait for the next hour'); break; }
         if (reply === undefined) continue;
         if (reply && !dry) {
           const s = await graph(`${c.id}/comments`, { message: reply }, 'POST', tok);
@@ -44,6 +46,7 @@ async function main() {
         }
         log(`fb ${dry ? '(dry) ' : ''}reply to "${c.message.slice(0, 60)}": ${reply || '(skipped)'}`);
         replied[c.id] = reply ? 'replied' : 'skipped'; count++;
+        if (!dry) writeJson('state/replied.json', replied); // saved at once: a crash later must not cause a second reply
         await sleep(2500);
       }
     }
@@ -56,7 +59,8 @@ async function main() {
         if (count >= MAX_PER_RUN) break;
         if (replied[c.id] || !c.text || (me && c.username?.toLowerCase() === me)) continue;
         if (me && (c.replies?.data || []).some((k) => k.username?.toLowerCase() === me)) { replied[c.id] = 'seen'; continue; }
-        const reply = await writeReply(c.text, context).catch((e) => { log('AI: ' + e.message); return undefined; });
+        const reply = await writeReply(c.text, context).catch((e) => { log('AI: ' + e.message); aiFails++; return undefined; });
+        if (aiFails >= 3) { log('AI keeps failing (quota/busy), stopping this run; comments wait for the next hour'); break; }
         if (reply === undefined) continue;
         if (reply && !dry) {
           const s = await graph(`${c.id}/replies`, { message: reply }, 'POST', tok);
@@ -64,6 +68,7 @@ async function main() {
         }
         log(`ig ${dry ? '(dry) ' : ''}reply to "${c.text.slice(0, 60)}": ${reply || '(skipped)'}`);
         replied[c.id] = reply ? 'replied' : 'skipped'; count++;
+        if (!dry) writeJson('state/replied.json', replied); // saved at once: a crash later must not cause a second reply
         await sleep(2500);
       }
     }
