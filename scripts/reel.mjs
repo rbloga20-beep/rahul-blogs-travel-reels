@@ -161,28 +161,49 @@ async function chooseReel() {
   const regionOf = (area, india) => ({ name: area, area: '', section: 'region', india });
   const take = (clip, place, role, num) => ({ ...clip, place, role, num });
 
-  for (let a = 0; a < 6 && free.length; a++) {
-    const area = free[0].area;
-    const group = free.filter((p) => p.area === area).slice(0, 14);
+  // the list is built from one state/country when it has 4+ places with footage, else from the whole section
+  // ("SOUTH INDIA / 6 best places"): South India has few stock clips per state (checked 2026-10-29: 15 of 77 places)
+  const SECTION = { south: 'South India', india: 'India', world: 'Around the World', manual: '', region: '' };
+  const makeList = (title, india, found, rc) => {
+    const region = regionOf(title, india);
+    const spare = [...rc, ...found.filter(([, c]) => c[1]).map(([, c]) => c[1])]; // intro/outro clips
+    if (found.length < 4 || !spare.length) return null;
+    save();
+    const items = found.slice(0, 8).map(([p, c], i) => take(c[0], p, 'item', i + 1));
+    return { kind: 'list', area: region, places: items.map((s) => s.place),
+      shots: [take(spare[0], region, 'intro'), ...items, take(spare[1] || spare[0], region, 'outro')] };
+  };
+  for (let a = 0; a < 4 && free.length; a++) {
+    const sec = free[0].section;
+    const pool = free.filter((p) => p.section === sec).slice(0, 24);
     const found = [];
-    for (const p of group) {
+    for (const p of pool) {
       const c = await clipsFor(p, usedClips, 2);
       log(`${p.name}: ${c.length} clips`);
       if (c.length) found.push([p, c]); else noFootage(p);
-      if (found.length >= 8) break;
+      if (found.length >= 10) break;
     }
-    const region = regionOf(area, group[0].india);
     const taken = new Set(found.flatMap(([, c]) => c.map((x) => x.id)));
-    const rc = (await clipsFor(region, usedClips, 4)).filter((c) => !taken.has(c.id));
-    log(`region ${area}: ${rc.length} clips`);
-    // intro/outro: clips of the whole state, else second clips of the listed places
-    const spare = [...rc, ...found.filter(([, c]) => c[1]).map(([, c]) => c[1])];
-    if (found.length >= 4 && spare.length >= 1) {
-      save();
-      const items = found.map(([p, c], i) => take(c[0], p, 'item', i + 1));
-      return { kind: 'list', area: region, places: found.map(([p]) => p),
-        shots: [take(spare[0], region, 'intro'), ...items, take(spare[1] || spare[0], region, 'outro')].filter((s, i, arr) => arr.indexOf(s) === i) };
+    const fresh = async (place, max) => (await clipsFor(place, usedClips, max)).filter((c) => !taken.has(c.id));
+    // 1) one state/country with 4+ places
+    const areas = [...new Set(found.map(([p]) => p.area))];
+    for (const ar of areas) {
+      const f = found.filter(([p]) => p.area === ar);
+      if (f.length < 4) continue;
+      const rc = await fresh(regionOf(ar), 2);
+      const r = makeList(ar, f[0][0].india, f, rc);
+      if (r) return r;
     }
+    // 2) the whole section
+    if (SECTION[sec] && found.length >= 4) {
+      const rc = sec === 'world' ? [] : await fresh(regionOf(SECTION[sec]), 2);
+      const r = makeList(SECTION[sec], sec !== 'world', found, rc);
+      if (r) return r;
+    }
+    const area = (found[0]?.[0] || pool[0]).area;
+    const region = regionOf(area, pool[0].india);
+    const rc = await fresh(region, 6);
+    log(`region ${area}: ${rc.length} clips`);
     // one place with plenty of clips of its own
     for (const [p] of found) {
       const c = await clipsFor(p, usedClips, 7);
@@ -198,8 +219,8 @@ async function chooseReel() {
       return { kind: 'single', area: region, places: [region],
         shots: [take(rc[0], region, 'intro'), ...rc.slice(1, -1).map((x) => take(x, region, 'item')), take(rc[rc.length - 1], region, 'outro')] };
     }
-    for (const [p] of found) noFootage(p);
-    for (const p of group) free.splice(free.indexOf(p), 1);
+    // places that have a clip or two stay in the queue for a later list; the next section gets its turn now
+    for (const p of pool) free.splice(free.indexOf(p), 1);
   }
   save();
   throw new Error('no place with enough free stock footage found in this run');
