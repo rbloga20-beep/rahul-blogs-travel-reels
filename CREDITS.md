@@ -61,3 +61,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-29-06-29 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324928/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-06-29 | Kerala | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-324923/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-06-29 | Kerala | Pixabay (anijom) | https://pixabay.com/videos/id-304786/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-38 | South India | Pixabay (socialsudo) | https://pixabay.com/videos/id-23731/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-38 | Idukki | Pixabay (alexkc71) | https://pixabay.com/videos/id-369302/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-38 | Kannur | Pixabay (Thomascm) | https://pixabay.com/videos/id-170321/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-38 | Kodaikanal | Pixabay (GuruKde) | https://pixabay.com/videos/id-117601/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-38 | Mahabalipuram | Pixabay (GuruKde) | https://pixabay.com/videos/id-112063/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-38 | Thanjavur | Pixabay (43413641) | https://pixabay.com/videos/id-209405/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-29-06-38 | South India | Pixabay (alexkc71) | https://pixabay.com/videos/id-385428/ | Pixabay Content License, commercial use, no attribution needed |

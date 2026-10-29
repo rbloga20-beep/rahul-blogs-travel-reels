@@ -89,5 +89,30 @@
    "Pixabay https://pixabay.com/videos/id-304786/"
   ],
   "dry": true
+ },
+ {
+  "id": "2026-10-29-06-38",
+  "date": "2026-10-29T06:44:17.604Z",
+  "places": [
+   "Idukki",
+   "Kannur",
+   "Kodaikanal",
+   "Mahabalipuram",
+   "Thanjavur"
+  ],
+  "hook": "South India / Top 5 South India spots",
+  "sub": "Top 5 South India spots",
+  "music": "Traveling Along.mp3",
+  "seconds": 17.83,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-23731/",
+   "Pixabay https://pixabay.com/videos/id-369302/",
+   "Pixabay https://pixabay.com/videos/id-170321/",
+   "Pixabay https://pixabay.com/videos/id-117601/",
+   "Pixabay https://pixabay.com/videos/id-112063/",
+   "Pixabay https://pixabay.com/videos/id-209405/",
+   "Pixabay https://pixabay.com/videos/id-385428/"
+  ],
+  "dry": true
  }
 ]
