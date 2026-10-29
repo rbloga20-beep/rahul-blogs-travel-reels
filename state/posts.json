@@ -191,5 +191,45 @@
    "Pixabay https://pixabay.com/videos/id-324930/"
   ],
   "dry": true
+ },
+ {
+  "id": "2026-10-29-08-10",
+  "date": "2026-10-29T08:18:18.917Z",
+  "places": [
+   "Varkala",
+   "Kovalam",
+   "Athirappilly Falls",
+   "Idukki",
+   "Kannur"
+  ],
+  "hook": "Kerala / 5 places to see in Kerala",
+  "sub": "5 places to see in Kerala",
+  "music": "Harp Relax.mp3",
+  "seconds": 18,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-324929/",
+   "Pixabay https://pixabay.com/videos/id-350639/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Kovalam_Beach_Sunrise.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:View_from_Athirappilly_Falls.jpg",
+   "Pixabay https://pixabay.com/videos/id-369302/",
+   "Pixabay https://pixabay.com/videos/id-170321/",
+   "Pixabay https://pixabay.com/videos/id-324923/"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "2978687995834047",
+   "url": "https://www.facebook.com/reel/2978687995834047/"
+  },
+  "ig": {
+   "id": "18208249327327670",
+   "url": "https://www.instagram.com/reel/DfEj7-kDhhB/"
+  },
+  "fbStory": {
+   "id": "3024489877896142"
+  },
+  "igStory": {
+   "id": "17932397292162799",
+   "url": "https://www.instagram.com/stories/rahulblogsyt/4018495264348084383"
+  }
  }
 ]

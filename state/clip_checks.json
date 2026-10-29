@@ -30,5 +30,130 @@
  "pxb324919|Munnar": {
   "ok": true,
   "s": 8
+ },
+ "pxb350639|Varkala": {
+  "v": 2,
+  "ok": true,
+  "s": 6
+ },
+ "wmc151251680|Wayanad": {
+  "v": 2,
+  "ok": false,
+  "s": 3
+ },
+ "wmc151252859|Wayanad": {
+  "v": 2,
+  "ok": false,
+  "s": 3
+ },
+ "wmc151253075|Wayanad": {
+  "v": 2,
+  "ok": false,
+  "s": 2
+ },
+ "wmc151146445|Wayanad": {
+  "v": 2,
+  "ok": false,
+  "s": 3
+ },
+ "wmc167467697|Kovalam": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc196837591|Kovalam": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc159182106|Athirappilly Falls": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc159181856|Athirappilly Falls": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb369302|Idukki": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb385428|Idukki": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc144539207|Kollam": {
+  "v": 2,
+  "ok": false,
+  "s": 2
+ },
+ "pxb170321|Kannur": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "wmc81630232|Ooty": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc154518462|Ooty": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb117601|Kodaikanal": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb152189|Kodaikanal": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc4544681|Rameswaram": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "wmc195541109|Rameswaram": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc140715974|Kanyakumari": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc86429751|Madurai": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc114553201|Madurai": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "pxb112063|Mahabalipuram": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb324929|Kerala": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb324923|Kerala": {
+  "v": 2,
+  "ok": true,
+  "s": 8
  }
 }
