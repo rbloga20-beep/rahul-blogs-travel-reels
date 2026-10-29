@@ -74,5 +74,37 @@
  "Kannur": {
   "date": "2026-10-29",
   "status": "posted"
+ },
+ "Coonoor": {
+  "date": "2026-10-29",
+  "status": "no footage"
+ },
+ "Valparai": {
+  "date": "2026-10-29",
+  "status": "no footage"
+ },
+ "Ooty": {
+  "date": "2026-10-29",
+  "status": "posted"
+ },
+ "Kodaikanal": {
+  "date": "2026-10-29",
+  "status": "posted"
+ },
+ "Rameswaram": {
+  "date": "2026-10-29",
+  "status": "posted"
+ },
+ "Kanyakumari": {
+  "date": "2026-10-29",
+  "status": "posted"
+ },
+ "Mahabalipuram": {
+  "date": "2026-10-29",
+  "status": "posted"
+ },
+ "Thanjavur": {
+  "date": "2026-10-29",
+  "status": "posted"
  }
 }
