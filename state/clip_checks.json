@@ -1,0 +1,34 @@
+{
+ "pxp2133190|Munnar": {
+  "ok": true,
+  "s": 9
+ },
+ "pxp3535036|Munnar": {
+  "ok": true,
+  "s": 8
+ },
+ "pxp4769654|Munnar": {
+  "ok": true,
+  "s": 9
+ },
+ "pxp4092714|Munnar": {
+  "ok": true,
+  "s": 8
+ },
+ "pxp1751083|Munnar": {
+  "ok": true,
+  "s": 8
+ },
+ "pxp3978401|Munnar": {
+  "ok": true,
+  "s": 9
+ },
+ "pxp2133189|Munnar": {
+  "ok": false,
+  "s": 9
+ },
+ "pxb324919|Munnar": {
+  "ok": true,
+  "s": 8
+ }
+}
