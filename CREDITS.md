@@ -150,3 +150,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-30-14-09 | Mount Abu | Pixabay (jigswal) | https://pixabay.com/videos/id-341885/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-30-14-09 | Pushkar | Pixabay (Banzaraguy) | https://pixabay.com/videos/id-192060/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-30-14-09 | Rajasthan | Pixabay (InOldNews) | https://pixabay.com/videos/id-344541/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | India | Pixabay (Banzaraguy) | https://pixabay.com/videos/id-214618/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | Ladakh | Pixabay (yogendras31) | https://pixabay.com/videos/id-92833/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | Srinagar | Pixabay (Manmohan_Singh) | https://pixabay.com/videos/id-284038/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | Gulmarg | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lush_green_meadows_of_Gulmarg,_J%26K,_India.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | Varanasi | Pixabay (artosuraj) | https://pixabay.com/videos/id-269245/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | Taj Mahal | Pixabay (Solarselle77) | https://pixabay.com/videos/id-363499/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | Ranthambore | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ranthambore_Fort_Jain_Temple.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | Golden Temple | Pixabay (Eartvideos) | https://pixabay.com/videos/id-209310/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | Goa | Pixabay (u_89pkru9gtp) | https://pixabay.com/videos/id-358730/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-16-56 | India | Pixabay (e_m_o_n) | https://pixabay.com/videos/id-132652/ | Pixabay Content License, commercial use, no attribution needed |

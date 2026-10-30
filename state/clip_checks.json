@@ -965,5 +965,155 @@
   "v": 2,
   "ok": true,
   "s": 8
+ },
+ "pxb176488|Ladakh": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc7504471|Ranthambore": {
+  "v": 2,
+  "ok": true,
+  "s": 6
+ },
+ "wmc7504631|Ranthambore": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "pxb372645|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb298835|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb298834|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb298832|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb330644|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb298833|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb298783|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb298807|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb298785|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb313893|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb298782|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb298780|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb298781|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb372646|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb335337|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb321837|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb298831|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb363532|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb363534|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb283271|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb301698|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb292463|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb356826|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb368922|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb277166|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 2
+ },
+ "pxb356846|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb188640|Golden Temple": {
+  "v": 2,
+  "ok": false,
+  "s": 8
  }
 }
