@@ -124,3 +124,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-30-02-06 | Lepakshi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sculpture_at_the_Veerabhadra_Temple,_Lepakshi,_Andhra_Pradesh,_India_a.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-30-02-06 | Srisailam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Srisailam_Dam_-May_2024_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-30-02-06 | Andhra Pradesh | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lepakshi_pillar_sculpter_15.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-04-57 | South India | Pixabay (Hemanth28) | https://pixabay.com/videos/id-200431/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-04-57 | Hyderabad | Pixabay (Hemanth28) | https://pixabay.com/videos/id-200435/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-04-57 | Golconda Fort | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Golconda_Fort_Path.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-04-57 | Auroville | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Town_Hall_of_Auroville.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-04-57 | South India | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Road_to_Golconda_Fort_(13749).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

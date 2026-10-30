@@ -525,5 +525,100 @@
   "v": 2,
   "ok": true,
   "s": 6
+ },
+ "wmc180576470|Golconda Fort": {
+  "v": 2,
+  "ok": true,
+  "s": 6
+ },
+ "wmc150126832|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc150126723|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc150126699|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc150126799|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc150126737|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc150126664|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc150126904|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc150126875|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 4
+ },
+ "wmc150126850|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc150126889|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc150126651|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc150126880|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc150126811|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc150126754|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc150126772|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc150126864|Bhongir Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc31761462|Puducherry": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc17581563|Auroville": {
+  "v": 2,
+  "ok": true,
+  "s": 6
  }
 }
