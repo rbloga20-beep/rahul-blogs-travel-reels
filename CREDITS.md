@@ -137,3 +137,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-30-08-11 | Bir Billing | Pixabay (CapturedbyPiyush) | https://pixabay.com/videos/id-352534/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-30-08-11 | Chitkul | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Buspa_Valley_from_the_village_of_Chitkul_by_Samuel_Bourne_1865.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-30-08-11 | Himachal Pradesh | Pixabay (InOldNews) | https://pixabay.com/videos/id-214873/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-10-55 | Uttarakhand | Pixabay (thenomadwanderer) | https://pixabay.com/videos/id-298786/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-10-55 | Rishikesh | Pixabay (thenomadwanderer) | https://pixabay.com/videos/id-298788/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-10-55 | Valley of Flowers | Pixabay (KIMDAEJEUNG) | https://pixabay.com/videos/id-45403/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-10-55 | Nainital | Pixabay (gaurav_mane) | https://pixabay.com/videos/id-124394/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-10-55 | Mussoorie | Pixabay (IAMABHI44) | https://pixabay.com/videos/id-295938/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-10-55 | Uttarakhand | Pixabay (adege) | https://pixabay.com/videos/id-38202/ | Pixabay Content License, commercial use, no attribution needed |
