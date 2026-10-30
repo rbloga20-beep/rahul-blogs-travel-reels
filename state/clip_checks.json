@@ -890,5 +890,80 @@
   "v": 2,
   "ok": false,
   "s": 9
+ },
+ "pxb269245|Varanasi": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb260716|Varanasi": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb363497|Taj Mahal": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb363499|Taj Mahal": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb192060|Jaipur": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb97920|Jaipur": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb6694|Udaipur": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb344540|Jaisalmer": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb344541|Jaisalmer": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb341885|Mount Abu": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb79495|Mount Abu": {
+  "v": 2,
+  "ok": false,
+  "s": 2
+ },
+ "pxb192060|Pushkar": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb97919|Pushkar": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb341885|Rajasthan": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb192060|Rajasthan": {
+  "v": 2,
+  "ok": true,
+  "s": 8
  }
 }

@@ -143,3 +143,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-30-10-55 | Nainital | Pixabay (gaurav_mane) | https://pixabay.com/videos/id-124394/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-30-10-55 | Mussoorie | Pixabay (IAMABHI44) | https://pixabay.com/videos/id-295938/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-30-10-55 | Uttarakhand | Pixabay (adege) | https://pixabay.com/videos/id-38202/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-14-09 | Rajasthan | Pixabay (abhitoshniwal69) | https://pixabay.com/videos/id-97920/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-14-09 | Jaipur | Pixabay (Banzaraguy) | https://pixabay.com/videos/id-192060/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-14-09 | Udaipur | Pixabay (bottlein) | https://pixabay.com/videos/id-6694/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-14-09 | Jaisalmer | Pixabay (InOldNews) | https://pixabay.com/videos/id-344540/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-14-09 | Mount Abu | Pixabay (jigswal) | https://pixabay.com/videos/id-341885/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-14-09 | Pushkar | Pixabay (Banzaraguy) | https://pixabay.com/videos/id-192060/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-14-09 | Rajasthan | Pixabay (InOldNews) | https://pixabay.com/videos/id-344541/ | Pixabay Content License, commercial use, no attribution needed |

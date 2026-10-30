@@ -370,5 +370,33 @@
  "Mussoorie": {
   "date": "2026-10-30",
   "status": "posted"
+ },
+ "Yercaud": {
+  "date": "2026-10-30",
+  "status": "no footage"
+ },
+ "Jodhpur": {
+  "date": "2026-10-30",
+  "status": "no footage"
+ },
+ "Jaipur": {
+  "date": "2026-10-30",
+  "status": "posted"
+ },
+ "Udaipur": {
+  "date": "2026-10-30",
+  "status": "posted"
+ },
+ "Jaisalmer": {
+  "date": "2026-10-30",
+  "status": "posted"
+ },
+ "Mount Abu": {
+  "date": "2026-10-30",
+  "status": "posted"
+ },
+ "Pushkar": {
+  "date": "2026-10-30",
+  "status": "posted"
  }
 }
