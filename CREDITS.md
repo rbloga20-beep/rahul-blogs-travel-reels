@@ -118,3 +118,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-29-17-02 | Bangalore | Pixabay (aerialglimpses) | https://pixabay.com/videos/id-200023/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-17-02 | Mangalore | Pixabay (chandi_ra) | https://pixabay.com/videos/id-328119/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-29-17-02 | South India | Pixabay (aerialglimpses) | https://pixabay.com/videos/id-200024/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-02-06 | Andhra Pradesh | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Forest_In_Araku_Valley.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-02-06 | Araku Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Araku_green_Valley.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-02-06 | Gandikota | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Madhavaraya_temple_gandikota.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-02-06 | Lepakshi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sculpture_at_the_Veerabhadra_Temple,_Lepakshi,_Andhra_Pradesh,_India_a.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-02-06 | Srisailam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Srisailam_Dam_-May_2024_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-02-06 | Andhra Pradesh | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lepakshi_pillar_sculpter_15.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

@@ -460,5 +460,70 @@
   "v": 2,
   "ok": false,
   "s": 6
+ },
+ "wmc153947895|Araku Valley": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "wmc1187996|Lepakshi": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc62166997|Lepakshi": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc62166312|Lepakshi": {
+  "v": 2,
+  "ok": true,
+  "s": 6
+ },
+ "wmc195768660|Srisailam": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc195768665|Srisailam": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb200435|Hyderabad": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb200431|Hyderabad": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc164890530|Golconda Fort": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc180576545|Golconda Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 4
+ },
+ "wmc180576560|Golconda Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 5
+ },
+ "wmc180576657|Golconda Fort": {
+  "v": 2,
+  "ok": false,
+  "s": 5
+ },
+ "wmc180576611|Golconda Fort": {
+  "v": 2,
+  "ok": true,
+  "s": 6
  }
 }
