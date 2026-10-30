@@ -129,3 +129,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-30-04-57 | Golconda Fort | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Golconda_Fort_Path.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-30-04-57 | Auroville | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Town_Hall_of_Auroville.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-30-04-57 | South India | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Road_to_Golconda_Fort_(13749).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-08-11 | Himachal Pradesh | Pixabay (AjayBhatti91) | https://pixabay.com/videos/id-293092/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-08-11 | Manali | Pixabay (Beyond_the_Trails_Aakash) | https://pixabay.com/videos/id-309320/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-08-11 | Shimla | Pixabay (Beyond_the_Trails_Aakash) | https://pixabay.com/videos/id-309320/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-08-11 | Kasol | Pixabay (woww_galleries) | https://pixabay.com/videos/id-201879/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-08-11 | Dharamshala | Pixabay (Beyond_the_Trails_Aakash) | https://pixabay.com/videos/id-309320/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-08-11 | Bir Billing | Pixabay (CapturedbyPiyush) | https://pixabay.com/videos/id-352534/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-30-08-11 | Chitkul | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Buspa_Valley_from_the_village_of_Chitkul_by_Samuel_Bourne_1865.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-30-08-11 | Himachal Pradesh | Pixabay (InOldNews) | https://pixabay.com/videos/id-214873/ | Pixabay Content License, commercial use, no attribution needed |
