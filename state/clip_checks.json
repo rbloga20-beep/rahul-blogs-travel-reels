@@ -1627,48 +1627,44 @@
   "s": 8
  },
  "wmc88763837|Government Rose Garden": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 8
  },
  "wmc76027562|Government Rose Garden": {
-  "v": 2,
+  "v": 3,
   "ok": false,
-  "s": 5
+  "s": 6
  },
  "wmc81630233|Pykara Lake": {
-  "v": 2,
+  "v": 3,
   "ok": true,
   "s": 8
  },
  "wmc174625780|Government Rose Garden": {
-  "v": 2,
-  "ok": false,
-  "s": 1
- },
- "wmc174625174|Government Rose Garden": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 2
  },
+ "wmc174625174|Government Rose Garden": null,
  "wmc133469940|9th Mile Shooting Point": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 1
  },
  "wmc133467130|9th Mile Shooting Point": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 1
  },
  "wmc160699948|Avalanche Lake": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 6
  },
  "wmc189854491|Emerald Lake": {
-  "v": 2,
-  "ok": true,
+  "v": 3,
+  "ok": false,
   "s": 9
  },
  "wmc29614606|Avalanche Lake": {
@@ -1677,7 +1673,7 @@
   "s": 9
  },
  "wmc29614586|Avalanche Lake": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 4
  },
@@ -1687,38 +1683,72 @@
   "s": 10
  },
  "wmc33871158|Ketti Valley Viewpoint": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 1
  },
- "wmc53477419|Ketti Valley Viewpoint": {
-  "v": 2,
-  "ok": false,
-  "s": 2
- },
+ "wmc53477419|Ketti Valley Viewpoint": null,
  "wmc53477525|Ketti Valley Viewpoint": {
-  "v": 2,
+  "v": 3,
   "ok": false,
-  "s": 2
+  "s": 1
  },
  "wmc156981865|St. Stephen's Church": {
-  "v": 2,
+  "v": 3,
   "ok": false,
-  "s": 7
+  "s": 6
  },
  "wmc156981864|St. Stephen's Church": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 6
  },
- "wmc156981863|St. Stephen's Church": {
-  "v": 2,
+ "wmc156981863|St. Stephen's Church": null,
+ "wmc182184992|St. Stephen's Church": null,
+ "wmc174625391|Government Rose Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc29614607|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc29614585|Avalanche Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc156981870|St. Stephen's Church": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc76027563|Government Rose Garden": {
+  "v": 3,
   "ok": false,
   "s": 7
  },
- "wmc182184992|St. Stephen's Church": {
-  "v": 2,
+ "wmc174625669|Government Rose Garden": null,
+ "wmc160709812|Avalanche Lake": {
+  "v": 3,
   "ok": false,
-  "s": 6
+  "s": 9
+ },
+ "wmc160700035|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc160700017|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc160699980|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 4
  }
 }
