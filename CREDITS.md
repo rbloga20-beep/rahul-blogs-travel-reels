@@ -187,3 +187,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-31-07-58 | Kalimpong | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Morgan_House_Kalimpong_2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-31-07-58 | Lonar Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lonar_Crater_Lake_from_space_NASA.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-31-07-58 | India | Pixabay (vikashkr50) | https://pixabay.com/videos/id-183881/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-10-46 | Switzerland | Pixabay (D-GM) | https://pixabay.com/videos/id-318885/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-10-46 | Lauterbrunnen | Pixabay (RoyBuri) | https://pixabay.com/videos/id-39983/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-10-46 | Interlaken | Pixabay (D-GM) | https://pixabay.com/videos/id-319879/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-10-46 | Zermatt | Pixabay (EclipseChasers) | https://pixabay.com/videos/id-270940/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-10-46 | Lucerne | Pixabay (Josh_Malic) | https://pixabay.com/videos/id-37423/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-10-46 | Switzerland | Pixabay (adege) | https://pixabay.com/videos/id-328740/ | Pixabay Content License, commercial use, no attribution needed |

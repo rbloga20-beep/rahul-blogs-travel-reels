@@ -1425,5 +1425,155 @@
   "v": 2,
   "ok": true,
   "s": 9
+ },
+ "pxb39983|Lauterbrunnen": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb9143|Lauterbrunnen": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb319879|Interlaken": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb319874|Interlaken": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb379375|Zermatt": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb270940|Zermatt": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb361728|Zermatt": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb37427|Lucerne": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb37423|Lucerne": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb74206|Lucerne": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb14205|Iceland": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb69786|Iceland": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb279655|Iceland": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb385518|Lofoten Islands": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb385785|Lofoten Islands": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb377059|Santorini": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb239773|Santorini": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb63466|Santorini": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb43232|Santorini": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb293788|Bali": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb295164|Bali": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb343672|Bali": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb343675|Maldives": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb343055|Maldives": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "pxb343672|Maldives": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb247262|Maldives": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb130207|Dubai": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb205449|Dubai": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb318885|Switzerland": {
+  "v": 2,
+  "ok": true,
+  "s": 10
+ },
+ "pxb328740|Switzerland": {
+  "v": 2,
+  "ok": true,
+  "s": 10
  }
 }
