@@ -1575,5 +1575,55 @@
   "v": 2,
   "ok": true,
   "s": 10
+ },
+ "pxb197166|Bali": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb32423|Maldives": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb225025|Paris": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb248701|Paris": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb135776|Venice": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb68741|Venice": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb338728|Amalfi Coast": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb358006|Amalfi Coast": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb312077|Cappadocia": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb316045|Cappadocia": {
+  "v": 2,
+  "ok": true,
+  "s": 8
  }
 }

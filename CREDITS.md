@@ -193,3 +193,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-31-10-46 | Zermatt | Pixabay (EclipseChasers) | https://pixabay.com/videos/id-270940/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-31-10-46 | Lucerne | Pixabay (Josh_Malic) | https://pixabay.com/videos/id-37423/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-31-10-46 | Switzerland | Pixabay (adege) | https://pixabay.com/videos/id-328740/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Around the World | Pixabay (NatureViewdaBeau) | https://pixabay.com/videos/id-279655/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Iceland | Pixabay (OjasweinGuptaOJG) | https://pixabay.com/videos/id-14205/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Lofoten Islands | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385518/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Santorini | Pixabay (TheTaikun) | https://pixabay.com/videos/id-43232/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Bali | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-343672/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Maldives | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-343672/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Dubai | Pixabay (Asif_khanAK) | https://pixabay.com/videos/id-205449/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Paris | Pixabay (TatianaTz) | https://pixabay.com/videos/id-225025/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Venice | Pixabay (edcangri) | https://pixabay.com/videos/id-135776/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-13-52 | Around the World | Pixabay (dimim) | https://pixabay.com/videos/id-63466/ | Pixabay Content License, commercial use, no attribution needed |
