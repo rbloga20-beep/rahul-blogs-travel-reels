@@ -148,15 +148,17 @@ async function clipsFor(place, usedClips, max = 7) {
 // stock tags are often wrong ("munnar" on a river with boats), so Gemini looks at each clip's thumbnail:
 // does it plausibly show this place, and is it scenic? Verdicts are cached; at most VISION_BUDGET checks per run.
 let visionLeft = parseInt(ENV.VISION_BUDGET || '45', 10); // 6 runs x 45 stays inside the free daily quota
+const cache = readJson('state/clip_checks.json', {}); // one copy per run, shared by the parallel spot searches
 async function verifyClips(place, clips, max = 7) {
   if (!ENV.GEMINI_API_KEY || on('SKIP_VISION')) return clips.slice(0, max);
-  const cache = readJson('state/clip_checks.json', {});
   const out = [];
+  let asked = 0;
   for (const c of clips) {
     if (out.length >= max) break;
     const key = `${c.id}|${place.name}`;
-    if (!cache[key]?.v && c.thumb && visionLeft > 0) { // v2 verdicts also check "view of the place"
-      visionLeft--;
+    // at most 4 new checks per place: 10 checks on one spot made a run take 15 min (Actions minutes are limited)
+    if (!cache[key]?.v && c.thumb && visionLeft > 0 && asked < 4) { // v2 verdicts also check "view of the place"
+      visionLeft--; asked++;
       try {
         const ir = await fetch(c.thumb, { headers: { 'User-Agent': 'RahulBlogsReels/1.0' } });
         if (!ir.ok || !/image/.test(ir.headers.get('content-type') || '')) throw new Error(`thumbnail HTTP ${ir.status}`);
@@ -178,7 +180,6 @@ async function verifyClips(place, clips, max = 7) {
         }
         if (!r.ok) throw new Error(`gemini HTTP ${r.status} ${short(r.body).slice(0, 120)}`);
         const j = JSON.parse(r.body.candidates[0].content.parts.map((p) => p.text || '').join(''));
-        await sleep(1500); // stay under the free per-minute limit
         // landscapes only: our text must never sit on a person
         cache[key] = { v: 2, ok: !!j.plausible && !!j.place_view && !j.has_text_or_watermark && !j.person_main_subject && (j.scenic || 0) >= 6, s: j.scenic || 0 };
       } catch (e) { log(`vision check failed (${e.message}), keeping clip`); cache[key] = null; }
@@ -186,9 +187,9 @@ async function verifyClips(place, clips, max = 7) {
     // photos always need a passed Gemini check (a "Ponmudi bush frog" photo once matched by name); videos pass on
     // their tags only when Gemini could not be asked
     if (cache[key]?.ok || ((cache[key] === undefined || cache[key] === null) && c.type !== 'photo')) out.push(c);
-    else log(`  dropped ${c.page} (${cache[key] ? `${cache[key].s}/10 or not ${place.name}` : 'photo not verified'})`);
+    else if (cache[key]) log(`  dropped ${c.page} (${cache[key].s}/10 or not ${place.name})`);
   }
-  if (!on('DRY_RUN')) writeJson('state/clip_checks.json', cache);
+  writeJson('state/clip_checks.json', cache); // dry runs keep verdicts too, so nothing is asked twice
   return out;
 }
 const SCENIC = /\b(nature|landscape|aerial|drone|waterfall|mountains?|beach|sunset|sunrise|lake|river|sea|ocean|hills?|tea|backwaters?|boat|houseboat|forest|clouds|mist|fog|valley|palm|island|temple|fort|palace|snow|green|scenic|coast|waves|lagoon|garden)\b/g;
@@ -219,13 +220,16 @@ async function chooseReel() {
     const dest = free.shift();
     let spots;
     try { spots = await spotsFor(dest); } catch (e) { log(`${dest.name}: no spot list (${e.message})`); continue; }
+    // spots are searched 3 at a time (faster runs = fewer Actions minutes); list order is kept
     const found = [];
-    for (const s of spots.slice(0, 14)) {
-      const spot = { name: s.name, q: s.q, area: dest.india ? `${dest.name}, ${dest.area}` : dest.name, section: 'spot', india: dest.india };
-      const c = await clipsFor(spot, usedClips, 2);
-      log(`${dest.name} / ${s.name}: ${c.length} clips`);
-      if (c.length) found.push([spot, c]);
-      if (found.length >= 10) break;
+    const list = spots.slice(0, 14).map((s) => ({ name: s.name, q: s.q, area: dest.india ? `${dest.name}, ${dest.area}` : dest.name, section: 'spot', india: dest.india }));
+    for (let i = 0; i < list.length && found.length < 10; i += 3) {
+      const batch = list.slice(i, i + 3);
+      const res = await Promise.all(batch.map((spot) => clipsFor(spot, usedClips, 2).catch(() => [])));
+      batch.forEach((spot, k) => {
+        log(`${dest.name} / ${spot.name}: ${res[k].length} clips`);
+        if (res[k].length && found.length < 10 && !found.some(([, c]) => c.some((x) => res[k].some((y) => y.id === x.id)))) found.push([spot, res[k]]);
+      });
     }
     if (found.length < MIN_SPOTS) {
       log(`${dest.name}: only ${found.length} spots with footage, next destination`);
