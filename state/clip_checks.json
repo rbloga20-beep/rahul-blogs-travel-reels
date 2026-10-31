@@ -1625,5 +1625,100 @@
   "v": 2,
   "ok": true,
   "s": 8
+ },
+ "wmc88763837|Government Rose Garden": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc76027562|Government Rose Garden": {
+  "v": 2,
+  "ok": false,
+  "s": 5
+ },
+ "wmc81630233|Pykara Lake": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc174625780|Government Rose Garden": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc174625174|Government Rose Garden": {
+  "v": 2,
+  "ok": false,
+  "s": 2
+ },
+ "wmc133469940|9th Mile Shooting Point": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc133467130|9th Mile Shooting Point": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc160699948|Avalanche Lake": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc189854491|Emerald Lake": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc29614606|Avalanche Lake": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc29614586|Avalanche Lake": {
+  "v": 2,
+  "ok": false,
+  "s": 4
+ },
+ "wmc79581306|Avalanche Lake": {
+  "v": 2,
+  "ok": false,
+  "s": 10
+ },
+ "wmc33871158|Ketti Valley Viewpoint": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc53477419|Ketti Valley Viewpoint": {
+  "v": 2,
+  "ok": false,
+  "s": 2
+ },
+ "wmc53477525|Ketti Valley Viewpoint": {
+  "v": 2,
+  "ok": false,
+  "s": 2
+ },
+ "wmc156981865|St. Stephen's Church": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc156981864|St. Stephen's Church": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc156981863|St. Stephen's Church": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc182184992|St. Stephen's Church": {
+  "v": 2,
+  "ok": false,
+  "s": 6
  }
 }

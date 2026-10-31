@@ -827,5 +827,26 @@
    "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Landscape-3-Eravikulam_NP.jpg"
   ],
   "dry": true
+ },
+ {
+  "id": "2026-10-31-16-42",
+  "date": "2026-10-31T16:53:00.145Z",
+  "places": [
+   "Pykara Lake",
+   "Avalanche Lake",
+   "Emerald Lake"
+  ],
+  "hook": "Ooty / 3 top places in Ooty",
+  "sub": "3 top places in Ooty",
+  "music": "Traveling Along.mp3",
+  "seconds": 12.77,
+  "clips": [
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:View_of_Pykara_lake_from_a_boat.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:View_of_Pykara_lake_from_a_boat.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Avalanche_Lake_Hike_(9358195825).jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Emerald_Lake_(photographed_August_2025).jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:View_of_Pykara_lake_from_a_boat.jpg"
+  ],
+  "dry": true
  }
 ]

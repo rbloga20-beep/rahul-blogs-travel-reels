@@ -56,5 +56,63 @@
    "name": "Chinnakanal Waterfalls",
    "q": "Chinnakanal Waterfalls"
   }
+ ],
+ "Ooty": [
+  {
+   "name": "Nilgiri Mountain Railway",
+   "q": "Nilgiri Mountain Railway"
+  },
+  {
+   "name": "Ooty Lake",
+   "q": "Ooty Boat House"
+  },
+  {
+   "name": "Government Botanical Garden",
+   "q": "Ooty Botanical Garden"
+  },
+  {
+   "name": "Doddabetta Peak",
+   "q": "Doddabetta Peak"
+  },
+  {
+   "name": "Government Rose Garden",
+   "q": "Ooty Rose Garden"
+  },
+  {
+   "name": "Pykara Lake",
+   "q": "Pykara Lake"
+  },
+  {
+   "name": "Avalanche Lake",
+   "q": "Avalanche Lake"
+  },
+  {
+   "name": "Emerald Lake",
+   "q": "Emerald Lake Ooty"
+  },
+  {
+   "name": "9th Mile Shooting Point",
+   "q": "9th Mile Ooty"
+  },
+  {
+   "name": "Ooty Pine Forest",
+   "q": "Ooty Pine Forest"
+  },
+  {
+   "name": "Ketti Valley Viewpoint",
+   "q": "Ketti Valley"
+  },
+  {
+   "name": "Elk Hill Murugan Temple",
+   "q": "Elk Hill Murugan"
+  },
+  {
+   "name": "Kamraj Sagar Dam",
+   "q": "Kamraj Sagar Dam"
+  },
+  {
+   "name": "St. Stephen's Church",
+   "q": "St Stephens Church"
+  }
  ]
 }

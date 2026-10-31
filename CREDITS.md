@@ -208,3 +208,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-31-16-23 | Kolukkumalai Tea Estate | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Munnar_25-10-10_13-52-43-764.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-31-16-23 | Top Station | Pixabay (bellergy) | https://pixabay.com/videos/id-3526/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-31-16-23 | Munnar | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Landscape-3-Eravikulam_NP.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-16-42 | Ooty | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:View_of_Pykara_lake_from_a_boat.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-16-42 | Pykara Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:View_of_Pykara_lake_from_a_boat.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-16-42 | Avalanche Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Avalanche_Lake_Hike_(9358195825).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-16-42 | Emerald Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Emerald_Lake_(photographed_August_2025).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-16-42 | Ooty | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:View_of_Pykara_lake_from_a_boat.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
