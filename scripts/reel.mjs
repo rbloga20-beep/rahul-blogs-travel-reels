@@ -169,8 +169,10 @@ async function verifyClips(place, clips, max = 7) {
             method: 'POST', headers: { 'Content-Type': 'application/json', 'x-goog-api-key': ENV.GEMINI_API_KEY },
             body: JSON.stringify({ contents: [{ role: 'user', parts: [
               { inline_data: { mime_type: 'image/jpeg', data: Buffer.from(img).toString('base64') } },
-              { text: `This is ${c.type === 'photo' ? 'a stock photo found for' : 'a frame of a stock video tagged'} "${place.name}"${place.area ? ` (${place.area})` : ''}. ` +
-                'Could it really show that place (landscape, landmarks, vegetation, climate all plausible)? Is it a beautiful travel shot? ' +
+              { text: `This is ${c.type === 'photo' ? 'a stock photo found for' : 'a frame of a stock video tagged'} "${place.name}". ` +
+                `We need ${place.name}${place.area ? ` in ${place.area}${place.india ? ', India' : ''}` : ''} — not another place with the same name ` +
+                '(e.g. an "Avalanche Lake" with snow peaks is in the USA, not Ooty). Could it really show THAT place (landscape, ' +
+                'landmarks, vegetation, climate, buildings all fit that region)? Is it a beautiful travel shot? ' +
                 'Is a person (or vehicle with rider) the main subject? Is it a view of the place itself (landscape, landmark, ' +
                 'town, water, nature scenery) rather than an animal, insect, plant/flower close-up, object, map, drawing or document? ' +
                 'Return JSON {"plausible": true/false, "scenic": 1-10, "has_text_or_watermark": true/false, "person_main_subject": true/false, "place_view": true/false}' }] }],
@@ -184,9 +186,9 @@ async function verifyClips(place, clips, max = 7) {
         cache[key] = { v: 2, ok: !!j.plausible && !!j.place_view && !j.has_text_or_watermark && !j.person_main_subject && (j.scenic || 0) >= 6, s: j.scenic || 0 };
       } catch (e) { log(`vision check failed (${e.message}), keeping clip`); cache[key] = null; }
     }
-    // photos always need a passed Gemini check (a "Ponmudi bush frog" photo once matched by name); videos pass on
-    // their tags only when Gemini could not be asked
-    if (cache[key]?.ok || ((cache[key] === undefined || cache[key] === null) && c.type !== 'photo')) out.push(c);
+    // every clip needs a passed Gemini check: tags alone let an American "Avalanche Lake" into an Ooty reel. Only when
+    // Gemini itself failed (null) may a video go on its tags; photos never.
+    if (cache[key]?.ok || (cache[key] === null && c.type !== 'photo')) out.push(c);
     else if (cache[key]) log(`  dropped ${c.page} (${cache[key].s}/10 or not ${place.name})`);
   }
   writeJson('state/clip_checks.json', cache); // dry runs keep verdicts too, so nothing is asked twice
@@ -236,14 +238,17 @@ async function chooseReel() {
       if (keep) { used[dest.name] = { date: today, status: 'no footage' }; writeJson('state/used_destinations.json', used); }
       continue;
     }
-    // intro/outro: clips of the destination itself, else second clips of the spots, else the first spot again
+    // intro/outro: clips of the destination itself, else second clips of the spots. With none left, the title sits
+    // on spot 1's clip and the end cards on the last spot's clip, so no clip is ever shown twice.
     const taken = new Set(found.flatMap(([, c]) => c.map((x) => x.id)));
     const own = (await clipsFor({ ...dest, section: 'region' }, usedClips, 2)).filter((c) => !taken.has(c.id));
-    const spare = [...own, ...found.filter(([, c]) => c[1]).map(([, c]) => c[1]), found[0][1][0]];
+    const spare = [...own, ...found.filter(([, c]) => c[1]).map(([, c]) => c[1])];
     const region = { name: dest.name, area: dest.area, section: 'region', india: dest.india };
     const items = found.map(([p, c], i) => take(c[0], p, 'item', i + 1));
+    if (!spare[0]) items[0].role = 'intro-item';
+    if (!spare[1]) items[items.length - 1].role = 'item-outro';
     return { kind: 'list', dest, area: region, places: items.map((s) => s.place),
-      shots: [take(spare[0], region, 'intro'), ...items, take(spare[1] || spare[0], region, 'outro')] };
+      shots: [...(spare[0] ? [take(spare[0], region, 'intro')] : []), ...items, ...(spare[1] ? [take(spare[1], region, 'outro')] : [])] };
   }
   throw new Error('no destination with enough free stock footage found in this run');
 }
@@ -320,7 +325,7 @@ async function render(reel, text, id) {
     const photo = c.type === 'photo';
     const raw = path.join(TMP, `raw${i}${photo ? '.jpg' : '.mp4'}`);
     try { await download(c.url, raw).catch((e) => { if (!c.alt) throw e; return download(c.alt, raw); }); } catch (e) {
-      if (c.role === 'item' && reel.shots.filter((s) => s.role === 'item').length > 3) { log(`skipping ${c.page}: ${e.message}`); continue; }
+      if (c.role === 'item' && reel.shots.filter((s) => /item/.test(s.role)).length > 3) { log(`skipping ${c.page}: ${e.message}`); continue; }
       throw e;
     }
     // Unsplash asks apps to report each photo they use (API guideline)
@@ -334,7 +339,8 @@ async function render(reel, text, id) {
       continue;
     }
     const realDur = photo ? 99 : parseFloat(info.format.duration) || c.dur;
-    const want = c.role === 'intro' ? rnd(3.0, 3.4) : c.role === 'outro' ? rnd(3.6, 4.0) : (reel.kind === 'list' ? rnd(2.3, 2.7) : rnd(2.6, 3.2));
+    const want = { intro: rnd(3.0, 3.4), outro: rnd(3.6, 4.0), 'intro-item': rnd(5.0, 5.4), 'item-outro': rnd(5.6, 6.0) }[c.role] ??
+      (reel.kind === 'list' ? rnd(2.3, 2.7) : rnd(2.6, 3.2));
     const d = frames(Math.min(realDur - 0.3, want));
     const ss = Math.max(0, rnd(0.3, Math.max(0.4, realDur - d - 0.4))).toFixed(2);
     const dir = Math.random() < 0.5 ? -1 : 1;
@@ -362,9 +368,9 @@ async function render(reel, text, id) {
   }
   // numbers stay 1..n even if a clip was skipped
   let n = 0;
-  for (const s of segs) if (s.c.role === 'item' && reel.kind === 'list') s.c.num = ++n;
+  for (const s of segs) if (/item/.test(s.c.role) && reel.kind === 'list') s.c.num = ++n;
   reel.shots = segs.map((s) => s.c);
-  if (reel.kind === 'list') reel.places = segs.filter((s) => s.c.role === 'item').map((s) => s.c.place);
+  if (reel.kind === 'list') reel.places = segs.filter((s) => /item/.test(s.c.role)).map((s) => s.c.place);
   // timeline: segment i starts at sum(d<i) - i*T
   let acc = 0; const starts = [];
   for (const s of segs) { starts.push(acc); acc += s.d - T; }
@@ -386,13 +392,21 @@ async function render(reel, text, id) {
   };
   segs.forEach((s, i) => {
     const a = starts[i], end = i + 1 < segs.length ? starts[i + 1] + T : total;
-    if (s.c.role === 'intro') card('title', text.title, { sub: text.sub }, 0, end - 0.05); // visible from frame 0 = thumbnail
-    else if (s.c.role === 'item') card('item', s.c.place.name, { num: reel.kind === 'list' ? s.c.num : null }, a + 0.1, end - 0.05);
-    else {
-      const mid = a + (end - a) * 0.5;
-      card('end', reel.kind === 'list' ? 'More beautiful places' : `More of ${text.title}`, { pin: true }, a + 0.1, mid);
+    const num = reel.kind === 'list' ? s.c.num : null;
+    const ending = (from) => {
+      const mid = from + (end - from) * 0.5;
+      card('end', reel.kind === 'list' ? 'More beautiful places' : `More of ${text.title}`, { pin: true }, from, mid);
       card('end', 'Follow for more', { pin: false }, mid, total);
-    }
+    };
+    if (s.c.role === 'intro') card('title', text.title, { sub: text.sub }, 0, end - 0.05); // visible from frame 0 = thumbnail
+    else if (s.c.role === 'intro-item') { // title first, then this spot's label on the same clip
+      card('title', text.title, { sub: text.sub }, 0, 2.6);
+      card('item', s.c.place.name, { num }, 2.7, end - 0.05);
+    } else if (s.c.role === 'item') card('item', s.c.place.name, { num }, a + 0.1, end - 0.05);
+    else if (s.c.role === 'item-outro') { // this spot's label, then the end cards on the same clip
+      card('item', s.c.place.name, { num }, a + 0.1, a + 2.3);
+      ending(a + 2.4);
+    } else ending(a + 0.1);
   });
   const spec = path.join(TMP, 'cards.json');
   fs.writeFileSync(spec, JSON.stringify({ fonts, style, items }));
