@@ -1375,5 +1375,55 @@
   "v": 2,
   "ok": true,
   "s": 9
+ },
+ "pxb298800|Vrindavan": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb298806|Vrindavan": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc60323849|Kalimpong": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc57074389|Lonar Lake": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "wmc30193751|Lonar Lake": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "wmc26382803|Tarkarli": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc176104316|Diu": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc23366289|Diu": {
+  "v": 2,
+  "ok": false,
+  "s": 5
+ },
+ "pxb302807|India": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb183881|India": {
+  "v": 2,
+  "ok": true,
+  "s": 9
  }
 }

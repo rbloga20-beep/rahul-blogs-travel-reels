@@ -180,3 +180,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-31-04-54 | Kolkata | Pixabay (kuntal2005) | https://pixabay.com/videos/id-343037/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-31-04-54 | Bodh Gaya | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Great_Buddha_statue_at_Bodh_Gaya,_Bihar,_India.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-10-31-04-54 | India | Pixabay (vikashkr50) | https://pixabay.com/videos/id-183880/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-07-58 | India | Pixabay (Swkclicks) | https://pixabay.com/videos/id-302807/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-07-58 | Delhi | Pixabay (CapturedbyPiyush) | https://pixabay.com/videos/id-348015/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-07-58 | Ayodhya | Pixabay (motionstock) | https://pixabay.com/videos/id-44042/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-07-58 | Vrindavan | Pixabay (thenomadwanderer) | https://pixabay.com/videos/id-298800/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-07-58 | Kalimpong | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Morgan_House_Kalimpong_2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-07-58 | Lonar Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lonar_Crater_Lake_from_space_NASA.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-07-58 | India | Pixabay (vikashkr50) | https://pixabay.com/videos/id-183881/ | Pixabay Content License, commercial use, no attribution needed |
