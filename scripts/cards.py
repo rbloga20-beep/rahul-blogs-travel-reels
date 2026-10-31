@@ -9,11 +9,17 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 W, H = 1080, 1920
 
 
+def ink_width(draw, text, font, stroke=0):
+    # real painted width incl. outline and italic overhang (textlength alone let titles run off the frame)
+    l, _, r, _ = draw.textbbox((0, 0), text, font=font, stroke_width=stroke)
+    return r - l
+
+
 def wrap(draw, text, font, maxw, stroke=0):
     lines, cur = [], ''
     for word in text.split():
         t = (cur + ' ' + word).strip()
-        if draw.textlength(t, font=font) + 2 * stroke <= maxw or not cur:
+        if ink_width(draw, t, font, stroke) <= maxw or not cur:
             cur = t
         else:
             lines.append(cur)
@@ -24,11 +30,12 @@ def wrap(draw, text, font, maxw, stroke=0):
 
 
 def fit(draw, text, path, size, maxw, max_lines, stroke_ratio=0.0):
-    # shrink until the text fits in max_lines lines
+    # shrink until the text fits in max_lines lines and no single word is wider than the frame
     while size > 30:
         f = ImageFont.truetype(path, size)
-        lines = wrap(draw, text, f, maxw, int(size * stroke_ratio))
-        if len(lines) <= max_lines:
+        stroke = int(size * stroke_ratio)
+        lines = wrap(draw, text, f, maxw, stroke)
+        if len(lines) <= max_lines and all(ink_width(draw, l, f, stroke) <= maxw for l in lines):
             return f, lines, size
         size -= 6
     f = ImageFont.truetype(path, size)
@@ -57,8 +64,8 @@ def text_block(lines, font, y0, lh, fill_img=None, fill=(255, 255, 255, 255), st
     out = Image.new('L', (W, H), 0)
     md, od = ImageDraw.Draw(mask), ImageDraw.Draw(out)
     for i, l in enumerate(lines):
-        tw = md.textlength(l, font=font)
-        x, y = (W - tw) / 2, y0 + i * lh
+        bl, _, br, _ = md.textbbox((0, 0), l, font=font, stroke_width=stroke)
+        x, y = (W - (br - bl)) / 2 - bl, y0 + i * lh  # centre the painted ink, not the advance width
         od.text((x, y), l, font=font, fill=255, stroke_width=stroke, stroke_fill=255)
         md.text((x, y), l, font=font, fill=255)
     shadow(img, out)
@@ -84,7 +91,7 @@ def gradient(top, bottom, y0, y1):
 def title_card(it, st, fonts):
     d = ImageDraw.Draw(Image.new('RGBA', (W, H)))
     name = it['text'].upper()
-    font, lines, size = fit(d, name, fonts['title'], st.get('title_size', 190), W - 120, 2, 0.06)
+    font, lines, size = fit(d, name, fonts['title'], st.get('title_size', 190), W - 160, 2, 0.06)
     lh = int(size * 1.0)
     yc = int(H * st.get('title_y', 0.40))
     y0 = yc - lh * len(lines)
@@ -93,10 +100,15 @@ def title_card(it, st, fonts):
                      stroke=max(6, int(size * 0.05)), stroke_fill=(40, 22, 0, 255))
     sub = it.get('sub', '').strip()
     if sub:
-        sfont = ImageFont.truetype(fonts['sub'], st.get('sub_size', 58))
         sd = ImageDraw.Draw(img)
-        tw = sd.textlength(sub, font=sfont)
-        arrow = 130
+        arrow, ssize = 130, st.get('sub_size', 58)
+        while True:  # arrow + text must fit inside the frame too
+            sfont = ImageFont.truetype(fonts['sub'], ssize)
+            tw = ink_width(sd, sub, sfont)
+            if tw + arrow + 26 <= W - 120 or ssize <= 30:
+                break
+            ssize -= 4
+        st = dict(st, sub_size=ssize)
         x0 = (W - (tw + arrow + 26)) / 2
         y = yc + 30
         layer = Image.new('RGBA', (W, H), (0, 0, 0, 0))
@@ -114,7 +126,7 @@ def title_card(it, st, fonts):
 def item_card(it, st, fonts):
     d = ImageDraw.Draw(Image.new('RGBA', (W, H)))
     name = it['text'].upper()
-    font, lines, size = fit(d, name, fonts['item'], st.get('item_size', 86), W - 140, 3, 0.08)
+    font, lines, size = fit(d, name, fonts['item'], st.get('item_size', 86), W - 160, 3, 0.08)
     lh = int(size * 1.08)
     if it.get('num'):
         lines = [str(it['num'])] + lines
@@ -131,7 +143,7 @@ def item_card(it, st, fonts):
 
 def end_card(it, st, fonts):
     d = ImageDraw.Draw(Image.new('RGBA', (W, H)))
-    font, lines, size = fit(d, it['text'].upper(), fonts['item'], st.get('item_size', 86), W - 140, 3, 0.08)
+    font, lines, size = fit(d, it['text'].upper(), fonts['item'], st.get('item_size', 86), W - 160, 3, 0.08)
     lh = int(size * 1.08)
     y0 = int(H * 0.5) - lh * len(lines) // 2
     img = text_block(lines, font, y0, lh, stroke=max(5, int(size * 0.08)))

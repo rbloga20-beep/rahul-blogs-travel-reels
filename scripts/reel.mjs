@@ -28,9 +28,10 @@ const STOP = new Set(['the', 'of', 'de', 'del', 'and', 'la', 'le']);
 const keyWords = (name) => name.toLowerCase().split(/[^a-z]+/).filter((w) => w.length >= 3 && !STOP.has(w))
   .map((w) => (w.length > 4 ? w.replace(/(es|s)$/, '') : w));
 
+// destinations = Indian cities/hill stations and foreign countries; one reel each with their own top spots
 function allPlaces() {
   const p = readJson('places.json', {});
-  const extra = readJson('state/extra_places.json', []);
+  const extra = readJson('state/extra_destinations.json', []);
   return [...p.south.map((s) => [s, 'south']), ...p.india.map((s) => [s, 'india']), ...p.world.map((s) => [s, 'world']),
     ...extra.map((s) => [s, 'world'])].map(([s, sec]) => {
     const [name, area] = s.split('|');
@@ -39,12 +40,28 @@ function allPlaces() {
 }
 
 async function addMorePlaces(used) {
-  log('all places used: asking AI for 40 new destinations');
-  const j = await aiJson(`List 40 famous, very photogenic travel destinations around the world that are NOT in this list: ${Object.keys(used).join(', ')}.
-Return JSON {"places":["Place|Country", ...]} with well-known names that stock-video sites are likely to have clips of.`);
-  const extra = readJson('state/extra_places.json', []);
+  log('all destinations used: asking AI for 30 more countries');
+  const j = await aiJson(`List 30 countries or famous travel regions that tourists love and that are NOT in this list: ${Object.keys(used).join(', ')}.
+Return JSON {"places":["Name|Name", ...]} (country name twice, separated by |).`);
+  const extra = readJson('state/extra_destinations.json', []);
   for (const s of j.places || []) if (/\|/.test(s) && !extra.includes(s)) extra.push(s);
-  writeJson('state/extra_places.json', extra);
+  writeJson('state/extra_destinations.json', extra);
+}
+
+// the destination's own top spots, asked from AI once and cached
+async function spotsFor(dest) {
+  const cache = readJson('state/spots.json', {});
+  if (cache[dest.name]?.length) return cache[dest.name];
+  const where = dest.india ? `${dest.name}, ${dest.area}, India (only spots in or right around ${dest.name})` : `the country ${dest.name}`;
+  const j = await aiJson(`List the 14 most famous and most photogenic tourist spots of ${where}, the ones every travel reel shows.
+For each give "name" (how travellers write it, short, e.g. "Eravikulam National Park") and "q": the 1-3 most distinctive words someone
+would tag a stock video of it with (e.g. "Eravikulam", "Mattupetty Dam", "Lauterbrunnen"), never just the ${dest.india ? 'city' : 'country'} name.
+Return JSON {"spots":[{"name":"...","q":"..."}]}`, { temperature: 0.3, check: (x) => (Array.isArray(x.spots) && x.spots.length >= 5 ? null : 'too few spots') });
+  const spots = j.spots.map((s) => ({ name: String(s.name).trim(), q: String(s.q || s.name).trim() }))
+    .filter((s) => s.name && s.q && s.q.toLowerCase() !== dest.name.toLowerCase());
+  cache[dest.name] = spots;
+  writeJson('state/spots.json', cache);
+  return spots;
 }
 
 // ---------------- stock footage: videos, HD first (Pixabay + Mixkit licences, no attribution needed) ----------------
@@ -110,13 +127,15 @@ async function commonsPhotos(q) {
 
 // only clips whose tags/page name really mention the place (stock tags are often wrong for real places)
 async function clipsFor(place, usedClips, max = 7) {
-  const kws = keyWords(place.name);
+  const q = place.q || place.name; // spots carry a short search term ("Eravikulam")
+  const kws = keyWords(q);
   const bad = /\b(people|man|woman|girl|boy|model|selfie|portrait|dance|wedding|ship|port|traffic|construction|farm|food|cooking|interior|office)\b/;
-  let all = [...await pixabay(place.name), ...await mixkit(place.name)];
+  let all = [...await pixabay(q), ...await mixkit(q)];
   let ok = all.filter((c) => !usedClips[c.id] && kws.length && kws.every((k) => c.text.includes(k)) && !bad.test(c.text));
   if (!ok.length && place.section !== 'region') {
     // no video of this place anywhere -> HD photos; the Gemini check below decides whether they really show it
     all = [...await unsplash(place.name), ...await commonsPhotos(place.name)];
+    if (!all.length && q !== place.name) all = [...await unsplash(q), ...await commonsPhotos(q)];
     ok = all.filter((c) => !usedClips[c.id] && !bad.test(c.text) && (ENV.GEMINI_API_KEY || kws.every((k) => c.text.includes(k))));
   }
   // most scenic + most liked first, a little randomness so reels differ
@@ -128,7 +147,7 @@ async function clipsFor(place, usedClips, max = 7) {
 
 // stock tags are often wrong ("munnar" on a river with boats), so Gemini looks at each clip's thumbnail:
 // does it plausibly show this place, and is it scenic? Verdicts are cached; at most VISION_BUDGET checks per run.
-let visionLeft = parseInt(ENV.VISION_BUDGET || '30', 10); // 6 runs x 30 stays well inside the free daily quota
+let visionLeft = parseInt(ENV.VISION_BUDGET || '45', 10); // 6 runs x 45 stays inside the free daily quota
 async function verifyClips(place, clips, max = 7) {
   if (!ENV.GEMINI_API_KEY || on('SKIP_VISION')) return clips.slice(0, max);
   const cache = readJson('state/clip_checks.json', {});
@@ -174,111 +193,77 @@ async function verifyClips(place, clips, max = 7) {
 }
 const SCENIC = /\b(nature|landscape|aerial|drone|waterfall|mountains?|beach|sunset|sunrise|lake|river|sea|ocean|hills?|tea|backwaters?|boat|houseboat|forest|clouds|mist|fog|valley|palm|island|temple|fort|palace|snow|green|scenic|coast|waves|lagoon|garden)\b/g;
 
-// A reel in the style of the reference "Munnar 10 best location": title clip -> numbered spots, one clip each (HD first) ->
-// closing clip ("More beautiful places" / "Follow for more"). shots[] carries role intro|item|outro.
-//   list:   "KERALA / 6 best places to visit" -> 1 Munnar, 2 Varkala ...   (places of one state/country)
-//   single: "MUNNAR / <short line>" -> several clips of that one place, labelled with its name
+// One reel per destination, in the style of the reference "Munnar 10 best location": title clip ("MUNNAR / Top 5
+// places to visit") -> numbered spots of that destination, one clip each (HD first, HD photo if no video) -> closing
+// clip ("More beautiful places" / "Follow for more"). India: city/hill station; abroad: country. shots[] carry role
+// intro|item|outro. Spots without verified footage are left out, so every label matches its picture.
 async function chooseReel() {
-  const used = readJson('state/used_places.json', {});
+  const used = readJson('state/used_destinations.json', {});
   const usedClips = readJson('state/used_clips.json', {});
   let places = allPlaces();
   if (ENV.PLACE) {
     const [name, area] = ENV.PLACE.split('|');
     const a = (area || '').trim();
-    places = [{ name: name.trim(), area: a, section: 'manual', india: places.some((p) => p.india && p.area === a) }];
+    const known = places.find((p) => p.name.toLowerCase() === name.trim().toLowerCase());
+    places = [known || { name: name.trim(), area: a, section: 'manual', india: places.some((p) => p.india && p.area === a) }];
   } else if (!places.some((p) => !used[p.name])) { await addMorePlaces(used); places = allPlaces(); }
   // "no footage" marks expire after 45 days (new stock gets uploaded); dry runs never write them
   const today = new Date().toISOString().slice(0, 10);
   const stale = (u) => u && u.status === 'no footage' && (Date.now() - Date.parse(u.date)) / 864e5 > 45;
   const free = places.filter((p) => ENV.PLACE || !used[p.name] || stale(used[p.name]));
-  const noFootage = (p) => { if (!ENV.PLACE && !on('DRY_RUN')) used[p.name] = { date: today, status: 'no footage' }; };
-  const save = () => { if (!ENV.PLACE && !on('DRY_RUN')) writeJson('state/used_places.json', used); };
-  const regionOf = (area, india) => ({ name: area, area: '', section: 'region', india });
+  const keep = !ENV.PLACE && !on('DRY_RUN');
   const take = (clip, place, role, num) => ({ ...clip, place, role, num });
+  const MIN_SPOTS = parseInt(ENV.MIN_SPOTS || '3', 10);
 
-  // the list is built from one state/country when it has 4+ places with footage, else from the whole section
-  // ("SOUTH INDIA / 6 best places"): South India has few stock clips per state (checked 2026-10-29: 15 of 77 places)
-  const SECTION = { south: 'South India', india: 'India', world: 'Around the World', manual: '', region: '' };
-  const makeList = (title, india, found, rc) => {
-    const region = regionOf(title, india);
-    const spare = [...rc, ...found.filter(([, c]) => c[1]).map(([, c]) => c[1])]; // intro/outro clips
-    if (found.length < 4 || !spare.length) return null;
-    save();
-    const items = found.slice(0, 8).map(([p, c], i) => take(c[0], p, 'item', i + 1));
-    return { kind: 'list', area: region, places: items.map((s) => s.place),
-      shots: [take(spare[0], region, 'intro'), ...items, take(spare[1] || spare[0], region, 'outro')] };
-  };
   for (let a = 0; a < 4 && free.length; a++) {
-    const sec = free[0].section;
-    const pool = free.filter((p) => p.section === sec).slice(0, 24);
+    const dest = free.shift();
+    let spots;
+    try { spots = await spotsFor(dest); } catch (e) { log(`${dest.name}: no spot list (${e.message})`); continue; }
     const found = [];
-    for (const p of pool) {
-      const c = await clipsFor(p, usedClips, 2);
-      log(`${p.name}: ${c.length} clips`);
-      if (c.length) found.push([p, c]); else noFootage(p);
+    for (const s of spots.slice(0, 14)) {
+      const spot = { name: s.name, q: s.q, area: dest.india ? `${dest.name}, ${dest.area}` : dest.name, section: 'spot', india: dest.india };
+      const c = await clipsFor(spot, usedClips, 2);
+      log(`${dest.name} / ${s.name}: ${c.length} clips`);
+      if (c.length) found.push([spot, c]);
       if (found.length >= 10) break;
     }
+    if (found.length < MIN_SPOTS) {
+      log(`${dest.name}: only ${found.length} spots with footage, next destination`);
+      if (keep) { used[dest.name] = { date: today, status: 'no footage' }; writeJson('state/used_destinations.json', used); }
+      continue;
+    }
+    // intro/outro: clips of the destination itself, else second clips of the spots, else the first spot again
     const taken = new Set(found.flatMap(([, c]) => c.map((x) => x.id)));
-    const fresh = async (place, max) => (await clipsFor(place, usedClips, max)).filter((c) => !taken.has(c.id));
-    // 1) one state/country with 4+ places
-    const areas = [...new Set(found.map(([p]) => p.area))];
-    for (const ar of areas) {
-      const f = found.filter(([p]) => p.area === ar);
-      if (f.length < 4) continue;
-      const rc = await fresh(regionOf(ar), 2);
-      const r = makeList(ar, f[0][0].india, f, rc);
-      if (r) return r;
-    }
-    // 2) the whole section
-    if (SECTION[sec] && found.length >= 4) {
-      const rc = sec === 'world' ? [] : await fresh(regionOf(SECTION[sec]), 2);
-      const r = makeList(SECTION[sec], sec !== 'world', found, rc);
-      if (r) return r;
-    }
-    const area = (found[0]?.[0] || pool[0]).area;
-    const region = regionOf(area, pool[0].india);
-    const rc = await fresh(region, 6);
-    log(`region ${area}: ${rc.length} clips`);
-    // one place with plenty of clips of its own
-    for (const [p] of found) {
-      const c = await clipsFor(p, usedClips, 7);
-      if (c.length >= 5) {
-        save();
-        return { kind: 'single', area: region, places: [p],
-          shots: [take(c[0], p, 'intro'), ...c.slice(1, -1).map((x) => take(x, p, 'item')), take(c[c.length - 1], p, 'outro')] };
-      }
-    }
-    // the state itself
-    if (rc.length >= 4) {
-      save();
-      return { kind: 'single', area: region, places: [region],
-        shots: [take(rc[0], region, 'intro'), ...rc.slice(1, -1).map((x) => take(x, region, 'item')), take(rc[rc.length - 1], region, 'outro')] };
-    }
-    // places that have a clip or two stay in the queue for a later list; the next section gets its turn now
-    for (const p of pool) free.splice(free.indexOf(p), 1);
+    const own = (await clipsFor({ ...dest, section: 'region' }, usedClips, 2)).filter((c) => !taken.has(c.id));
+    const spare = [...own, ...found.filter(([, c]) => c[1]).map(([, c]) => c[1]), found[0][1][0]];
+    const region = { name: dest.name, area: dest.area, section: 'region', india: dest.india };
+    const items = found.map(([p, c], i) => take(c[0], p, 'item', i + 1));
+    return { kind: 'list', dest, area: region, places: items.map((s) => s.place),
+      shots: [take(spare[0], region, 'intro'), ...items, take(spare[1] || spare[0], region, 'outro')] };
   }
-  save();
-  throw new Error('no place with enough free stock footage found in this run');
+  throw new Error('no destination with enough free stock footage found in this run');
 }
 
 // ---------------- words ----------------
 async function writeText(reel) {
   const recent = readJson('state/posts.json', []).slice(-12).map((p) => p.sub).filter(Boolean);
-  const list = reel.kind === 'list';
-  const names = reel.places.map((p) => (p.area ? `${p.name} (${p.area})` : p.name)).join(', ');
+  const n = reel.places.length;
+  const names = reel.places.map((p) => p.name).join(', ');
+  const where = reel.area.india ? `${reel.area.name} (${reel.area.area}, India)` : reel.area.name;
   const prompt = `You write for "Rahul Blogs", an Indian travel creator's Facebook/Instagram reels (scenic clips + music + on-screen text, no voice).
-Reel: ${list ? `numbered list of the best places in ${reel.area.name}: ${names}` : `scenes of ${names}`}.
+Reel: the top ${n} places to visit in ${where}, shown as a numbered list: ${names}.
 Write natural, human English (simple words like a real traveller; no clichés like "hidden gem", "breathtaking", "nestled").
 Return JSON:
-{"sub": "short line shown under the big title, max 26 characters, no emoji${list ? `, e.g. "${reel.places.length} best places to visit"` : ', e.g. "In next 3 months", "Best time: Sep to Mar"'}; don't repeat these: ${JSON.stringify(recent)}",
+{"sub": "line under the big title, max 26 characters, no emoji, must contain the number ${n}, like "Top ${n} places to visit", "Top ${n} tourist destinations", "Top ${n} places to explore", "${n} must-visit spots"; avoid repeating these: ${JSON.stringify(recent)}",
  "line": "one caption line with 1 true, specific fact (best time to visit, what it is famous for), max 120 characters, 1 emoji allowed",
  "question": "a short question that invites comments, 1 emoji allowed",
  "hashtags": ["8 to 10 relevant hashtags without #, English letters only, mix of place names and travel tags"]}`;
-  const title = (list ? reel.area.name : reel.places[0].name);
+  const title = reel.area.name;
   try {
     const j = await aiJson(prompt, { check: (x) => {
       const s = String(x.sub || '').trim();
       if (s.length < 4 || s.length > 30) return 'bad sub';
+      if (!s.includes(String(n))) return 'sub without the right number';
       if (!String(x.line || '').trim() || !Array.isArray(x.hashtags)) return 'missing caption/hashtags';
     } });
     return { title, sub: String(j.sub).replace(/[\p{Extended_Pictographic}️#]/gu, '').trim(), line: String(j.line).trim(),
@@ -286,8 +271,8 @@ Return JSON:
       hashtags: (j.hashtags || []).map((h) => String(h).replace(/[^A-Za-z0-9_]/g, '')).filter(Boolean) };
   } catch (e) {
     log('AI text failed, using a template: ' + e.message);
-    return { title, sub: list ? `${reel.places.length} best places to visit` : pick(['Save this for your trip', 'Best time: Oct to Mar', 'Add it to your list']),
-      line: list ? `Best places in ${title} 📍` : `${title} 📍`, question: 'Which one would you visit first? 👇',
+    return { title, sub: pick([`Top ${n} places to visit`, `Top ${n} tourist destinations`, `Top ${n} places to explore`]),
+      line: `Best places in ${title} 📍`, question: 'Which one would you visit first? 👇',
       hashtags: [...reel.places.map((x) => x.name.replace(/\W/g, '')), title.replace(/\W/g, ''), 'travel', 'travelreels'] };
   }
 }
@@ -570,9 +555,9 @@ async function main() {
   }
   // remember what was posted so nothing repeats (dry runs leave the queue alone unless DRY_RUN_KEEP_QUEUE=false)
   if (!ENV.PLACE && !(dry && on('DRY_RUN_KEEP_QUEUE', true))) {
-    const used = readJson('state/used_places.json', {});
-    for (const p of reel.places) used[p.name] = { date: rec.date.slice(0, 10), status: dry ? 'dry run' : 'posted' };
-    writeJson('state/used_places.json', used);
+    const used = readJson('state/used_destinations.json', {});
+    used[reel.dest.name] = { date: rec.date.slice(0, 10), status: dry ? 'dry run' : 'posted' };
+    writeJson('state/used_destinations.json', used);
     const uc = readJson('state/used_clips.json', {});
     for (const c of reel.shots) uc[c.id] = rec.date.slice(0, 10);
     writeJson('state/used_clips.json', uc);
