@@ -170,3 +170,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-31-02-04 | Gangtok | Pixabay (bikashshah08) | https://pixabay.com/videos/id-224349/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-31-02-04 | Shillong | Pixabay (Aristonjohn) | https://pixabay.com/videos/id-334813/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-31-02-04 | India | Pixabay (paman_willy) | https://pixabay.com/videos/id-333146/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | India | Pixabay (HosurOnline) | https://pixabay.com/videos/id-319843/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | Cherrapunji | Pixabay (Aristonjohn) | https://pixabay.com/videos/id-331760/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | Majuli | Pixabay (Banzaraguy) | https://pixabay.com/videos/id-214623/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | Ziro Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Clean_ziro_green_ziro.jpeg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | Havelock Island | Pixabay (SHAHNAWAZ_VIZAG) | https://pixabay.com/videos/id-293346/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | Konark Sun Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sun_Temple_Konark_Odisha.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | Sundarbans | Pixabay (Bangladesh1) | https://pixabay.com/videos/id-370662/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | Kolkata | Pixabay (kuntal2005) | https://pixabay.com/videos/id-343037/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | Bodh Gaya | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Great_Buddha_statue_at_Bodh_Gaya,_Bihar,_India.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-04-54 | India | Pixabay (vikashkr50) | https://pixabay.com/videos/id-183880/ | Pixabay Content License, commercial use, no attribution needed |

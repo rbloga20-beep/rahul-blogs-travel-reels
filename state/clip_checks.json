@@ -1265,5 +1265,115 @@
   "v": 2,
   "ok": true,
   "s": 8
+ },
+ "pxb331760|Cherrapunji": {
+  "v": 2,
+  "ok": true,
+  "s": 6
+ },
+ "pxb214623|Majuli": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc49803077|Ziro Valley": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc160088869|Ziro Valley": {
+  "v": 2,
+  "ok": false,
+  "s": 4
+ },
+ "wmc160088819|Ziro Valley": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc192580045|Ziro Valley": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb293346|Havelock Island": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb276914|Puri": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc154923638|Konark Sun Temple": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc154923743|Konark Sun Temple": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb370662|Sundarbans": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb369433|Sundarbans": {
+  "v": 2,
+  "ok": true,
+  "s": 6
+ },
+ "pxb118267|Kolkata": {
+  "v": 2,
+  "ok": false,
+  "s": 4
+ },
+ "pxb343037|Kolkata": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb104682|Kolkata": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "wmc163123151|Bodh Gaya": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb118267|Delhi": {
+  "v": 2,
+  "ok": false,
+  "s": 4
+ },
+ "pxb348015|Delhi": {
+  "v": 2,
+  "ok": true,
+  "s": 6
+ },
+ "pxb134426|Delhi": {
+  "v": 2,
+  "ok": true,
+  "s": 6
+ },
+ "pxb44042|Ayodhya": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb319843|India": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb183880|India": {
+  "v": 2,
+  "ok": true,
+  "s": 9
  }
 }
