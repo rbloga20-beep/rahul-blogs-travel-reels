@@ -114,5 +114,63 @@
    "name": "St. Stephen's Church",
    "q": "St Stephens Church"
   }
+ ],
+ "Bangalore": [
+  {
+   "name": "Bangalore Palace",
+   "q": "Bangalore Palace"
+  },
+  {
+   "name": "Lalbagh Botanical Garden",
+   "q": "Lalbagh Glass House"
+  },
+  {
+   "name": "Cubbon Park",
+   "q": "Cubbon Park"
+  },
+  {
+   "name": "Nandi Hills",
+   "q": "Nandi Hills sunrise"
+  },
+  {
+   "name": "Vidhana Soudha",
+   "q": "Vidhana Soudha"
+  },
+  {
+   "name": "Church Street",
+   "q": "Church Street"
+  },
+  {
+   "name": "ISKCON Temple Bangalore",
+   "q": "ISKCON Bangalore"
+  },
+  {
+   "name": "Shivoham Shiva Temple",
+   "q": "Shivoham Shiva Temple"
+  },
+  {
+   "name": "Bannerghatta National Park",
+   "q": "Bannerghatta Butterfly Park"
+  },
+  {
+   "name": "Tipu Sultan's Summer Palace",
+   "q": "Tipu Sultan Palace"
+  },
+  {
+   "name": "Ulsoor Lake",
+   "q": "Ulsoor Lake"
+  },
+  {
+   "name": "Bull Temple",
+   "q": "Dodda Basavana Gudi"
+  },
+  {
+   "name": "Pyramid Valley",
+   "q": "Pyramid Valley International"
+  },
+  {
+   "name": "Skandagiri",
+   "q": "Skandagiri trek"
+  }
  ]
 }

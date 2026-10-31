@@ -848,5 +848,27 @@
    "Wikimedia Commons https://commons.wikimedia.org/wiki/File:View_of_Pykara_lake_from_a_boat.jpg"
   ],
   "dry": true
+ },
+ {
+  "id": "2026-10-31-17-15",
+  "date": "2026-10-31T17:38:18.021Z",
+  "places": [
+   "Lalbagh Botanical Garden",
+   "Cubbon Park",
+   "Vidhana Soudha",
+   "Tipu Sultan's Summer Palace"
+  ],
+  "hook": "Bangalore / Top 4 places in Bangalore",
+  "sub": "Top 4 places in Bangalore",
+  "music": "Feel Alive.mp3",
+  "seconds": 14.97,
+  "clips": [
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Vidhana_Soudha,_14_February_2022_-_cropped.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Lalbagh_Glass_House_In_Nignt.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Flowering_tree_at_Cubbon_Park.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Vidhana_Soudha,_14_February_2022.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Outside_Tipu_Sultan%27s_Summer_Palace.jpg"
+  ],
+  "dry": true
  }
 ]

@@ -366,11 +366,7 @@
   "ok": false,
   "s": 7
  },
- "wmc131056683|Nandi Hills": {
-  "v": 2,
-  "ok": false,
-  "s": 2
- },
+ "wmc131056683|Nandi Hills": null,
  "pxb118267|Bangalore": {
   "v": 2,
   "ok": false,
@@ -1646,7 +1642,11 @@
   "ok": false,
   "s": 2
  },
- "wmc174625174|Government Rose Garden": null,
+ "wmc174625174|Government Rose Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
  "wmc133469940|9th Mile Shooting Point": {
   "v": 3,
   "ok": false,
@@ -1668,8 +1668,8 @@
   "s": 9
  },
  "wmc29614606|Avalanche Lake": {
-  "v": 2,
-  "ok": true,
+  "v": 3,
+  "ok": false,
   "s": 9
  },
  "wmc29614586|Avalanche Lake": {
@@ -1678,7 +1678,7 @@
   "s": 4
  },
  "wmc79581306|Avalanche Lake": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 10
  },
@@ -1687,7 +1687,11 @@
   "ok": false,
   "s": 1
  },
- "wmc53477419|Ketti Valley Viewpoint": null,
+ "wmc53477419|Ketti Valley Viewpoint": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
  "wmc53477525|Ketti Valley Viewpoint": {
   "v": 3,
   "ok": false,
@@ -1703,8 +1707,16 @@
   "ok": false,
   "s": 6
  },
- "wmc156981863|St. Stephen's Church": null,
- "wmc182184992|St. Stephen's Church": null,
+ "wmc156981863|St. Stephen's Church": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc182184992|St. Stephen's Church": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
  "wmc174625391|Government Rose Garden": {
   "v": 3,
   "ok": false,
@@ -1730,7 +1742,11 @@
   "ok": false,
   "s": 7
  },
- "wmc174625669|Government Rose Garden": null,
+ "wmc174625669|Government Rose Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
  "wmc160709812|Avalanche Lake": {
   "v": 3,
   "ok": false,
@@ -1750,5 +1766,166 @@
   "v": 3,
   "ok": false,
   "s": 4
- }
+ },
+ "wmc176439716|Kolukkumalai Tea Estate": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc179967390|Eravikulam National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc179967387|Eravikulam National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb3712|Top Station": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb3526|Top Station": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc34421431|Gap Road": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc114684662|Echo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc34421435|Gap Road": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc114684638|Echo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc114684624|Echo Point": null,
+ "wmc61915165|Echo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc34421465|Gap Road": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb103316|Photo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb103313|Photo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc34421463|Gap Road": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb103308|Photo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103312|Photo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc51167506|Lockhart Gap Viewpoint": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc107816423|Anayirangal Dam": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc160699999|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc160703074|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc162526138|Cubbon Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc162526184|Cubbon Park": null,
+ "wmc162525393|Cubbon Park": null,
+ "wmc162526165|Cubbon Park": null,
+ "wmc24284874|Lalbagh Botanical Garden": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc145504233|Vidhana Soudha": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc145509329|Vidhana Soudha": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb209973|Church Street": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb98377|Church Street": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb360741|Church Street": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb37290|Church Street": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc5887331|Ulsoor Lake": null,
+ "wmc75809245|Tipu Sultan's Summer Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc40521059|Bull Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc40521220|Bull Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc67486492|Pyramid Valley": null
 }
