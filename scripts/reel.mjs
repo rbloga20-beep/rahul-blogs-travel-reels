@@ -157,7 +157,8 @@ async function verifyClips(place, clips, max = 7) {
     if (out.length >= max) break;
     const key = `${c.id}|${place.name}`;
     // at most 4 new checks per place: 10 checks on one spot made a run take 15 min (Actions minutes are limited)
-    if (!cache[key]?.v && c.thumb && visionLeft > 0 && asked < 4) { // v2 verdicts also check "view of the place"
+    // v3 verdicts check "view of the place" and "the right place, not a same-name one abroad"; older ones are re-asked
+    if ((cache[key]?.v || 0) < 3 && c.thumb && visionLeft > 0 && asked < 4) {
       visionLeft--; asked++;
       try {
         const ir = await fetch(c.thumb, { headers: { 'User-Agent': 'RahulBlogsReels/1.0' } });
@@ -183,12 +184,12 @@ async function verifyClips(place, clips, max = 7) {
         if (!r.ok) throw new Error(`gemini HTTP ${r.status} ${short(r.body).slice(0, 120)}`);
         const j = JSON.parse(r.body.candidates[0].content.parts.map((p) => p.text || '').join(''));
         // landscapes only: our text must never sit on a person
-        cache[key] = { v: 2, ok: !!j.plausible && !!j.place_view && !j.has_text_or_watermark && !j.person_main_subject && (j.scenic || 0) >= 6, s: j.scenic || 0 };
+        cache[key] = { v: 3, ok: !!j.plausible && !!j.place_view && !j.has_text_or_watermark && !j.person_main_subject && (j.scenic || 0) >= 6, s: j.scenic || 0 };
       } catch (e) { log(`vision check failed (${e.message}), keeping clip`); cache[key] = null; }
     }
     // every clip needs a passed Gemini check: tags alone let an American "Avalanche Lake" into an Ooty reel. Only when
     // Gemini itself failed (null) may a video go on its tags; photos never.
-    if (cache[key]?.ok || (cache[key] === null && c.type !== 'photo')) out.push(c);
+    if ((cache[key]?.ok && cache[key].v >= 3) || (cache[key] === null && c.type !== 'photo')) out.push(c);
     else if (cache[key]) log(`  dropped ${c.page} (${cache[key].s}/10 or not ${place.name})`);
   }
   writeJson('state/clip_checks.json', cache); // dry runs keep verdicts too, so nothing is asked twice
