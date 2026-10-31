@@ -1115,5 +1115,155 @@
   "v": 2,
   "ok": false,
   "s": 8
+ },
+ "pxb118267|Mumbai": {
+  "v": 2,
+  "ok": false,
+  "s": 4
+ },
+ "pxb191141|Mumbai": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb156839|Mumbai": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "pxb99994|Mumbai": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb309734|Mumbai": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "pxb264246|Mumbai": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "pxb227808|Mumbai": {
+  "v": 2,
+  "ok": true,
+  "s": 7
+ },
+ "pxb99994|Lonavala": {
+  "v": 2,
+  "ok": true,
+  "s": 9
+ },
+ "pxb99993|Lonavala": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc36247122|Ajanta Caves": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc144528938|Ellora Caves": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "wmc94940066|Rann of Kutch": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "pxb81466|Gir National Park": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb256964|Gir National Park": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc115404869|Statue of Unity": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "wmc130513930|Statue of Unity": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc77696523|Statue of Unity": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc77696521|Statue of Unity": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc130513727|Statue of Unity": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc130513703|Statue of Unity": {
+  "v": 2,
+  "ok": false,
+  "s": 6
+ },
+ "wmc108079445|Statue of Unity": {
+  "v": 2,
+  "ok": false,
+  "s": 7
+ },
+ "wmc153306372|Statue of Unity": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc130513751|Statue of Unity": {
+  "v": 2,
+  "ok": false,
+  "s": 9
+ },
+ "pxb373602|Khajuraho": {
+  "v": 2,
+  "ok": false,
+  "s": 8
+ },
+ "wmc154504748|Pachmarhi": {
+  "v": 2,
+  "ok": false,
+  "s": 1
+ },
+ "wmc169844849|Pachmarhi": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb221259|Darjeeling": {
+  "v": 2,
+  "ok": true,
+  "s": 8
+ },
+ "pxb70333|Darjeeling": {
+  "v": 2,
+  "ok": false,
+  "s": 3
+ },
+ "pxb70331|Darjeeling": {
+  "v": 2,
+  "ok": false,
+  "s": 2
+ },
+ "pxb143123|Darjeeling": {
+  "v": 2,
+  "ok": true,
+  "s": 8
  }
 }

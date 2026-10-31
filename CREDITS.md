@@ -160,3 +160,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-10-30-16-56 | Golden Temple | Pixabay (Eartvideos) | https://pixabay.com/videos/id-209310/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-30-16-56 | Goa | Pixabay (u_89pkru9gtp) | https://pixabay.com/videos/id-358730/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-10-30-16-56 | India | Pixabay (e_m_o_n) | https://pixabay.com/videos/id-132652/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | India | Pixabay (Anilsharma26) | https://pixabay.com/videos/id-257127/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | Mumbai | Pixabay (fahadputhawala) | https://pixabay.com/videos/id-191141/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | Lonavala | Pixabay (mhetres999) | https://pixabay.com/videos/id-99994/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | Ellora Caves | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ellora_Caves,_India.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | Gir National Park | Pixabay (mda621326) | https://pixabay.com/videos/id-81466/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | Pachmarhi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Chauragarh.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | Darjeeling | Pixabay (IndiPic) | https://pixabay.com/videos/id-221259/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | Gangtok | Pixabay (bikashshah08) | https://pixabay.com/videos/id-224349/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | Shillong | Pixabay (Aristonjohn) | https://pixabay.com/videos/id-334813/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-10-31-02-04 | India | Pixabay (paman_willy) | https://pixabay.com/videos/id-333146/ | Pixabay Content License, commercial use, no attribution needed |
