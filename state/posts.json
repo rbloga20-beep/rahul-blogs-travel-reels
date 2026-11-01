@@ -870,5 +870,43 @@
    "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Outside_Tipu_Sultan%27s_Summer_Palace.jpg"
   ],
   "dry": true
+ },
+ {
+  "id": "2026-11-01-02-11",
+  "date": "2026-11-01T02:16:32.706Z",
+  "places": [
+   "Lalbagh Botanical Garden",
+   "Cubbon Park",
+   "Vidhana Soudha",
+   "Tipu Sultan's Summer Palace"
+  ],
+  "hook": "Bangalore / 4 best spots in Bangalore",
+  "sub": "4 best spots in Bangalore",
+  "music": "Forest Walk.mp3",
+  "seconds": 15.67,
+  "clips": [
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Shiva_lingam_at_Cubbon_Park.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Lalbagh_Glass_House_In_Nignt.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:V-shaped_tree_at_Cubbon_Park.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Vidhana_Soudha,_14_February_2022_-_cropped.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Outside_Tipu_Sultan%27s_Summer_Palace.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Vidhana_Soudha,_14_February_2022.jpg"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "1676820504071980",
+   "url": "https://www.facebook.com/reel/1676820504071980/"
+  },
+  "ig": {
+   "id": "18346177192255477",
+   "url": "https://www.instagram.com/reel/DfLo85Gjz9T/"
+  },
+  "fbStory": {
+   "id": "1798142394850882"
+  },
+  "igStory": {
+   "id": "18108772315956338",
+   "url": "https://www.instagram.com/stories/rahulblogsyt/4020487712428023424"
+  }
  }
 ]

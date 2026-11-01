@@ -366,9 +366,13 @@
   "ok": false,
   "s": 7
  },
- "wmc131056683|Nandi Hills": null,
+ "wmc131056683|Nandi Hills": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
  "pxb118267|Bangalore": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 4
  },
@@ -1812,7 +1816,11 @@
   "ok": false,
   "s": 8
  },
- "wmc114684624|Echo Point": null,
+ "wmc114684624|Echo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
  "wmc61915165|Echo Point": {
   "v": 3,
   "ok": false,
@@ -1874,8 +1882,16 @@
   "s": 8
  },
  "wmc162526184|Cubbon Park": null,
- "wmc162525393|Cubbon Park": null,
- "wmc162526165|Cubbon Park": null,
+ "wmc162525393|Cubbon Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc162526165|Cubbon Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
  "wmc24284874|Lalbagh Botanical Garden": {
   "v": 3,
   "ok": true,
@@ -1911,7 +1927,11 @@
   "ok": false,
   "s": 7
  },
- "wmc5887331|Ulsoor Lake": null,
+ "wmc5887331|Ulsoor Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
  "wmc75809245|Tipu Sultan's Summer Palace": {
   "v": 3,
   "ok": true,
@@ -1927,5 +1947,124 @@
   "ok": false,
   "s": 6
  },
- "wmc67486492|Pyramid Valley": null
+ "wmc67486492|Pyramid Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb103311|Photo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc34421429|Gap Road": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb103310|Photo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103315|Photo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc34421443|Gap Road": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb103314|Photo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc34421470|Gap Road": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc26684184|Echo Point": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc34421469|Gap Road": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc29614587|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc29614618|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc160700051|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc29614610|Avalanche Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb37289|Church Street": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb37292|Church Street": {
+  "v": 3,
+  "ok": false,
+  "s": 0
+ },
+ "pxb37291|Church Street": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb28199|Church Street": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc66448464|Pyramid Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc66992495|Pyramid Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc66992477|Pyramid Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb254020|Bangalore": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb254019|Bangalore": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb254016|Bangalore": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ }
 }
