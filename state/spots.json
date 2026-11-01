@@ -172,5 +172,295 @@
    "name": "Skandagiri",
    "q": "Skandagiri trek"
   }
+ ],
+ "Coorg": [
+  {
+   "name": "Abbey Falls",
+   "q": "Abbey Falls"
+  },
+  {
+   "name": "Raja's Seat",
+   "q": "Raja Seat"
+  },
+  {
+   "name": "Namdroling Monastery",
+   "q": "Namdroling Monastery"
+  },
+  {
+   "name": "Dubare Elephant Camp",
+   "q": "Dubare Elephant Camp"
+  },
+  {
+   "name": "Mandalpatti Viewpoint",
+   "q": "Mandalpatti Viewpoint"
+  },
+  {
+   "name": "Tadiandamol Peak",
+   "q": "Tadiandamol Peak"
+  },
+  {
+   "name": "Iruppu Falls",
+   "q": "Iruppu Falls"
+  },
+  {
+   "name": "Kaveri Nisargadhama",
+   "q": "Kaveri Nisargadhama"
+  },
+  {
+   "name": "Talakaveri",
+   "q": "Talakaveri"
+  },
+  {
+   "name": "Chelavara Falls",
+   "q": "Chelavara Falls"
+  },
+  {
+   "name": "Madikeri Fort",
+   "q": "Madikeri Fort"
+  },
+  {
+   "name": "Honnamana Kere Lake",
+   "q": "Honnamana Kere"
+  },
+  {
+   "name": "Barapole River Rafting",
+   "q": "Barapole River Rafting"
+  },
+  {
+   "name": "Omkareshwara Temple",
+   "q": "Omkareshwara Temple"
+  }
+ ],
+ "Kodaikanal": [
+  {
+   "name": "Kodaikanal Lake",
+   "q": "Kodaikanal Lake"
+  },
+  {
+   "name": "Coaker's Walk",
+   "q": "Coakers Walk"
+  },
+  {
+   "name": "Pillar Rocks",
+   "q": "Pillar Rocks"
+  },
+  {
+   "name": "Pine Forest",
+   "q": "Kodaikanal Pine Forest"
+  },
+  {
+   "name": "Dolphin's Nose",
+   "q": "Dolphins Nose"
+  },
+  {
+   "name": "Guna Caves",
+   "q": "Guna Caves"
+  },
+  {
+   "name": "Bryant Park",
+   "q": "Bryant Park"
+  },
+  {
+   "name": "Silver Cascade Falls",
+   "q": "Silver Cascade Falls"
+  },
+  {
+   "name": "Mannavanur Lake",
+   "q": "Mannavanur Lake"
+  },
+  {
+   "name": "Vattakanal Falls",
+   "q": "Vattakanal Falls"
+  },
+  {
+   "name": "Berijam Lake",
+   "q": "Berijam Lake"
+  },
+  {
+   "name": "Moir Point",
+   "q": "Moir Point"
+  },
+  {
+   "name": "Kurinji Andavar Temple",
+   "q": "Kurinji Andavar"
+  },
+  {
+   "name": "Bear Shola Falls",
+   "q": "Bear Shola Falls"
+  }
+ ],
+ "Mysore": [
+  {
+   "name": "Mysore Palace",
+   "q": "Mysore Palace"
+  },
+  {
+   "name": "Chamundi Hill",
+   "q": "Chamundi Hill"
+  },
+  {
+   "name": "Brindavan Gardens",
+   "q": "Brindavan Gardens"
+  },
+  {
+   "name": "St. Philomena's Cathedral",
+   "q": "St Philomena Cathedral"
+  },
+  {
+   "name": "Devaraja Market",
+   "q": "Devaraja Market"
+  },
+  {
+   "name": "Lalitha Mahal Palace",
+   "q": "Lalitha Mahal"
+  },
+  {
+   "name": "Venugopala Swamy Temple",
+   "q": "Venugopala Swamy Temple"
+  },
+  {
+   "name": "Ranganathittu Bird Sanctuary",
+   "q": "Ranganathittu"
+  },
+  {
+   "name": "Karanji Lake",
+   "q": "Karanji Lake"
+  },
+  {
+   "name": "Kukkarahalli Lake",
+   "q": "Kukkarahalli Lake"
+  },
+  {
+   "name": "Balmuri Falls",
+   "q": "Balmuri Falls"
+  },
+  {
+   "name": "Somanathapura Temple",
+   "q": "Somanathapura Temple"
+  },
+  {
+   "name": "Jaganmohan Palace",
+   "q": "Jaganmohan Palace"
+  },
+  {
+   "name": "Mysore Zoo",
+   "q": "Mysore Zoo"
+  }
+ ],
+ "Kochi": [
+  {
+   "name": "Chinese Fishing Nets",
+   "q": "Chinese Fishing Nets"
+  },
+  {
+   "name": "Fort Kochi Beach",
+   "q": "Fort Kochi Beach"
+  },
+  {
+   "name": "Jew Town",
+   "q": "Jew Town Mattancherry"
+  },
+  {
+   "name": "Mattancherry Palace",
+   "q": "Mattancherry Dutch Palace"
+  },
+  {
+   "name": "Paradesi Synagogue",
+   "q": "Paradesi Synagogue"
+  },
+  {
+   "name": "Santa Cruz Basilica",
+   "q": "Santa Cruz Basilica"
+  },
+  {
+   "name": "St. Francis Church",
+   "q": "St Francis Church"
+  },
+  {
+   "name": "Marine Drive",
+   "q": "Marine Drive Promenade"
+  },
+  {
+   "name": "Cherai Beach",
+   "q": "Cherai Beach"
+  },
+  {
+   "name": "Kumbalangi Village",
+   "q": "Kumbalangi Backwaters"
+  },
+  {
+   "name": "Hill Palace Museum",
+   "q": "Hill Palace Tripunithura"
+  },
+  {
+   "name": "Bolgatty Palace",
+   "q": "Bolgatty Palace"
+  },
+  {
+   "name": "Willingdon Island",
+   "q": "Willingdon Island"
+  },
+  {
+   "name": "Vypeen Lighthouse",
+   "q": "Vypeen Lighthouse"
+  }
+ ],
+ "Hyderabad": [
+  {
+   "name": "Charminar",
+   "q": "Charminar"
+  },
+  {
+   "name": "Golconda Fort",
+   "q": "Golconda Fort"
+  },
+  {
+   "name": "Taj Falaknuma Palace",
+   "q": "Falaknuma Palace"
+  },
+  {
+   "name": "Chowmahalla Palace",
+   "q": "Chowmahalla Palace"
+  },
+  {
+   "name": "Ramoji Film City",
+   "q": "Ramoji Film City"
+  },
+  {
+   "name": "Durgam Cheruvu Cable Bridge",
+   "q": "Durgam Cheruvu Bridge"
+  },
+  {
+   "name": "Hussain Sagar Lake",
+   "q": "Hussain Sagar"
+  },
+  {
+   "name": "Qutb Shahi Tombs",
+   "q": "Qutb Shahi Tombs"
+  },
+  {
+   "name": "Birla Mandir",
+   "q": "Birla Mandir"
+  },
+  {
+   "name": "Salar Jung Museum",
+   "q": "Salar Jung Museum"
+  },
+  {
+   "name": "Statue of Equality",
+   "q": "Statue of Equality"
+  },
+  {
+   "name": "Mecca Masjid",
+   "q": "Mecca Masjid"
+  },
+  {
+   "name": "Shilparamam",
+   "q": "Shilparamam"
+  },
+  {
+   "name": "Taramati Baradari",
+   "q": "Taramati Baradari"
+  }
  ]
 }

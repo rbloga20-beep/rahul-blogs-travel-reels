@@ -10,5 +10,25 @@
  "Bangalore": {
   "date": "2026-11-01",
   "status": "posted"
+ },
+ "Coorg": {
+  "date": "2026-11-01",
+  "status": "no footage"
+ },
+ "Kodaikanal": {
+  "date": "2026-11-01",
+  "status": "no footage"
+ },
+ "Mysore": {
+  "date": "2026-11-01",
+  "status": "no footage"
+ },
+ "Kochi": {
+  "date": "2026-11-01",
+  "status": "no footage"
+ },
+ "Hyderabad": {
+  "date": "2026-11-01",
+  "status": "posted"
  }
 }

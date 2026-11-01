@@ -517,14 +517,14 @@
   "s": 5
  },
  "wmc180576657|Golconda Fort": {
-  "v": 2,
-  "ok": false,
-  "s": 5
- },
- "wmc180576611|Golconda Fort": {
-  "v": 2,
+  "v": 3,
   "ok": true,
   "s": 6
+ },
+ "wmc180576611|Golconda Fort": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  },
  "wmc180576470|Golconda Fort": {
   "v": 2,
@@ -2066,5 +2066,247 @@
   "v": 3,
   "ok": false,
   "s": 9
+ },
+ "wmc23282536|Abbey Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc155090141|Kodaikanal Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb385520|Pillar Rocks": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc17240339|Kodaikanal Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb235065|Pillar Rocks": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc4545105|Kodaikanal Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb130438|Pillar Rocks": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb171066|Pillar Rocks": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc348618|Dolphin's Nose": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc97088879|Pine Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc65388418|Pine Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc156248111|Pine Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc7295324|Pine Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb264595|Silver Cascade Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc170647165|Bryant Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb264594|Silver Cascade Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc4362002|Bryant Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb264593|Silver Cascade Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc155146598|Mannavanur Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc54536748|Chamundi Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc110551633|Venugopala Swamy Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc110551632|Venugopala Swamy Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc109794837|Balmuri Falls": null,
+ "wmc40566473|Jaganmohan Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc40566470|Jaganmohan Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc40566469|Jaganmohan Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc17814221|Chinese Fishing Nets": null,
+ "wmc47927867|Jew Town": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc52954137|Fort Kochi Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc1769935|Santa Cruz Basilica": null,
+ "wmc47908129|Santa Cruz Basilica": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc179713763|Mattancherry Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb285871|St. Francis Church": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc153131217|Marine Drive": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc61984544|Marine Drive": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc201137472|Marine Drive": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc3711855|Taj Falaknuma Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc147254755|Charminar": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc15477114|Taj Falaknuma Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc159793843|Chowmahalla Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc178621531|Durgam Cheruvu Cable Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc159793846|Chowmahalla Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc143126518|Qutb Shahi Tombs": null,
+ "wmc143126560|Qutb Shahi Tombs": null,
+ "wmc143126504|Qutb Shahi Tombs": null,
+ "wmc143126506|Qutb Shahi Tombs": null,
+ "pxb175523|Mecca Masjid": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb199767|Mecca Masjid": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb263927|Mecca Masjid": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb176190|Mecca Masjid": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc146202940|Shilparamam": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc146203646|Shilparamam": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc146203244|Shilparamam": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc146203451|Shilparamam": {
+  "v": 3,
+  "ok": false,
+  "s": 2
  }
 }
