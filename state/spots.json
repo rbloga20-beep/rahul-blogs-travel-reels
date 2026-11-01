@@ -578,5 +578,63 @@
    "name": "Krishnapuram Palace",
    "q": "Krishnapuram Palace"
   }
+ ],
+ "Wayanad": [
+  {
+   "name": "Chembra Peak",
+   "q": "Chembra Peak"
+  },
+  {
+   "name": "Banasura Sagar Dam",
+   "q": "Banasura Sagar"
+  },
+  {
+   "name": "Edakkal Caves",
+   "q": "Edakkal Caves"
+  },
+  {
+   "name": "900 Kandi Glass Bridge",
+   "q": "900 Kandi"
+  },
+  {
+   "name": "Kuruvadweep",
+   "q": "Kuruvadweep"
+  },
+  {
+   "name": "Soochipara Waterfalls",
+   "q": "Soochipara Falls"
+  },
+  {
+   "name": "Meenmutty Waterfalls",
+   "q": "Meenmutty Falls"
+  },
+  {
+   "name": "Pookode Lake",
+   "q": "Pookode Lake"
+  },
+  {
+   "name": "Lakkidi View Point",
+   "q": "Lakkidi Viewpoint"
+  },
+  {
+   "name": "Thirunelly Temple",
+   "q": "Thirunelly Temple"
+  },
+  {
+   "name": "Karapuzha Dam",
+   "q": "Karapuzha Dam"
+  },
+  {
+   "name": "Phantom Rock",
+   "q": "Phantom Rock"
+  },
+  {
+   "name": "Muthanga Wildlife Sanctuary",
+   "q": "Muthanga Wildlife Sanctuary"
+  },
+  {
+   "name": "Kanthanpara Waterfalls",
+   "q": "Kanthanpara Falls"
+  }
  ]
 }

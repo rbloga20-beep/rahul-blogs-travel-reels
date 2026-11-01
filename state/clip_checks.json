@@ -2433,5 +2433,47 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc10257231|Kuruvadweep": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc8043650|Soochipara Waterfalls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc21376945|900 Kandi Glass Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc57853931|900 Kandi Glass Bridge": null,
+ "wmc68608952|900 Kandi Glass Bridge": null,
+ "wmc79556685|900 Kandi Glass Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc13271422|Meenmutty Waterfalls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc60704886|Meenmutty Waterfalls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb41978|Phantom Rock": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc19341340|Thirunelly Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }
