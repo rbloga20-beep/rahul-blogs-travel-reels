@@ -636,5 +636,121 @@
    "name": "Kanthanpara Waterfalls",
    "q": "Kanthanpara Falls"
   }
+ ],
+ "Puducherry": [
+  {
+   "name": "Promenade Beach",
+   "q": "Promenade Beach"
+  },
+  {
+   "name": "White Town",
+   "q": "White Town"
+  },
+  {
+   "name": "Matrimandir",
+   "q": "Matrimandir Auroville"
+  },
+  {
+   "name": "Paradise Beach",
+   "q": "Paradise Beach"
+  },
+  {
+   "name": "Sri Aurobindo Ashram",
+   "q": "Sri Aurobindo Ashram"
+  },
+  {
+   "name": "Manakula Vinayagar Temple",
+   "q": "Manakula Vinayagar Temple"
+  },
+  {
+   "name": "Basilica of the Sacred Heart of Jesus",
+   "q": "Sacred Heart Basilica"
+  },
+  {
+   "name": "Immaculate Conception Cathedral",
+   "q": "Immaculate Conception Cathedral"
+  },
+  {
+   "name": "Serenity Beach",
+   "q": "Serenity Beach"
+  },
+  {
+   "name": "Arikamedu",
+   "q": "Arikamedu"
+  },
+  {
+   "name": "Old Lighthouse",
+   "q": "Pondicherry Old Lighthouse"
+  },
+  {
+   "name": "Pondicherry Botanical Garden",
+   "q": "Pondicherry Botanical Garden"
+  },
+  {
+   "name": "Chunnambar Boat House",
+   "q": "Chunnambar Boat House"
+  },
+  {
+   "name": "French War Memorial",
+   "q": "French War Memorial"
+  }
+ ],
+ "Chikmagalur": [
+  {
+   "name": "Mullayanagiri Peak",
+   "q": "Mullayanagiri"
+  },
+  {
+   "name": "Baba Budangiri",
+   "q": "Baba Budangiri"
+  },
+  {
+   "name": "Hirekolale Lake",
+   "q": "Hirekolale Lake"
+  },
+  {
+   "name": "Z Point Kemmangundi",
+   "q": "Z Point"
+  },
+  {
+   "name": "Jhari Waterfalls",
+   "q": "Jhari Falls"
+  },
+  {
+   "name": "Hebbe Falls",
+   "q": "Hebbe Falls"
+  },
+  {
+   "name": "Devaramane Viewpoint",
+   "q": "Devaramane"
+  },
+  {
+   "name": "Rani Jhari Viewpoint",
+   "q": "Rani Jhari"
+  },
+  {
+   "name": "Kyathanamakki",
+   "q": "Kyathanamakki"
+  },
+  {
+   "name": "Ayyanakere Lake",
+   "q": "Ayyanakere"
+  },
+  {
+   "name": "Kalhatti Falls",
+   "q": "Kalhatti Falls"
+  },
+  {
+   "name": "Manikyadhara Falls",
+   "q": "Manikyadhara Falls"
+  },
+  {
+   "name": "Bhadra Reservoir Backwaters",
+   "q": "Bhadra Reservoir"
+  },
+  {
+   "name": "Kudremukh Peak",
+   "q": "Kudremukh"
+  }
  ]
 }

@@ -2475,5 +2475,197 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "pxb259482|White Town": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb221921|Promenade Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb259479|White Town": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb259481|White Town": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb259489|White Town": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb221922|Promenade Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb75088|Promenade Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb375338|Promenade Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb6399|Paradise Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc167645981|Manakula Vinayagar Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc12256947|Sri Aurobindo Ashram": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb42894|Paradise Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb7262|Paradise Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb38460|Paradise Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb114826|Serenity Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc77956724|Basilica of the Sacred Heart of Jesus": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc26911160|Basilica of the Sacred Heart of Jesus": null,
+ "pxb114827|Serenity Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc35901237|Immaculate Conception Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc56589154|Immaculate Conception Cathedral": null,
+ "wmc77956723|Basilica of the Sacred Heart of Jesus": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc163242540|Immaculate Conception Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb352849|Serenity Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb161045|Serenity Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc41721120|Old Lighthouse": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc114221807|French War Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc31761462|French War Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc9449701|Mullayanagiri Peak": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc148272094|Jhari Waterfalls": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc120304111|Jhari Waterfalls": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc4935659|Hebbe Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb103316|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb103312|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103309|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103314|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc58198675|Kudremukh Peak": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb103310|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103313|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103308|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103307|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 9
  }
 }
