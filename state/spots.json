@@ -462,5 +462,121 @@
    "name": "Taramati Baradari",
    "q": "Taramati Baradari"
   }
+ ],
+ "Chennai": [
+  {
+   "name": "Marina Beach",
+   "q": "Marina Beach"
+  },
+  {
+   "name": "Kapaleeshwarar Temple",
+   "q": "Kapaleeshwarar Temple"
+  },
+  {
+   "name": "San Thome Basilica",
+   "q": "San Thome Basilica"
+  },
+  {
+   "name": "Shore Temple, Mahabalipuram",
+   "q": "Shore Temple"
+  },
+  {
+   "name": "Pancha Rathas",
+   "q": "Pancha Rathas"
+  },
+  {
+   "name": "Krishna's Butterball",
+   "q": "Krishna Butterball"
+  },
+  {
+   "name": "Elliot's Beach",
+   "q": "Elliot Beach"
+  },
+  {
+   "name": "Chennai Central Station",
+   "q": "Chennai Central"
+  },
+  {
+   "name": "Ripon Building",
+   "q": "Ripon Building"
+  },
+  {
+   "name": "Valluvar Kottam",
+   "q": "Valluvar Kottam"
+  },
+  {
+   "name": "DakshinaChitra",
+   "q": "DakshinaChitra"
+  },
+  {
+   "name": "Broken Bridge",
+   "q": "Broken Bridge"
+  },
+  {
+   "name": "Covelong Beach",
+   "q": "Covelong Beach"
+  },
+  {
+   "name": "St. Thomas Mount",
+   "q": "St Thomas Mount"
+  }
+ ],
+ "Alleppey": [
+  {
+   "name": "Alappuzha Beach Pier",
+   "q": "Alappuzha Beach Pier"
+  },
+  {
+   "name": "Alappuzha Lighthouse",
+   "q": "Alappuzha Lighthouse"
+  },
+  {
+   "name": "Marari Beach",
+   "q": "Marari Beach"
+  },
+  {
+   "name": "Vembanad Lake",
+   "q": "Vembanad Lake"
+  },
+  {
+   "name": "Kuttanad Paddy Fields",
+   "q": "Kuttanad"
+  },
+  {
+   "name": "Punnamada Lake",
+   "q": "Punnamada Lake"
+  },
+  {
+   "name": "Pathiramanal Island",
+   "q": "Pathiramanal Island"
+  },
+  {
+   "name": "Champakulam Church",
+   "q": "Champakulam Church"
+  },
+  {
+   "name": "Ambalappuzha Temple",
+   "q": "Ambalappuzha Temple"
+  },
+  {
+   "name": "Arthunkal Basilica",
+   "q": "Arthunkal Basilica"
+  },
+  {
+   "name": "Andhakaranazhi Beach",
+   "q": "Andhakaranazhi Beach"
+  },
+  {
+   "name": "Thottappally Spillway",
+   "q": "Thottappally Spillway"
+  },
+  {
+   "name": "Kavalam Backwaters",
+   "q": "Kavalam Backwaters"
+  },
+  {
+   "name": "Krishnapuram Palace",
+   "q": "Krishnapuram Palace"
+  }
  ]
 }

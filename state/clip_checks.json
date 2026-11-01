@@ -2308,5 +2308,130 @@
   "v": 3,
   "ok": false,
   "s": 2
+ },
+ "pxb241798|Marina Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb199272|Marina Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb21210|Marina Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb236261|Marina Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb7266|Shore Temple, Mahabalipuram": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb77401|Shore Temple, Mahabalipuram": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc62068870|Elliot's Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc179707777|Ripon Building": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc21722883|Ripon Building": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc15972816|Ripon Building": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc3563899|Ripon Building": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb326083|Broken Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb65621|Broken Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb49338|Broken Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb49340|Broken Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc174090211|Alappuzha Beach Pier": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc179422229|Kuttanad Paddy Fields": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc179422231|Kuttanad Paddy Fields": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc174585458|Pathiramanal Island": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc140544729|Ambalappuzha Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc140544722|Ambalappuzha Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc140544724|Ambalappuzha Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc176705858|Arthunkal Basilica": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc176813695|Arthunkal Basilica": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc123189372|Krishnapuram Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

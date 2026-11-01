@@ -30,5 +30,13 @@
  "Hyderabad": {
   "date": "2026-11-01",
   "status": "posted"
+ },
+ "Chennai": {
+  "date": "2026-11-01",
+  "status": "no footage"
+ },
+ "Alleppey": {
+  "date": "2026-11-01",
+  "status": "posted"
  }
 }
