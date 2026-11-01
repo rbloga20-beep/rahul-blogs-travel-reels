@@ -2667,5 +2667,75 @@
   "v": 3,
   "ok": false,
   "s": 9
+ },
+ "pxb103315|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb103311|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb102360|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb102359|Z Point Kemmangundi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc130747503|Vittala Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc94529736|Virupaksha Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc101274476|Elephant Stables": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc107209303|Lakshmi Narasimha Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc107220171|Lakshmi Narasimha Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc107209294|Lakshmi Narasimha Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc107209275|Lakshmi Narasimha Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc165783776|Badavilinga Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc130936706|Mahanavami Dibba": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc130936705|Mahanavami Dibba": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

@@ -752,5 +752,63 @@
    "name": "Kudremukh Peak",
    "q": "Kudremukh"
   }
+ ],
+ "Hampi": [
+  {
+   "name": "Virupaksha Temple",
+   "q": "Virupaksha Temple"
+  },
+  {
+   "name": "Vittala Stone Chariot",
+   "q": "Vittala Stone Chariot"
+  },
+  {
+   "name": "Vittala Temple",
+   "q": "Vittala Temple"
+  },
+  {
+   "name": "Matanga Hill",
+   "q": "Matanga Hill"
+  },
+  {
+   "name": "Hemakuta Hill",
+   "q": "Hemakuta Hill"
+  },
+  {
+   "name": "Lotus Mahal",
+   "q": "Lotus Mahal"
+  },
+  {
+   "name": "Elephant Stables",
+   "q": "Elephant Stables"
+  },
+  {
+   "name": "Sanapur Lake",
+   "q": "Sanapur Lake"
+  },
+  {
+   "name": "Lakshmi Narasimha Temple",
+   "q": "Lakshmi Narasimha"
+  },
+  {
+   "name": "Achyutaraya Temple",
+   "q": "Achyutaraya Temple"
+  },
+  {
+   "name": "Mahanavami Dibba",
+   "q": "Mahanavami Dibba"
+  },
+  {
+   "name": "Badavilinga Temple",
+   "q": "Badavilinga"
+  },
+  {
+   "name": "Queen's Bath",
+   "q": "Queens Bath"
+  },
+  {
+   "name": "Tungabhadra Coracle Ride",
+   "q": "Tungabhadra Coracle"
+  }
  ]
 }
