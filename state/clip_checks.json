@@ -3507,5 +3507,379 @@
   "v": 3,
   "ok": true,
   "s": 6
+ },
+ "pxb298806|Kanaka Durga Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc167615069|Prakasam Barrage": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc152413414|Prakasam Barrage": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb139521|Krishna River": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc200484280|Victoria Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc200401105|Victoria Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc162634660|Victoria Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc200484403|Victoria Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc152054863|Kondapalli Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc74742710|Kondapalli Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc122264137|Amaravati Stupa": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc178410957|Amaravati Stupa": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc60373481|Mangalagiri Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc60373496|Mangalagiri Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc26724602|Pakhal Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc172832692|Kakatiya Musical Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc103051054|Kolanupaka Jain Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc172832702|Kakatiya Musical Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc172832681|Kakatiya Musical Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc103051189|Kolanupaka Jain Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc103125286|Kolanupaka Jain Temple": null,
+ "wmc103125265|Kolanupaka Jain Temple": null,
+ "wmc10987431|Kakatiya Musical Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc177681735|Padmakshi Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc68818427|Padmakshi Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc83533160|Agatti Island": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc4833750|Minicoy Island": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc107569101|Kiltan Island": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc107569100|Kiltan Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc126422719|Amini Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc126422717|Amini Island": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc123640476|Amini Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc146804924|Andrott Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc152810672|Amini Island": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc120464428|Andrott Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc120313357|Andrott Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc150518755|Suheli Par": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc122058080|Suheli Par": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc146798402|Suheli Par": null,
+ "wmc120871858|Suheli Par": null,
+ "wmc1780544|Bitra Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc111196598|Bitra Island": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc180312|Palolem Beach": null,
+ "wmc166726128|Basilica of Bom Jesus": null,
+ "wmc181379391|Basilica of Bom Jesus": null,
+ "wmc62340950|Old Manali": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc62300207|Old Manali": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc61847584|Old Manali": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc61768927|Old Manali": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc192737514|Jogini Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc192738091|Jogini Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc168898487|Manu Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc151157679|Beas River": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc62340950|Manu Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc168898489|Manu Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc62087909|Manu Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc152484604|Jal Mahal": null,
+ "wmc152483935|Jal Mahal": null,
+ "pxb266696|City Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb352959|City Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb266698|City Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb266700|City Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc179180361|Nahargarh Fort": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc166502655|Panna Meena ka Kund": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc12519446|Albert Hall Museum": null,
+ "wmc12866856|Albert Hall Museum": null,
+ "wmc175060356|Albert Hall Museum": null,
+ "wmc153418002|Albert Hall Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc160466245|Taj Lake Palace": null,
+ "pxb266697|City Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc202154618|Lake Pichola": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb266699|City Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb266695|City Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb324866|City Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc160379591|Fateh Sagar Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc25444285|Jagmandir": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc116905746|Jagmandir": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc160466260|Jagmandir": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc10125756|Saheliyon Ki Bari": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc13319767|Bagore Ki Haveli": null,
+ "wmc13319884|Bagore Ki Haveli": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc160379593|Saheliyon Ki Bari": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc166118200|Bahubali Hills": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc166689869|Bahubali Hills": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc4310599|Gangaur Ghat": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc10125639|Ahar Cenotaphs": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

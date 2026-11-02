@@ -1970,5 +1970,411 @@
    "name": "Karamalai Velankanni Church",
    "q": "Karamalai Church"
   }
+ ],
+ "Vijayawada": [
+  {
+   "name": "Kanaka Durga Temple",
+   "q": "Durga Temple"
+  },
+  {
+   "name": "Prakasam Barrage",
+   "q": "Prakasam Barrage"
+  },
+  {
+   "name": "Bhavani Island",
+   "q": "Bhavani Island"
+  },
+  {
+   "name": "Undavalli Caves",
+   "q": "Undavalli Caves"
+  },
+  {
+   "name": "Krishna River",
+   "q": "Krishna River"
+  },
+  {
+   "name": "Punnami Ghat",
+   "q": "Punnami Ghat"
+  },
+  {
+   "name": "Victoria Museum",
+   "q": "Victoria Museum"
+  },
+  {
+   "name": "Rajiv Gandhi Park",
+   "q": "Rajiv Gandhi Park"
+  },
+  {
+   "name": "Moghalrajpuram Caves",
+   "q": "Moghalrajpuram Caves"
+  },
+  {
+   "name": "Kondapalli Fort",
+   "q": "Kondapalli Fort"
+  },
+  {
+   "name": "Gandhi Hill",
+   "q": "Gandhi Hill"
+  },
+  {
+   "name": "Hinkar Thirtha",
+   "q": "Hinkar Thirtha"
+  },
+  {
+   "name": "Amaravati Stupa",
+   "q": "Amaravati Stupa"
+  },
+  {
+   "name": "Mangalagiri Temple",
+   "q": "Mangalagiri Temple"
+  }
+ ],
+ "Warangal": [
+  {
+   "name": "Thousand Pillar Temple",
+   "q": "Thousand Pillar Temple"
+  },
+  {
+   "name": "Warangal Fort",
+   "q": "Warangal Fort"
+  },
+  {
+   "name": "Bhadrakali Temple",
+   "q": "Bhadrakali Temple"
+  },
+  {
+   "name": "Ramappa Temple",
+   "q": "Ramappa Temple"
+  },
+  {
+   "name": "Pakhal Lake",
+   "q": "Pakhal Lake"
+  },
+  {
+   "name": "Laknavaram Lake",
+   "q": "Laknavaram Lake"
+  },
+  {
+   "name": "Kakatiya Musical Garden",
+   "q": "Musical Garden"
+  },
+  {
+   "name": "Eturnagaram Wildlife Sanctuary",
+   "q": "Eturnagaram Sanctuary"
+  },
+  {
+   "name": "Kolanupaka Jain Temple",
+   "q": "Kolanupaka Temple"
+  },
+  {
+   "name": "Govindarajula Gutta",
+   "q": "Govindarajula Gutta"
+  },
+  {
+   "name": "Padmakshi Temple",
+   "q": "Padmakshi Temple"
+  },
+  {
+   "name": "Kakatiya Rock Garden",
+   "q": "Kakatiya Rock Garden"
+  },
+  {
+   "name": "Rayaparthy Temple",
+   "q": "Rayaparthy Temple"
+  },
+  {
+   "name": "Medaram Sammakka Sarakka",
+   "q": "Medaram Jatara"
+  }
+ ],
+ "Lakshadweep": [
+  {
+   "name": "Bangaram Atoll",
+   "q": "Bangaram"
+  },
+  {
+   "name": "Agatti Island",
+   "q": "Agatti"
+  },
+  {
+   "name": "Kavaratti Island",
+   "q": "Kavaratti"
+  },
+  {
+   "name": "Minicoy Island",
+   "q": "Minicoy"
+  },
+  {
+   "name": "Kadmat Island",
+   "q": "Kadmat"
+  },
+  {
+   "name": "Kalpeni Island",
+   "q": "Kalpeni"
+  },
+  {
+   "name": "Thinnakara Island",
+   "q": "Thinnakara"
+  },
+  {
+   "name": "Pittii Bird Sanctuary",
+   "q": "Pittii"
+  },
+  {
+   "name": "Kiltan Island",
+   "q": "Kiltan"
+  },
+  {
+   "name": "Andrott Island",
+   "q": "Andrott"
+  },
+  {
+   "name": "Amini Island",
+   "q": "Amini"
+  },
+  {
+   "name": "Cheriyam Island",
+   "q": "Cheriyam"
+  },
+  {
+   "name": "Suheli Par",
+   "q": "Suheli"
+  },
+  {
+   "name": "Bitra Island",
+   "q": "Bitra"
+  }
+ ],
+ "Goa": [
+  {
+   "name": "Dudhsagar Falls",
+   "q": "Dudhsagar"
+  },
+  {
+   "name": "Basilica of Bom Jesus",
+   "q": "Old Goa"
+  },
+  {
+   "name": "Palolem Beach",
+   "q": "Palolem"
+  },
+  {
+   "name": "Aguada Fort",
+   "q": "Aguada"
+  },
+  {
+   "name": "Fontainhas",
+   "q": "Latin Quarter"
+  },
+  {
+   "name": "Vagator Beach",
+   "q": "Vagator"
+  },
+  {
+   "name": "Chapora Fort",
+   "q": "Chapora"
+  },
+  {
+   "name": "Colva Beach",
+   "q": "Colva"
+  },
+  {
+   "name": "Baga Beach",
+   "q": "Baga"
+  },
+  {
+   "name": "Anjuna Beach",
+   "q": "Anjuna"
+  },
+  {
+   "name": "Butterfly Beach",
+   "q": "Butterfly Beach"
+  },
+  {
+   "name": "Cabo de Rama Fort",
+   "q": "Cabo de Rama"
+  },
+  {
+   "name": "Miramar Beach",
+   "q": "Miramar"
+  },
+  {
+   "name": "Church of Our Lady of the Immaculate Conception",
+   "q": "Panjim Church"
+  }
+ ],
+ "Manali": [
+  {
+   "name": "Hadimba Devi Temple",
+   "q": "Hadimba Temple"
+  },
+  {
+   "name": "Solang Valley",
+   "q": "Solang Valley"
+  },
+  {
+   "name": "Atal Tunnel",
+   "q": "Atal Tunnel"
+  },
+  {
+   "name": "Rohtang Pass",
+   "q": "Rohtang Pass"
+  },
+  {
+   "name": "Old Manali",
+   "q": "Old Manali"
+  },
+  {
+   "name": "Mall Road",
+   "q": "Mall Road"
+  },
+  {
+   "name": "Jogini Waterfall",
+   "q": "Jogini Waterfall"
+  },
+  {
+   "name": "Vashisht Temple",
+   "q": "Vashisht Hot Springs"
+  },
+  {
+   "name": "Sissu Waterfall",
+   "q": "Sissu Waterfall"
+  },
+  {
+   "name": "Beas River",
+   "q": "Beas River"
+  },
+  {
+   "name": "Gulaba",
+   "q": "Gulaba"
+  },
+  {
+   "name": "Manu Temple",
+   "q": "Manu Temple"
+  },
+  {
+   "name": "Naggar Castle",
+   "q": "Naggar Castle"
+  },
+  {
+   "name": "Sethan Valley",
+   "q": "Sethan Valley"
+  }
+ ],
+ "Jaipur": [
+  {
+   "name": "Hawa Mahal",
+   "q": "Hawa Mahal"
+  },
+  {
+   "name": "Amer Fort",
+   "q": "Amer Fort"
+  },
+  {
+   "name": "Patrika Gate",
+   "q": "Patrika Gate"
+  },
+  {
+   "name": "Jal Mahal",
+   "q": "Jal Mahal"
+  },
+  {
+   "name": "Nahargarh Fort",
+   "q": "Nahargarh Fort"
+  },
+  {
+   "name": "City Palace",
+   "q": "City Palace"
+  },
+  {
+   "name": "Panna Meena ka Kund",
+   "q": "Panna Meena"
+  },
+  {
+   "name": "Jaigarh Fort",
+   "q": "Jaigarh Fort"
+  },
+  {
+   "name": "Jantar Mantar",
+   "q": "Jantar Mantar"
+  },
+  {
+   "name": "Albert Hall Museum",
+   "q": "Albert Hall"
+  },
+  {
+   "name": "Birla Mandir",
+   "q": "Birla Mandir"
+  },
+  {
+   "name": "Galta Ji",
+   "q": "Monkey Temple"
+  },
+  {
+   "name": "Sisodia Rani Garden",
+   "q": "Sisodia Rani"
+  },
+  {
+   "name": "Chand Baori",
+   "q": "Chand Baori"
+  }
+ ],
+ "Udaipur": [
+  {
+   "name": "City Palace",
+   "q": "City Palace"
+  },
+  {
+   "name": "Lake Pichola",
+   "q": "Lake Pichola"
+  },
+  {
+   "name": "Taj Lake Palace",
+   "q": "Taj Lake Palace"
+  },
+  {
+   "name": "Jagmandir",
+   "q": "Jagmandir Palace"
+  },
+  {
+   "name": "Sajjangarh Monsoon Palace",
+   "q": "Sajjangarh Palace"
+  },
+  {
+   "name": "Fateh Sagar Lake",
+   "q": "Fateh Sagar Lake"
+  },
+  {
+   "name": "Ambrai Ghat",
+   "q": "Ambrai Ghat"
+  },
+  {
+   "name": "Saheliyon Ki Bari",
+   "q": "Saheliyon Ki Bari"
+  },
+  {
+   "name": "Bagore Ki Haveli",
+   "q": "Bagore Ki Haveli"
+  },
+  {
+   "name": "Jagdish Temple",
+   "q": "Jagdish Temple"
+  },
+  {
+   "name": "Bahubali Hills",
+   "q": "Bahubali Hills"
+  },
+  {
+   "name": "Gangaur Ghat",
+   "q": "Gangaur Ghat"
+  },
+  {
+   "name": "Ahar Cenotaphs",
+   "q": "Ahar Cenotaphs"
+  },
+  {
+   "name": "Mansapurna Karni Mata Temple",
+   "q": "Karni Mata Ropeway"
+  }
  ]
 }
