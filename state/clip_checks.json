@@ -2887,5 +2887,66 @@
   "v": 3,
   "ok": false,
   "s": 1
+ },
+ "wmc196837591|Kovalam Lighthouse Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc196840306|Azhimala Shiva Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc196838531|Azhimala Shiva Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc196840468|Azhimala Shiva Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc117763609|Jatayu Earth's Center": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc196837591|Vizhinjam Lighthouse": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc159074261|Napier Museum": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc177493940|Ponmudi Hill Station": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc159074017|Napier Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc159074128|Napier Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc159074237|Napier Museum": null,
+ "wmc72224312|Neyyar Dam": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc169580391|Chalai Market": {
+  "v": 3,
+  "ok": false,
+  "s": 1
  }
 }

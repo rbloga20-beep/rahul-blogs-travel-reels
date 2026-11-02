@@ -926,5 +926,63 @@
    "name": "Albert Victor Bridge",
    "q": "Albert Victor Bridge"
   }
+ ],
+ "Thiruvananthapuram": [
+  {
+   "name": "Sree Padmanabhaswamy Temple",
+   "q": "Padmanabhaswamy Temple"
+  },
+  {
+   "name": "Kovalam Lighthouse Beach",
+   "q": "Kovalam Beach"
+  },
+  {
+   "name": "Azhimala Shiva Temple",
+   "q": "Azhimala Shiva"
+  },
+  {
+   "name": "Poovar Island",
+   "q": "Poovar Island"
+  },
+  {
+   "name": "Jatayu Earth's Center",
+   "q": "Jatayu Earth Center"
+  },
+  {
+   "name": "Varkala Cliff",
+   "q": "Varkala Cliff"
+  },
+  {
+   "name": "Ponmudi Hill Station",
+   "q": "Ponmudi"
+  },
+  {
+   "name": "Napier Museum",
+   "q": "Napier Museum"
+  },
+  {
+   "name": "Vizhinjam Lighthouse",
+   "q": "Vizhinjam Lighthouse"
+  },
+  {
+   "name": "Kuthiramalika Palace",
+   "q": "Kuthiramalika Palace"
+  },
+  {
+   "name": "Shangumugham Beach",
+   "q": "Shangumugham Beach"
+  },
+  {
+   "name": "Neyyar Dam",
+   "q": "Neyyar Dam"
+  },
+  {
+   "name": "Kanakakkunnu Palace",
+   "q": "Kanakakkunnu Palace"
+  },
+  {
+   "name": "Chalai Market",
+   "q": "Chalai Market"
+  }
  ]
 }
