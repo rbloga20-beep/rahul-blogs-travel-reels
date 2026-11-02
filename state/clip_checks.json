@@ -3472,5 +3472,40 @@
   "ok": false,
   "s": 6
  },
- "wmc72224937|Vizhinjam Fishing Harbour": null
+ "wmc72224937|Vizhinjam Fishing Harbour": null,
+ "wmc193988057|Koolangal River": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc193988059|Koolangal River": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb15909|Grass Hills": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb65954|Grass Hills": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb384790|Grass Hills": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb340791|Grass Hills": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc182496959|Aliyar Dam": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ }
 }
