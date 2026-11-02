@@ -1448,5 +1448,469 @@
    "name": "Pattumala Church",
    "q": "Pattumala Church"
   }
+ ],
+ "Coonoor": [
+  {
+   "name": "Sim's Park",
+   "q": "Sims Park"
+  },
+  {
+   "name": "Dolphin's Nose",
+   "q": "Dolphins Nose"
+  },
+  {
+   "name": "Lamb's Rock",
+   "q": "Lambs Rock"
+  },
+  {
+   "name": "Catherine Falls",
+   "q": "Catherine Falls"
+  },
+  {
+   "name": "Nilgiri Mountain Railway",
+   "q": "Nilgiri Toy Train"
+  },
+  {
+   "name": "Highfield Tea Factory",
+   "q": "Highfield Tea Factory"
+  },
+  {
+   "name": "Laws Falls",
+   "q": "Laws Falls"
+  },
+  {
+   "name": "Wellington Lake",
+   "q": "Wellington Lake"
+  },
+  {
+   "name": "Rallia Dam",
+   "q": "Rallia Dam"
+  },
+  {
+   "name": "Ketti Valley View",
+   "q": "Ketti Valley"
+  },
+  {
+   "name": "Droog Fort",
+   "q": "Droog Fort"
+  },
+  {
+   "name": "Glendale Tea Estate",
+   "q": "Glendale Tea Estate"
+  },
+  {
+   "name": "Lady Canning's Seat",
+   "q": "Lady Cannings Seat"
+  },
+  {
+   "name": "Hidden Valley",
+   "q": "Hidden Valley Coonoor"
+  }
+ ],
+ "Yercaud": [
+  {
+   "name": "Yercaud Lake",
+   "q": "Yercaud Lake"
+  },
+  {
+   "name": "32 Km Loop Road",
+   "q": "Loop Road"
+  },
+  {
+   "name": "Lady's Seat",
+   "q": "Ladys Seat"
+  },
+  {
+   "name": "Killiyur Falls",
+   "q": "Killiyur Falls"
+  },
+  {
+   "name": "Pagoda Point",
+   "q": "Pagoda Point"
+  },
+  {
+   "name": "Shevaroyan Temple",
+   "q": "Shevaroyan Temple"
+  },
+  {
+   "name": "Peeku Park",
+   "q": "Peeku Park"
+  },
+  {
+   "name": "Rose Garden",
+   "q": "Rose Garden"
+  },
+  {
+   "name": "Botanical Garden",
+   "q": "Botanical Garden"
+  },
+  {
+   "name": "Tipperary Viewpoint",
+   "q": "Tipperary Viewpoint"
+  },
+  {
+   "name": "Kottachedu Teak Forest",
+   "q": "Teak Forest"
+  },
+  {
+   "name": "Anna Park",
+   "q": "Anna Park"
+  },
+  {
+   "name": "Bear's Cave",
+   "q": "Bears Cave"
+  },
+  {
+   "name": "Gent's Seat",
+   "q": "Gents Seat"
+  }
+ ],
+ "Mahabalipuram": [
+  {
+   "name": "Shore Temple",
+   "q": "Shore Temple"
+  },
+  {
+   "name": "Pancha Rathas",
+   "q": "Pancha Rathas"
+  },
+  {
+   "name": "Krishna's Butterball",
+   "q": "Krishna Butterball"
+  },
+  {
+   "name": "Arjuna's Penance",
+   "q": "Arjuna Penance"
+  },
+  {
+   "name": "Mahabalipuram Lighthouse",
+   "q": "Mahabalipuram Lighthouse"
+  },
+  {
+   "name": "Mahabalipuram Beach",
+   "q": "Mahabalipuram Beach"
+  },
+  {
+   "name": "Varaha Cave Temple",
+   "q": "Varaha Cave"
+  },
+  {
+   "name": "Mahishasuramardini Cave Temple",
+   "q": "Mahishasuramardini Cave"
+  },
+  {
+   "name": "Tiger Cave",
+   "q": "Tiger Cave"
+  },
+  {
+   "name": "Krishna Cave Temple",
+   "q": "Krishna Cave"
+  },
+  {
+   "name": "Olakkannesvara Temple",
+   "q": "Olakkannesvara Temple"
+  },
+  {
+   "name": "Ganesh Ratha",
+   "q": "Ganesh Ratha"
+  },
+  {
+   "name": "India Seashell Museum",
+   "q": "Seashell Museum"
+  },
+  {
+   "name": "Rayar Gopuram",
+   "q": "Rayar Gopuram"
+  }
+ ],
+ "Thanjavur": [
+  {
+   "name": "Brihadeeswara Temple",
+   "q": "Big Temple"
+  },
+  {
+   "name": "Thanjavur Maratha Palace",
+   "q": "Maratha Palace"
+  },
+  {
+   "name": "Saraswathi Mahal Library",
+   "q": "Saraswathi Mahal"
+  },
+  {
+   "name": "Thanjavur Art Gallery",
+   "q": "Art Gallery"
+  },
+  {
+   "name": "Sivaganga Park",
+   "q": "Sivaganga Tank"
+  },
+  {
+   "name": "Schwartz Church",
+   "q": "Schwartz Church"
+  },
+  {
+   "name": "Thanjavur Royal Museum",
+   "q": "Royal Museum"
+  },
+  {
+   "name": "Gangaikonda Cholapuram",
+   "q": "Cholapuram Temple"
+  },
+  {
+   "name": "Thanjavur Painting Workshop",
+   "q": "Thanjavur Painting"
+  },
+  {
+   "name": "Vellai Puliar Kovil",
+   "q": "Vellai Puliar"
+  },
+  {
+   "name": "Thanjavur Clock Tower",
+   "q": "Clock Tower"
+  },
+  {
+   "name": "Manora Fort",
+   "q": "Manora Fort"
+  },
+  {
+   "name": "Thanjavur Railway Junction",
+   "q": "Railway Junction"
+  },
+  {
+   "name": "Grand Anicut",
+   "q": "Kallanai Dam"
+  }
+ ],
+ "Mangalore": [
+  {
+   "name": "Panambur Beach",
+   "q": "Panambur Beach"
+  },
+  {
+   "name": "Tannirbhavi Beach",
+   "q": "Tannirbhavi Beach"
+  },
+  {
+   "name": "St Aloysius Chapel",
+   "q": "St Aloysius Chapel"
+  },
+  {
+   "name": "Kudroli Gokarnanatha Temple",
+   "q": "Kudroli Temple"
+  },
+  {
+   "name": "Someshwara Beach",
+   "q": "Someshwara Beach"
+  },
+  {
+   "name": "Surathkal Beach Lighthouse",
+   "q": "Surathkal Lighthouse"
+  },
+  {
+   "name": "Sultan Battery",
+   "q": "Sultan Battery"
+  },
+  {
+   "name": "Kadri Manjunath Temple",
+   "q": "Kadri Manjunath"
+  },
+  {
+   "name": "Pilikula Nisargadhama",
+   "q": "Pilikula"
+  },
+  {
+   "name": "Mangaladevi Temple",
+   "q": "Mangaladevi Temple"
+  },
+  {
+   "name": "Sasihithlu Beach",
+   "q": "Sasihithlu Beach"
+  },
+  {
+   "name": "Ullal Beach",
+   "q": "Ullal Beach"
+  },
+  {
+   "name": "Kadri Park",
+   "q": "Kadri Park"
+  },
+  {
+   "name": "Pilikula Heritage Village",
+   "q": "Pilikula Heritage"
+  }
+ ],
+ "Udupi": [
+  {
+   "name": "St. Mary's Island",
+   "q": "St Marys Island"
+  },
+  {
+   "name": "Kaup Lighthouse",
+   "q": "Kaup Lighthouse"
+  },
+  {
+   "name": "Kodi Bengre Delta Beach",
+   "q": "Kodi Bengre"
+  },
+  {
+   "name": "Malpe Sea Walk",
+   "q": "Malpe Sea Walk"
+  },
+  {
+   "name": "Varanga Kere Basadi",
+   "q": "Varanga Basadi"
+  },
+  {
+   "name": "Udupi Sri Krishna Matha",
+   "q": "Sri Krishna Matha"
+  },
+  {
+   "name": "Hasta Shilpa Heritage Village",
+   "q": "Hasta Shilpa"
+  },
+  {
+   "name": "Maravanthe Beach",
+   "q": "Maravanthe Beach"
+  },
+  {
+   "name": "Mattu Beach",
+   "q": "Mattu Beach"
+  },
+  {
+   "name": "Padubidri Blue Flag Beach",
+   "q": "Padubidri Beach"
+  },
+  {
+   "name": "Kudlu Falls",
+   "q": "Kudlu Falls"
+  },
+  {
+   "name": "Manipal End Point",
+   "q": "Manipal End Point"
+  },
+  {
+   "name": "Karkala Gommateshwara Statue",
+   "q": "Karkala Bahubali"
+  },
+  {
+   "name": "Sitanadi River Rafting",
+   "q": "Sitanadi Rafting"
+  }
+ ],
+ "Sakleshpur": [
+  {
+   "name": "Manjarabad Fort",
+   "q": "Manjarabad Fort"
+  },
+  {
+   "name": "Bisle Viewpoint",
+   "q": "Bisle Viewpoint"
+  },
+  {
+   "name": "Jenukallu Gudda",
+   "q": "Jenukallu Gudda"
+  },
+  {
+   "name": "Patla Betta",
+   "q": "Patla Betta"
+  },
+  {
+   "name": "Ethina Bhuja",
+   "q": "Ethina Bhuja"
+  },
+  {
+   "name": "Pandavar Gudda",
+   "q": "Pandavar Gudda"
+  },
+  {
+   "name": "Agni Gudda Hill",
+   "q": "Agni Gudda"
+  },
+  {
+   "name": "Magajahalli Waterfalls",
+   "q": "Magajahalli Falls"
+  },
+  {
+   "name": "Mookanamane Waterfalls",
+   "q": "Mookanamane Falls"
+  },
+  {
+   "name": "Bettada Byraveshwara Temple",
+   "q": "Bettada Byraveshwara"
+  },
+  {
+   "name": "Kadamane Tea Estate",
+   "q": "Kadamane Tea Estate"
+  },
+  {
+   "name": "Green Route Railway Trek",
+   "q": "Green Route Railway"
+  },
+  {
+   "name": "Hadlu Waterfalls",
+   "q": "Hadlu Waterfalls"
+  },
+  {
+   "name": "Hemavathi Reservoir Backwaters",
+   "q": "Hemavathi Backwaters"
+  }
+ ],
+ "Kovalam": [
+  {
+   "name": "Lighthouse Beach",
+   "q": "Kovalam Lighthouse"
+  },
+  {
+   "name": "Vizhinjam Lighthouse",
+   "q": "Red and white lighthouse"
+  },
+  {
+   "name": "Hawa Beach",
+   "q": "Eve's Beach"
+  },
+  {
+   "name": "Samudra Beach",
+   "q": "Samudra Beach"
+  },
+  {
+   "name": "Vizhinjam Marine Aquarium",
+   "q": "Marine Aquarium"
+  },
+  {
+   "name": "Vellayani Lake",
+   "q": "Vellayani Lake"
+  },
+  {
+   "name": "Halcyon Castle",
+   "q": "Halcyon Castle"
+  },
+  {
+   "name": "Kovalam Art Gallery",
+   "q": "Kovalam Art Gallery"
+  },
+  {
+   "name": "Aruvikkara Dam",
+   "q": "Aruvikkara Dam"
+  },
+  {
+   "name": "Karamana River",
+   "q": "Karamana River"
+  },
+  {
+   "name": "Thiruvallam Parasurama Temple",
+   "q": "Thiruvallam Temple"
+  },
+  {
+   "name": "Ashok Beach",
+   "q": "Ashok Beach"
+  },
+  {
+   "name": "Vizhinjam Fishing Harbour",
+   "q": "Vizhinjam Harbour"
+  },
+  {
+   "name": "Edakallu Rock",
+   "q": "Edakallu"
+  }
  ]
 }

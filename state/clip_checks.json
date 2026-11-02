@@ -3164,5 +3164,313 @@
   "v": 3,
   "ok": false,
   "s": 5
- }
+ },
+ "wmc19216205|Sim's Park": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc16379902|Catherine Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc156328369|Catherine Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc74232779|Catherine Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc68860180|Catherine Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc163185308|Rallia Dam": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc188952964|Laws Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc184273142|Laws Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc152157497|Laws Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc60630747|Laws Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc130717765|Droog Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc53477419|Ketti Valley View": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc130717760|Droog Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc53477525|Ketti Valley View": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc134328734|Droog Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc33871158|Ketti Valley View": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc134328686|Droog Fort": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc46546908|Hidden Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc47657205|Hidden Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc60865448|Lady Canning's Seat": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc58716788|Lady Canning's Seat": null,
+ "wmc58716797|Lady Canning's Seat": null,
+ "wmc1138763|Lady Canning's Seat": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc47657230|Hidden Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc47657212|Hidden Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb363424|32 Km Loop Road": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc71728017|Lady's Seat": null,
+ "wmc38305351|Lady's Seat": null,
+ "pxb363423|32 Km Loop Road": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc1138763|Lady's Seat": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb377567|32 Km Loop Road": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb340639|32 Km Loop Road": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb7033|Rose Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb72932|Botanical Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb153908|Botanical Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb336708|Rose Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb3654|Rose Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb256751|Rose Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb72936|Botanical Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb112729|Botanical Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc9057641|Bear's Cave": null,
+ "wmc62454228|Bear's Cave": null,
+ "wmc2420455|Bear's Cave": null,
+ "wmc139879130|Bear's Cave": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc126135543|Gent's Seat": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc167705940|St Aloysius Chapel": null,
+ "wmc194332545|St Aloysius Chapel": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc161534521|St Aloysius Chapel": null,
+ "wmc161533435|St Aloysius Chapel": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc194332541|Kudroli Gokarnanatha Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc14962496|Mangaladevi Temple": null,
+ "wmc133475026|Kadri Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc111781304|Kodi Bengre Delta Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc111157830|Kodi Bengre Delta Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc123347546|Kodi Bengre Delta Beach": null,
+ "wmc119178743|Kodi Bengre Delta Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc199192342|Malpe Sea Walk": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc5459976|Malpe Sea Walk": null,
+ "wmc5460029|Malpe Sea Walk": null,
+ "wmc5461270|Malpe Sea Walk": null,
+ "wmc5718536|Udupi Sri Krishna Matha": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc129983425|Padubidri Blue Flag Beach": null,
+ "pxb331521|Green Route Railway Trek": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb38460|Hawa Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc91718901|Lighthouse Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb44804|Hawa Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb32056|Hawa Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc23444056|Samudra Beach": null,
+ "pxb322663|Vizhinjam Marine Aquarium": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb30368|Vizhinjam Marine Aquarium": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb109182|Vizhinjam Marine Aquarium": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb269587|Vizhinjam Marine Aquarium": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc4664788|Ashok Beach": null,
+ "wmc72882581|Thiruvallam Parasurama Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc186086825|Thiruvallam Parasurama Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc72224937|Vizhinjam Fishing Harbour": null
 }
