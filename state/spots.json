@@ -984,5 +984,469 @@
    "name": "Chalai Market",
    "q": "Chalai Market"
   }
+ ],
+ "Varkala": [
+  {
+   "name": "Varkala Cliff",
+   "q": "Varkala Cliff"
+  },
+  {
+   "name": "Papanasam Beach",
+   "q": "Papanasam Beach"
+  },
+  {
+   "name": "Black Sand Beach",
+   "q": "Varkala Black Beach"
+  },
+  {
+   "name": "Kappil Beach",
+   "q": "Kappil Beach"
+  },
+  {
+   "name": "Edava Backwaters",
+   "q": "Edava Backwaters"
+  },
+  {
+   "name": "Ponnumthuruthu Island",
+   "q": "Ponnumthuruthu Island"
+  },
+  {
+   "name": "Anjengo Fort",
+   "q": "Anjengo Fort"
+  },
+  {
+   "name": "Anchuthengu Lighthouse",
+   "q": "Anchuthengu Lighthouse"
+  },
+  {
+   "name": "Janardhana Swamy Temple",
+   "q": "Janardhanaswamy Temple"
+  },
+  {
+   "name": "Sivagiri Mutt",
+   "q": "Sivagiri Mutt"
+  },
+  {
+   "name": "Odayam Beach",
+   "q": "Odayam Beach"
+  },
+  {
+   "name": "Chilakoor Beach",
+   "q": "Chilakoor Beach"
+  },
+  {
+   "name": "Varkala Cultural Center",
+   "q": "Varkala Cultural Center"
+  },
+  {
+   "name": "Jatayu Earth Center",
+   "q": "Jatayu Earth Center"
+  }
+ ],
+ "Kanyakumari": [
+  {
+   "name": "Vivekananda Rock Memorial",
+   "q": "Vivekananda Rock Memorial"
+  },
+  {
+   "name": "Thiruvalluvar Statue",
+   "q": "Thiruvalluvar Statue"
+  },
+  {
+   "name": "Gandhi Memorial Mandapam",
+   "q": "Gandhi Mandapam"
+  },
+  {
+   "name": "Our Lady of Ransom Church",
+   "q": "Lady Ransom Church"
+  },
+  {
+   "name": "Vattakottai Fort",
+   "q": "Vattakottai Fort"
+  },
+  {
+   "name": "Padmanabhapuram Palace",
+   "q": "Padmanabhapuram Palace"
+  },
+  {
+   "name": "Mathur Aqueduct",
+   "q": "Mathur Aqueduct"
+  },
+  {
+   "name": "Thirparappu Waterfalls",
+   "q": "Thirparappu Waterfalls"
+  },
+  {
+   "name": "Kanyakumari Sunrise Point",
+   "q": "Kanyakumari Sunrise"
+  },
+  {
+   "name": "Kanyakumari Sunset Point",
+   "q": "Kanyakumari Sunset"
+  },
+  {
+   "name": "Triveni Sangam",
+   "q": "Triveni Sangam"
+  },
+  {
+   "name": "Bhagavathy Amman Temple",
+   "q": "Bhagavathy Amman"
+  },
+  {
+   "name": "Muppandal Wind Farm",
+   "q": "Muppandal Windmills"
+  },
+  {
+   "name": "Sothavilai Beach",
+   "q": "Sothavilai Beach"
+  }
+ ],
+ "Rameswaram": [
+  {
+   "name": "Pamban Bridge",
+   "q": "Pamban Bridge"
+  },
+  {
+   "name": "Dhanushkodi Ghost Town",
+   "q": "Dhanushkodi"
+  },
+  {
+   "name": "Arichal Munai",
+   "q": "Arichal Munai"
+  },
+  {
+   "name": "Ramanathaswamy Temple",
+   "q": "Ramanathaswamy Temple"
+  },
+  {
+   "name": "Kothandaramaswamy Temple",
+   "q": "Kothandaramaswamy Temple"
+  },
+  {
+   "name": "Agni Theertham",
+   "q": "Agni Theertham"
+  },
+  {
+   "name": "Villoondi Theertham",
+   "q": "Villoondi Theertham"
+  },
+  {
+   "name": "Panchamukhi Hanuman Temple",
+   "q": "Panchamukhi Hanuman"
+  },
+  {
+   "name": "APJ Abdul Kalam Memorial",
+   "q": "Kalam Memorial"
+  },
+  {
+   "name": "Gandhamadhana Parvatham",
+   "q": "Gandhamadhana Parvatham"
+  },
+  {
+   "name": "Kunthukal Beach",
+   "q": "Kunthukal Beach"
+  },
+  {
+   "name": "Ariyaman Beach",
+   "q": "Ariyaman Beach"
+  },
+  {
+   "name": "Lakshmana Theertham",
+   "q": "Lakshmana Theertham"
+  },
+  {
+   "name": "Annai Indira Gandhi Road Bridge",
+   "q": "Indira Gandhi Bridge"
+  }
+ ],
+ "Visakhapatnam": [
+  {
+   "name": "RK Beach",
+   "q": "RK Beach"
+  },
+  {
+   "name": "INS Kursura Submarine Museum",
+   "q": "INS Kursura Submarine"
+  },
+  {
+   "name": "Kailasagiri",
+   "q": "Kailasagiri"
+  },
+  {
+   "name": "Rushikonda Beach",
+   "q": "Rushikonda Beach"
+  },
+  {
+   "name": "Yarada Beach",
+   "q": "Yarada Beach"
+  },
+  {
+   "name": "TU 142 Aircraft Museum",
+   "q": "TU 142 Aircraft"
+  },
+  {
+   "name": "Tenneti Park",
+   "q": "Tenneti Park"
+  },
+  {
+   "name": "Dolphin's Nose",
+   "q": "Dolphin's Nose"
+  },
+  {
+   "name": "Simhachalam Temple",
+   "q": "Simhachalam Temple"
+  },
+  {
+   "name": "Bheemili Beach",
+   "q": "Bheemili Beach"
+  },
+  {
+   "name": "Thotlakonda",
+   "q": "Thotlakonda"
+  },
+  {
+   "name": "Ross Hill Church",
+   "q": "Ross Hill Church"
+  },
+  {
+   "name": "Bavikonda",
+   "q": "Bavikonda"
+  },
+  {
+   "name": "Kambalakonda Wildlife Sanctuary",
+   "q": "Kambalakonda"
+  }
+ ],
+ "Araku Valley": [
+  {
+   "name": "Borra Caves",
+   "q": "Borra Caves"
+  },
+  {
+   "name": "Chaparai Water Cascades",
+   "q": "Chaparai"
+  },
+  {
+   "name": "Katiki Waterfalls",
+   "q": "Katiki Waterfalls"
+  },
+  {
+   "name": "Galikonda Viewpoint",
+   "q": "Galikonda"
+  },
+  {
+   "name": "Padmapuram Gardens",
+   "q": "Padmapuram Gardens"
+  },
+  {
+   "name": "Araku Coffee Plantations",
+   "q": "Araku Coffee"
+  },
+  {
+   "name": "Ananthagiri Waterfalls",
+   "q": "Ananthagiri Waterfalls"
+  },
+  {
+   "name": "Araku Vistadome Train",
+   "q": "Araku Vistadome"
+  },
+  {
+   "name": "Araku Tribal Museum",
+   "q": "Araku Tribal Museum"
+  },
+  {
+   "name": "Araku Coffee Museum",
+   "q": "Araku Coffee Museum"
+  },
+  {
+   "name": "Ranajilledda Waterfalls",
+   "q": "Ranajilledda"
+  },
+  {
+   "name": "Tatipudi Reservoir",
+   "q": "Tatipudi Reservoir"
+  },
+  {
+   "name": "Matsyagundam",
+   "q": "Matsyagundam"
+  },
+  {
+   "name": "Kothapalli Waterfalls",
+   "q": "Kothapalli Waterfalls"
+  }
+ ],
+ "Tirupati": [
+  {
+   "name": "Tirumala Venkateswara Temple",
+   "q": "Tirumala Temple"
+  },
+  {
+   "name": "Silathoranam",
+   "q": "Silathoranam"
+  },
+  {
+   "name": "Kapila Theertham",
+   "q": "Kapila Theertham"
+  },
+  {
+   "name": "Chandragiri Fort",
+   "q": "Chandragiri Fort"
+  },
+  {
+   "name": "Sri Padmavathi Ammavari Temple",
+   "q": "Padmavathi Temple"
+  },
+  {
+   "name": "Sri Govindaraja Swamy Temple",
+   "q": "Govindaraja Swamy Temple"
+  },
+  {
+   "name": "Akasaganga Waterfalls",
+   "q": "Akasaganga Waterfall"
+  },
+  {
+   "name": "Papavanasam Waterfalls",
+   "q": "Papavanasam Waterfall"
+  },
+  {
+   "name": "Japali Teertham",
+   "q": "Japali Teertham"
+  },
+  {
+   "name": "Srivari Mettu",
+   "q": "Srivari Mettu"
+  },
+  {
+   "name": "Alipiri Mettu",
+   "q": "Alipiri Mettu"
+  },
+  {
+   "name": "Chakrateertham",
+   "q": "Chakrateertham"
+  },
+  {
+   "name": "Srivari Padalu",
+   "q": "Srivari Padalu"
+  },
+  {
+   "name": "Sri Venkateswara Zoological Park",
+   "q": "SV Zoological Park"
+  }
+ ],
+ "Thekkady": [
+  {
+   "name": "Periyar Wildlife Sanctuary",
+   "q": "Periyar Tiger Reserve"
+  },
+  {
+   "name": "Periyar Lake",
+   "q": "Periyar Lake Boat"
+  },
+  {
+   "name": "Chellarkovil Viewpoint",
+   "q": "Chellarkovil Viewpoint"
+  },
+  {
+   "name": "Ramakkalmedu",
+   "q": "Ramakkalmedu Windmills"
+  },
+  {
+   "name": "Gavi Forest",
+   "q": "Gavi Eco Tourism"
+  },
+  {
+   "name": "Ottakathalamedu Viewpoint",
+   "q": "Ottakathalamedu Viewpoint"
+  },
+  {
+   "name": "Elephant Junction",
+   "q": "Elephant Junction"
+  },
+  {
+   "name": "Abraham's Spice Garden",
+   "q": "Abrahams Spice Garden"
+  },
+  {
+   "name": "Kadathanadan Kalari Centre",
+   "q": "Kadathanadan Kalari"
+  },
+  {
+   "name": "Mudra Cultural Centre",
+   "q": "Mudra Kathakali Show"
+  },
+  {
+   "name": "Anakkara",
+   "q": "Anakkara Spice Plantation"
+  },
+  {
+   "name": "Pandikuzhi",
+   "q": "Pandikuzhi Viewpoint"
+  },
+  {
+   "name": "Mangala Devi Temple",
+   "q": "Mangala Devi Temple"
+  },
+  {
+   "name": "Vandiperiyar Tea Estates",
+   "q": "Vandiperiyar Tea Estate"
+  }
+ ],
+ "Vagamon": [
+  {
+   "name": "Vagamon Pine Forest",
+   "q": "Vagamon Pine Forest"
+  },
+  {
+   "name": "Vagamon Meadows",
+   "q": "Vagamon Meadows"
+  },
+  {
+   "name": "Kurisumala Ashram",
+   "q": "Kurisumala Ashram"
+  },
+  {
+   "name": "Thangalpara",
+   "q": "Thangalpara"
+  },
+  {
+   "name": "Murugan Mala",
+   "q": "Murugan Mala"
+  },
+  {
+   "name": "Vagamon Glass Bridge",
+   "q": "Vagamon Glass Bridge"
+  },
+  {
+   "name": "Vagamon Lake",
+   "q": "Vagamon Lake"
+  },
+  {
+   "name": "Maramala Waterfalls",
+   "q": "Maramala Waterfalls"
+  },
+  {
+   "name": "Vagamon Falls",
+   "q": "Vagamon Falls"
+  },
+  {
+   "name": "Karikadu Viewpoint",
+   "q": "Karikadu Viewpoint"
+  },
+  {
+   "name": "Barren Hills",
+   "q": "Barren Hills"
+  },
+  {
+   "name": "Ulipooni Sanctuary",
+   "q": "Ulipooni"
+  },
+  {
+   "name": "Vagamon Orchid Garden",
+   "q": "Vagamon Orchid Garden"
+  },
+  {
+   "name": "Pattumala Church",
+   "q": "Pattumala Church"
+  }
  ]
 }

@@ -2948,5 +2948,221 @@
   "v": 3,
   "ok": false,
   "s": 1
+ },
+ "wmc103433666|Black Sand Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc18017554|Black Sand Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc72225497|Anchuthengu Lighthouse": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc155253279|Vivekananda Rock Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc175072194|Thiruvalluvar Statue": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc175063566|Thiruvalluvar Statue": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc103193651|Our Lady of Ransom Church": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc103193659|Our Lady of Ransom Church": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc22455048|Our Lady of Ransom Church": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc103193644|Our Lady of Ransom Church": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc56488387|Thirparappu Waterfalls": null,
+ "wmc169613408|Kanyakumari Sunrise Point": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc116852444|Triveni Sangam": null,
+ "wmc39480886|Dhanushkodi Ghost Town": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc39480766|Dhanushkodi Ghost Town": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc109709548|Pamban Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc39481729|Pamban Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc4544678|Pamban Bridge": null,
+ "wmc39547196|Dhanushkodi Ghost Town": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc109709549|Pamban Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc185337591|Agni Theertham": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc33254091|Panchamukhi Hanuman Temple": null,
+ "wmc71358097|Panchamukhi Hanuman Temple": null,
+ "wmc71320171|Panchamukhi Hanuman Temple": null,
+ "wmc33254252|Panchamukhi Hanuman Temple": null,
+ "wmc131349794|APJ Abdul Kalam Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc148818084|Ariyaman Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc39481729|Annai Indira Gandhi Road Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc17240312|Annai Indira Gandhi Road Bridge": null,
+ "pxb372151|RK Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb135360|RK Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb365737|RK Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb7262|RK Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb345460|TU 142 Aircraft Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb32422|TU 142 Aircraft Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb345459|TU 142 Aircraft Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb340810|TU 142 Aircraft Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc156066741|Simhachalam Temple": null,
+ "wmc175408034|Tenneti Park": null,
+ "wmc142692077|Simhachalam Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc146414073|Thotlakonda": null,
+ "wmc152148680|Thotlakonda": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb173340|Ross Hill Church": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb107183|Ross Hill Church": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc152148683|Thotlakonda": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc168439778|Silathoranam": null,
+ "wmc141821834|Kapila Theertham": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc141821835|Kapila Theertham": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc149964948|Sri Govindaraja Swamy Temple": null,
+ "wmc149914544|Sri Govindaraja Swamy Temple": null,
+ "wmc149965042|Sri Govindaraja Swamy Temple": null,
+ "wmc99602247|Sri Govindaraja Swamy Temple": null,
+ "wmc8787820|Sri Venkateswara Zoological Park": null,
+ "wmc194859533|Gavi Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc14962496|Mangala Devi Temple": null,
+ "wmc167227978|Vagamon Pine Forest": null,
+ "wmc167227979|Vagamon Pine Forest": null,
+ "wmc169566527|Vagamon Meadows": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc167227979|Vagamon Meadows": null,
+ "pxb103188|Barren Hills": {
+  "v": 3,
+  "ok": false,
+  "s": 5
  }
 }
