@@ -2737,5 +2737,155 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb372151|Om Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb67051|Half Moon Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb135360|Om Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb365737|Om Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb7262|Om Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb371845|Paradise Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc15054232|Mahabaleshwar Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb41897|Paradise Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb31028|Paradise Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb10816|Paradise Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc4114666|Nirvana Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc4114725|Nirvana Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc30960031|Small Hell Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc30936644|Small Hell Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc93278913|Small Hell Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc109866497|Small Hell Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc149612446|Thirumalai Nayakkar Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc152159689|Vandiyur Mariamman Teppakulam": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc39956613|Vandiyur Mariamman Teppakulam": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc100230368|Thiruparankundram Murugan Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc100230361|Thiruparankundram Murugan Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc61472385|St. Mary's Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc58184855|St. Mary's Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc122292405|Gandhi Memorial Museum": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc60498486|Yanaimalai": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc153319491|Keeladi Museum": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc168503397|Albert Victor Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc168503172|Albert Victor Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc168503444|Albert Victor Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc168502537|Albert Victor Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 1
  }
 }

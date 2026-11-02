@@ -810,5 +810,121 @@
    "name": "Tungabhadra Coracle Ride",
    "q": "Tungabhadra Coracle"
   }
+ ],
+ "Gokarna": [
+  {
+   "name": "Om Beach",
+   "q": "Om Beach"
+  },
+  {
+   "name": "Kudle Beach",
+   "q": "Kudle Beach"
+  },
+  {
+   "name": "Half Moon Beach",
+   "q": "Half Moon Beach"
+  },
+  {
+   "name": "Paradise Beach",
+   "q": "Paradise Beach"
+  },
+  {
+   "name": "Mirjan Fort",
+   "q": "Mirjan Fort"
+  },
+  {
+   "name": "Mahabaleshwar Temple",
+   "q": "Mahabaleshwar Temple"
+  },
+  {
+   "name": "Yana Rocks",
+   "q": "Yana Rocks"
+  },
+  {
+   "name": "Vibhooti Falls",
+   "q": "Vibhooti Falls"
+  },
+  {
+   "name": "Gokarna Main Beach",
+   "q": "Gokarna Main Beach"
+  },
+  {
+   "name": "Koti Tirth",
+   "q": "Koti Tirth"
+  },
+  {
+   "name": "Gokarna Cliff Trek",
+   "q": "Gokarna Cliff"
+  },
+  {
+   "name": "Nirvana Beach",
+   "q": "Nirvana Beach"
+  },
+  {
+   "name": "Belekan Beach",
+   "q": "Belekan Beach"
+  },
+  {
+   "name": "Small Hell Beach",
+   "q": "Small Hell Beach"
+  }
+ ],
+ "Madurai": [
+  {
+   "name": "Meenakshi Amman Temple",
+   "q": "Meenakshi Temple"
+  },
+  {
+   "name": "Thirumalai Nayakkar Palace",
+   "q": "Thirumalai Nayak Palace"
+  },
+  {
+   "name": "Vandiyur Mariamman Teppakulam",
+   "q": "Teppakulam"
+  },
+  {
+   "name": "Alagar Kovil",
+   "q": "Alagar Kovil"
+  },
+  {
+   "name": "Thiruparankundram Murugan Temple",
+   "q": "Thiruparankundram"
+  },
+  {
+   "name": "Samanamalai Jain Caves",
+   "q": "Samanamalai"
+  },
+  {
+   "name": "Gandhi Memorial Museum",
+   "q": "Gandhi Museum"
+  },
+  {
+   "name": "Koodal Azhagar Temple",
+   "q": "Koodal Azhagar"
+  },
+  {
+   "name": "St. Mary's Cathedral",
+   "q": "St Marys Cathedral"
+  },
+  {
+   "name": "Pazhamudhircholai Temple",
+   "q": "Pazhamudhircholai"
+  },
+  {
+   "name": "Yanaimalai",
+   "q": "Yanaimalai"
+  },
+  {
+   "name": "Goripalayam Dargah",
+   "q": "Goripalayam Dargah"
+  },
+  {
+   "name": "Keeladi Museum",
+   "q": "Keeladi"
+  },
+  {
+   "name": "Albert Victor Bridge",
+   "q": "Albert Victor Bridge"
+  }
  ]
 }
