@@ -677,7 +677,7 @@
   "s": 7
  },
  "pxb328369|Shimla": {
-  "v": 2,
+  "v": 3,
   "ok": true,
   "s": 8
  },
@@ -4325,5 +4325,82 @@
   "v": 3,
   "ok": false,
   "s": 7
+ },
+ "wmc18948850|Christ Church": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc109260442|Christ Church": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc6490861|Christ Church": null,
+ "wmc528692|Christ Church": null,
+ "wmc1903143|The Ridge": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc198083915|Kalka Shimla Toy Train": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc153638149|Viceregal Lodge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc190155945|Viceregal Lodge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc198052352|Green Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc198052178|Green Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc198052242|Green Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc198052224|Green Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc202289974|Annandale": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc192405549|Gaiety Theatre": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc9833445|Gaiety Theatre": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc153638193|Mashobra": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb294414|Shimla": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

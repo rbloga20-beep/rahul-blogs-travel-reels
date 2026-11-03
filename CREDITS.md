@@ -295,3 +295,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-03-08-24 | Dhobi Ghat | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Dhobi_Ghat_in_Mumbai_(2026).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-08-24 | Juhu Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Waves_Priyanshu.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-08-24 | Mumbai | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Haji_Ali_Dargah_(74792).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-11-02 | Shimla | Pixabay (Manmohan_Singh) | https://pixabay.com/videos/id-328369/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-11-02 | Viceregal Lodge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Viceregal_Lodge_Shimla.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-11-02 | Kalka Shimla Toy Train | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kalka_Shimla_Toy_Train.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-11-02 | Mashobra | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rashtrapati_Niwas_Mashobra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-11-02 | Shimla | Pixabay (vkjosh) | https://pixabay.com/videos/id-294414/ | Pixabay Content License, commercial use, no attribution needed |
