@@ -280,3 +280,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-03-02-17 | Fatehpur Sikri | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fatehpur_Sikri_near_Agra,_Uttar_Pradesh.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-02-17 | Panch Mahal | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Panch_Mahal-1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-02-17 | Agra | Pixabay (hossamov04) | https://pixabay.com/videos/id-23592/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-05-03 | Delhi | Pixabay (Aradhyagad) | https://pixabay.com/videos/id-370418/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-05-03 | Humayun's Tomb | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Humayun%E2%80%99s_Tomb_Architecture_1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-05-03 | Akshardham Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Auspicious_Swastika_Garden_at_Akshardham_Temple,_Jaipur.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-05-03 | Jama Masjid | Pixabay (tvpco) | https://pixabay.com/videos/id-115925/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-05-03 | Chandni Chowk | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Chandni_Chowk,_detail_from_%27The_Delhi_Panorama%27,_by_Mazhar_Ali_Khan,_1846.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-05-03 | Sunder Nursery | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sunder_Nursery_Delhi.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-05-03 | Rashtrapati Bhavan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rashtrapati_Bhavan-2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-05-03 | Delhi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Humayun%27s_Tomb-Delhi_front_view.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

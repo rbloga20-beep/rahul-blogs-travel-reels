@@ -1347,7 +1347,7 @@
   "s": 8
  },
  "pxb118267|Delhi": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 4
  },
@@ -1357,9 +1357,9 @@
   "s": 6
  },
  "pxb134426|Delhi": {
-  "v": 2,
-  "ok": true,
-  "s": 6
+  "v": 3,
+  "ok": false,
+  "s": 4
  },
  "pxb44042|Ayodhya": {
   "v": 2,
@@ -4161,5 +4161,100 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "pxb206068|India Gate": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb206065|India Gate": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb206063|India Gate": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc141318956|Humayun's Tomb": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc141318352|Humayun's Tomb": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc166925708|Akshardham Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc171297578|Akshardham Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb321837|Lotus Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb290679|Lotus Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb375441|Lotus Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb184472|Lotus Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc157049745|Chandni Chowk": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc171521297|Chandni Chowk": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb115925|Jama Masjid": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc166502639|Sunder Nursery": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc61783119|Hauz Khas Village": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc4806978|Rashtrapati Bhavan": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb370418|Delhi": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb126434|Delhi": {
+  "v": 3,
+  "ok": false,
+  "s": 2
  }
 }

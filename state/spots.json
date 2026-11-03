@@ -2666,5 +2666,63 @@
    "name": "Diwan-i-Khas",
    "q": "Diwan-i-Khas"
   }
+ ],
+ "Delhi": [
+  {
+   "name": "India Gate",
+   "q": "India Gate"
+  },
+  {
+   "name": "Humayun's Tomb",
+   "q": "Humayun Tomb"
+  },
+  {
+   "name": "Qutub Minar",
+   "q": "Qutub Minar"
+  },
+  {
+   "name": "Lotus Temple",
+   "q": "Lotus Temple"
+  },
+  {
+   "name": "Akshardham Temple",
+   "q": "Akshardham"
+  },
+  {
+   "name": "Red Fort",
+   "q": "Red Fort"
+  },
+  {
+   "name": "Jama Masjid",
+   "q": "Jama Masjid"
+  },
+  {
+   "name": "Agrasen ki Baoli",
+   "q": "Agrasen Baoli"
+  },
+  {
+   "name": "Chandni Chowk",
+   "q": "Chandni Chowk"
+  },
+  {
+   "name": "Lodhi Garden",
+   "q": "Lodhi Garden"
+  },
+  {
+   "name": "Sunder Nursery",
+   "q": "Sunder Nursery"
+  },
+  {
+   "name": "Hauz Khas Village",
+   "q": "Hauz Khas"
+  },
+  {
+   "name": "Rashtrapati Bhavan",
+   "q": "Rashtrapati Bhavan"
+  },
+  {
+   "name": "Gurudwara Bangla Sahib",
+   "q": "Bangla Sahib"
+  }
  ]
 }
