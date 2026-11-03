@@ -902,7 +902,7 @@
   "s": 8
  },
  "pxb363497|Taj Mahal": {
-  "v": 2,
+  "v": 3,
   "ok": true,
   "s": 10
  },
@@ -3881,5 +3881,285 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb148611|Shanti Stupa": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb148612|Shanti Stupa": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb148608|Shanti Stupa": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb148610|Shanti Stupa": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc9028550|Khardung La Pass": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc8330413|Magnetic Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc132693019|Magnetic Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc136862207|Magnetic Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc132693018|Magnetic Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb266696|Stok Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc61894184|Spituk Monastery": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc102138264|Stakna Monastery": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb86652|Hall of Fame": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb228002|Dal Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb44598|Floating Vegetable Market": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb35344|Floating Vegetable Market": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb228002|Floating Vegetable Market": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb37453|Floating Vegetable Market": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb381057|Indira Gandhi Memorial Tulip Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb41165|Indira Gandhi Memorial Tulip Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb41167|Indira Gandhi Memorial Tulip Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb276561|Indira Gandhi Memorial Tulip Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc145292755|Hazratbal Shrine": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc114670980|Shankaracharya Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc193832420|Chashme Shahi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc193832410|Chashme Shahi": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc193832414|Chashme Shahi": null,
+ "wmc193832407|Chashme Shahi": null,
+ "wmc29236260|Zero Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc154161892|Zero Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc107257781|Zero Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc59421390|Zero Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb13856|Laxman Jhula": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc169943658|Parmarth Niketan": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc152276910|Ram Jhula": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb346643|Laxman Jhula": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb346642|Laxman Jhula": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb175306|Laxman Jhula": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb327188|Triveni Ghat": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb158088|Neer Garh Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb152703|Neer Garh Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb164588|Neer Garh Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb46335|Neer Garh Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb186563|Triveni Ghat": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb290683|Vashistha Gufa": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb23592|Taj Mahal": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc151158464|Fatehpur Sikri": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc35039359|Mehtab Bagh": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc36672833|Akbar's Tomb": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc60425340|Akbar's Tomb": null,
+ "wmc60425501|Akbar's Tomb": null,
+ "wmc4912466|Panch Mahal": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc68078717|Panch Mahal": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc193090210|Ram Bagh": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc193090211|Ram Bagh": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc193090208|Ram Bagh": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc193090206|Ram Bagh": null,
+ "wmc117191713|Tomb of Itimad-ud-Daulah": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb23592|Agra": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb373892|Agra": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

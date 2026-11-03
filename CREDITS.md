@@ -274,3 +274,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-02-17-27 | Gangaur Ghat | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Maharaja_Fateh_Singh_of_Udaipur,_(r.1884-1930),_on_royal_barge,_Udaipur.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-02-17-27 | Ahar Cenotaphs | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ahar_Cenotaphs.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-02-17-27 | Udaipur | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Saheliyon-ki-Bari,_Udaipur,_India_(54345395621).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-02-17 | Agra | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-373892/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-02-17 | Taj Mahal | Pixabay (Solarselle77) | https://pixabay.com/videos/id-363497/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-02-17 | Mehtab Bagh | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mehtab_Bagh_lawn.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-02-17 | Fatehpur Sikri | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fatehpur_Sikri_near_Agra,_Uttar_Pradesh.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-02-17 | Panch Mahal | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Panch_Mahal-1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-02-17 | Agra | Pixabay (hossamov04) | https://pixabay.com/videos/id-23592/ | Pixabay Content License, commercial use, no attribution needed |

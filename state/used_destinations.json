@@ -162,5 +162,25 @@
  "Udaipur": {
   "date": "2026-11-02",
   "status": "posted"
+ },
+ "Leh": {
+  "date": "2026-11-03",
+  "status": "no footage"
+ },
+ "Srinagar": {
+  "date": "2026-11-03",
+  "status": "no footage"
+ },
+ "Rishikesh": {
+  "date": "2026-11-03",
+  "status": "no footage"
+ },
+ "Varanasi": {
+  "date": "2026-11-03",
+  "status": "no footage"
+ },
+ "Agra": {
+  "date": "2026-11-03",
+  "status": "posted"
  }
 }

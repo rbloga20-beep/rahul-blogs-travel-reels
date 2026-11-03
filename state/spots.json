@@ -2376,5 +2376,295 @@
    "name": "Mansapurna Karni Mata Temple",
    "q": "Karni Mata Ropeway"
   }
+ ],
+ "Leh": [
+  {
+   "name": "Shanti Stupa",
+   "q": "Shanti Stupa"
+  },
+  {
+   "name": "Leh Palace",
+   "q": "Leh Palace"
+  },
+  {
+   "name": "Thiksey Monastery",
+   "q": "Thiksey Monastery"
+  },
+  {
+   "name": "Sangam Point",
+   "q": "Indus Zanskar Confluence"
+  },
+  {
+   "name": "Magnetic Hill",
+   "q": "Magnetic Hill"
+  },
+  {
+   "name": "Khardung La Pass",
+   "q": "Khardung La"
+  },
+  {
+   "name": "Namgyal Tsemo Monastery",
+   "q": "Namgyal Tsemo"
+  },
+  {
+   "name": "Hemis Monastery",
+   "q": "Hemis Monastery"
+  },
+  {
+   "name": "Shey Palace",
+   "q": "Shey Palace"
+  },
+  {
+   "name": "Spituk Monastery",
+   "q": "Spituk Monastery"
+  },
+  {
+   "name": "Stakna Monastery",
+   "q": "Stakna Monastery"
+  },
+  {
+   "name": "Stok Palace",
+   "q": "Stok Palace"
+  },
+  {
+   "name": "Hall of Fame",
+   "q": "Hall of Fame"
+  },
+  {
+   "name": "Chemrey Monastery",
+   "q": "Chemrey Monastery"
+  }
+ ],
+ "Srinagar": [
+  {
+   "name": "Dal Lake",
+   "q": "Dal Lake"
+  },
+  {
+   "name": "Floating Vegetable Market",
+   "q": "Floating Market"
+  },
+  {
+   "name": "Pari Mahal",
+   "q": "Pari Mahal"
+  },
+  {
+   "name": "Nishat Bagh",
+   "q": "Nishat Bagh"
+  },
+  {
+   "name": "Shalimar Bagh",
+   "q": "Shalimar Bagh"
+  },
+  {
+   "name": "Indira Gandhi Memorial Tulip Garden",
+   "q": "Tulip Garden"
+  },
+  {
+   "name": "Hazratbal Shrine",
+   "q": "Hazratbal"
+  },
+  {
+   "name": "Shankaracharya Temple",
+   "q": "Shankaracharya Temple"
+  },
+  {
+   "name": "Jamia Masjid",
+   "q": "Jamia Masjid"
+  },
+  {
+   "name": "Nigeen Lake",
+   "q": "Nigeen Lake"
+  },
+  {
+   "name": "Chashme Shahi",
+   "q": "Chashme Shahi"
+  },
+  {
+   "name": "Badam Wari Park",
+   "q": "Badam Wari"
+  },
+  {
+   "name": "Hari Parbat Fort",
+   "q": "Hari Parbat"
+  },
+  {
+   "name": "Zero Bridge",
+   "q": "Zero Bridge"
+  }
+ ],
+ "Rishikesh": [
+  {
+   "name": "Laxman Jhula",
+   "q": "suspension bridge"
+  },
+  {
+   "name": "Ram Jhula",
+   "q": "ganges bridge"
+  },
+  {
+   "name": "Parmarth Niketan",
+   "q": "ganga aarti"
+  },
+  {
+   "name": "Triveni Ghat",
+   "q": "evening prayer"
+  },
+  {
+   "name": "The Beatles Ashram",
+   "q": "chaurasi kutia"
+  },
+  {
+   "name": "Neer Garh Waterfall",
+   "q": "waterfall trekking"
+  },
+  {
+   "name": "Shivpuri",
+   "q": "river rafting"
+  },
+  {
+   "name": "Vashistha Gufa",
+   "q": "meditation cave"
+  },
+  {
+   "name": "Tera Manzil Temple",
+   "q": "trimbakeshwar temple"
+  },
+  {
+   "name": "Jumpin Heights",
+   "q": "bungee jumping"
+  },
+  {
+   "name": "Patna Waterfall",
+   "q": "limestone cave"
+  },
+  {
+   "name": "Ganga Beach",
+   "q": "river pebbles"
+  },
+  {
+   "name": "Rishikund",
+   "q": "holy pond"
+  },
+  {
+   "name": "Kunjapuri Devi Temple",
+   "q": "sunrise viewpoint"
+  }
+ ],
+ "Varanasi": [
+  {
+   "name": "Dashashwamedh Ghat",
+   "q": "Dashashwamedh Ghat"
+  },
+  {
+   "name": "Assi Ghat",
+   "q": "Assi Ghat"
+  },
+  {
+   "name": "Manikarnika Ghat",
+   "q": "Manikarnika Ghat"
+  },
+  {
+   "name": "Scindia Ghat",
+   "q": "Scindia Ghat"
+  },
+  {
+   "name": "Darbhanga Ghat",
+   "q": "Darbhanga Ghat"
+  },
+  {
+   "name": "Chet Singh Ghat",
+   "q": "Chet Singh Ghat"
+  },
+  {
+   "name": "Namo Ghat",
+   "q": "Namo Ghat"
+  },
+  {
+   "name": "Kashi Vishwanath Temple",
+   "q": "Kashi Vishwanath"
+  },
+  {
+   "name": "Dhamek Stupa",
+   "q": "Dhamek Stupa"
+  },
+  {
+   "name": "Ramnagar Fort",
+   "q": "Ramnagar Fort"
+  },
+  {
+   "name": "New Vishwanath Temple",
+   "q": "BHU Vishwanath"
+  },
+  {
+   "name": "Chaukhandi Stupa",
+   "q": "Chaukhandi Stupa"
+  },
+  {
+   "name": "Kedareswar Ghat",
+   "q": "Kedareswar Ghat"
+  },
+  {
+   "name": "Panchganga Ghat",
+   "q": "Panchganga Ghat"
+  }
+ ],
+ "Agra": [
+  {
+   "name": "Taj Mahal",
+   "q": "Taj Mahal"
+  },
+  {
+   "name": "Agra Fort",
+   "q": "Agra Fort"
+  },
+  {
+   "name": "Itmad-ud-Daula",
+   "q": "Baby Taj"
+  },
+  {
+   "name": "Mehtab Bagh",
+   "q": "Mehtab Bagh"
+  },
+  {
+   "name": "Fatehpur Sikri",
+   "q": "Fatehpur Sikri"
+  },
+  {
+   "name": "Buland Darwaza",
+   "q": "Buland Darwaza"
+  },
+  {
+   "name": "Akbar's Tomb",
+   "q": "Sikandra"
+  },
+  {
+   "name": "Jama Masjid",
+   "q": "Jama Masjid Agra"
+  },
+  {
+   "name": "Panch Mahal",
+   "q": "Panch Mahal"
+  },
+  {
+   "name": "Mariam's Tomb",
+   "q": "Mariam Tomb"
+  },
+  {
+   "name": "Chini Ka Rauza",
+   "q": "Chini Ka Rauza"
+  },
+  {
+   "name": "Ram Bagh",
+   "q": "Ram Bagh"
+  },
+  {
+   "name": "Tomb of Itimad-ud-Daulah",
+   "q": "Itmad-ud-Daula"
+  },
+  {
+   "name": "Diwan-i-Khas",
+   "q": "Diwan-i-Khas"
+  }
  ]
 }
