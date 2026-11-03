@@ -4467,5 +4467,147 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc91266640|MG Marg": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc52324301|Baba Harbhajan Singh Mandir": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc130039024|Namgyal Institute of Tibetology": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc145478605|Flower Exhibition Centre": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb312133|Elephant Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb218537|Elephant Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc132380270|Laitlum Canyons": null,
+ "wmc154235429|Shillong Peak": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc132346023|Shillong Peak": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc20166215|Ward's Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc66711392|Shillong Golf Course": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc23279074|Shillong Golf Course": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc51816149|Police Bazar": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc147387352|Police Bazar": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc147343282|Police Bazar": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc110980348|Cathedral of Mary Help of Christians": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc147387353|Police Bazar": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb98319|Sweet Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc178298302|Bishop Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb94263|Sweet Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc62080704|Bishop Falls": null,
+ "wmc43416149|Ever Living Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc160078032|Spread Eagle Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc146020465|Ever Living Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc113180465|Ever Living Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc113180453|Ever Living Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc160077998|Spread Eagle Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc160077723|Spread Eagle Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc160077183|Spread Eagle Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb130477|Shillong": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

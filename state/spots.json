@@ -2898,5 +2898,121 @@
    "name": "St. Andrew's Church",
    "q": "St Andrews Church Darjeeling"
   }
+ ],
+ "Gangtok": [
+  {
+   "name": "MG Marg",
+   "q": "MG Marg"
+  },
+  {
+   "name": "Tsomgo Lake",
+   "q": "Tsomgo Lake"
+  },
+  {
+   "name": "Nathula Pass",
+   "q": "Nathula Pass"
+  },
+  {
+   "name": "Rumtek Monastery",
+   "q": "Rumtek Monastery"
+  },
+  {
+   "name": "Tashi Viewpoint",
+   "q": "Tashi Viewpoint"
+  },
+  {
+   "name": "Gangtok Ropeway",
+   "q": "Gangtok Cable Car"
+  },
+  {
+   "name": "Ban Jhakri Falls",
+   "q": "Ban Jhakri"
+  },
+  {
+   "name": "Hanuman Tok",
+   "q": "Hanuman Tok"
+  },
+  {
+   "name": "Baba Harbhajan Singh Mandir",
+   "q": "Baba Mandir"
+  },
+  {
+   "name": "Ganesh Tok",
+   "q": "Ganesh Tok"
+  },
+  {
+   "name": "Do Drul Chorten",
+   "q": "Do Drul Chorten"
+  },
+  {
+   "name": "Namgyal Institute of Tibetology",
+   "q": "Namgyal Institute"
+  },
+  {
+   "name": "Bakthang Waterfall",
+   "q": "Bakthang Waterfall"
+  },
+  {
+   "name": "Flower Exhibition Centre",
+   "q": "Flower Exhibition Centre"
+  }
+ ],
+ "Shillong": [
+  {
+   "name": "Umiam Lake",
+   "q": "Umiam Lake"
+  },
+  {
+   "name": "Laitlum Canyons",
+   "q": "Laitlum Canyons"
+  },
+  {
+   "name": "Elephant Falls",
+   "q": "Elephant Falls"
+  },
+  {
+   "name": "Ward's Lake",
+   "q": "Wards Lake"
+  },
+  {
+   "name": "Shillong Peak",
+   "q": "Shillong Peak Viewpoint"
+  },
+  {
+   "name": "Shillong Golf Course",
+   "q": "Shillong Golf Course"
+  },
+  {
+   "name": "Police Bazar",
+   "q": "Police Bazar"
+  },
+  {
+   "name": "Cathedral of Mary Help of Christians",
+   "q": "Shillong Cathedral"
+  },
+  {
+   "name": "Don Bosco Museum",
+   "q": "Don Bosco Museum"
+  },
+  {
+   "name": "Sweet Falls",
+   "q": "Sweet Falls"
+  },
+  {
+   "name": "Lady Hydari Park",
+   "q": "Lady Hydari Park"
+  },
+  {
+   "name": "Bishop Falls",
+   "q": "Bishop Falls"
+  },
+  {
+   "name": "Spread Eagle Falls",
+   "q": "Spread Eagle Falls"
+  },
+  {
+   "name": "Ever Living Museum",
+   "q": "Ever Living Museum"
+  }
  ]
 }

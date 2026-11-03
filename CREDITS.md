@@ -305,3 +305,7 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-03-14-24 | Darjeeling Ropeway | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:India_2008_905.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-14-24 | St. Andrew's Church | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:St._Andrews_Church_situated_in_Darjeeling.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-14-24 | Darjeeling | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:India_2008_904.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-17-07 | Shillong | Pixabay (Faiz_22) | https://pixabay.com/videos/id-130477/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-17-07 | Ward's Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ward%27s_Lake,_Shillong_India.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-17-07 | Shillong Golf Course | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Shillong_Golf_Course.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-17-07 | Shillong | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:A_BIRDS_EYE_VIEW_OF_SHILLONG_FROM_SHILLONG_PEAK.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
