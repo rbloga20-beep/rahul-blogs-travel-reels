@@ -2724,5 +2724,63 @@
    "name": "Gurudwara Bangla Sahib",
    "q": "Bangla Sahib"
   }
+ ],
+ "Mumbai": [
+  {
+   "name": "Gateway of India",
+   "q": "Gateway of India"
+  },
+  {
+   "name": "Marine Drive",
+   "q": "Marine Drive"
+  },
+  {
+   "name": "Bandra-Worli Sea Link",
+   "q": "Bandra Worli Sea Link"
+  },
+  {
+   "name": "Chhatrapati Shivaji Maharaj Terminus",
+   "q": "CSMT"
+  },
+  {
+   "name": "Taj Mahal Palace Hotel",
+   "q": "Taj Mahal Palace"
+  },
+  {
+   "name": "Haji Ali Dargah",
+   "q": "Haji Ali Dargah"
+  },
+  {
+   "name": "Elephanta Caves",
+   "q": "Elephanta Caves"
+  },
+  {
+   "name": "Kanheri Caves",
+   "q": "Kanheri Caves"
+  },
+  {
+   "name": "Dhobi Ghat",
+   "q": "Mahalaxmi Dhobi Ghat"
+  },
+  {
+   "name": "Bandra Fort",
+   "q": "Bandra Fort"
+  },
+  {
+   "name": "Colaba Causeway",
+   "q": "Colaba Causeway"
+  },
+  {
+   "name": "Juhu Beach",
+   "q": "Juhu Beach"
+  },
+  {
+   "name": "Asiatic Society Library",
+   "q": "Asiatic Society Library"
+  },
+  {
+   "name": "Siddhivinayak Temple",
+   "q": "Siddhivinayak Temple"
+  }
  ]
 }

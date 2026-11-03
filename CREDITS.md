@@ -288,3 +288,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-03-05-03 | Sunder Nursery | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sunder_Nursery_Delhi.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-05-03 | Rashtrapati Bhavan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rashtrapati_Bhavan-2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-05-03 | Delhi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Humayun%27s_Tomb-Delhi_front_view.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-08-24 | Mumbai | Pixabay (u_ck34) | https://pixabay.com/videos/id-227808/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-08-24 | Bandra-Worli Sea Link | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bandra%E2%80%93Worli_Sea_Link.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-08-24 | Chhatrapati Shivaji Maharaj Terminus | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Maharaj_Terminus,_Mumbai_city.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-08-24 | Haji Ali Dargah | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Haji_Ali_Dargah_(11133).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-08-24 | Dhobi Ghat | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Dhobi_Ghat_in_Mumbai_(2026).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-08-24 | Juhu Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Waves_Priyanshu.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-08-24 | Mumbai | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Haji_Ali_Dargah_(74792).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

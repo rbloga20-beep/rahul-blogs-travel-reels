@@ -1117,7 +1117,7 @@
   "s": 8
  },
  "pxb118267|Mumbai": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 4
  },
@@ -1127,7 +1127,7 @@
   "s": 9
  },
  "pxb156839|Mumbai": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 6
  },
@@ -1142,12 +1142,12 @@
   "s": 8
  },
  "pxb264246|Mumbai": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 1
  },
  "pxb227808|Mumbai": {
-  "v": 2,
+  "v": 3,
   "ok": true,
   "s": 7
  },
@@ -4256,5 +4256,74 @@
   "v": 3,
   "ok": false,
   "s": 2
+ },
+ "wmc157743985|Bandra-Worli Sea Link": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb361624|Taj Mahal Palace Hotel": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc146411225|Chhatrapati Shivaji Maharaj Terminus": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc193996513|Haji Ali Dargah": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc193996611|Haji Ali Dargah": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc198610502|Chhatrapati Shivaji Maharaj Terminus": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc115547784|Elephanta Caves": null,
+ "wmc187947589|Dhobi Ghat": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc115547611|Kanheri Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc148610578|Juhu Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc148610579|Juhu Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc44571859|Asiatic Society Library": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc44680295|Asiatic Society Library": null,
+ "wmc44680164|Asiatic Society Library": null,
+ "wmc44680278|Asiatic Society Library": null,
+ "wmc5444250|Siddhivinayak Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc67692627|Siddhivinayak Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 7
  }
 }
