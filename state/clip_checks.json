@@ -1252,17 +1252,17 @@
   "s": 8
  },
  "pxb70333|Darjeeling": {
-  "v": 2,
-  "ok": false,
-  "s": 3
- },
- "pxb70331|Darjeeling": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 2
  },
+ "pxb70331|Darjeeling": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
  "pxb143123|Darjeeling": {
-  "v": 2,
+  "v": 3,
   "ok": true,
   "s": 8
  },
@@ -4402,5 +4402,70 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc75968918|Tiger Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc75967703|Tiger Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc11759263|Tiger Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc2489807|Tiger Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc5017557|Darjeeling Ropeway": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc5017514|Darjeeling Ropeway": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc177681735|Chowrasta Mall": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc60425327|Chowrasta Mall": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc151681541|Rock Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc68074237|Observatory Hill & Mahakal Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc68074219|Observatory Hill & Mahakal Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc14454314|Observatory Hill & Mahakal Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc60336294|St. Andrew's Church": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

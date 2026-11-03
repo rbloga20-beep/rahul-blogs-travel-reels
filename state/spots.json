@@ -2840,5 +2840,63 @@
    "name": "Mashobra",
    "q": "Mashobra"
   }
+ ],
+ "Darjeeling": [
+  {
+   "name": "Tiger Hill",
+   "q": "Tiger Hill"
+  },
+  {
+   "name": "Batasia Loop",
+   "q": "Batasia Loop"
+  },
+  {
+   "name": "Darjeeling Himalayan Railway",
+   "q": "Darjeeling Toy Train"
+  },
+  {
+   "name": "Happy Valley Tea Estate",
+   "q": "Happy Valley Tea"
+  },
+  {
+   "name": "Japanese Peace Pagoda",
+   "q": "Peace Pagoda Darjeeling"
+  },
+  {
+   "name": "Ghum Monastery",
+   "q": "Ghum Monastery"
+  },
+  {
+   "name": "Chowrasta Mall",
+   "q": "Chowrasta"
+  },
+  {
+   "name": "Darjeeling Ropeway",
+   "q": "Darjeeling Ropeway"
+  },
+  {
+   "name": "Padmaja Naidu Zoological Park",
+   "q": "Darjeeling Zoo"
+  },
+  {
+   "name": "Rock Garden",
+   "q": "Rock Garden Darjeeling"
+  },
+  {
+   "name": "Himalayan Mountaineering Institute",
+   "q": "HMI Darjeeling"
+  },
+  {
+   "name": "Observatory Hill & Mahakal Temple",
+   "q": "Observatory Hill"
+  },
+  {
+   "name": "Nightingale Park",
+   "q": "Nightingale Park"
+  },
+  {
+   "name": "St. Andrew's Church",
+   "q": "St Andrews Church Darjeeling"
+  }
  ]
 }

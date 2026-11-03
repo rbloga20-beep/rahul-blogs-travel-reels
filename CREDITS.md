@@ -300,3 +300,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-03-11-02 | Kalka Shimla Toy Train | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kalka_Shimla_Toy_Train.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-11-02 | Mashobra | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rashtrapati_Niwas_Mashobra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-03-11-02 | Shimla | Pixabay (vkjosh) | https://pixabay.com/videos/id-294414/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-14-24 | Darjeeling | Pixabay (pradipd123) | https://pixabay.com/videos/id-143123/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-03-14-24 | Chowrasta Mall | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Darjeeling_MET_DP71242.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-14-24 | Darjeeling Ropeway | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:India_2008_905.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-14-24 | St. Andrew's Church | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:St._Andrews_Church_situated_in_Darjeeling.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-03-14-24 | Darjeeling | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:India_2008_904.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
