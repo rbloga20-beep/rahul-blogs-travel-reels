@@ -5152,5 +5152,161 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb290020|Auli Ropeway": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb42883|Auli Ropeway": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb53031|Auli Ropeway": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb214995|Auli Ski Resort": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb13993|Auli Ski Resort": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb128574|Auli Ropeway": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb367609|Gurso Bugyal": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb292827|Nanda Devi Peak": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb367609|Kwani Bugyal": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb67671|Gurso Bugyal": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb282728|Kwani Bugyal": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb225421|Nanda Devi Peak": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb287291|Nanda Devi Peak": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb384637|Chenab Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb3712|Joshimath": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb378278|Trishul Peak": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb385781|Chenab Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb378268|Trishul Peak": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb3526|Joshimath": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb378275|Trishul Peak": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb377381|Trishul Peak": null,
+ "pxb374807|Joshimath": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb222076|Chenab Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb385017|Chenab Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb11237|Auli Chair Lift": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb317065|Narsingh Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb323882|Narsingh Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb295629|Narsingh Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb302619|Narsingh Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb279175|Vridh Badri": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb298785|Bhavishya Kedar": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb298807|Bhavishya Kedar": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

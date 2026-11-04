@@ -321,3 +321,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-04-11-24 | Baratang Island | Pixabay (Yocchi09) | https://pixabay.com/videos/id-321554/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-04-11-24 | Diglipur | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS035-E-5168_-_View_of_Earth.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-04-11-24 | Mahatma Gandhi Marine National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS039-E-756_-_View_of_the_Andaman_Islands.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-14-26 | Auli | Pixabay (RoyBuri) | https://pixabay.com/videos/id-13993/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-04-14-26 | Auli Ski Resort | Pixabay (spinheike) | https://pixabay.com/videos/id-214995/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-04-14-26 | Gurso Bugyal | Pixabay (deluxevision) | https://pixabay.com/videos/id-367609/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-04-14-26 | Nanda Devi Peak | Pixabay (RainMeditateHub) | https://pixabay.com/videos/id-292827/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-04-14-26 | Trishul Peak | Pixabay (mostafa_meraji) | https://pixabay.com/videos/id-377381/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-04-14-26 | Joshimath | Pixabay (bellergy) | https://pixabay.com/videos/id-3526/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-04-14-26 | Chenab Lake | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385781/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-04-14-26 | Bhavishya Kedar | Pixabay (thenomadwanderer) | https://pixabay.com/videos/id-298785/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-04-14-26 | Auli | Pixabay (ChristianBodhi) | https://pixabay.com/videos/id-67671/ | Pixabay Content License, commercial use, no attribution needed |

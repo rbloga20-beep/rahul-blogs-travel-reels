@@ -3768,5 +3768,63 @@
    "name": "Mahatma Gandhi Marine National Park",
    "q": "Jolly Buoy"
   }
+ ],
+ "Auli": [
+  {
+   "name": "Auli Ski Resort",
+   "q": "skiing slopes"
+  },
+  {
+   "name": "Auli Ropeway",
+   "q": "gondola ride"
+  },
+  {
+   "name": "Auli Artificial Lake",
+   "q": "man-made lake"
+  },
+  {
+   "name": "Gurso Bugyal",
+   "q": "meadow trek"
+  },
+  {
+   "name": "Kwani Bugyal",
+   "q": "alpine meadow"
+  },
+  {
+   "name": "Nanda Devi Peak",
+   "q": "mountain view"
+  },
+  {
+   "name": "Trishul Peak",
+   "q": "snowy summit"
+  },
+  {
+   "name": "Joshimath",
+   "q": "hill station"
+  },
+  {
+   "name": "Chenab Lake",
+   "q": "crystal lake"
+  },
+  {
+   "name": "Chattrakund",
+   "q": "hidden pond"
+  },
+  {
+   "name": "Auli Chair Lift",
+   "q": "chairlift ride"
+  },
+  {
+   "name": "Narsingh Temple",
+   "q": "ancient temple"
+  },
+  {
+   "name": "Bhavishya Kedar",
+   "q": "shiva temple"
+  },
+  {
+   "name": "Vridh Badri",
+   "q": "pilgrimage site"
+  }
  ]
 }
