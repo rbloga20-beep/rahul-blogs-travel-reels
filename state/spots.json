@@ -3652,5 +3652,121 @@
    "name": "Kashmir Valley Viewpoint",
    "q": "Kashmir Valley Viewpoint"
   }
+ ],
+ "Spiti Valley": [
+  {
+   "name": "Key Monastery",
+   "q": "Key Monastery"
+  },
+  {
+   "name": "Chandratal Lake",
+   "q": "Chandratal"
+  },
+  {
+   "name": "Hikkim Post Office",
+   "q": "Hikkim"
+  },
+  {
+   "name": "Langza Buddha Statue",
+   "q": "Langza"
+  },
+  {
+   "name": "Chicham Bridge",
+   "q": "Chicham Bridge"
+  },
+  {
+   "name": "Dhankar Monastery",
+   "q": "Dhankar Monastery"
+  },
+  {
+   "name": "Tabo Monastery",
+   "q": "Tabo Monastery"
+  },
+  {
+   "name": "Komic Village",
+   "q": "Komic"
+  },
+  {
+   "name": "Gue Mummy Temple",
+   "q": "Gue Monastery"
+  },
+  {
+   "name": "Pin Valley National Park",
+   "q": "Pin Valley"
+  },
+  {
+   "name": "Kunzum Pass",
+   "q": "Kunzum Pass"
+  },
+  {
+   "name": "Dhankar Lake",
+   "q": "Dhankar Lake"
+  },
+  {
+   "name": "Kibber Village",
+   "q": "Kibber"
+  },
+  {
+   "name": "Tashigang Village",
+   "q": "Tashigang"
+  }
+ ],
+ "Andaman Islands": [
+  {
+   "name": "Radhanagar Beach",
+   "q": "Radhanagar Beach"
+  },
+  {
+   "name": "Cellular Jail",
+   "q": "Cellular Jail"
+  },
+  {
+   "name": "Elephant Beach",
+   "q": "Elephant Beach"
+  },
+  {
+   "name": "Ross Island",
+   "q": "Ross Island"
+  },
+  {
+   "name": "Neil Island",
+   "q": "Neil Island"
+  },
+  {
+   "name": "Natural Bridge",
+   "q": "Natural Bridge"
+  },
+  {
+   "name": "Baratang Island",
+   "q": "Limestone Caves"
+  },
+  {
+   "name": "Kalapathar Beach",
+   "q": "Kalapathar Beach"
+  },
+  {
+   "name": "North Bay Island",
+   "q": "North Bay"
+  },
+  {
+   "name": "Laxmanpur Beach",
+   "q": "Laxmanpur Beach"
+  },
+  {
+   "name": "Corbyn's Cove",
+   "q": "Corbyn's Cove"
+  },
+  {
+   "name": "Diglipur",
+   "q": "Ross and Smith"
+  },
+  {
+   "name": "Chidiya Tapu",
+   "q": "Chidiya Tapu"
+  },
+  {
+   "name": "Mahatma Gandhi Marine National Park",
+   "q": "Jolly Buoy"
+  }
  ]
 }

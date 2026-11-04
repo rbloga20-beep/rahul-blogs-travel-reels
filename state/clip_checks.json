@@ -5030,5 +5030,127 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc175557529|Langza Buddha Statue": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc171028197|Langza Buddha Statue": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc176208419|Komic Village": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc176032807|Komic Village": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb226710|Pin Valley National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc92037100|Tashigang Village": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc92196445|Tashigang Village": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc183379633|Cellular Jail": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc183379621|Cellular Jail": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc183379586|Cellular Jail": null,
+ "wmc183379634|Cellular Jail": null,
+ "pxb15787|Natural Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc129638085|Ross Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc182608918|Ross Island": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb15036|Natural Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb270164|Natural Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb258092|Natural Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc28604480|Ross Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc197820682|Ross Island": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb4706|North Bay Island": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb321554|Baratang Island": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb10287|North Bay Island": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb378035|North Bay Island": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb130229|North Bay Island": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc119355303|Diglipur": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc105858770|Mahatma Gandhi Marine National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
