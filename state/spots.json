@@ -3130,5 +3130,469 @@
    "name": "Mahamandir Temple",
    "q": "Mahamandir Temple"
   }
+ ],
+ "Amritsar": [
+  {
+   "name": "Golden Temple",
+   "q": "Golden Temple"
+  },
+  {
+   "name": "Wagah Border",
+   "q": "Wagah Border"
+  },
+  {
+   "name": "Jallianwala Bagh",
+   "q": "Jallianwala Bagh"
+  },
+  {
+   "name": "Gobindgarh Fort",
+   "q": "Gobindgarh Fort"
+  },
+  {
+   "name": "Durgiana Temple",
+   "q": "Durgiana Temple"
+  },
+  {
+   "name": "Partition Museum",
+   "q": "Partition Museum"
+  },
+  {
+   "name": "Sadda Pind",
+   "q": "Sadda Pind"
+  },
+  {
+   "name": "Amritsar Heritage Street",
+   "q": "Heritage Street"
+  },
+  {
+   "name": "Ram Tirath Temple",
+   "q": "Ram Tirath"
+  },
+  {
+   "name": "Gurdwara Baba Atal Rai",
+   "q": "Baba Atal Rai"
+  },
+  {
+   "name": "Pul Kanjari",
+   "q": "Pul Kanjari"
+  },
+  {
+   "name": "Maharaja Ranjit Singh Museum",
+   "q": "Ranjit Singh Museum"
+  },
+  {
+   "name": "Company Bagh",
+   "q": "Company Bagh"
+  },
+  {
+   "name": "Hall Bazaar",
+   "q": "Hall Bazaar"
+  }
+ ],
+ "Nainital": [
+  {
+   "name": "Naini Lake",
+   "q": "Naini Lake"
+  },
+  {
+   "name": "Mall Road",
+   "q": "Mall Road"
+  },
+  {
+   "name": "Naina Devi Temple",
+   "q": "Naina Devi"
+  },
+  {
+   "name": "Snow View Point",
+   "q": "Snow View Point"
+  },
+  {
+   "name": "Tiffin Top",
+   "q": "Tiffin Top"
+  },
+  {
+   "name": "Eco Cave Gardens",
+   "q": "Eco Cave Gardens"
+  },
+  {
+   "name": "Kainchi Dham",
+   "q": "Kainchi Dham"
+  },
+  {
+   "name": "Raj Bhawan",
+   "q": "Raj Bhawan"
+  },
+  {
+   "name": "Naina Peak",
+   "q": "Naina Peak"
+  },
+  {
+   "name": "Nainital Ropeway",
+   "q": "Nainital Ropeway"
+  },
+  {
+   "name": "Bhimtal Lake",
+   "q": "Bhimtal Lake"
+  },
+  {
+   "name": "Sattal",
+   "q": "Sattal"
+  },
+  {
+   "name": "Naukuchiatal",
+   "q": "Naukuchiatal"
+  },
+  {
+   "name": "Hanuman Garhi",
+   "q": "Hanuman Garhi"
+  }
+ ],
+ "Mussoorie": [
+  {
+   "name": "Kempty Falls",
+   "q": "Kempty Falls"
+  },
+  {
+   "name": "Mall Road",
+   "q": "Mall Road Mussoorie"
+  },
+  {
+   "name": "Lal Tibba",
+   "q": "Lal Tibba"
+  },
+  {
+   "name": "Gun Hill",
+   "q": "Gun Hill Point"
+  },
+  {
+   "name": "Company Garden",
+   "q": "Company Garden"
+  },
+  {
+   "name": "Cloud's End",
+   "q": "Clouds End"
+  },
+  {
+   "name": "George Everest House",
+   "q": "George Everest"
+  },
+  {
+   "name": "Camel's Back Road",
+   "q": "Camels Back Road"
+  },
+  {
+   "name": "Mussoorie Lake",
+   "q": "Mussoorie Lake"
+  },
+  {
+   "name": "Jharipani Falls",
+   "q": "Jharipani Falls"
+  },
+  {
+   "name": "Bhatta Falls",
+   "q": "Bhatta Falls"
+  },
+  {
+   "name": "Happy Valley",
+   "q": "Happy Valley"
+  },
+  {
+   "name": "Landour Clock Tower",
+   "q": "Landour"
+  },
+  {
+   "name": "Sister's Bazaar",
+   "q": "Sisters Bazaar"
+  }
+ ],
+ "Dharamshala": [
+  {
+   "name": "Bhagsunag Waterfall",
+   "q": "Bhagsunag Waterfall"
+  },
+  {
+   "name": "Tsuglagkhang Complex",
+   "q": "Dalai Lama Temple"
+  },
+  {
+   "name": "Dharamshala Cricket Stadium",
+   "q": "HPCA Stadium"
+  },
+  {
+   "name": "Naddi View Point",
+   "q": "Naddi Viewpoint"
+  },
+  {
+   "name": "St. John in the Wilderness",
+   "q": "St John Church"
+  },
+  {
+   "name": "Triund Hill",
+   "q": "Triund Trek"
+  },
+  {
+   "name": "Dal Lake",
+   "q": "Dal Lake Dharamshala"
+  },
+  {
+   "name": "Norbulingka Institute",
+   "q": "Norbulingka Institute"
+  },
+  {
+   "name": "Dharamkot",
+   "q": "Dharamkot"
+  },
+  {
+   "name": "Gallu Devi Temple",
+   "q": "Gallu Devi"
+  },
+  {
+   "name": "War Memorial",
+   "q": "Dharamshala War Memorial"
+  },
+  {
+   "name": "Gyuto Monastery",
+   "q": "Gyuto Monastery"
+  },
+  {
+   "name": "Aghanjar Mahadev Temple",
+   "q": "Aghanjar Mahadev"
+  },
+  {
+   "name": "Indrahar Pass",
+   "q": "Indrahar Pass"
+  }
+ ],
+ "Kolkata": [
+  {
+   "name": "Victoria Memorial",
+   "q": "Victoria Memorial"
+  },
+  {
+   "name": "Howrah Bridge",
+   "q": "Howrah Bridge"
+  },
+  {
+   "name": "Princep Ghat",
+   "q": "Princep Ghat"
+  },
+  {
+   "name": "Park Street",
+   "q": "Park Street"
+  },
+  {
+   "name": "Dakshineswar Kali Temple",
+   "q": "Dakshineswar"
+  },
+  {
+   "name": "St. Paul's Cathedral",
+   "q": "St Pauls Cathedral"
+  },
+  {
+   "name": "College Street",
+   "q": "College Street"
+  },
+  {
+   "name": "Indian Museum",
+   "q": "Indian Museum"
+  },
+  {
+   "name": "Marble Palace",
+   "q": "Marble Palace"
+  },
+  {
+   "name": "Belur Math",
+   "q": "Belur Math"
+  },
+  {
+   "name": "New Market",
+   "q": "New Market"
+  },
+  {
+   "name": "Eden Gardens",
+   "q": "Eden Gardens"
+  },
+  {
+   "name": "Mullick Ghat Flower Market",
+   "q": "Flower Market"
+  },
+  {
+   "name": "Victoria Memorial Gardens",
+   "q": "Maidan"
+  }
+ ],
+ "Pushkar": [
+  {
+   "name": "Pushkar Lake",
+   "q": "Pushkar Lake ghats"
+  },
+  {
+   "name": "Brahma Temple",
+   "q": "Brahma Temple"
+  },
+  {
+   "name": "Savitri Mata Temple",
+   "q": "Savitri Temple sunset"
+  },
+  {
+   "name": "Pushkar Camel Fair",
+   "q": "Pushkar Camel Fair"
+  },
+  {
+   "name": "Varaha Temple",
+   "q": "Varaha Temple"
+  },
+  {
+   "name": "Rangji Temple",
+   "q": "Rangji Temple architecture"
+  },
+  {
+   "name": "Pushkar Desert",
+   "q": "Thar Desert dunes"
+  },
+  {
+   "name": "Rose Gardens",
+   "q": "Pushkar rose fields"
+  },
+  {
+   "name": "Man Mahal",
+   "q": "Man Mahal"
+  },
+  {
+   "name": "Pap Mochani Temple",
+   "q": "Pap Mochani Temple"
+  },
+  {
+   "name": "Pushkar Main Market",
+   "q": "Pushkar street market"
+  },
+  {
+   "name": "Aptaeshwar Temple",
+   "q": "Aptaeshwar Temple"
+  },
+  {
+   "name": "Desert Camp",
+   "q": "Pushkar desert camping"
+  },
+  {
+   "name": "Old Rangji Temple",
+   "q": "Old Rangji Temple"
+  }
+ ],
+ "Mount Abu": [
+  {
+   "name": "Dilwara Temples",
+   "q": "marble carving"
+  },
+  {
+   "name": "Nakki Lake",
+   "q": "boating"
+  },
+  {
+   "name": "Guru Shikhar",
+   "q": "mountain peak"
+  },
+  {
+   "name": "Sunset Point",
+   "q": "golden hour"
+  },
+  {
+   "name": "Toad Rock",
+   "q": "rock formation"
+  },
+  {
+   "name": "Achalgarh Fort",
+   "q": "ancient ruins"
+  },
+  {
+   "name": "Peace Park",
+   "q": "landscaped gardens"
+  },
+  {
+   "name": "Trevor's Tank",
+   "q": "crocodile spotting"
+  },
+  {
+   "name": "Mount Abu Wildlife Sanctuary",
+   "q": "nature trail"
+  },
+  {
+   "name": "Honeymoon Point",
+   "q": "panoramic view"
+  },
+  {
+   "name": "Gaumukh Temple",
+   "q": "cow statue"
+  },
+  {
+   "name": "Universal Peace Hall",
+   "q": "brahmakumaris"
+  },
+  {
+   "name": "Adhar Devi Temple",
+   "q": "cave temple"
+  },
+  {
+   "name": "Raghunath Temple",
+   "q": "lakefront temple"
+  }
+ ],
+ "Gulmarg": [
+  {
+   "name": "Gulmarg Gondola",
+   "q": "Gondola cable car"
+  },
+  {
+   "name": "Kongdoori Mountain",
+   "q": "Kongdoori phase"
+  },
+  {
+   "name": "Apharwat Peak",
+   "q": "Apharwat snow"
+  },
+  {
+   "name": "Gulmarg Ski Resort",
+   "q": "Gulmarg skiing"
+  },
+  {
+   "name": "Strawberry Valley",
+   "q": "Strawberry fields"
+  },
+  {
+   "name": "Drung Waterfall",
+   "q": "Drung frozen"
+  },
+  {
+   "name": "St. Mary's Church",
+   "q": "St Marys church"
+  },
+  {
+   "name": "Gulmarg Golf Course",
+   "q": "Golf course"
+  },
+  {
+   "name": "Maharani Temple",
+   "q": "Maharani temple"
+  },
+  {
+   "name": "Ningle Nallah",
+   "q": "Ningle Nallah"
+  },
+  {
+   "name": "Baba Reshi Shrine",
+   "q": "Baba Reshi"
+  },
+  {
+   "name": "Children's Park",
+   "q": "Gulmarg park"
+  },
+  {
+   "name": "Botapathri",
+   "q": "Botapathri valley"
+  },
+  {
+   "name": "Khilanmarg",
+   "q": "Khilanmarg meadow"
+  }
  ]
 }

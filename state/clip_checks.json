@@ -982,14 +982,14 @@
   "s": 6
  },
  "pxb372645|Golden Temple": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 10
  },
  "pxb298835|Golden Temple": {
-  "v": 2,
+  "v": 3,
   "ok": false,
-  "s": 9
+  "s": 8
  },
  "pxb298834|Golden Temple": {
   "v": 2,
@@ -1002,12 +1002,12 @@
   "s": 8
  },
  "pxb330644|Golden Temple": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 10
  },
  "pxb298833|Golden Temple": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 8
  },
@@ -4689,5 +4689,311 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "wmc143992834|Jallianwala Bagh": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc66363532|Partition Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc70275887|Partition Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc98521704|Partition Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc178923040|Partition Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb305748|Amritsar Heritage Street": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb308886|Amritsar Heritage Street": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc145438899|Sadda Pind": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc145438906|Sadda Pind": null,
+ "wmc145438896|Sadda Pind": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb386336|Amritsar Heritage Street": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc145438893|Sadda Pind": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb308885|Amritsar Heritage Street": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc126483538|Maharaja Ranjit Singh Museum": null,
+ "wmc127757049|Maharaja Ranjit Singh Museum": null,
+ "wmc127757047|Maharaja Ranjit Singh Museum": null,
+ "wmc171952237|Maharaja Ranjit Singh Museum": null,
+ "wmc191139815|Gurdwara Baba Atal Rai": null,
+ "wmc127784571|Gurdwara Baba Atal Rai": null,
+ "wmc134252642|Gurdwara Baba Atal Rai": null,
+ "wmc151487098|Gurdwara Baba Atal Rai": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc8573822|Hall Bazaar": null,
+ "wmc124966490|Company Bagh": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc66473643|Company Bagh": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc66473631|Company Bagh": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc68074194|Company Bagh": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc49758897|Naini Lake": null,
+ "pxb21758|Snow View Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc109012956|Naina Peak": null,
+ "wmc145000518|Raj Bhawan": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc145000517|Raj Bhawan": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc23131866|Sattal": null,
+ "wmc5739372|Bhimtal Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc52278817|Hanuman Garhi": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc179012956|Mall Road": null,
+ "wmc12291056|Kempty Falls": null,
+ "wmc12291041|Kempty Falls": null,
+ "wmc149569994|Kempty Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb347076|Cloud's End": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb327758|Cloud's End": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc34304637|Gun Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc163367363|Victoria Memorial": null,
+ "pxb107597|Howrah Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb376756|Park Street": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc196877474|St. Paul's Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb262762|Park Street": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb227348|Park Street": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb219782|Park Street": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb30123|Marble Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc90641396|Indian Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc147463523|College Street": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb382711|Marble Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb993|New Market": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb43749|Eden Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc49460199|Belur Math": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb376579|Eden Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb206146|Mullick Ghat Flower Market": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc197357303|Victoria Memorial Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc126431424|Brahma Temple": null,
+ "wmc126431425|Brahma Temple": null,
+ "wmc167833731|Brahma Temple": null,
+ "wmc126431423|Brahma Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc126454725|Varaha Temple": null,
+ "wmc126454730|Varaha Temple": null,
+ "wmc126454737|Varaha Temple": null,
+ "wmc126454883|Varaha Temple": null,
+ "wmc146303731|Rose Gardens": null,
+ "wmc169298974|Rose Gardens": null,
+ "wmc169304232|Rose Gardens": null,
+ "wmc152484604|Man Mahal": null,
+ "wmc152483935|Man Mahal": null,
+ "wmc117469097|Rose Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc102349166|Pushkar Desert": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc102346318|Pushkar Desert": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc38678709|Desert Camp": null,
+ "wmc38678746|Desert Camp": null,
+ "wmc159570889|Desert Camp": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc38678715|Desert Camp": null,
+ "pxb7559|Nakki Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb65953|Guru Shikhar": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb64359|Guru Shikhar": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb42953|Dilwara Temples": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb42952|Dilwara Temples": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb23064|Nakki Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb203407|Guru Shikhar": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb23011|Nakki Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
  }
 }
