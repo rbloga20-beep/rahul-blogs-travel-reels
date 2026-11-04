@@ -3014,5 +3014,121 @@
    "name": "Ever Living Museum",
    "q": "Ever Living Museum"
   }
+ ],
+ "Jaisalmer": [
+  {
+   "name": "Jaisalmer Fort",
+   "q": "Golden Fort"
+  },
+  {
+   "name": "Patwon Ki Haveli",
+   "q": "Patwon Haveli"
+  },
+  {
+   "name": "Sam Sand Dunes",
+   "q": "Thar Desert"
+  },
+  {
+   "name": "Gadisar Lake",
+   "q": "Gadisar Lake"
+  },
+  {
+   "name": "Kuldhara Abandoned Village",
+   "q": "Kuldhara"
+  },
+  {
+   "name": "Nathmal Ki Haveli",
+   "q": "Nathmal Haveli"
+  },
+  {
+   "name": "Salim Singh Ki Haveli",
+   "q": "Salim Singh"
+  },
+  {
+   "name": "Bada Bagh",
+   "q": "Bada Bagh"
+  },
+  {
+   "name": "Vyas Chhatri",
+   "q": "Vyas Chhatri"
+  },
+  {
+   "name": "Khuri Sand Dunes",
+   "q": "Khuri Dunes"
+  },
+  {
+   "name": "Desert National Park",
+   "q": "Desert National"
+  },
+  {
+   "name": "Tanot Mata Temple",
+   "q": "Tanot Temple"
+  },
+  {
+   "name": "Jain Temples",
+   "q": "Jaisalmer Jain"
+  },
+  {
+   "name": "Longewala War Memorial",
+   "q": "Longewala"
+  }
+ ],
+ "Jodhpur": [
+  {
+   "name": "Mehrangarh Fort",
+   "q": "Mehrangarh Fort"
+  },
+  {
+   "name": "Jaswant Thada",
+   "q": "Jaswant Thada"
+  },
+  {
+   "name": "Umaid Bhawan Palace",
+   "q": "Umaid Bhawan"
+  },
+  {
+   "name": "Toorji Ka Jhalra Stepwell",
+   "q": "Toorji Ka Jhalra"
+  },
+  {
+   "name": "Blue City Alleys",
+   "q": "Navchokiya Blue City"
+  },
+  {
+   "name": "Clock Tower & Sardar Market",
+   "q": "Ghanta Ghar Market"
+  },
+  {
+   "name": "Mandore Gardens",
+   "q": "Mandore Gardens"
+  },
+  {
+   "name": "Pachetia Hill",
+   "q": "Pachetia Hill"
+  },
+  {
+   "name": "Rao Jodha Desert Rock Park",
+   "q": "Rao Jodha Park"
+  },
+  {
+   "name": "Ranisar Padamsar Lakes",
+   "q": "Ranisar Padamsar"
+  },
+  {
+   "name": "Kaylana Lake",
+   "q": "Kaylana Lake"
+  },
+  {
+   "name": "Osian Sand Dunes",
+   "q": "Osian Dunes"
+  },
+  {
+   "name": "Balsamand Lake Palace",
+   "q": "Balsamand Lake"
+  },
+  {
+   "name": "Mahamandir Temple",
+   "q": "Mahamandir Temple"
+  }
  ]
 }

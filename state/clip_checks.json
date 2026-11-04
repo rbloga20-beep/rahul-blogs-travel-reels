@@ -4609,5 +4609,85 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb344532|Sam Sand Dunes": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb74803|Sam Sand Dunes": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb164394|Jaisalmer Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc17222259|Salim Singh Ki Haveli": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb179970|Desert National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb30335|Desert National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb50032|Desert National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb30007|Desert National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc153449860|Jain Temples": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc148858533|Jain Temples": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc146822250|Longewala War Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc74876216|Jaswant Thada": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc146707549|Blue City Alleys": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc145331038|Kaylana Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc149160024|Mahamandir Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc149160004|Mahamandir Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }
