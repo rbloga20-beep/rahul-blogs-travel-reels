@@ -3594,5 +3594,63 @@
    "name": "Khilanmarg",
    "q": "Khilanmarg meadow"
   }
+ ],
+ "Pahalgam": [
+  {
+   "name": "Betaab Valley",
+   "q": "Betaab Valley"
+  },
+  {
+   "name": "Aru Valley",
+   "q": "Aru Valley"
+  },
+  {
+   "name": "Baisaran Valley",
+   "q": "Baisaran Valley"
+  },
+  {
+   "name": "Chandanwari",
+   "q": "Chandanwari"
+  },
+  {
+   "name": "Lidder River",
+   "q": "Lidder River"
+  },
+  {
+   "name": "Tulian Lake",
+   "q": "Tulian Lake"
+  },
+  {
+   "name": "Sheshnag Lake",
+   "q": "Sheshnag Lake"
+  },
+  {
+   "name": "Kolahoi Glacier",
+   "q": "Kolahoi Glacier"
+  },
+  {
+   "name": "Mamleshwar Temple",
+   "q": "Mamleshwar Temple"
+  },
+  {
+   "name": "Lidderwat",
+   "q": "Lidderwat"
+  },
+  {
+   "name": "Pahalgam Golf Course",
+   "q": "Pahalgam Golf"
+  },
+  {
+   "name": "Poshwan Park",
+   "q": "Poshwan Park"
+  },
+  {
+   "name": "Tarsar Lake",
+   "q": "Tarsar Lake"
+  },
+  {
+   "name": "Kashmir Valley Viewpoint",
+   "q": "Kashmir Valley Viewpoint"
+  }
  ]
 }

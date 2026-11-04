@@ -4995,5 +4995,40 @@
   "v": 3,
   "ok": false,
   "s": 9
+ },
+ "wmc20278159|Baisaran Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc19198969|Aru Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc169773792|Lidder River": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc169773793|Lidder River": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc146902653|Mamleshwar Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc52861527|Kolahoi Glacier": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc121921848|Kolahoi Glacier": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

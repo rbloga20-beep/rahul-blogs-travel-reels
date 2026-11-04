@@ -313,3 +313,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-04-02-08 | Jaswant Thada | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jaswant_Thada_2018.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-04-02-08 | Kaylana Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Clocktowerr.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-04-02-08 | Mahamandir Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:0091623_Surya_Rannada_Navagraha_temple,_Bagwadar_Gujarat_192.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-08-25 | Pahalgam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lidder_river_pehalgam.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-08-25 | Aru Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Aru_Valley_Kashmir.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-08-25 | Lidder River | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lidder_river_kashmir.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-08-25 | Kolahoi Glacier | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS066-E-84674_-_View_of_India.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-08-25 | Mamleshwar Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mamleshwar_Temple_Omkareshwar.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
