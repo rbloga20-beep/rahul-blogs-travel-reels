@@ -1157,7 +1157,7 @@
   "s": 9
  },
  "pxb99993|Lonavala": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 8
  },
@@ -5308,5 +5308,167 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc85053034|Malana Village": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc110542393|Malana Village": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc85053086|Malana Village": null,
+ "wmc85053049|Malana Village": null,
+ "wmc183477000|Pulga Village": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc173261212|Pulga Village": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc62545303|German Bakery": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc66208453|German Bakery": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc66061707|Buddha Place": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc21908413|Buddha Place": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc67440194|German Bakery": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc76009973|Buddha Place": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc67440207|German Bakery": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc136915029|Buddha Place": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb381056|Magic Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb381058|Magic Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb381060|Magic Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb294728|Magic Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc158478079|Tiger Point": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc162649725|Karla Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc166875817|Tiger Point": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc162649711|Karla Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc22435979|Tiger Point": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc162649720|Karla Caves": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc162649706|Karla Caves": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc22436798|Bhushi Dam": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc169773785|Rajmachi Point": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc11694075|Rajmachi Point": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc169773762|Visapur Fort": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc33890293|Duke's Nose": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc33890580|Duke's Nose": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc33890569|Duke's Nose": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc33890547|Duke's Nose": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc163687914|Celebrity Wax Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 2
  }
 }

@@ -3826,5 +3826,121 @@
    "name": "Vridh Badri",
    "q": "pilgrimage site"
   }
+ ],
+ "Kasol": [
+  {
+   "name": "Chalal Trek",
+   "q": "Parvati River trail"
+  },
+  {
+   "name": "Parvati River",
+   "q": "Kasol river stones"
+  },
+  {
+   "name": "Manikaran Sahib",
+   "q": "Sikh hot springs"
+  },
+  {
+   "name": "Tosh Village",
+   "q": "Tosh valley view"
+  },
+  {
+   "name": "Kheerganga Trek",
+   "q": "Kheerganga mountain peak"
+  },
+  {
+   "name": "Malana Village",
+   "q": "Malana ancient village"
+  },
+  {
+   "name": "Rasol Pass",
+   "q": "Rasol trekking trail"
+  },
+  {
+   "name": "Pulga Village",
+   "q": "Pulga fairy forest"
+  },
+  {
+   "name": "Barshaini Dam",
+   "q": "Barshaini bridge view"
+  },
+  {
+   "name": "German Bakery",
+   "q": "Kasol cafe culture"
+  },
+  {
+   "name": "Buddha Place",
+   "q": "Kasol river cafe"
+  },
+  {
+   "name": "Katagla Village",
+   "q": "Katagla forest path"
+  },
+  {
+   "name": "Grahan Village",
+   "q": "Grahan trek path"
+  },
+  {
+   "name": "Magic Valley",
+   "q": "Magic Valley waterfall"
+  }
+ ],
+ "Lonavala": [
+  {
+   "name": "Tiger Point",
+   "q": "Tiger Point Lonavala"
+  },
+  {
+   "name": "Bhushi Dam",
+   "q": "Bhushi Dam"
+  },
+  {
+   "name": "Karla Caves",
+   "q": "Karla Caves"
+  },
+  {
+   "name": "Rajmachi Point",
+   "q": "Rajmachi Fort"
+  },
+  {
+   "name": "Lohagad Fort",
+   "q": "Lohagad Fort"
+  },
+  {
+   "name": "Pawna Lake",
+   "q": "Pawna Lake"
+  },
+  {
+   "name": "Lion's Point",
+   "q": "Lion's Point"
+  },
+  {
+   "name": "Visapur Fort",
+   "q": "Visapur Fort"
+  },
+  {
+   "name": "Kune Falls",
+   "q": "Kune Falls"
+  },
+  {
+   "name": "Bhaja Caves",
+   "q": "Bhaja Caves"
+  },
+  {
+   "name": "Tungarli Lake",
+   "q": "Tungarli Lake"
+  },
+  {
+   "name": "Duke's Nose",
+   "q": "Duke's Nose"
+  },
+  {
+   "name": "Aamby Valley",
+   "q": "Aamby Valley"
+  },
+  {
+   "name": "Celebrity Wax Museum",
+   "q": "Sunil's Wax Museum"
+  }
  ]
 }

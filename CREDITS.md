@@ -330,3 +330,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-04-14-26 | Chenab Lake | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385781/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-04-14-26 | Bhavishya Kedar | Pixabay (thenomadwanderer) | https://pixabay.com/videos/id-298785/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-04-14-26 | Auli | Pixabay (ChristianBodhi) | https://pixabay.com/videos/id-67671/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-04-17-04 | Lonavala | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tiger_point-Lonavla.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-17-04 | Tiger Point | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tiger_Point_Lonavala.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-17-04 | Bhushi Dam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bhushi_dam.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-17-04 | Karla Caves | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Karla_Caves_-_2025_-_18.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-17-04 | Rajmachi Point | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rajmachi_fort_of_maratha_empire,_maharashtra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-17-04 | Visapur Fort | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Visapur_Fort,_maharashtra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-04-17-04 | Lonavala | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Karla_Caves_-_2025_-_11.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
