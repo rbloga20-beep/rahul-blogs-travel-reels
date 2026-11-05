@@ -4232,5 +4232,179 @@
    "name": "Catholic Church",
    "q": "colonial architecture"
   }
+ ],
+ "Puri": [
+  {
+   "name": "Jagannath Temple",
+   "q": "Jagannath Temple"
+  },
+  {
+   "name": "Puri Golden Beach",
+   "q": "Puri Golden Beach"
+  },
+  {
+   "name": "Puri Marine Drive",
+   "q": "Puri Marine Drive"
+  },
+  {
+   "name": "Konark Sun Temple",
+   "q": "Konark Sun Temple"
+  },
+  {
+   "name": "Raghurajpur Heritage Village",
+   "q": "Raghurajpur"
+  },
+  {
+   "name": "Chandrabhaga Beach",
+   "q": "Chandrabhaga Beach"
+  },
+  {
+   "name": "Gundicha Temple",
+   "q": "Gundicha Temple"
+  },
+  {
+   "name": "Narendra Tank",
+   "q": "Narendra Pokhari"
+  },
+  {
+   "name": "Ramachandi Beach",
+   "q": "Ramachandi Beach"
+  },
+  {
+   "name": "Swargadwar Beach",
+   "q": "Swargadwar Beach"
+  },
+  {
+   "name": "Sudarshan Sand Art Museum",
+   "q": "Sudarshan Sand Art"
+  },
+  {
+   "name": "Atharnala Bridge",
+   "q": "Atharnala Bridge"
+  },
+  {
+   "name": "Lokanath Temple",
+   "q": "Lokanath Temple"
+  },
+  {
+   "name": "Chakra Tirtha Beach",
+   "q": "Chakra Tirtha"
+  }
+ ],
+ "Tawang": [
+  {
+   "name": "Tawang Monastery",
+   "q": "Tawang Monastery"
+  },
+  {
+   "name": "Sela Pass",
+   "q": "Sela Pass"
+  },
+  {
+   "name": "Bumla Pass",
+   "q": "Bumla Pass"
+  },
+  {
+   "name": "Madhuri Lake",
+   "q": "Madhuri Lake"
+  },
+  {
+   "name": "Nuranang Falls",
+   "q": "Nuranang Falls"
+  },
+  {
+   "name": "Jaswant Garh",
+   "q": "Jaswant Garh"
+  },
+  {
+   "name": "Tawang War Memorial",
+   "q": "War Memorial"
+  },
+  {
+   "name": "Pangateng Tso Lake",
+   "q": "Pangateng Tso"
+  },
+  {
+   "name": "Gorichen Peak",
+   "q": "Gorichen Peak"
+  },
+  {
+   "name": "Shonga-tser Lake",
+   "q": "Shonga-tser"
+  },
+  {
+   "name": "Bap Teng Kang Waterfall",
+   "q": "Bap Teng Kang"
+  },
+  {
+   "name": "Tawang Valley Viewpoint",
+   "q": "Tawang Valley"
+  },
+  {
+   "name": "Urgyelling Monastery",
+   "q": "Urgyelling Monastery"
+  },
+  {
+   "name": "PTSO Lake",
+   "q": "PTSO Lake"
+  }
+ ],
+ "Kaziranga": [
+  {
+   "name": "Kaziranga National Park",
+   "q": "One-horned Rhino"
+  },
+  {
+   "name": "Kohora Range",
+   "q": "Safari Jeep"
+  },
+  {
+   "name": "Bagori Range",
+   "q": "Rhino grazing"
+  },
+  {
+   "name": "Agaratoli Range",
+   "q": "Birdwatching"
+  },
+  {
+   "name": "Panbari Reserve Forest",
+   "q": "Hoolock Gibbon"
+  },
+  {
+   "name": "Brahmaputra River Bank",
+   "q": "River cruise"
+  },
+  {
+   "name": "Kaziranga Orchid Park",
+   "q": "Orchid garden"
+  },
+  {
+   "name": "Hathikuli Tea Estate",
+   "q": "Tea plantation"
+  },
+  {
+   "name": "Deopahar Ruins",
+   "q": "Ancient stone"
+  },
+  {
+   "name": "Kakochang Waterfall",
+   "q": "Jungle waterfall"
+  },
+  {
+   "name": "Burapahar Range",
+   "q": "Hilly terrain"
+  },
+  {
+   "name": "Kaziranga Elephant Safari",
+   "q": "Elephant ride"
+  },
+  {
+   "name": "Diphlu River Lodge",
+   "q": "Riverside cottage"
+  },
+  {
+   "name": "Mora Dhansiri River",
+   "q": "Sunset boat"
+  }
  ]
 }

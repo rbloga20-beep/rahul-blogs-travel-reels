@@ -1312,7 +1312,7 @@
   "s": 8
  },
  "wmc154923743|Konark Sun Temple": {
-  "v": 2,
+  "v": 3,
   "ok": true,
   "s": 8
  },
@@ -5827,5 +5827,225 @@
   "s": 9
  },
  "wmc118979198|Gupt Mahadev": null,
- "pxb44183|Duchess Fall": null
+ "pxb44183|Duchess Fall": null,
+ "pxb276914|Jagannath Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc194185780|Raghurajpur Heritage Village": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc141433529|Atharnala Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc44657156|Atharnala Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb11947|Sela Pass": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc150500571|Tawang Monastery": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc95199479|Bumla Pass": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc92037100|Bumla Pass": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc49542997|Madhuri Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc11938860|Nuranang Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb343286|Tawang War Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb57197|Tawang War Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb57199|Tawang War Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb116798|Tawang War Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc92041782|Tawang Valley Viewpoint": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc73593894|Tawang Valley Viewpoint": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc64286327|Tawang Valley Viewpoint": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb347611|Kohora Range": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb237454|Bagori Range": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb9112|Brahmaputra River Bank": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb280985|Agaratoli Range": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc150604809|Panbari Reserve Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb86480|Brahmaputra River Bank": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb236596|Agaratoli Range": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb125987|Brahmaputra River Bank": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb149271|Brahmaputra River Bank": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb286556|Agaratoli Range": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb285709|Agaratoli Range": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb34069|Hathikuli Tea Estate": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb251945|Hathikuli Tea Estate": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb355608|Deopahar Ruins": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb37005|Kaziranga Orchid Park": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb323882|Deopahar Ruins": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb330644|Deopahar Ruins": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb319590|Deopahar Ruins": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb37055|Kaziranga Orchid Park": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb37054|Kaziranga Orchid Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb37297|Kaziranga Orchid Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb44183|Kakochang Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb41010|Kakochang Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb325317|Kakochang Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc16919943|Burapahar Range": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc16787692|Burapahar Range": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc80265743|Burapahar Range": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ }
 }

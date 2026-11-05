@@ -349,3 +349,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-05-02-29 | Bada Mahadev | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-279095/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-05-02-29 | Duchess Fall | Pixabay (RainMeditateHub) | https://pixabay.com/videos/id-292828/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-05-02-29 | Pachmarhi | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-224010/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-05-09 | Kaziranga | Pixabay (mrandreich) | https://pixabay.com/videos/id-251945/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-05-09 | Brahmaputra River Bank | Pixabay (coastc581) | https://pixabay.com/videos/id-149271/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-05-09 | Kaziranga Orchid Park | Pixabay (caelan) | https://pixabay.com/videos/id-37005/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-05-09 | Hathikuli Tea Estate | Pixabay (Animateon) | https://pixabay.com/videos/id-34069/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-05-09 | Kakochang Waterfall | Pixabay (FernandoChile) | https://pixabay.com/videos/id-44183/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-05-09 | Kaziranga | Pixabay (SayduVibe) | https://pixabay.com/videos/id-325317/ | Pixabay Content License, commercial use, no attribution needed |
