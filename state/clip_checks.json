@@ -6047,5 +6047,143 @@
   "v": 3,
   "ok": false,
   "s": 6
+ },
+ "wmc180770840|Ram Mandir": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc36673078|Ram Ki Paidi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc169841410|Surya Kund": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc169841401|Surya Kund": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc169841388|Surya Kund": null,
+ "wmc169841409|Surya Kund": null,
+ "wmc68168230|Lauterbrunnen Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb379375|Matterhorn": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb361728|Matterhorn": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc68168238|Lauterbrunnen Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc108516187|Lauterbrunnen Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc151191953|Lauterbrunnen Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc134785364|Chapel Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb385734|Lake Oeschinen": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc33202735|Chapel Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc134785440|Chapel Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc37702200|Iseltwald": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc33129833|Iseltwald": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc33129844|Iseltwald": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc38111816|Iseltwald": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc56099970|Fronalpstock": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc34957568|Aescher Cliff Restaurant": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc146363601|Chillon Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc56100181|Fronalpstock": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc22246812|Chillon Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc144739620|Aescher Cliff Restaurant": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc54361864|Aescher Cliff Restaurant": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc154830199|Seealpsee": null,
+ "pxb91545|Switzerland": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb330102|Switzerland": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

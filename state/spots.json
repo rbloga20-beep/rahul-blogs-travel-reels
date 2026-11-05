@@ -4406,5 +4406,121 @@
    "name": "Mora Dhansiri River",
    "q": "Sunset boat"
   }
+ ],
+ "Ayodhya": [
+  {
+   "name": "Ram Mandir",
+   "q": "Ram Mandir"
+  },
+  {
+   "name": "Hanuman Garhi",
+   "q": "Hanuman Garhi"
+  },
+  {
+   "name": "Kanak Bhawan",
+   "q": "Kanak Bhawan"
+  },
+  {
+   "name": "Ram Ki Paidi",
+   "q": "Ram Ki Paidi"
+  },
+  {
+   "name": "Saryu Ghat",
+   "q": "Saryu Ghat"
+  },
+  {
+   "name": "Lata Mangeshkar Chowk",
+   "q": "Lata Mangeshkar Chowk"
+  },
+  {
+   "name": "Guptar Ghat",
+   "q": "Guptar Ghat"
+  },
+  {
+   "name": "Dashrath Mahal",
+   "q": "Dashrath Mahal"
+  },
+  {
+   "name": "Nageshwarnath Temple",
+   "q": "Nageshwarnath Temple"
+  },
+  {
+   "name": "Surya Kund",
+   "q": "Surya Kund"
+  },
+  {
+   "name": "Gulab Bari",
+   "q": "Gulab Bari"
+  },
+  {
+   "name": "Bahu Begum Ka Maqbara",
+   "q": "Bahu Begum Maqbara"
+  },
+  {
+   "name": "Mani Parbat",
+   "q": "Mani Parbat"
+  },
+  {
+   "name": "Chhoti Devkali Temple",
+   "q": "Chhoti Devkali"
+  }
+ ],
+ "Switzerland": [
+  {
+   "name": "Lauterbrunnen Valley",
+   "q": "Lauterbrunnen Staubbach"
+  },
+  {
+   "name": "Matterhorn",
+   "q": "Matterhorn Zermatt"
+  },
+  {
+   "name": "Grindelwald First",
+   "q": "Grindelwald First"
+  },
+  {
+   "name": "Lake Oeschinen",
+   "q": "Oeschinensee"
+  },
+  {
+   "name": "Chapel Bridge",
+   "q": "Kapellbruecke Chapel Bridge"
+  },
+  {
+   "name": "Jungfraujoch",
+   "q": "Jungfraujoch"
+  },
+  {
+   "name": "Landwasser Viaduct",
+   "q": "Landwasser Viaduct"
+  },
+  {
+   "name": "Iseltwald",
+   "q": "Iseltwald Lake Brienz"
+  },
+  {
+   "name": "Blausee",
+   "q": "Blausee Lake"
+  },
+  {
+   "name": "Aescher Cliff Restaurant",
+   "q": "Aescher Ebenalp"
+  },
+  {
+   "name": "Fronalpstock",
+   "q": "Fronalpstock Stoos"
+  },
+  {
+   "name": "Chillon Castle",
+   "q": "Chillon Castle"
+  },
+  {
+   "name": "Gelmerbahn",
+   "q": "Gelmerbahn Gelmersee"
+  },
+  {
+   "name": "Seealpsee",
+   "q": "Seealpsee Appenzell"
+  }
  ]
 }

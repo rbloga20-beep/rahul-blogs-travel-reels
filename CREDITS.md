@@ -355,3 +355,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-05-05-09 | Hathikuli Tea Estate | Pixabay (Animateon) | https://pixabay.com/videos/id-34069/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-05-05-09 | Kakochang Waterfall | Pixabay (FernandoChile) | https://pixabay.com/videos/id-44183/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-05-05-09 | Kaziranga | Pixabay (SayduVibe) | https://pixabay.com/videos/id-325317/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-08-25 | Switzerland | Pixabay (Felix-Mittermeier) | https://pixabay.com/videos/id-91545/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-08-25 | Lauterbrunnen Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lauterbrunnen_valley_mid_summer.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-08-25 | Matterhorn | Pixabay (klaatubaradanikto) | https://pixabay.com/videos/id-361728/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-08-25 | Lake Oeschinen | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385734/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-08-25 | Chapel Bridge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Chapel_Bridge_and_water_tower_-_DPLA_-_d49649789513ac633fc9252021db12c4.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-08-25 | Aescher Cliff Restaurant | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ETH-BIB-Stauberenchanzlen,_Alpsigel,_Wildkirchli,_Solleg_v._S._O._aus_3500_m-Inlandfl%C3%BCge-LBS_MH01-002490.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-08-25 | Chillon Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bridge_of_Chillon_Castle_by_Robbie_Conceptuel.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-08-25 | Switzerland | Pixabay (adege) | https://pixabay.com/videos/id-330102/ | Pixabay Content License, commercial use, no attribution needed |
