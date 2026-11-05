@@ -3942,5 +3942,295 @@
    "name": "Celebrity Wax Museum",
    "q": "Sunil's Wax Museum"
   }
+ ],
+ "Mahabaleshwar": [
+  {
+   "name": "Arthur's Seat",
+   "q": "Arthur's Seat"
+  },
+  {
+   "name": "Venna Lake",
+   "q": "Venna Lake"
+  },
+  {
+   "name": "Mapro Garden",
+   "q": "Mapro Garden"
+  },
+  {
+   "name": "Kate's Point",
+   "q": "Kate's Point"
+  },
+  {
+   "name": "Elephant's Head Point",
+   "q": "Elephant's Head"
+  },
+  {
+   "name": "Lingmala Waterfall",
+   "q": "Lingmala Waterfall"
+  },
+  {
+   "name": "Wilson Point",
+   "q": "Wilson Point"
+  },
+  {
+   "name": "Table Land",
+   "q": "Table Land"
+  },
+  {
+   "name": "Parsi Point",
+   "q": "Parsi Point"
+  },
+  {
+   "name": "Mahabaleshwar Temple",
+   "q": "Mahabaleshwar Temple"
+  },
+  {
+   "name": "Elphinstone Point",
+   "q": "Elphinstone Point"
+  },
+  {
+   "name": "Connaught Peak",
+   "q": "Connaught Peak"
+  },
+  {
+   "name": "Lodwick Point",
+   "q": "Lodwick Point"
+  },
+  {
+   "name": "Babington Point",
+   "q": "Babington Point"
+  }
+ ],
+ "Ahmedabad": [
+  {
+   "name": "Sabarmati Ashram",
+   "q": "Gandhi Ashram"
+  },
+  {
+   "name": "Adalaj Stepwell",
+   "q": "Adalaj Vav"
+  },
+  {
+   "name": "Sidi Saiyyed Mosque",
+   "q": "Jali work"
+  },
+  {
+   "name": "Atal Bridge",
+   "q": "Sabarmati Riverfront"
+  },
+  {
+   "name": "Jama Masjid",
+   "q": "Ahmedabad Mosque"
+  },
+  {
+   "name": "Kankaria Lake",
+   "q": "Kankaria"
+  },
+  {
+   "name": "Hutheesing Jain Temple",
+   "q": "Jain Temple"
+  },
+  {
+   "name": "Teen Darwaza",
+   "q": "Bhadra Fort"
+  },
+  {
+   "name": "Sarkhej Roza",
+   "q": "Sarkhej"
+  },
+  {
+   "name": "Auto World Vintage Car Museum",
+   "q": "Vintage Cars"
+  },
+  {
+   "name": "Science City",
+   "q": "Aquatic Gallery"
+  },
+  {
+   "name": "Dada Harir Stepwell",
+   "q": "Dada Harir"
+  },
+  {
+   "name": "Manek Chowk",
+   "q": "Street Food"
+  },
+  {
+   "name": "Akshardham Temple",
+   "q": "Gandhinagar Akshardham"
+  }
+ ],
+ "Kutch": [
+  {
+   "name": "Rann of Kutch",
+   "q": "White Desert"
+  },
+  {
+   "name": "Kalo Dungar",
+   "q": "Black Hill"
+  },
+  {
+   "name": "Mandvi Beach",
+   "q": "Windmill Beach"
+  },
+  {
+   "name": "Vijay Vilas Palace",
+   "q": "Royal Palace"
+  },
+  {
+   "name": "Dholavira",
+   "q": "Harappan Civilization"
+  },
+  {
+   "name": "Aina Mahal",
+   "q": "Mirror Palace"
+  },
+  {
+   "name": "Prag Mahal",
+   "q": "Clock Tower"
+  },
+  {
+   "name": "Hodka Village",
+   "q": "Bhungas"
+  },
+  {
+   "name": "Narayan Sarovar",
+   "q": "Sacred Lake"
+  },
+  {
+   "name": "Koteshwar Temple",
+   "q": "Shiva Temple"
+  },
+  {
+   "name": "Lakhpat Fort",
+   "q": "Ghost Town"
+  },
+  {
+   "name": "Banni Grasslands",
+   "q": "Desert Safari"
+  },
+  {
+   "name": "Siyot Caves",
+   "q": "Buddhist Caves"
+  },
+  {
+   "name": "Sharad Baug Palace",
+   "q": "Royal Garden"
+  }
+ ],
+ "Khajuraho": [
+  {
+   "name": "Kandariya Mahadeva Temple",
+   "q": "Kandariya Mahadeva"
+  },
+  {
+   "name": "Lakshmana Temple",
+   "q": "Lakshmana Temple"
+  },
+  {
+   "name": "Vishvanatha Temple",
+   "q": "Vishvanatha Temple"
+  },
+  {
+   "name": "Chitragupta Temple",
+   "q": "Chitragupta Temple"
+  },
+  {
+   "name": "Varaha Temple",
+   "q": "Varaha Temple"
+  },
+  {
+   "name": "Matangeshwar Temple",
+   "q": "Matangeshwar Temple"
+  },
+  {
+   "name": "Parsvanatha Temple",
+   "q": "Parsvanatha Temple"
+  },
+  {
+   "name": "Adinatha Temple",
+   "q": "Adinatha Temple"
+  },
+  {
+   "name": "Shantinatha Temple",
+   "q": "Shantinatha Temple"
+  },
+  {
+   "name": "Duladeo Temple",
+   "q": "Duladeo Temple"
+  },
+  {
+   "name": "Chaturbhuj Temple",
+   "q": "Chaturbhuj Khajuraho"
+  },
+  {
+   "name": "Raneh Falls",
+   "q": "Raneh Falls"
+  },
+  {
+   "name": "Pandav Falls",
+   "q": "Pandav Falls"
+  },
+  {
+   "name": "Ken Gharial Sanctuary",
+   "q": "Ken Gharial"
+  }
+ ],
+ "Pachmarhi": [
+  {
+   "name": "Bee Fall",
+   "q": "waterfall cascade"
+  },
+  {
+   "name": "Dhoopgarh",
+   "q": "sunset peak"
+  },
+  {
+   "name": "Pandav Caves",
+   "q": "ancient caves"
+  },
+  {
+   "name": "Jata Shankar Cave",
+   "q": "stalactite cave"
+  },
+  {
+   "name": "Handi Khoh",
+   "q": "deep gorge"
+  },
+  {
+   "name": "Silver Fall",
+   "q": "tall waterfall"
+  },
+  {
+   "name": "Priyadarshini Point",
+   "q": "panoramic valley"
+  },
+  {
+   "name": "Apsara Vihar",
+   "q": "natural pool"
+  },
+  {
+   "name": "Reechgarh",
+   "q": "rock formation"
+  },
+  {
+   "name": "Bada Mahadev",
+   "q": "cave temple"
+  },
+  {
+   "name": "Gupt Mahadev",
+   "q": "narrow cave"
+  },
+  {
+   "name": "Duchess Fall",
+   "q": "jungle waterfall"
+  },
+  {
+   "name": "Pachmarhi Lake",
+   "q": "boating lake"
+  },
+  {
+   "name": "Catholic Church",
+   "q": "colonial architecture"
+  }
  ]
 }

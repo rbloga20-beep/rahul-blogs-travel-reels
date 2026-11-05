@@ -5470,5 +5470,362 @@
   "v": 3,
   "ok": false,
   "s": 2
- }
+ },
+ "pxb376717|Arthur's Seat": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb376719|Arthur's Seat": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb376743|Arthur's Seat": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb376718|Arthur's Seat": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb307730|Elephant's Head Point": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb111763|Table Land": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc24900938|Parsi Point": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc7503315|Parsi Point": null,
+ "wmc3584240|Parsi Point": null,
+ "wmc90702165|Parsi Point": null,
+ "wmc32704767|Wilson Point": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc15991563|Wilson Point": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc16894495|Wilson Point": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc16894493|Wilson Point": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc90192011|Elphinstone Point": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc145548580|Sidi Saiyyed Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc49879454|Sidi Saiyyed Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc126786167|Atal Bridge": null,
+ "wmc126786161|Atal Bridge": null,
+ "wmc126786187|Atal Bridge": null,
+ "wmc126786181|Atal Bridge": null,
+ "wmc195929127|Hutheesing Jain Temple": null,
+ "wmc6549157|Teen Darwaza": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc12239517|Science City": null,
+ "wmc195929128|Dada Harir Stepwell": null,
+ "wmc77551274|Science City": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc77551275|Science City": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc77551254|Science City": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb13597|Auto World Vintage Car Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb266512|Auto World Vintage Car Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb384563|Auto World Vintage Car Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb28543|Auto World Vintage Car Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc126786527|Manek Chowk": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc126786525|Manek Chowk": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc126786528|Manek Chowk": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc126786526|Manek Chowk": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb357230|Rann of Kutch": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb332778|Mandvi Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb220195|Mandvi Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb18369|Mandvi Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb93364|Kalo Dungar": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb16138|Rann of Kutch": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb305331|Kalo Dungar": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb375162|Rann of Kutch": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb230246|Kalo Dungar": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb69786|Bee Fall": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb350294|Pandav Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb321303|Pandav Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb292823|Dhoopgarh": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb29312|Bee Fall": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb15909|Dhoopgarh": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb284554|Dhoopgarh": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb342787|Dhoopgarh": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb45341|Pandav Caves": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb327335|Pandav Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb386547|Silver Fall": null,
+ "pxb374811|Handi Khoh": null,
+ "pxb384612|Silver Fall": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb305771|Jata Shankar Cave": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb370442|Handi Khoh": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb370446|Handi Khoh": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb297927|Jata Shankar Cave": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb386546|Silver Fall": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb386296|Silver Fall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb224158|Jata Shankar Cave": null,
+ "pxb224010|Jata Shankar Cave": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb384789|Reechgarh": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb321173|Priyadarshini Point": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb385520|Reechgarh": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb353783|Priyadarshini Point": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb318052|Apsara Vihar": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb235778|Priyadarshini Point": null,
+ "pxb265367|Apsara Vihar": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb369734|Reechgarh": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb297337|Priyadarshini Point": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb174715|Reechgarh": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb369283|Apsara Vihar": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb279095|Bada Mahadev": null,
+ "wmc119005967|Gupt Mahadev": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb350294|Bada Mahadev": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb141457|Bada Mahadev": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb288669|Bada Mahadev": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb292828|Duchess Fall": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc118979198|Gupt Mahadev": null,
+ "pxb44183|Duchess Fall": null
 }

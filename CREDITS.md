@@ -337,3 +337,15 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-04-17-04 | Rajmachi Point | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rajmachi_fort_of_maratha_empire,_maharashtra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-04-17-04 | Visapur Fort | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Visapur_Fort,_maharashtra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-04-17-04 | Lonavala | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Karla_Caves_-_2025_-_11.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Pachmarhi | Pixabay (consoletk) | https://pixabay.com/videos/id-29312/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Bee Fall | Pixabay (zameenaasman172) | https://pixabay.com/videos/id-69786/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Dhoopgarh | Pixabay (WhiteHatDesigner) | https://pixabay.com/videos/id-342787/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Pandav Caves | Pixabay (ChristianBodhi) | https://pixabay.com/videos/id-45341/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Jata Shankar Cave | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-224158/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Handi Khoh | Pixabay (Hoangbuifilms) | https://pixabay.com/videos/id-374811/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Silver Fall | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386547/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Priyadarshini Point | Pixabay (iwsky) | https://pixabay.com/videos/id-235778/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Apsara Vihar | Pixabay (Oleh_1977) | https://pixabay.com/videos/id-318052/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Bada Mahadev | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-279095/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Duchess Fall | Pixabay (RainMeditateHub) | https://pixabay.com/videos/id-292828/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-02-29 | Pachmarhi | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-224010/ | Pixabay Content License, commercial use, no attribution needed |
