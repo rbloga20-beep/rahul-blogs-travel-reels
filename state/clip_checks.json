@@ -6185,5 +6185,146 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "pxb111615|Trevi Fountain": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb33241|Colosseum": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb338728|Positano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb33240|Colosseum": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb338733|Positano": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb127669|Trevi Fountain": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb68343|Colosseum": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb213799|Colosseum": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb111605|Trevi Fountain": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc152127267|Duomo di Milano": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb68342|Grand Canal": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb327126|Leaning Tower of Pisa": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc152127210|Duomo di Milano": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb33263|Leaning Tower of Pisa": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb13566|Grand Canal": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb50847|Leaning Tower of Pisa": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb118178|Leaning Tower of Pisa": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb315968|Cinque Terre": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb315973|Cinque Terre": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb292819|Florence Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc119600371|Lake Como": null,
+ "wmc197553948|Lake Como": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc169202920|Val d'Orcia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb325861|Island of Capri": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc112912817|Val d'Orcia": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc12249225|Tre Cime di Lavaredo": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb325869|Island of Capri": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb67201|Italy": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb47213|Italy": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

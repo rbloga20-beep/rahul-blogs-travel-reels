@@ -363,3 +363,15 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-05-08-25 | Aescher Cliff Restaurant | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ETH-BIB-Stauberenchanzlen,_Alpsigel,_Wildkirchli,_Solleg_v._S._O._aus_3500_m-Inlandfl%C3%BCge-LBS_MH01-002490.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-05-08-25 | Chillon Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bridge_of_Chillon_Castle_by_Robbie_Conceptuel.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-05-08-25 | Switzerland | Pixabay (adege) | https://pixabay.com/videos/id-330102/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Italy | Pixabay (mariancroitoru) | https://pixabay.com/videos/id-67201/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Colosseum | Pixabay (spalla67) | https://pixabay.com/videos/id-68343/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Trevi Fountain | Pixabay (fabionegozio) | https://pixabay.com/videos/id-111615/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Positano | Pixabay (spasspasov) | https://pixabay.com/videos/id-338728/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Leaning Tower of Pisa | Pixabay (BreakDownPictures) | https://pixabay.com/videos/id-33263/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Grand Canal | Pixabay (spalla67) | https://pixabay.com/videos/id-68342/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Duomo di Milano | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Duomo_di_Milano_2022-09-28_12.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Florence Cathedral | Pixabay (RainMeditateHub) | https://pixabay.com/videos/id-292819/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Cinque Terre | Pixabay (Reinhold2025) | https://pixabay.com/videos/id-315968/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Lake Como | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:L%27Adda_si_immette_nel_Lago_di_Como_visto_dal_Monte_Legnone.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Tre Cime di Lavaredo | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tre_Cime_di_Lavaredo-Vista_da_Rif_Lavaredo.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-11-15 | Italy | Pixabay (Ambient_Nature_Atmosphere) | https://pixabay.com/videos/id-47213/ | Pixabay Content License, commercial use, no attribution needed |

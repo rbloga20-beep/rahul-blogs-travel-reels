@@ -1766,5 +1766,54 @@
    "id": "18119616574973408",
    "url": "https://www.instagram.com/stories/rahulblogsyt/4023579956550060059"
   }
+ },
+ {
+  "id": "2026-11-05-11-15",
+  "date": "2026-11-05T11:21:02.727Z",
+  "places": [
+   "Colosseum",
+   "Trevi Fountain",
+   "Positano",
+   "Leaning Tower of Pisa",
+   "Grand Canal",
+   "Duomo di Milano",
+   "Florence Cathedral",
+   "Cinque Terre",
+   "Lake Como",
+   "Tre Cime di Lavaredo"
+  ],
+  "hook": "Italy / Top 10 places in Italy",
+  "sub": "Top 10 places in Italy",
+  "music": "Serene View.mp3",
+  "seconds": 28.33,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-67201/",
+   "Pixabay https://pixabay.com/videos/id-68343/",
+   "Pixabay https://pixabay.com/videos/id-111615/",
+   "Pixabay https://pixabay.com/videos/id-338728/",
+   "Pixabay https://pixabay.com/videos/id-33263/",
+   "Pixabay https://pixabay.com/videos/id-68342/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Duomo_di_Milano_2022-09-28_12.jpg",
+   "Pixabay https://pixabay.com/videos/id-292819/",
+   "Pixabay https://pixabay.com/videos/id-315968/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:L%27Adda_si_immette_nel_Lago_di_Como_visto_dal_Monte_Legnone.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Tre_Cime_di_Lavaredo-Vista_da_Rif_Lavaredo.JPG",
+   "Pixabay https://pixabay.com/videos/id-47213/"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "2315948552590302",
+   "url": "https://www.facebook.com/reel/2315948552590302/"
+  },
+  "ig": {
+   "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+  },
+  "fbStory": {
+   "id": "1157762116787865"
+  },
+  "igStory": {
+   "id": "17956841814268480",
+   "url": "https://www.instagram.com/stories/rahulblogsyt/4023660635204210116"
+  }
  }
 ]

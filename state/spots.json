@@ -4522,5 +4522,63 @@
    "name": "Seealpsee",
    "q": "Seealpsee Appenzell"
   }
+ ],
+ "Italy": [
+  {
+   "name": "Colosseum",
+   "q": "Colosseum"
+  },
+  {
+   "name": "Trevi Fountain",
+   "q": "Trevi Fountain"
+  },
+  {
+   "name": "Positano",
+   "q": "Positano"
+  },
+  {
+   "name": "Leaning Tower of Pisa",
+   "q": "Pisa Tower"
+  },
+  {
+   "name": "Grand Canal",
+   "q": "Grand Canal Venice"
+  },
+  {
+   "name": "Duomo di Milano",
+   "q": "Milan Duomo"
+  },
+  {
+   "name": "Florence Cathedral",
+   "q": "Florence Duomo"
+  },
+  {
+   "name": "Cinque Terre",
+   "q": "Cinque Terre Manarola"
+  },
+  {
+   "name": "Lake Como",
+   "q": "Lake Como"
+  },
+  {
+   "name": "Tre Cime di Lavaredo",
+   "q": "Tre Cime Dolomites"
+  },
+  {
+   "name": "Island of Capri",
+   "q": "Capri Faraglioni"
+  },
+  {
+   "name": "Val d'Orcia",
+   "q": "Val d Orcia"
+  },
+  {
+   "name": "Burano",
+   "q": "Burano"
+  },
+  {
+   "name": "Pantheon",
+   "q": "Pantheon Rome"
+  }
  ]
 }
