@@ -375,3 +375,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-05-11-15 | Lake Como | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:L%27Adda_si_immette_nel_Lago_di_Como_visto_dal_Monte_Legnone.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-05-11-15 | Tre Cime di Lavaredo | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tre_Cime_di_Lavaredo-Vista_da_Rif_Lavaredo.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-05-11-15 | Italy | Pixabay (Ambient_Nature_Atmosphere) | https://pixabay.com/videos/id-47213/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-17-24 | France | Pixabay (VReel) | https://pixabay.com/videos/id-36746/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-17-24 | Eiffel Tower | Pixabay (TatianaTz) | https://pixabay.com/videos/id-269992/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-17-24 | Mont Saint-Michel | Pixabay (santorihan) | https://pixabay.com/videos/id-248455/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-17-24 | Louvre Pyramid | Pixabay (caelan) | https://pixabay.com/videos/id-34321/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-17-24 | Palace of Versailles | Pixabay (caelan) | https://pixabay.com/videos/id-35918/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-17-24 | Aiguille du Midi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hexarotor_Aiguille_du_Midi_1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-17-24 | Arc de Triomphe | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-1505/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-05-17-24 | Dune of Pilat | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Miniature_hoodoos_and_badlands_in_the_sand,_Dune_du_Pilat,_La_Teste-de-Buch,_2015.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-05-17-24 | France | Pixabay (WestNL) | https://pixabay.com/videos/id-88507/ | Pixabay Content License, commercial use, no attribution needed |

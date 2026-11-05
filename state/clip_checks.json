@@ -6326,5 +6326,118 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb94418|Mont Saint-Michel": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb248455|Mont Saint-Michel": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb269992|Eiffel Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb251314|Mont Saint-Michel": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb248701|Eiffel Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb34321|Louvre Pyramid": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb380391|Colmar Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb35918|Palace of Versailles": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb41345|Valensole Lavender Fields": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb380394|Colmar Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb163480|Palace of Versailles": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb380389|Colmar Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc22819775|Aiguille du Midi": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb1505|Arc de Triomphe": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc122735168|Sacré-Cœur Basilica": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb203403|Arc de Triomphe": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc114102204|Menton": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc7291766|Menton": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc67048644|Menton": null,
+ "wmc9485326|Menton": null,
+ "wmc4324013|Promenade des Anglais": null,
+ "wmc180353021|Dune of Pilat": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc128077641|Dune of Pilat": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb36746|France": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb88507|France": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

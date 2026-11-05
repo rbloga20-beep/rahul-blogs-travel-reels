@@ -4580,5 +4580,63 @@
    "name": "Pantheon",
    "q": "Pantheon Rome"
   }
+ ],
+ "France": [
+  {
+   "name": "Eiffel Tower",
+   "q": "Eiffel Tower"
+  },
+  {
+   "name": "Mont Saint-Michel",
+   "q": "Mont Saint Michel"
+  },
+  {
+   "name": "Louvre Pyramid",
+   "q": "Louvre Pyramid"
+  },
+  {
+   "name": "Valensole Lavender Fields",
+   "q": "Valensole Lavender"
+  },
+  {
+   "name": "Palace of Versailles",
+   "q": "Versailles Palace"
+  },
+  {
+   "name": "Colmar Old Town",
+   "q": "Colmar Alsace"
+  },
+  {
+   "name": "Gorges du Verdon",
+   "q": "Verdon Gorge"
+  },
+  {
+   "name": "Château de Chambord",
+   "q": "Chateau Chambord"
+  },
+  {
+   "name": "Aiguille du Midi",
+   "q": "Aiguille du Midi"
+  },
+  {
+   "name": "Menton",
+   "q": "Menton Riviera"
+  },
+  {
+   "name": "Arc de Triomphe",
+   "q": "Arc de Triomphe"
+  },
+  {
+   "name": "Sacré-Cœur Basilica",
+   "q": "Sacre Coeur Montmartre"
+  },
+  {
+   "name": "Dune of Pilat",
+   "q": "Dune du Pilat"
+  },
+  {
+   "name": "Promenade des Anglais",
+   "q": "Promenade des Anglais"
+  }
  ]
 }
