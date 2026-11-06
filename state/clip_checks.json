@@ -7106,5 +7106,110 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb386544|Navagio Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb64730|Oia, Santorini": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb161008|Meteora Monasteries": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb64731|Oia, Santorini": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb161009|Meteora Monasteries": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc77370450|Mykonos Windmills": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc23441370|Mykonos Windmills": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc42005443|Acropolis of Athens": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc62112192|Acropolis of Athens": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc42006164|Acropolis of Athens": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc46576308|Acropolis of Athens": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc70726174|Elafonisi Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc1369572|Melissani Cave": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb285351|Lindos Acropolis": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb170792|Little Venice, Mykonos": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb170794|Little Venice, Mykonos": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc166229536|Canal d'Amour": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc166229516|Canal d'Amour": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc48372519|Canal d'Amour": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb153167|Greece": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb216017|Greece": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

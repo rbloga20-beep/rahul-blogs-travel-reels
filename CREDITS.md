@@ -437,3 +437,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-06-14-24 | Sumela Monastery | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:S%C3%BCmela_Manast%C4%B1r%C4%B1_2014-5.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-06-14-24 | Butterfly Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Valley_of_Butterflies.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-06-14-24 | Turkey | Pixabay (RYajlan) | https://pixabay.com/videos/id-122895/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Greece | Pixabay (lithepictures) | https://pixabay.com/videos/id-153167/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Oia, Santorini | Pixabay (dimim) | https://pixabay.com/videos/id-64731/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Navagio Beach | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386544/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Meteora Monasteries | Pixabay (lithepictures) | https://pixabay.com/videos/id-161008/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Acropolis of Athens | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Head_of_Lion_edge_Parthenon_Acropolis_Athens_Greece.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Mykonos Windmills | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mykonos_harbour_(27400429599).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Melissani Cave | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lake-Melissani.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Elafonisi Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Greece_Crete_Elafonisi_Beach_The_Sun_Holidays.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Lindos Acropolis | Pixabay (u_1zuih409b3) | https://pixabay.com/videos/id-285351/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-17-01 | Greece | Pixabay (lithepictures) | https://pixabay.com/videos/id-216017/ | Pixabay Content License, commercial use, no attribution needed |

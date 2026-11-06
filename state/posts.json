@@ -2095,5 +2095,50 @@
    "id": "18433939159144443",
    "url": "https://www.instagram.com/stories/rahulblogsyt/4024481761153120421"
   }
+ },
+ {
+  "id": "2026-11-06-17-01",
+  "date": "2026-11-06T17:07:24.437Z",
+  "places": [
+   "Oia, Santorini",
+   "Navagio Beach",
+   "Meteora Monasteries",
+   "Acropolis of Athens",
+   "Mykonos Windmills",
+   "Melissani Cave",
+   "Elafonisi Beach",
+   "Lindos Acropolis"
+  ],
+  "hook": "Greece / Top 8 spots in Greece",
+  "sub": "Top 8 spots in Greece",
+  "music": "Feel Alive.mp3",
+  "seconds": 24.53,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-153167/",
+   "Pixabay https://pixabay.com/videos/id-64731/",
+   "Pixabay https://pixabay.com/videos/id-386544/",
+   "Pixabay https://pixabay.com/videos/id-161008/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Head_of_Lion_edge_Parthenon_Acropolis_Athens_Greece.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Mykonos_harbour_(27400429599).jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Lake-Melissani.JPG",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Greece_Crete_Elafonisi_Beach_The_Sun_Holidays.jpg",
+   "Pixabay https://pixabay.com/videos/id-285351/",
+   "Pixabay https://pixabay.com/videos/id-216017/"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "1161655029544949",
+   "url": "https://www.facebook.com/reel/1161655029544949/"
+  },
+  "ig": {
+   "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+  },
+  "fbStory": {
+   "id": "1845689789914019"
+  },
+  "igStory": {
+   "id": "18107928734527363",
+   "url": "https://www.instagram.com/stories/rahulblogsyt/4024559856199243398"
+  }
  }
 ]

@@ -4986,5 +4986,63 @@
    "name": "Kaleiçi Old Town",
    "q": "Kaleici Antalya"
   }
+ ],
+ "Greece": [
+  {
+   "name": "Oia, Santorini",
+   "q": "Oia Santorini"
+  },
+  {
+   "name": "Navagio Beach",
+   "q": "Navagio Shipwreck"
+  },
+  {
+   "name": "Meteora Monasteries",
+   "q": "Meteora"
+  },
+  {
+   "name": "Acropolis of Athens",
+   "q": "Acropolis Parthenon"
+  },
+  {
+   "name": "Sarakiniko Beach",
+   "q": "Sarakiniko Milos"
+  },
+  {
+   "name": "Mykonos Windmills",
+   "q": "Mykonos Windmills"
+  },
+  {
+   "name": "Melissani Cave",
+   "q": "Melissani Cave"
+  },
+  {
+   "name": "Balos Lagoon",
+   "q": "Balos Beach"
+  },
+  {
+   "name": "Elafonisi Beach",
+   "q": "Elafonisi"
+  },
+  {
+   "name": "Little Venice, Mykonos",
+   "q": "Little Venice"
+  },
+  {
+   "name": "Portara of Naxos",
+   "q": "Portara Naxos"
+  },
+  {
+   "name": "Lindos Acropolis",
+   "q": "Lindos Rhodes"
+  },
+  {
+   "name": "Canal d'Amour",
+   "q": "Canal dAmour"
+  },
+  {
+   "name": "Monemvasia Castle",
+   "q": "Monemvasia"
+  }
  ]
 }
