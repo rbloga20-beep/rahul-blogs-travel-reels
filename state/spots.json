@@ -4928,5 +4928,63 @@
    "name": "Al Fahidi Historical Neighbourhood",
    "q": "Al Fahidi Historical"
   }
+ ],
+ "Turkey": [
+  {
+   "name": "Cappadocia Hot Air Balloons",
+   "q": "Cappadocia balloons Goreme"
+  },
+  {
+   "name": "Pamukkale Travertines",
+   "q": "Pamukkale travertines pools"
+  },
+  {
+   "name": "Hagia Sophia",
+   "q": "Hagia Sophia Istanbul"
+  },
+  {
+   "name": "Blue Mosque",
+   "q": "Blue Mosque Sultanahmet"
+  },
+  {
+   "name": "Ölüdeniz Blue Lagoon",
+   "q": "Oludeniz Blue Lagoon"
+  },
+  {
+   "name": "Library of Celsus",
+   "q": "Ephesus Library Celsus"
+  },
+  {
+   "name": "Galata Tower",
+   "q": "Galata Tower Istanbul"
+  },
+  {
+   "name": "Sumela Monastery",
+   "q": "Sumela Monastery Trabzon"
+  },
+  {
+   "name": "Mount Nemrut",
+   "q": "Mount Nemrut statues"
+  },
+  {
+   "name": "Butterfly Valley",
+   "q": "Butterfly Valley Faralya"
+  },
+  {
+   "name": "Maiden's Tower",
+   "q": "Maidens Tower Istanbul"
+  },
+  {
+   "name": "Kaputaş Beach",
+   "q": "Kaputas Beach Kas"
+  },
+  {
+   "name": "Grand Bazaar",
+   "q": "Grand Bazaar Istanbul"
+  },
+  {
+   "name": "Kaleiçi Old Town",
+   "q": "Kaleici Antalya"
+  }
  ]
 }

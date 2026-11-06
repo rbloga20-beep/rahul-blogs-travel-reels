@@ -427,3 +427,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-06-11-13 | Jebel Jais | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah,_United_Arab_Emirates.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-06-11-13 | Al Fahidi Historical Neighbourhood | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Al_Bastakiya_8.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-06-11-13 | United Arab Emirates | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Abu_Dhabi_seen_from_Qasr_Al_Watan_6.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Turkey | Pixabay (RYajlan) | https://pixabay.com/videos/id-122706/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Cappadocia Hot Air Balloons | Pixabay (lumosajans) | https://pixabay.com/videos/id-77137/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Pamukkale Travertines | Pixabay (NatureLensStudio) | https://pixabay.com/videos/id-376276/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Hagia Sophia | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-1541/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Blue Mosque | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:G%C3%BCnbat%C4%B1m%C4%B1,_Sultanahmet_2015-1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Library of Celsus | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Efes_Celsus_K%C3%BCt%C3%BCphanesi.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Galata Tower | Pixabay (celilsaid) | https://pixabay.com/videos/id-271673/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Sumela Monastery | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:S%C3%BCmela_Manast%C4%B1r%C4%B1_2014-5.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Butterfly Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Valley_of_Butterflies.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-14-24 | Turkey | Pixabay (RYajlan) | https://pixabay.com/videos/id-122895/ | Pixabay Content License, commercial use, no attribution needed |

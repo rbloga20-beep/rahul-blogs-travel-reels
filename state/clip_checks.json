@@ -6980,5 +6980,131 @@
   "v": 3,
   "ok": true,
   "s": 6
+ },
+ "pxb376276|Pamukkale Travertines": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb77137|Cappadocia Hot Air Balloons": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb1541|Hagia Sophia": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb63594|Cappadocia Hot Air Balloons": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb376271|Pamukkale Travertines": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb63602|Cappadocia Hot Air Balloons": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb77138|Hagia Sophia": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc151921974|Blue Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc152473044|Blue Mosque": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc151921954|Blue Mosque": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc151713957|Library of Celsus": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc2475305|Library of Celsus": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc151764693|Sumela Monastery": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc181939241|Mount Nemrut": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc58837695|Mount Nemrut": null,
+ "pxb271673|Galata Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc151765125|Sumela Monastery": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc151765121|Sumela Monastery": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb367790|Galata Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc31872838|Butterfly Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb45118|Maiden's Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb271673|Maiden's Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb289912|Kaleiçi Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc90211142|Grand Bazaar": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb122706|Turkey": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb122895|Turkey": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
