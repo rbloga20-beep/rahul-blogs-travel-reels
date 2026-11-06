@@ -6787,5 +6787,198 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc48354492|Baros Maldives": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc185536336|Maafushi Island": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc185536349|Maafushi Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc185536302|Maafushi Island": null,
+ "wmc185536350|Maafushi Island": null,
+ "wmc16964864|Male City": null,
+ "wmc62168844|Male City": null,
+ "wmc1382044|Banana Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc22966533|The Muraka": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc158180696|Banana Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc647909|Banana Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc23257632|Banana Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb6399|Sun Island": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb6404|Sun Island": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb6382|Sun Island": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb296958|Burj Khalifa": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb47052|Sheikh Zayed Grand Mosque": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb46950|Burj Khalifa": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb165072|Sheikh Zayed Grand Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb165072|Museum of the Future": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb296958|Burj Al Arab": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb339596|Burj Al Arab": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc397518|Palm Jumeirah": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb165072|Burj Al Arab": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc90114922|Louvre Abu Dhabi": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc90114924|Louvre Abu Dhabi": null,
+ "pxb164368|Burj Al Arab": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc97939585|Louvre Abu Dhabi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc140470624|Palm Jumeirah": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc34183745|Palm Jumeirah": null,
+ "wmc140470618|Palm Jumeirah": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc140633799|Qasr Al Watan": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb260764|Dubai Frame": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc140633805|Qasr Al Watan": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb260769|Dubai Frame": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb258843|Dubai Frame": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb258847|Dubai Frame": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc11561934|Atlantis The Royal": null,
+ "wmc11571781|Atlantis The Royal": null,
+ "wmc142191913|Jebel Jais": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc140470616|Atlantis The Royal": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc42982394|Atlantis The Royal": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc195717629|Global Village Dubai": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc140464309|Al Fahidi Historical Neighbourhood": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc140464328|Al Fahidi Historical Neighbourhood": {
+  "v": 3,
+  "ok": true,
+  "s": 6
  }
 }

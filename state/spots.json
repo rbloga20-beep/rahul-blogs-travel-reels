@@ -4812,5 +4812,121 @@
    "name": "Handara Gate",
    "q": "Handara Gate"
   }
+ ],
+ "Maldives": [
+  {
+   "name": "Soneva Jani",
+   "q": "Soneva Jani"
+  },
+  {
+   "name": "Vaadhoo Island",
+   "q": "Vaadhoo Sea Stars"
+  },
+  {
+   "name": "Fulidhoo Beach",
+   "q": "Fulidhoo Sharks"
+  },
+  {
+   "name": "Kuramathi Sandbank",
+   "q": "Kuramathi Sandbank"
+  },
+  {
+   "name": "Ithaa Undersea Restaurant",
+   "q": "Ithaa Undersea Restaurant"
+  },
+  {
+   "name": "Baros Maldives",
+   "q": "Baros Piano Deck"
+  },
+  {
+   "name": "Dhigurah Island",
+   "q": "Dhigurah Beach"
+  },
+  {
+   "name": "Maafushi Island",
+   "q": "Maafushi Island"
+  },
+  {
+   "name": "Gili Lankanfushi",
+   "q": "Gili Lankanfushi Hammock"
+  },
+  {
+   "name": "Male City",
+   "q": "Male Fish Market"
+  },
+  {
+   "name": "Banana Reef",
+   "q": "Banana Reef Diving"
+  },
+  {
+   "name": "The Muraka",
+   "q": "The Muraka Suite"
+  },
+  {
+   "name": "Sun Island",
+   "q": "Sun Island Lagoon"
+  },
+  {
+   "name": "Veligandu Island Beach",
+   "q": "Veligandu Beach"
+  }
+ ],
+ "United Arab Emirates": [
+  {
+   "name": "Burj Khalifa",
+   "q": "Burj Khalifa"
+  },
+  {
+   "name": "Sheikh Zayed Grand Mosque",
+   "q": "Sheikh Zayed Mosque"
+  },
+  {
+   "name": "Museum of the Future",
+   "q": "Museum Future Dubai"
+  },
+  {
+   "name": "Burj Al Arab",
+   "q": "Burj Al Arab"
+  },
+  {
+   "name": "Palm Jumeirah",
+   "q": "Palm Jumeirah"
+  },
+  {
+   "name": "Louvre Abu Dhabi",
+   "q": "Louvre Abu Dhabi"
+  },
+  {
+   "name": "Dubai Frame",
+   "q": "Dubai Frame"
+  },
+  {
+   "name": "Dubai Miracle Garden",
+   "q": "Miracle Garden Dubai"
+  },
+  {
+   "name": "Qasr Al Watan",
+   "q": "Qasr Al Watan"
+  },
+  {
+   "name": "Jebel Jais",
+   "q": "Jebel Jais"
+  },
+  {
+   "name": "Jebel Hafeet",
+   "q": "Jebel Hafeet"
+  },
+  {
+   "name": "Atlantis The Royal",
+   "q": "Atlantis The Royal"
+  },
+  {
+   "name": "Global Village Dubai",
+   "q": "Global Village Dubai"
+  },
+  {
+   "name": "Al Fahidi Historical Neighbourhood",
+   "q": "Al Fahidi Historical"
+  }
  ]
 }

@@ -418,3 +418,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-06-08-23 | Prambanan Temple | Pixabay (NatureLensStudio) | https://pixabay.com/videos/id-372646/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-06-08-23 | Ulun Danu Beratan Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pura_Bratan_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-06-08-23 | Indonesia | Pixabay (NVKEXPLORE) | https://pixabay.com/videos/id-219241/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-11-13 | United Arab Emirates | Pixabay (masterbert0427) | https://pixabay.com/videos/id-46950/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-11-13 | Burj Khalifa | Pixabay (engrahmad2653) | https://pixabay.com/videos/id-296958/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-11-13 | Sheikh Zayed Grand Mosque | Pixabay (masterbert0427) | https://pixabay.com/videos/id-47052/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-11-13 | Burj Al Arab | Pixabay (Mahi8) | https://pixabay.com/videos/id-339596/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-11-13 | Palm Jumeirah | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Palm_Island_Resort.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-11-13 | Qasr Al Watan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Abu_Dhabi_seen_from_Qasr_Al_Watan_3.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-11-13 | Jebel Jais | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jebel_Jais_Mountain_Ranges_as_viewed_from_Ras_Al_Khaimah,_United_Arab_Emirates.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-11-13 | Al Fahidi Historical Neighbourhood | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Al_Bastakiya_8.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-11-13 | United Arab Emirates | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Abu_Dhabi_seen_from_Qasr_Al_Watan_6.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
