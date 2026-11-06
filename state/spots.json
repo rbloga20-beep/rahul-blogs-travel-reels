@@ -4696,5 +4696,63 @@
    "name": "Gion District",
    "q": "Gion Kyoto"
   }
+ ],
+ "Thailand": [
+  {
+   "name": "Maya Bay",
+   "q": "Maya Bay"
+  },
+  {
+   "name": "Wat Arun",
+   "q": "Wat Arun"
+  },
+  {
+   "name": "Wat Rong Khun",
+   "q": "Wat Rong Khun"
+  },
+  {
+   "name": "Railay Beach",
+   "q": "Railay Beach"
+  },
+  {
+   "name": "James Bond Island",
+   "q": "James Bond Island"
+  },
+  {
+   "name": "Pileh Lagoon",
+   "q": "Pileh Lagoon"
+  },
+  {
+   "name": "Wat Paknam Phasi Charoen",
+   "q": "Wat Paknam"
+  },
+  {
+   "name": "Koh Nang Yuan",
+   "q": "Koh Nang Yuan"
+  },
+  {
+   "name": "Maeklong Railway Market",
+   "q": "Maeklong Railway"
+  },
+  {
+   "name": "Wat Sam Phran",
+   "q": "Wat Sam Phran"
+  },
+  {
+   "name": "Damnoen Saduak Floating Market",
+   "q": "Damnoen Saduak"
+  },
+  {
+   "name": "Erawan Falls",
+   "q": "Erawan Falls"
+  },
+  {
+   "name": "Ayutthaya Historical Park",
+   "q": "Ayutthaya"
+  },
+  {
+   "name": "Wat Phra That Doi Suthep",
+   "q": "Doi Suthep"
+  }
  ]
 }

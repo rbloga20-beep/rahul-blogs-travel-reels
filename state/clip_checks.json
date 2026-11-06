@@ -6616,5 +6616,91 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "pxb15528|Maya Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc96275755|Wat Arun": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb106692|Maya Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc4341240|James Bond Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc60539557|James Bond Island": null,
+ "pxb15533|Railay Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc10284422|Pileh Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc10287078|Pileh Lagoon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc45559462|Maeklong Railway Market": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc7944312|Koh Nang Yuan": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc52866783|Wat Paknam Phasi Charoen": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc96747130|Koh Nang Yuan": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc160053042|Damnoen Saduak Floating Market": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc23844670|Erawan Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc160053497|Damnoen Saduak Floating Market": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc62053357|Damnoen Saduak Floating Market": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb15533|Thailand": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb42638|Thailand": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
