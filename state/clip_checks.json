@@ -6702,5 +6702,90 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb369737|Mount Bromo": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb372645|Borobudur Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb378679|Mount Bromo": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb258171|Borobudur Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb386063|Kelingking Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb224749|Padar Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc150970353|Lempuyang Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc150969541|Lempuyang Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc150970352|Lempuyang Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb192216|Diamond Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb385732|Raja Ampat": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb366850|Raja Ampat": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb372646|Prambanan Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc62298601|Ulun Danu Beratan Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb84409|Prambanan Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb152820|Indonesia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb219241|Indonesia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

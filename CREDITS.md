@@ -407,3 +407,14 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-06-05-08 | Damnoen Saduak Floating Market | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:March%C3%A9_flottant_du_district_Damnoen_Saduak_6.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-06-05-08 | Erawan Falls | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sai_Yok_Noi_Falls_wv.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-06-05-08 | Thailand | Pixabay (NoCopyrightMusicFree) | https://pixabay.com/videos/id-106692/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Indonesia | Pixabay (mafifp_) | https://pixabay.com/videos/id-152820/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Kelingking Beach | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386063/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Mount Bromo | Pixabay (NatureLensStudio) | https://pixabay.com/videos/id-369737/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Borobudur Temple | Pixabay (NatureLensStudio) | https://pixabay.com/videos/id-372645/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Lempuyang Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lempuyang_2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Padar Island | Pixabay (Javaistan) | https://pixabay.com/videos/id-224749/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Diamond Beach | Pixabay (fifthplanett) | https://pixabay.com/videos/id-192216/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Raja Ampat | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385732/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Prambanan Temple | Pixabay (NatureLensStudio) | https://pixabay.com/videos/id-372646/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Ulun Danu Beratan Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pura_Bratan_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-08-23 | Indonesia | Pixabay (NVKEXPLORE) | https://pixabay.com/videos/id-219241/ | Pixabay Content License, commercial use, no attribution needed |

@@ -4754,5 +4754,63 @@
    "name": "Wat Phra That Doi Suthep",
    "q": "Doi Suthep"
   }
+ ],
+ "Indonesia": [
+  {
+   "name": "Kelingking Beach",
+   "q": "Kelingking Beach"
+  },
+  {
+   "name": "Mount Bromo",
+   "q": "Mount Bromo"
+  },
+  {
+   "name": "Borobudur Temple",
+   "q": "Borobudur"
+  },
+  {
+   "name": "Tegalalang Rice Terrace",
+   "q": "Tegalalang"
+  },
+  {
+   "name": "Lempuyang Temple",
+   "q": "Lempuyang Temple"
+  },
+  {
+   "name": "Padar Island",
+   "q": "Padar Island"
+  },
+  {
+   "name": "Tumpak Sewu Waterfall",
+   "q": "Tumpak Sewu"
+  },
+  {
+   "name": "Diamond Beach",
+   "q": "Diamond Beach"
+  },
+  {
+   "name": "Raja Ampat",
+   "q": "Raja Ampat"
+  },
+  {
+   "name": "Prambanan Temple",
+   "q": "Prambanan"
+  },
+  {
+   "name": "Ulun Danu Beratan Temple",
+   "q": "Ulun Danu Beratan"
+  },
+  {
+   "name": "Pink Beach Komodo",
+   "q": "Pink Beach Komodo"
+  },
+  {
+   "name": "Uluwatu Temple",
+   "q": "Uluwatu Temple"
+  },
+  {
+   "name": "Handara Gate",
+   "q": "Handara Gate"
+  }
  ]
 }
