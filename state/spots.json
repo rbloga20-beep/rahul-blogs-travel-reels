@@ -4638,5 +4638,63 @@
    "name": "Promenade des Anglais",
    "q": "Promenade des Anglais"
   }
+ ],
+ "Japan": [
+  {
+   "name": "Chureito Pagoda & Mount Fuji",
+   "q": "Chureito Pagoda Fuji"
+  },
+  {
+   "name": "Fushimi Inari Taisha",
+   "q": "Fushimi Inari"
+  },
+  {
+   "name": "Shibuya Crossing",
+   "q": "Shibuya Crossing"
+  },
+  {
+   "name": "Arashiyama Bamboo Grove",
+   "q": "Arashiyama Bamboo"
+  },
+  {
+   "name": "Shirakawa-go",
+   "q": "Shirakawa-go"
+  },
+  {
+   "name": "Dotonbori",
+   "q": "Dotonbori Osaka"
+  },
+  {
+   "name": "Itsukushima Floating Torii Gate",
+   "q": "Miyajima Torii Gate"
+  },
+  {
+   "name": "Senso-ji Temple",
+   "q": "Senso-ji Asakusa"
+  },
+  {
+   "name": "Himeji Castle",
+   "q": "Himeji Castle"
+  },
+  {
+   "name": "teamLab Planets",
+   "q": "teamLab Planets"
+  },
+  {
+   "name": "Nara Park",
+   "q": "Nara Park Deer"
+  },
+  {
+   "name": "Kinkaku-ji Golden Pavilion",
+   "q": "Kinkaku-ji"
+  },
+  {
+   "name": "Jigokudani Snow Monkey Park",
+   "q": "Jigokudani Snow Monkey"
+  },
+  {
+   "name": "Gion District",
+   "q": "Gion Kyoto"
+  }
  ]
 }

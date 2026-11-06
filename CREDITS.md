@@ -384,3 +384,14 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-05-17-24 | Arc de Triomphe | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-1505/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-05-17-24 | Dune of Pilat | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Miniature_hoodoos_and_badlands_in_the_sand,_Dune_du_Pilat,_La_Teste-de-Buch,_2015.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-05-17-24 | France | Pixabay (WestNL) | https://pixabay.com/videos/id-88507/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Japan | Pixabay (Natures_Embrace) | https://pixabay.com/videos/id-240841/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Chureito Pagoda & Mount Fuji | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fujiyoshida_-_Fujiyoshida6761.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Fushimi Inari Taisha | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_shrine_5.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Arashiyama Bamboo Grove | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Japan_The_Bamboo_Forest_(13914447656).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Shirakawa-go | Pixabay (Kanenori) | https://pixabay.com/videos/id-327388/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Itsukushima Floating Torii Gate | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Miyajima-_Part_I_-_Miyajima464.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Senso-ji Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Senso-Ji_Temple_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Himeji Castle | Pixabay (Kanenori) | https://pixabay.com/videos/id-326739/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | teamLab Planets | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Teamlab_toyosu.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Kinkaku-ji Golden Pavilion | Pixabay (Kanenori) | https://pixabay.com/videos/id-214940/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-06-02-21 | Japan | Pixabay (Kanenori) | https://pixabay.com/videos/id-228847/ | Pixabay Content License, commercial use, no attribution needed |

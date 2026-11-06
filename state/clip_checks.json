@@ -6439,5 +6439,182 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "pxb236768|Shibuya Crossing": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc107788983|Fushimi Inari Taisha": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc107788985|Fushimi Inari Taisha": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc107788993|Fushimi Inari Taisha": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc107789488|Fushimi Inari Taisha": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc195897825|Chureito Pagoda & Mount Fuji": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc74819148|Arashiyama Bamboo Grove": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc23177295|Dotonbori": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb327388|Shirakawa-go": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc58803738|Arashiyama Bamboo Grove": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc198853997|Dotonbori": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc198853900|Dotonbori": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb266006|Shirakawa-go": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61668965|Senso-ji Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb326739|Himeji Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc140103480|Senso-ji Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb306552|Himeji Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc195911524|Itsukushima Floating Torii Gate": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc196016179|Itsukushima Floating Torii Gate": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb214940|Kinkaku-ji Golden Pavilion": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc186090584|teamLab Planets": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc174030730|teamLab Planets": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb40527|Kinkaku-ji Golden Pavilion": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc114034534|Nara Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc114034529|Nara Park": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc154069204|Nara Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc74650238|Nara Park": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb40527|Gion District": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc130992375|Jigokudani Snow Monkey Park": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb40531|Gion District": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc130992334|Jigokudani Snow Monkey Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc130992208|Jigokudani Snow Monkey Park": null,
+ "wmc130992283|Jigokudani Snow Monkey Park": null,
+ "pxb239872|Gion District": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb53789|Gion District": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb240841|Japan": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb228847|Japan": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }
