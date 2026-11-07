@@ -2357,5 +2357,52 @@
    "id": "18110942363186854",
    "url": "https://www.instagram.com/stories/rahulblogsyt/4025191932417305140"
   }
+ },
+ {
+  "id": "2026-11-07-16-49",
+  "date": "2026-11-07T16:55:10.777Z",
+  "places": [
+   "Neuschwanstein Castle",
+   "Cologne Cathedral",
+   "Brandenburg Gate",
+   "Lake Königssee",
+   "Hohenzollern Castle",
+   "Geierlay Suspension Bridge",
+   "Marienplatz",
+   "Zugspitze",
+   "Partnach Gorge"
+  ],
+  "hook": "Germany / Top 10 spots in Germany",
+  "sub": "Top 10 spots in Germany",
+  "music": "Traveling Along.mp3",
+  "seconds": 26.87,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-13256/",
+   "Pixabay https://pixabay.com/videos/id-278381/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Cologne-Cathedral-0006.jpg",
+   "Pixabay https://pixabay.com/videos/id-1522/",
+   "Pixabay https://pixabay.com/videos/id-126367/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Pumpenhaus_Burg_Hohenzollern_01.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Geierlay_suspension_bridge_(Unsplash).jpg",
+   "Pixabay https://pixabay.com/videos/id-86521/",
+   "Pixabay https://pixabay.com/videos/id-118222/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:ISS067-E-151448_-_View_of_Germany_-_river_Partnach_-_Partnachklamm_-_Eckbauer_(cropped).jpg",
+   "Pixabay https://pixabay.com/videos/id-13255/"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "2280884246028996",
+   "url": "https://www.facebook.com/reel/2280884246028996/"
+  },
+  "ig": {
+   "id": "17929831347428766",
+   "url": "https://www.instagram.com/reel/DfcqP2igIPZ/"
+  },
+  "fbStory": {
+   "id": "1171017265590589"
+  },
+  "igStory": {
+   "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+  }
  }
 ]

@@ -5334,5 +5334,63 @@
    "name": "Hofburg Palace",
    "q": "Hofburg Palace"
   }
+ ],
+ "Germany": [
+  {
+   "name": "Neuschwanstein Castle",
+   "q": "Neuschwanstein Castle"
+  },
+  {
+   "name": "Burg Eltz",
+   "q": "Burg Eltz"
+  },
+  {
+   "name": "Bastei Bridge",
+   "q": "Basteibrücke"
+  },
+  {
+   "name": "Rakotzbrücke",
+   "q": "Rakotzbrücke"
+  },
+  {
+   "name": "Rothenburg ob der Tauber",
+   "q": "Plönlein Rothenburg"
+  },
+  {
+   "name": "Cologne Cathedral",
+   "q": "Kölner Dom"
+  },
+  {
+   "name": "Brandenburg Gate",
+   "q": "Brandenburg Gate"
+  },
+  {
+   "name": "Lake Königssee",
+   "q": "Königssee"
+  },
+  {
+   "name": "Hohenzollern Castle",
+   "q": "Burg Hohenzollern"
+  },
+  {
+   "name": "Geierlay Suspension Bridge",
+   "q": "Geierlay Bridge"
+  },
+  {
+   "name": "Marienplatz",
+   "q": "Marienplatz Munich"
+  },
+  {
+   "name": "Heidelberg Castle",
+   "q": "Heidelberg Castle"
+  },
+  {
+   "name": "Zugspitze",
+   "q": "Zugspitze"
+  },
+  {
+   "name": "Partnach Gorge",
+   "q": "Partnachklamm"
+  }
  ]
 }

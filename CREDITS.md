@@ -491,3 +491,14 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-07-13-57 | Krimml Waterfalls | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:08_Krimml_(7).JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-07-13-57 | Hofburg Palace | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hofburg_Palace_2025.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-07-13-57 | Austria | Pixabay (artgraphy) | https://pixabay.com/videos/id-30957/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Germany | Pixabay (madfor) | https://pixabay.com/videos/id-13256/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Neuschwanstein Castle | Pixabay (Felix-Mittermeier) | https://pixabay.com/videos/id-278381/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Cologne Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cologne-Cathedral-0006.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Brandenburg Gate | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-1522/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Lake Königssee | Pixabay (caswi) | https://pixabay.com/videos/id-126367/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Hohenzollern Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pumpenhaus_Burg_Hohenzollern_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Geierlay Suspension Bridge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Geierlay_suspension_bridge_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Marienplatz | Pixabay (hiepgemini96) | https://pixabay.com/videos/id-86521/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Zugspitze | Pixabay (RomanDiesel) | https://pixabay.com/videos/id-118222/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Partnach Gorge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS067-E-151448_-_View_of_Germany_-_river_Partnach_-_Partnachklamm_-_Eckbauer_(cropped).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-16-49 | Germany | Pixabay (madfor) | https://pixabay.com/videos/id-13255/ | Pixabay Content License, commercial use, no attribution needed |

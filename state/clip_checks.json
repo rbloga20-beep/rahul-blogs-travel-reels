@@ -7728,5 +7728,140 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb278381|Neuschwanstein Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc159349090|Burg Eltz": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb299717|Neuschwanstein Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc159346829|Burg Eltz": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc159346779|Burg Eltz": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc159347879|Burg Eltz": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc76238424|Cologne Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc175698068|Cologne Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc76424091|Rothenburg ob der Tauber": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc21892481|Rothenburg ob der Tauber": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc4333052|Rothenburg ob der Tauber": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb1522|Brandenburg Gate": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb126367|Lake Königssee": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc146894742|Hohenzollern Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb1511|Brandenburg Gate": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb347157|Lake Königssee": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb347160|Lake Königssee": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb347159|Lake Königssee": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc61776035|Geierlay Suspension Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc151723384|Heidelberg Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb86521|Marienplatz": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc148605818|Partnach Gorge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb118222|Zugspitze": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc175057668|Partnach Gorge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb118220|Zugspitze": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb13256|Germany": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb13255|Germany": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
