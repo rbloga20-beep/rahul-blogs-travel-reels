@@ -471,3 +471,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-07-08-10 | Vøringsfossen | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Johannes_Flintoe_-_The_Waterfall_V%C3%B8ringsfossen_-_NG.M.03271_-_National_Museum_of_Art,_Architecture_and_Design.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-07-08-10 | Nordkapp | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Peder_Balke_-_Nordkapp_-_TKM-1286-1974_-_Trondheim_kunstmuseum_(cropped).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-07-08-10 | Norway | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-364604/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Iceland | Pixabay (City_at_Night) | https://pixabay.com/videos/id-258888/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Kirkjufell Mountain | Pixabay (RainMeditateHub) | https://pixabay.com/videos/id-292823/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Reynisfjara Black Sand Beach | Pixabay (xat-ch) | https://pixabay.com/videos/id-129822/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Skógafoss | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sk%C3%B3gafoss_waterfall_premises_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Jökulsárlón Glacier Lagoon | Pixabay (kastaniubrunn) | https://pixabay.com/videos/id-47614/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Diamond Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Diamond_Beach,_Merritt_Island,_Iceland_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Fjaðrárgljúfur Canyon | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fja%C3%B0r%C3%A1rglj%C3%BAfur_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Hallgrímskirkja | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hallgr%C3%ADmskirkja_2018_HDR.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Silfra Fissure | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:SCUBA_Silfra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-10-52 | Iceland | Pixabay (kastaniubrunn) | https://pixabay.com/videos/id-47615/ | Pixabay Content License, commercial use, no attribution needed |

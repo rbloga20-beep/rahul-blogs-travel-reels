@@ -5218,5 +5218,63 @@
    "name": "Nordkapp",
    "q": "Nordkapp North Cape"
   }
+ ],
+ "Iceland": [
+  {
+   "name": "Blue Lagoon",
+   "q": "Blue Lagoon"
+  },
+  {
+   "name": "Kirkjufell Mountain",
+   "q": "Kirkjufell"
+  },
+  {
+   "name": "Reynisfjara Black Sand Beach",
+   "q": "Reynisfjara"
+  },
+  {
+   "name": "Skógafoss",
+   "q": "Skogafoss"
+  },
+  {
+   "name": "Seljalandsfoss",
+   "q": "Seljalandsfoss"
+  },
+  {
+   "name": "Jökulsárlón Glacier Lagoon",
+   "q": "Jokulsarlon"
+  },
+  {
+   "name": "Diamond Beach",
+   "q": "Diamond Beach"
+  },
+  {
+   "name": "Stuðlagil Canyon",
+   "q": "Studlagil"
+  },
+  {
+   "name": "Fjaðrárgljúfur Canyon",
+   "q": "Fjadrargljufur"
+  },
+  {
+   "name": "Vestrahorn Mountain",
+   "q": "Vestrahorn Stokksnes"
+  },
+  {
+   "name": "Hallgrímskirkja",
+   "q": "Hallgrimskirkja"
+  },
+  {
+   "name": "Gullfoss",
+   "q": "Gullfoss"
+  },
+  {
+   "name": "Strokkur Geysir",
+   "q": "Strokkur Geysir"
+  },
+  {
+   "name": "Silfra Fissure",
+   "q": "Silfra"
+  }
  ]
 }

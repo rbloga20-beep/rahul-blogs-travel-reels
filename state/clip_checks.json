@@ -7477,5 +7477,120 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb292823|Kirkjufell Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb6399|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb129822|Reynisfjara Black Sand Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb6404|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb6382|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb343055|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb310845|Seljalandsfoss": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb47614|Jökulsárlón Glacier Lagoon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb377683|Seljalandsfoss": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb361167|Seljalandsfoss": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb363061|Seljalandsfoss": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc121380862|Skógafoss": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb47615|Jökulsárlón Glacier Lagoon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc62170111|Diamond Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc198966847|Diamond Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc61823440|Fjaðrárgljúfur Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc62170088|Fjaðrárgljúfur Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc174058530|Hallgrímskirkja": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc21897395|Silfra Fissure": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb251262|Iceland": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb72606|Iceland": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb258888|Iceland": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb52849|Iceland": {
+  "v": 3,
+  "ok": false,
+  "s": 10
  }
 }
