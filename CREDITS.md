@@ -481,3 +481,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-07-10-52 | Hallgrímskirkja | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hallgr%C3%ADmskirkja_2018_HDR.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-07-10-52 | Silfra Fissure | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:SCUBA_Silfra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-07-10-52 | Iceland | Pixabay (kastaniubrunn) | https://pixabay.com/videos/id-47615/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | Austria | Pixabay (Felix-Mittermeier) | https://pixabay.com/videos/id-278379/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | Hallstatt | Pixabay (Fidato78) | https://pixabay.com/videos/id-294129/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | St. Stephen's Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Steffl_spire_St_Stephen%27s_cathedral_Vienna.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | Belvedere Palace | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Back_View_of_Belvedere_Palace_and_Garden.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | Grossglockner High Alpine Road | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Gray_clouds_over_green_valley_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | Zell am See | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Zell_am_See_Abendsonne_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | Grüner See | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Gr%C3%BCner_See_5.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | Krimml Waterfalls | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:08_Krimml_(7).JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | Hofburg Palace | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hofburg_Palace_2025.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-13-57 | Austria | Pixabay (artgraphy) | https://pixabay.com/videos/id-30957/ | Pixabay Content License, commercial use, no attribution needed |

@@ -2312,5 +2312,50 @@
    "id": "17986956303093920",
    "url": "https://www.instagram.com/stories/rahulblogsyt/4025100464999290833"
   }
+ },
+ {
+  "id": "2026-11-07-13-57",
+  "date": "2026-11-07T14:03:12.355Z",
+  "places": [
+   "Hallstatt",
+   "St. Stephen's Cathedral",
+   "Belvedere Palace",
+   "Grossglockner High Alpine Road",
+   "Zell am See",
+   "Grüner See",
+   "Krimml Waterfalls",
+   "Hofburg Palace"
+  ],
+  "hook": "Austria / Top 8 places in Austria",
+  "sub": "Top 8 places in Austria",
+  "music": "A Special Feeling.mp3",
+  "seconds": 24.03,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-278379/",
+   "Pixabay https://pixabay.com/videos/id-294129/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Steffl_spire_St_Stephen%27s_cathedral_Vienna.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Back_View_of_Belvedere_Palace_and_Garden.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Gray_clouds_over_green_valley_(Unsplash).jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Zell_am_See_Abendsonne_02.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Gr%C3%BCner_See_5.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:08_Krimml_(7).JPG",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Hofburg_Palace_2025.jpg",
+   "Pixabay https://pixabay.com/videos/id-30957/"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "4855583174665122",
+   "url": "https://www.facebook.com/reel/4855583174665122/"
+  },
+  "ig": {
+   "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+  },
+  "fbStory": {
+   "id": "1154440050425658"
+  },
+  "igStory": {
+   "id": "18110942363186854",
+   "url": "https://www.instagram.com/stories/rahulblogsyt/4025191932417305140"
+  }
  }
 ]

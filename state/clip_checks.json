@@ -7592,5 +7592,141 @@
   "v": 3,
   "ok": false,
   "s": 10
+ },
+ "pxb294129|Hallstatt": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb309361|Hallstatt": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb309362|Hallstatt": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc18722917|St. Stephen's Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc167002651|St. Stephen's Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb309360|Hallstatt": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb27462|Mirabell Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc169108974|Belvedere Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc107211253|Belvedere Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc46125496|Zell am See": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc61896437|Grossglockner High Alpine Road": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc68165291|Innsbruck Old Town": null,
+ "wmc201552797|Zell am See": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61909493|Grossglockner High Alpine Road": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc138901738|Zell am See": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc201552798|Zell am See": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc196987745|Innsbruck Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc68165318|Innsbruck Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc68165290|Innsbruck Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc107210216|Grüner See": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc34384759|Melk Abbey": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc34384941|Melk Abbey": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc34385138|Melk Abbey": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc195480062|Hofburg Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc36677194|Krimml Waterfalls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc18634669|Hofburg Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb278379|Austria": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb30957|Austria": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

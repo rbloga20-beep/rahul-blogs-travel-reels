@@ -5276,5 +5276,63 @@
    "name": "Silfra Fissure",
    "q": "Silfra"
   }
+ ],
+ "Austria": [
+  {
+   "name": "Hallstatt",
+   "q": "Hallstatt Village"
+  },
+  {
+   "name": "Schönbrunn Palace",
+   "q": "Schonbrunn Palace"
+  },
+  {
+   "name": "St. Stephen's Cathedral",
+   "q": "St Stephen Cathedral"
+  },
+  {
+   "name": "Belvedere Palace",
+   "q": "Belvedere Palace"
+  },
+  {
+   "name": "Hohensalzburg Fortress",
+   "q": "Hohensalzburg Fortress"
+  },
+  {
+   "name": "Mirabell Palace",
+   "q": "Mirabell Gardens"
+  },
+  {
+   "name": "Grossglockner High Alpine Road",
+   "q": "Grossglockner Alpine Road"
+  },
+  {
+   "name": "Innsbruck Old Town",
+   "q": "Innsbruck Golden Roof"
+  },
+  {
+   "name": "Zell am See",
+   "q": "Zell am See"
+  },
+  {
+   "name": "Olpererhütte Suspension Bridge",
+   "q": "Olpererhutte Bridge"
+  },
+  {
+   "name": "Melk Abbey",
+   "q": "Melk Abbey"
+  },
+  {
+   "name": "Grüner See",
+   "q": "Gruner See"
+  },
+  {
+   "name": "Krimml Waterfalls",
+   "q": "Krimml Waterfalls"
+  },
+  {
+   "name": "Hofburg Palace",
+   "q": "Hofburg Palace"
+  }
  ]
 }
