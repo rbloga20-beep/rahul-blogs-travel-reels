@@ -7320,5 +7320,55 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc154143366|Quinta da Regaleira": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc107420283|Quinta da Regaleira": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc154143363|Quinta da Regaleira": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb174709|Ponta da Piedade": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb174706|Ponta da Piedade": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb132841|Douro Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb306863|Douro Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb385353|Portugal": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb13772|Portugal": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb13771|Portugal": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

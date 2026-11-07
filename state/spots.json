@@ -5102,5 +5102,63 @@
    "name": "Cala Macarella",
    "q": "Cala Macarella"
   }
+ ],
+ "Portugal": [
+  {
+   "name": "Pena Palace",
+   "q": "Pena Palace Sintra"
+  },
+  {
+   "name": "Benagil Cave",
+   "q": "Benagil Cave Algarve"
+  },
+  {
+   "name": "Quinta da Regaleira",
+   "q": "Quinta da Regaleira"
+  },
+  {
+   "name": "Dom Luís I Bridge",
+   "q": "Dom Luis Bridge"
+  },
+  {
+   "name": "Praia da Marinha",
+   "q": "Praia da Marinha"
+  },
+  {
+   "name": "Ponta da Piedade",
+   "q": "Ponta da Piedade"
+  },
+  {
+   "name": "Belém Tower",
+   "q": "Belem Tower Lisbon"
+  },
+  {
+   "name": "Lisbon Tram 28",
+   "q": "Lisbon Tram 28"
+  },
+  {
+   "name": "Livraria Lello",
+   "q": "Livraria Lello Porto"
+  },
+  {
+   "name": "Praia do Camilo",
+   "q": "Praia do Camilo"
+  },
+  {
+   "name": "Azenhas do Mar",
+   "q": "Azenhas do Mar"
+  },
+  {
+   "name": "Costa Nova",
+   "q": "Costa Nova Aveiro"
+  },
+  {
+   "name": "Cabo da Roca",
+   "q": "Cabo da Roca"
+  },
+  {
+   "name": "Douro Valley",
+   "q": "Douro Valley"
+  }
  ]
 }

@@ -457,3 +457,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-07-02-06 | Mount Teide | Pixabay (ChristianBodhi) | https://pixabay.com/videos/id-32606/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-07-02-06 | Cala Macarella | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Menorca_-_50130872947.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-07-02-06 | Spain | Pixabay (Radds) | https://pixabay.com/videos/id-188204/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-04-59 | Portugal | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385353/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-04-59 | Quinta da Regaleira | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Quinta_da_Regaleira_Sintra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-04-59 | Ponta da Piedade | Pixabay (lithepictures) | https://pixabay.com/videos/id-174709/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-04-59 | Douro Valley | Pixabay (Ramiro--) | https://pixabay.com/videos/id-132841/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-04-59 | Portugal | Pixabay (Wowa84) | https://pixabay.com/videos/id-13771/ | Pixabay Content License, commercial use, no attribution needed |
