@@ -7370,5 +7370,112 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb48873|Trolltunga": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc168808131|Preikestolen": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb135572|Trolltunga": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61800726|Preikestolen": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc153667990|Hamnøy": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb385785|Reine": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc62220429|Hamnøy": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb362613|Reine": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc148838960|Segla": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb128113|Atlantic Ocean Road": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc140912206|Segla": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc122251316|Segla": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc15727847|Bryggen": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc196902349|Flåm Railway": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc196902456|Flåm Railway": null,
+ "wmc196901752|Flåm Railway": null,
+ "wmc106304385|Vøringsfossen": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc127422519|Nordkapp": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc137945378|Nordkapp": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc196734374|Nordkapp": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb44189|Norway": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb207978|Norway": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb364604|Norway": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

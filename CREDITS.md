@@ -462,3 +462,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-07-04-59 | Ponta da Piedade | Pixabay (lithepictures) | https://pixabay.com/videos/id-174709/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-07-04-59 | Douro Valley | Pixabay (Ramiro--) | https://pixabay.com/videos/id-132841/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-07-04-59 | Portugal | Pixabay (Wowa84) | https://pixabay.com/videos/id-13771/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-08-10 | Norway | Pixabay (TungArt7) | https://pixabay.com/videos/id-207978/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-08-10 | Trolltunga | Pixabay (Hassas_Arts) | https://pixabay.com/videos/id-48873/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-08-10 | Reine | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385785/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-08-10 | Hamnøy | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lofoten_-1_Hamn%C3%B8y,_Lofoten,_Norway_2024-08-22_Henrique_Pinto_(Flickr_public_domain).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-08-10 | Bryggen | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bryggen_i_Vejle.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-08-10 | Flåm Railway | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Two_Fl%C3%A5msbana_Trains_meet_and_pass_as_the_Brekkefossen_Waterfall_cascades_above.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-08-10 | Vøringsfossen | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Johannes_Flintoe_-_The_Waterfall_V%C3%B8ringsfossen_-_NG.M.03271_-_National_Museum_of_Art,_Architecture_and_Design.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-08-10 | Nordkapp | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Peder_Balke_-_Nordkapp_-_TKM-1286-1974_-_Trondheim_kunstmuseum_(cropped).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-08-10 | Norway | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-364604/ | Pixabay Content License, commercial use, no attribution needed |

@@ -5160,5 +5160,63 @@
    "name": "Douro Valley",
    "q": "Douro Valley"
   }
+ ],
+ "Norway": [
+  {
+   "name": "Trolltunga",
+   "q": "Trolltunga"
+  },
+  {
+   "name": "Preikestolen",
+   "q": "Preikestolen Pulpit Rock"
+  },
+  {
+   "name": "Geirangerfjord",
+   "q": "Geirangerfjord"
+  },
+  {
+   "name": "Reine",
+   "q": "Reine Lofoten"
+  },
+  {
+   "name": "Hamnøy",
+   "q": "Hamnoy Lofoten"
+  },
+  {
+   "name": "Kjeragbolten",
+   "q": "Kjeragbolten"
+  },
+  {
+   "name": "Trollstigen",
+   "q": "Trollstigen"
+  },
+  {
+   "name": "Atlantic Ocean Road",
+   "q": "Atlantic Ocean Road"
+  },
+  {
+   "name": "Segla",
+   "q": "Segla Senja"
+  },
+  {
+   "name": "Bryggen",
+   "q": "Bryggen Bergen"
+  },
+  {
+   "name": "Flåm Railway",
+   "q": "Flam Railway"
+  },
+  {
+   "name": "Nærøyfjord",
+   "q": "Naroyfjord"
+  },
+  {
+   "name": "Vøringsfossen",
+   "q": "Voringsfossen Waterfall"
+  },
+  {
+   "name": "Nordkapp",
+   "q": "Nordkapp North Cape"
+  }
  ]
 }
