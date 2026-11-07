@@ -447,3 +447,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-06-17-01 | Elafonisi Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Greece_Crete_Elafonisi_Beach_The_Sun_Holidays.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-06-17-01 | Lindos Acropolis | Pixabay (u_1zuih409b3) | https://pixabay.com/videos/id-285351/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-06-17-01 | Greece | Pixabay (lithepictures) | https://pixabay.com/videos/id-216017/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Spain | Pixabay (Radds) | https://pixabay.com/videos/id-184069/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Sagrada Família | Pixabay (caelan) | https://pixabay.com/videos/id-49322/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Park Güell | Pixabay (Jacko-007) | https://pixabay.com/videos/id-329388/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Alhambra | Pixabay (MilanWulf) | https://pixabay.com/videos/id-126866/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Plaza de España | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Facade_along_the_Plaza_de_Espa%C3%B1a_in_Seville,_Spain.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Puente Nuevo | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Puente_Nuevo_(Ronda).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Mezquita de Córdoba | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mirhab_mezquita_cordoba.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Mount Teide | Pixabay (ChristianBodhi) | https://pixabay.com/videos/id-32606/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Cala Macarella | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Menorca_-_50130872947.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-07-02-06 | Spain | Pixabay (Radds) | https://pixabay.com/videos/id-188204/ | Pixabay Content License, commercial use, no attribution needed |

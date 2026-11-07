@@ -7211,5 +7211,114 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb126866|Alhambra": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb329388|Park Güell": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb49322|Sagrada Família": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb217179|Park Güell": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb126864|Alhambra": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb164358|Sagrada Família": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb381267|Sagrada Família": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc169887620|Plaza de España": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc169887621|Plaza de España": null,
+ "wmc169887627|Plaza de España": null,
+ "wmc169887619|Plaza de España": null,
+ "pxb382929|Casa Batlló": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb382921|Casa Batlló": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc69423514|Puente Nuevo": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc69516768|Puente Nuevo": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc59627239|La Muralla Roja": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc18195761|Mezquita de Córdoba": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc11217738|Mezquita de Córdoba": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc11243215|Mezquita de Córdoba": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb32606|Mount Teide": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb77854|Mount Teide": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc93865266|Cala Macarella": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc93865271|Cala Macarella": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb184069|Spain": null,
+ "pxb188204|Spain": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

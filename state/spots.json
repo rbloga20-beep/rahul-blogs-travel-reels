@@ -5044,5 +5044,63 @@
    "name": "Monemvasia Castle",
    "q": "Monemvasia"
   }
+ ],
+ "Spain": [
+  {
+   "name": "Sagrada Família",
+   "q": "Sagrada Familia"
+  },
+  {
+   "name": "Park Güell",
+   "q": "Park Guell"
+  },
+  {
+   "name": "Alhambra",
+   "q": "Alhambra Granada"
+  },
+  {
+   "name": "Plaza de España",
+   "q": "Plaza de Espana"
+  },
+  {
+   "name": "Puente Nuevo",
+   "q": "Puente Nuevo Ronda"
+  },
+  {
+   "name": "Casa Batlló",
+   "q": "Casa Batllo"
+  },
+  {
+   "name": "Alcázar of Segovia",
+   "q": "Alcazar Segovia"
+  },
+  {
+   "name": "Mezquita de Córdoba",
+   "q": "Mezquita Cordoba"
+  },
+  {
+   "name": "La Muralla Roja",
+   "q": "Muralla Roja"
+  },
+  {
+   "name": "Caminito del Rey",
+   "q": "Caminito del Rey"
+  },
+  {
+   "name": "Mount Teide",
+   "q": "Mount Teide"
+  },
+  {
+   "name": "Royal Palace of Madrid",
+   "q": "Royal Palace Madrid"
+  },
+  {
+   "name": "Cudillero",
+   "q": "Cudillero"
+  },
+  {
+   "name": "Cala Macarella",
+   "q": "Cala Macarella"
+  }
  ]
 }
