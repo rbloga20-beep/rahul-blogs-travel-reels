@@ -5450,5 +5450,63 @@
    "name": "Portmeirion",
    "q": "Portmeirion Village"
   }
+ ],
+ "United States": [
+  {
+   "name": "Grand Canyon",
+   "q": "Grand Canyon"
+  },
+  {
+   "name": "Golden Gate Bridge",
+   "q": "Golden Gate Bridge"
+  },
+  {
+   "name": "Statue of Liberty",
+   "q": "Statue of Liberty"
+  },
+  {
+   "name": "Times Square",
+   "q": "Times Square"
+  },
+  {
+   "name": "Antelope Canyon",
+   "q": "Antelope Canyon"
+  },
+  {
+   "name": "Horseshoe Bend",
+   "q": "Horseshoe Bend"
+  },
+  {
+   "name": "Grand Prismatic Spring",
+   "q": "Grand Prismatic Spring"
+  },
+  {
+   "name": "Yosemite Valley",
+   "q": "Yosemite Tunnel View"
+  },
+  {
+   "name": "Zion National Park",
+   "q": "Zion Angels Landing"
+  },
+  {
+   "name": "Monument Valley",
+   "q": "Monument Valley"
+  },
+  {
+   "name": "Big Sur",
+   "q": "Bixby Creek Bridge"
+  },
+  {
+   "name": "Las Vegas Strip",
+   "q": "Las Vegas Strip"
+  },
+  {
+   "name": "Brooklyn Bridge",
+   "q": "Brooklyn Bridge"
+  },
+  {
+   "name": "Niagara Falls",
+   "q": "Niagara Falls"
+  }
  ]
 }

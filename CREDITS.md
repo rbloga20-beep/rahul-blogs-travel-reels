@@ -512,3 +512,15 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-08-02-13 | Roman Baths | Pixabay (jameskop) | https://pixabay.com/videos/id-145602/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-08-02-13 | Dunluce Castle | Pixabay (JoshuaWoroniecki) | https://pixabay.com/videos/id-217515/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-08-02-13 | United Kingdom | Pixabay (InspiredImages) | https://pixabay.com/videos/id-3806/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | United States | Pixabay (BlenderTimer) | https://pixabay.com/videos/id-292365/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Grand Canyon | Pixabay (FlickrVideos) | https://pixabay.com/videos/id-380/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Golden Gate Bridge | Pixabay (Nature-Stock-Footage) | https://pixabay.com/videos/id-18392/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Statue of Liberty | Pixabay (Activedia) | https://pixabay.com/videos/id-1366/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Antelope Canyon | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Antelope_canyon_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Horseshoe Bend | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Scenic_view_of_Horseshoe_Bend,_Page,_Arizona_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Grand Prismatic Spring | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Grand_Prismatic_Spring_(121040).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Zion National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Zion_National_Park_-_HCP_-_October_02,_2022_-_017_-_Zion_Canyon_Scenic_Drive.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Monument Valley | Pixabay (flutie8211) | https://pixabay.com/videos/id-352717/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Big Sur | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Big_Sur,_California_LCCN2011630038.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | Brooklyn Bridge | Pixabay (Solarselle77) | https://pixabay.com/videos/id-332905/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-05-00 | United States | Pixabay (BlenderTimer) | https://pixabay.com/videos/id-284444/ | Pixabay Content License, commercial use, no attribution needed |

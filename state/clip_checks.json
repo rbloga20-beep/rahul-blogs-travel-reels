@@ -7943,5 +7943,195 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb385890|Golden Gate Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb1366|Statue of Liberty": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb380|Grand Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb1536|Statue of Liberty": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb381|Grand Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb360903|Golden Gate Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb18392|Golden Gate Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb17962|Golden Gate Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb121994|Times Square": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc62173148|Horseshoe Bend": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc159888890|Horseshoe Bend": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc62097266|Antelope Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb122848|Times Square": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc2545984|Antelope Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb1666|Times Square": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb128300|Times Square": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc178294294|Grand Prismatic Spring": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc164892957|Zion National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc134204271|Yosemite Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc129099569|Yosemite Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc164892945|Zion National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc114862641|Yosemite Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc129099396|Yosemite Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb7405|Las Vegas Strip": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb205875|Las Vegas Strip": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc52075285|Big Sur": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb355608|Monument Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc130378663|Big Sur": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc16909912|Big Sur": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb352717|Monument Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb357925|Monument Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb310|Monument Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb332905|Brooklyn Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb28707|Niagara Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb28668|Niagara Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb332904|Brooklyn Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb292365|United States": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb284444|United States": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
