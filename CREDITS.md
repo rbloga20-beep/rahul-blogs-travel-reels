@@ -546,3 +546,14 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-08-10-53 | Sydney Harbour Bridge | Pixabay (artemistudio) | https://pixabay.com/videos/id-46434/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-08-10-53 | Daintree Rainforest | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386378/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-08-10-53 | Australia | Pixabay (GiselleA) | https://pixabay.com/videos/id-33871/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | New Zealand | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385018/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | Milford Sound | Pixabay (Barthwo) | https://pixabay.com/videos/id-941/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | Hobbiton Movie Set | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hobbiton_Movie_Set,_Matamata.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | Roys Peak | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sunrise_at_Roy%27s_Peak_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | Hooker Valley Track | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hooker_River_through_snow-covered_Tasman_Valley.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | That Wanaka Tree | Pixabay (KariKitt) | https://pixabay.com/videos/id-183285/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | Cathedral Cove | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cathedral_cove_Beach.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | Waitomo Glowworm Caves | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Limestone_cave_walls_in_Waitomo_Glowworm_Cave.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | Wai-O-Tapu | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Crater_-_Wai-O-Tapu_Thermal_Wonderland_-_Waikato_Region,_NZ_-_DSC06255.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | Nugget Point Lighthouse | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Nugget_point_lighthouse_otago_coast.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-13-57 | New Zealand | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385017/ | Pixabay Content License, commercial use, no attribution needed |

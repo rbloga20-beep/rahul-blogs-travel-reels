@@ -8410,5 +8410,106 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb941|Milford Sound": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc48734150|Hobbiton Movie Set": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc61895994|Roys Peak": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb183285|That Wanaka Tree": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc62041245|Hooker Valley Track": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc96004482|Church of the Good Shepherd": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc50628327|Hooker Valley Track": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc12457276|Cathedral Cove": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc27359834|Waitomo Glowworm Caves": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc12457272|Cathedral Cove": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc27359848|Waitomo Glowworm Caves": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc129798691|Tongariro Alpine Crossing": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc62187785|Tongariro Alpine Crossing": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc6652920|Nugget Point Lighthouse": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc6654945|Nugget Point Lighthouse": null,
+ "wmc138722404|Nugget Point Lighthouse": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61881789|Lake Matheson": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc163279301|Wai-O-Tapu": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc163428799|Wai-O-Tapu": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb385018|New Zealand": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb385017|New Zealand": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

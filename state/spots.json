@@ -5624,5 +5624,63 @@
    "name": "Daintree Rainforest",
    "q": "Daintree Rainforest"
   }
+ ],
+ "New Zealand": [
+  {
+   "name": "Milford Sound",
+   "q": "Milford Sound"
+  },
+  {
+   "name": "Hobbiton Movie Set",
+   "q": "Hobbiton"
+  },
+  {
+   "name": "Roys Peak",
+   "q": "Roys Peak"
+  },
+  {
+   "name": "Church of the Good Shepherd",
+   "q": "Lake Tekapo Church"
+  },
+  {
+   "name": "Hooker Valley Track",
+   "q": "Hooker Valley"
+  },
+  {
+   "name": "That Wanaka Tree",
+   "q": "Wanaka Tree"
+  },
+  {
+   "name": "Cathedral Cove",
+   "q": "Cathedral Cove"
+  },
+  {
+   "name": "Waitomo Glowworm Caves",
+   "q": "Waitomo Glowworm"
+  },
+  {
+   "name": "Tongariro Alpine Crossing",
+   "q": "Tongariro Emerald Lakes"
+  },
+  {
+   "name": "Wai-O-Tapu",
+   "q": "Champagne Pool Waiotapu"
+  },
+  {
+   "name": "Nugget Point Lighthouse",
+   "q": "Nugget Point Lighthouse"
+  },
+  {
+   "name": "Lake Matheson",
+   "q": "Lake Matheson"
+  },
+  {
+   "name": "Piha Beach",
+   "q": "Piha Beach"
+  },
+  {
+   "name": "Franz Josef Glacier",
+   "q": "Franz Josef Glacier"
+  }
  ]
 }
