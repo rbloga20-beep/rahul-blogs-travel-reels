@@ -8511,5 +8511,150 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "pxb1539|Golden Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb312300|Ha Long Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb79183|Hoi An Ancient Town": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb30084|Golden Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb315120|Ha Long Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb79114|Hoi An Ancient Town": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb79115|Hoi An Ancient Town": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb79185|Hoi An Ancient Town": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb183314|Hanoi Train Street": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb308466|Sapa Rice Terraces": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb175361|Sapa Rice Terraces": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb386062|Trang An": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb33641|Trang An": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc151147382|Quang Phu Cau Incense Village": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc128109031|Quang Phu Cau Incense Village": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc128109093|Quang Phu Cau Incense Village": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc128109144|Quang Phu Cau Incense Village": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc103523647|Hang Son Doong": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc111144498|Mui Ne Sand Dunes": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc32226662|Hue Imperial City": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc62076715|Hang Son Doong": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc111144325|Mui Ne Sand Dunes": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc162586786|Hue Imperial City": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc17276553|Mui Ne Sand Dunes": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc89182440|Hue Imperial City": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc39619510|Bich Dong Pagoda": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc12270972|Bich Dong Pagoda": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb367684|Vietnam": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb186115|Vietnam": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }

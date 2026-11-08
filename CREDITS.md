@@ -557,3 +557,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-08-13-57 | Wai-O-Tapu | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Crater_-_Wai-O-Tapu_Thermal_Wonderland_-_Waikato_Region,_NZ_-_DSC06255.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-08-13-57 | Nugget Point Lighthouse | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Nugget_point_lighthouse_otago_coast.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-08-13-57 | New Zealand | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385017/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Vietnam | Pixabay (Hoangbuifilms) | https://pixabay.com/videos/id-367684/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Ha Long Bay | Pixabay (MyGia) | https://pixabay.com/videos/id-312300/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Trang An | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386062/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Sapa Rice Terraces | Pixabay (chảolở) | https://pixabay.com/videos/id-308466/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Hanoi Train Street | Pixabay (Anewlifetraveling) | https://pixabay.com/videos/id-183314/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Hang Son Doong | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Son_Doong_Cave_by_Daniel_Burka.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Mui Ne Sand Dunes | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS019-E-17456_-_View_of_Vietnam.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Hue Imperial City | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hue_Imperial_City,_February_2025.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Bich Dong Pagoda | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bich_dong.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-16-48 | Vietnam | Pixabay (Anewlifetraveling) | https://pixabay.com/videos/id-186115/ | Pixabay Content License, commercial use, no attribution needed |
