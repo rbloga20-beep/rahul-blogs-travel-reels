@@ -5392,5 +5392,63 @@
    "name": "Partnach Gorge",
    "q": "Partnachklamm"
   }
+ ],
+ "United Kingdom": [
+  {
+   "name": "Big Ben",
+   "q": "Big Ben London"
+  },
+  {
+   "name": "Tower Bridge",
+   "q": "Tower Bridge London"
+  },
+  {
+   "name": "Stonehenge",
+   "q": "Stonehenge Wiltshire"
+  },
+  {
+   "name": "Glenfinnan Viaduct",
+   "q": "Glenfinnan Viaduct"
+  },
+  {
+   "name": "Castle Combe",
+   "q": "Castle Combe Cotswolds"
+  },
+  {
+   "name": "The Shambles",
+   "q": "The Shambles York"
+  },
+  {
+   "name": "Giant's Causeway",
+   "q": "Giants Causeway"
+  },
+  {
+   "name": "Eilean Donan Castle",
+   "q": "Eilean Donan Castle"
+  },
+  {
+   "name": "Old Man of Storr",
+   "q": "Old Man Storr"
+  },
+  {
+   "name": "Edinburgh Castle",
+   "q": "Edinburgh Castle"
+  },
+  {
+   "name": "Seven Sisters Cliffs",
+   "q": "Seven Sisters Cliffs"
+  },
+  {
+   "name": "Roman Baths",
+   "q": "Roman Baths Bath"
+  },
+  {
+   "name": "Dunluce Castle",
+   "q": "Dunluce Castle"
+  },
+  {
+   "name": "Portmeirion",
+   "q": "Portmeirion Village"
+  }
  ]
 }

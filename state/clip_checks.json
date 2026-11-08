@@ -7863,5 +7863,85 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb229497|Stonehenge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb143615|Tower Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb23661|Tower Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb18792|Big Ben": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb291454|Big Ben": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb175888|Glenfinnan Viaduct": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb152278|Glenfinnan Viaduct": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc144486028|Giant's Causeway": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc146742803|Giant's Causeway": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb376745|Edinburgh Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc125099887|Seven Sisters Cliffs": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb145602|Roman Baths": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb376748|Edinburgh Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb217515|Dunluce Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb35264|United Kingdom": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb3806|United Kingdom": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

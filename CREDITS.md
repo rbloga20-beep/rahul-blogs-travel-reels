@@ -502,3 +502,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-07-16-49 | Zugspitze | Pixabay (RomanDiesel) | https://pixabay.com/videos/id-118222/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-07-16-49 | Partnach Gorge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS067-E-151448_-_View_of_Germany_-_river_Partnach_-_Partnachklamm_-_Eckbauer_(cropped).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-07-16-49 | Germany | Pixabay (madfor) | https://pixabay.com/videos/id-13255/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | United Kingdom | Pixabay (VReel) | https://pixabay.com/videos/id-35264/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | Big Ben | Pixabay (ChristianBodhi) | https://pixabay.com/videos/id-18792/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | Tower Bridge | Pixabay (Trek_Jason) | https://pixabay.com/videos/id-143615/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | Glenfinnan Viaduct | Pixabay (D-GM) | https://pixabay.com/videos/id-175888/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | Giant's Causeway | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Giant%27s_Causeway_landscape.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | Edinburgh Castle | Pixabay (Media_Hopper_Studio) | https://pixabay.com/videos/id-376745/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | Seven Sisters Cliffs | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Seven_Sisters_white_cliffs_view_from_bottom.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | Roman Baths | Pixabay (jameskop) | https://pixabay.com/videos/id-145602/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | Dunluce Castle | Pixabay (JoshuaWoroniecki) | https://pixabay.com/videos/id-217515/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-02-13 | United Kingdom | Pixabay (InspiredImages) | https://pixabay.com/videos/id-3806/ | Pixabay Content License, commercial use, no attribution needed |
