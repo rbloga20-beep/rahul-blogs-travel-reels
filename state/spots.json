@@ -5508,5 +5508,63 @@
    "name": "Niagara Falls",
    "q": "Niagara Falls"
   }
+ ],
+ "Canada": [
+  {
+   "name": "Moraine Lake",
+   "q": "Moraine Lake Banff"
+  },
+  {
+   "name": "Lake Louise",
+   "q": "Lake Louise Banff"
+  },
+  {
+   "name": "Niagara Falls",
+   "q": "Niagara Falls"
+  },
+  {
+   "name": "Château Frontenac",
+   "q": "Chateau Frontenac"
+  },
+  {
+   "name": "CN Tower",
+   "q": "CN Tower"
+  },
+  {
+   "name": "Capilano Suspension Bridge",
+   "q": "Capilano Suspension Bridge"
+  },
+  {
+   "name": "Peggy's Cove Lighthouse",
+   "q": "Peggys Cove Lighthouse"
+  },
+  {
+   "name": "Peyto Lake",
+   "q": "Peyto Lake"
+  },
+  {
+   "name": "Icefields Parkway",
+   "q": "Icefields Parkway"
+  },
+  {
+   "name": "Gros Morne National Park",
+   "q": "Gros Morne"
+  },
+  {
+   "name": "Cabot Trail",
+   "q": "Cabot Trail"
+  },
+  {
+   "name": "Notre-Dame Basilica",
+   "q": "Notre-Dame Basilica Montreal"
+  },
+  {
+   "name": "Stanley Park",
+   "q": "Stanley Park Vancouver"
+  },
+  {
+   "name": "Parliament Hill",
+   "q": "Parliament Hill Ottawa"
+  }
  ]
 }

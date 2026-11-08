@@ -524,3 +524,15 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-08-05-00 | Big Sur | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Big_Sur,_California_LCCN2011630038.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-08-05-00 | Brooklyn Bridge | Pixabay (Solarselle77) | https://pixabay.com/videos/id-332905/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-08-05-00 | United States | Pixabay (BlenderTimer) | https://pixabay.com/videos/id-284444/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Canada | Pixabay (max_bbb) | https://pixabay.com/videos/id-15275/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Moraine Lake | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385164/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Lake Louise | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lake_Louise,_Canada,_Banff.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Niagara Falls | Pixabay (NorthBoundDrones) | https://pixabay.com/videos/id-28707/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Château Frontenac | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac,_Quebec_city,_Canada.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Peggy's Cove Lighthouse | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Peggy%27s_Cove_Lighthouse_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Peyto Lake | Pixabay (RainMeditateHub) | https://pixabay.com/videos/id-292844/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Gros Morne National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cascades_du_Saut_d%27Argis_(Gros-Morne,_Martinique)_-_04.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Notre-Dame Basilica | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Montr%C3%A9al_Basilica_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Stanley Park | Pixabay (cescalle) | https://pixabay.com/videos/id-134771/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Parliament Hill | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Parliament_Hill_5_(Ottawa,_ON,_12-17-24).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-08-11 | Canada | Pixabay (max_bbb) | https://pixabay.com/videos/id-15277/ | Pixabay Content License, commercial use, no attribution needed |

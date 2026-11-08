@@ -8133,5 +8133,133 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb385164|Moraine Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc164159849|Lake Louise": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb28669|Niagara Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb204095|Moraine Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb124456|CN Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc95531150|Château Frontenac": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb246925|CN Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb246923|CN Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb28024|CN Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc120321592|Château Frontenac": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61727995|Peggy's Cove Lighthouse": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb292844|Peyto Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb160436|Peyto Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc95501090|Notre-Dame Basilica": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc122735168|Notre-Dame Basilica": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc150967256|Gros Morne National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc100908622|Notre-Dame Basilica": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc87517850|Notre-Dame Basilica": null,
+ "wmc150967257|Gros Morne National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc150967262|Gros Morne National Park": null,
+ "wmc150967263|Gros Morne National Park": null,
+ "wmc188984815|Parliament Hill": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc188984804|Parliament Hill": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb134771|Stanley Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb258889|Canada": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb72989|Canada": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb15275|Canada": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb15277|Canada": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
