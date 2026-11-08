@@ -8261,5 +8261,154 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb375162|Uluru": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb1557|Sydney Opera House": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb3575|Sydney Opera House": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc61709952|Bondi Icebergs Pool": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc61672497|Bondi Icebergs Pool": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc62324488|Bondi Icebergs Pool": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb385784|Whitehaven Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc122692163|Heart Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc61133746|Twelve Apostles": null,
+ "wmc61134196|Twelve Apostles": null,
+ "wmc61133808|Twelve Apostles": null,
+ "wmc61133784|Twelve Apostles": null,
+ "wmc43612894|Heart Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc194734715|Heart Reef": null,
+ "wmc187421677|Heart Reef": null,
+ "wmc34379648|Three Sisters": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc19636007|Three Sisters": null,
+ "wmc109706110|Rottnest Island": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc157547218|Rottnest Island": null,
+ "wmc152384944|Rottnest Island": null,
+ "wmc33791796|Lake Hillier": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc33863336|Lake Hillier": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc34379617|Three Sisters": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc133469480|Lake Hillier": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc161588720|Rottnest Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc133518404|Lake Hillier": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc99612330|Lucky Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb320277|Horizontal Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb291039|Horizontal Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb355192|Horizontal Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb312956|Horizontal Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb46434|Sydney Harbour Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb386378|Daintree Rainforest": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb46435|Sydney Harbour Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb386377|Daintree Rainforest": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb74888|Australia": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb33871|Australia": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

@@ -5566,5 +5566,63 @@
    "name": "Parliament Hill",
    "q": "Parliament Hill Ottawa"
   }
+ ],
+ "Australia": [
+  {
+   "name": "Sydney Opera House",
+   "q": "Sydney Opera House"
+  },
+  {
+   "name": "Bondi Icebergs Pool",
+   "q": "Bondi Icebergs"
+  },
+  {
+   "name": "Uluru",
+   "q": "Uluru"
+  },
+  {
+   "name": "Heart Reef",
+   "q": "Heart Reef"
+  },
+  {
+   "name": "Whitehaven Beach",
+   "q": "Whitehaven Beach"
+  },
+  {
+   "name": "Twelve Apostles",
+   "q": "Twelve Apostles"
+  },
+  {
+   "name": "Rottnest Island",
+   "q": "Rottnest Island Quokka"
+  },
+  {
+   "name": "Lake Hillier",
+   "q": "Lake Hillier"
+  },
+  {
+   "name": "Three Sisters",
+   "q": "Three Sisters"
+  },
+  {
+   "name": "Cradle Mountain",
+   "q": "Cradle Mountain"
+  },
+  {
+   "name": "Lucky Bay",
+   "q": "Lucky Bay Kangaroos"
+  },
+  {
+   "name": "Horizontal Falls",
+   "q": "Horizontal Falls"
+  },
+  {
+   "name": "Sydney Harbour Bridge",
+   "q": "Sydney Harbour Bridge"
+  },
+  {
+   "name": "Daintree Rainforest",
+   "q": "Daintree Rainforest"
+  }
  ]
 }

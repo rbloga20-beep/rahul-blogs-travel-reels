@@ -536,3 +536,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-08-08-11 | Stanley Park | Pixabay (cescalle) | https://pixabay.com/videos/id-134771/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-08-08-11 | Parliament Hill | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Parliament_Hill_5_(Ottawa,_ON,_12-17-24).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-08-08-11 | Canada | Pixabay (max_bbb) | https://pixabay.com/videos/id-15277/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Australia | Pixabay (daniloriba) | https://pixabay.com/videos/id-74888/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Sydney Opera House | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-1557/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Bondi Icebergs Pool | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pool_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Uluru | Pixabay (Gypsy-Spirit) | https://pixabay.com/videos/id-375162/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Whitehaven Beach | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385784/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Rottnest Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Basin_on_Rottnest_Island_in_2019.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Lucky Bay | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Luckybay-1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Sydney Harbour Bridge | Pixabay (artemistudio) | https://pixabay.com/videos/id-46434/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Daintree Rainforest | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386378/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-08-10-53 | Australia | Pixabay (GiselleA) | https://pixabay.com/videos/id-33871/ | Pixabay Content License, commercial use, no attribution needed |
