@@ -607,3 +607,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-09-14-26 | Siwa Oasis | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Egyptian_souvenirs,_Siwa_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-09-14-26 | Citadel of Saladin | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Scenes_from_Cairo_Citadel_(30652).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-09-14-26 | Egypt | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Karnak_Temple_Complex,_Egypt51.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-17-19 | Morocco | Pixabay (2427999) | https://pixabay.com/videos/id-31925/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-17-19 | Chefchaouen Medina | Pixabay (AnitaLB) | https://pixabay.com/videos/id-149735/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-17-19 | Jardin Majorelle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Chamaerops_humilis_(jardin_Majorelle).JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-17-19 | Erg Chebbi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Erg_Chebbi_dunes_Morocco_iss070e105480_lrg.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-17-19 | Essaouira Ramparts | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Essaouira_city.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-17-19 | Volubilis | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Volubilis_2024.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-17-19 | Morocco | Pixabay (2427999) | https://pixabay.com/videos/id-31926/ | Pixabay Content License, commercial use, no attribution needed |

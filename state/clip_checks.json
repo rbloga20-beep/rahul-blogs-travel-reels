@@ -9291,5 +9291,115 @@
   "v": 3,
   "ok": false,
   "s": 9
+ },
+ "wmc37964808|Jardin Majorelle": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc37964810|Jardin Majorelle": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb149735|Chefchaouen Medina": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc154433550|Hassan II Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc115888299|Hassan II Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc161278281|Hassan II Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc158728491|Hassan II Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc155070302|Erg Chebbi": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc190256973|Chouara Tannery": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc55920543|Erg Chebbi": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb128300|Jemaa el-Fnaa": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb128301|Jemaa el-Fnaa": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc2852254|Ben Youssef Madrasa": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc143380559|Ben Youssef Madrasa": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc147876417|Ben Youssef Madrasa": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc145970599|Ben Youssef Madrasa": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc6312950|Essaouira Ramparts": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc197597270|Essaouira Ramparts": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc154852440|Volubilis": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc154852683|Volubilis": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb31925|Morocco": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb31926|Morocco": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

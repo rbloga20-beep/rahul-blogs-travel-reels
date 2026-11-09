@@ -6088,5 +6088,63 @@
    "name": "Khan el-Khalili",
    "q": "Cairo Bazaar"
   }
+ ],
+ "Morocco": [
+  {
+   "name": "Chefchaouen Medina",
+   "q": "Chefchaouen"
+  },
+  {
+   "name": "Jardin Majorelle",
+   "q": "Jardin Majorelle"
+  },
+  {
+   "name": "Hassan II Mosque",
+   "q": "Hassan II Mosque"
+  },
+  {
+   "name": "Aït Benhaddou",
+   "q": "Ait Benhaddou"
+  },
+  {
+   "name": "Erg Chebbi",
+   "q": "Erg Chebbi Merzouga"
+  },
+  {
+   "name": "Chouara Tannery",
+   "q": "Chouara Tannery Fes"
+  },
+  {
+   "name": "Jemaa el-Fnaa",
+   "q": "Jemaa el-Fnaa"
+  },
+  {
+   "name": "Ben Youssef Madrasa",
+   "q": "Ben Youssef Madrasa"
+  },
+  {
+   "name": "Ouzoud Falls",
+   "q": "Ouzoud Falls"
+  },
+  {
+   "name": "Dades Gorge",
+   "q": "Dades Gorge"
+  },
+  {
+   "name": "Bahia Palace",
+   "q": "Bahia Palace"
+  },
+  {
+   "name": "Essaouira Ramparts",
+   "q": "Essaouira Ramparts"
+  },
+  {
+   "name": "Todra Gorge",
+   "q": "Todra Gorge"
+  },
+  {
+   "name": "Volubilis",
+   "q": "Volubilis"
+  }
  ]
 }
