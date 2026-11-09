@@ -8836,5 +8836,174 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc156496540|Dochula Pass": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc23366440|Rinpung Dzong": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc150500560|Gangtey Monastery": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc137422059|Supertree Grove": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61902875|Supertree Grove": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb273041|Jewel Changi Airport": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb199275|Marina Bay Sands": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb135777|Marina Bay Sands": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb273044|Jewel Changi Airport": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb162741|Marina Bay Sands": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb273045|Jewel Changi Airport": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb273042|Jewel Changi Airport": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb206688|Marina Bay Sands": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb7102|Cloud Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc30960019|Fort Canning Tree Tunnel": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb216058|Cloud Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb216057|Cloud Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc83165824|Merlion Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb34608|Cloud Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc78002616|Old Hill Street Police Station": null,
+ "wmc78002613|Old Hill Street Police Station": null,
+ "wmc78002621|Old Hill Street Police Station": null,
+ "wmc78002605|Old Hill Street Police Station": null,
+ "wmc25583268|Haji Lane": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc36070104|ArtScience Museum": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb40704|Sultan Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc39129049|Buddha Tooth Relic Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc62148640|Buddha Tooth Relic Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb279175|Sultan Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb276688|Sultan Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb276693|Sultan Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb198477|Singapore Flyer": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb162741|Singapore Flyer": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb41712|Singapore": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb3206|Singapore": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb3217|Singapore": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb198477|Singapore": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

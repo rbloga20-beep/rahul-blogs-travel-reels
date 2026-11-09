@@ -584,3 +584,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-09-05-16 | Tilicho Lake | Pixabay (Aashish_Magar) | https://pixabay.com/videos/id-372785/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-09-05-16 | Pashupatinath Temple | Pixabay (Pkseries) | https://pixabay.com/videos/id-360568/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-09-05-16 | Nepal | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-294247/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-08-36 | Singapore | Pixabay (Nawalescape) | https://pixabay.com/videos/id-3206/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-08-36 | Marina Bay Sands | Pixabay (u_n2tj3kc8ys) | https://pixabay.com/videos/id-162741/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-08-36 | Supertree Grove | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Supertree_Grove_in_August_2023_-_BugWarp_03.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-08-36 | Merlion Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Merlion_Singapore_2018.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-08-36 | ArtScience Museum | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ArtScience_Museum,_Marina_Bay_Sands,_Singapore_-_20111106.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-08-36 | Buddha Tooth Relic Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Buddha_Tooth_Relic_Temple_Singapore.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-08-36 | Singapore | Pixabay (MagicTV) | https://pixabay.com/videos/id-198477/ | Pixabay Content License, commercial use, no attribution needed |

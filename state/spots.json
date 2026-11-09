@@ -5856,5 +5856,121 @@
    "name": "Gokyo Lakes",
    "q": "Gokyo Lakes"
   }
+ ],
+ "Bhutan": [
+  {
+   "name": "Paro Taktsang",
+   "q": "Tigers Nest"
+  },
+  {
+   "name": "Punakha Dzong",
+   "q": "Punakha Dzong"
+  },
+  {
+   "name": "Buddha Dordenma",
+   "q": "Buddha Dordenma"
+  },
+  {
+   "name": "Dochula Pass",
+   "q": "Dochula Pass"
+  },
+  {
+   "name": "Phobjikha Valley",
+   "q": "Phobjikha Valley"
+  },
+  {
+   "name": "Punakha Suspension Bridge",
+   "q": "Punakha Suspension Bridge"
+  },
+  {
+   "name": "Rinpung Dzong",
+   "q": "Rinpung Dzong"
+  },
+  {
+   "name": "Tashichho Dzong",
+   "q": "Tashichho Dzong"
+  },
+  {
+   "name": "Chele La Pass",
+   "q": "Chele La"
+  },
+  {
+   "name": "Chimi Lhakhang",
+   "q": "Chimi Lhakhang"
+  },
+  {
+   "name": "Khamsum Yulley Namgyal Chorten",
+   "q": "Khamsum Yulley"
+  },
+  {
+   "name": "Gangtey Monastery",
+   "q": "Gangtey Monastery"
+  },
+  {
+   "name": "Trongsa Dzong",
+   "q": "Trongsa Dzong"
+  },
+  {
+   "name": "Kyichu Lhakhang",
+   "q": "Kyichu Lhakhang"
+  }
+ ],
+ "Singapore": [
+  {
+   "name": "Marina Bay Sands",
+   "q": "Marina Bay Sands"
+  },
+  {
+   "name": "Supertree Grove",
+   "q": "Supertree Grove"
+  },
+  {
+   "name": "Jewel Changi Airport",
+   "q": "Rain Vortex"
+  },
+  {
+   "name": "Cloud Forest",
+   "q": "Cloud Forest"
+  },
+  {
+   "name": "Merlion Park",
+   "q": "Merlion Park"
+  },
+  {
+   "name": "Fort Canning Tree Tunnel",
+   "q": "Fort Canning"
+  },
+  {
+   "name": "Haji Lane",
+   "q": "Haji Lane"
+  },
+  {
+   "name": "Old Hill Street Police Station",
+   "q": "Old Hill Street"
+  },
+  {
+   "name": "ArtScience Museum",
+   "q": "ArtScience Museum"
+  },
+  {
+   "name": "Sultan Mosque",
+   "q": "Sultan Mosque"
+  },
+  {
+   "name": "Helix Bridge",
+   "q": "Helix Bridge"
+  },
+  {
+   "name": "Buddha Tooth Relic Temple",
+   "q": "Buddha Tooth Relic"
+  },
+  {
+   "name": "Clarke Quay",
+   "q": "Clarke Quay"
+  },
+  {
+   "name": "Singapore Flyer",
+   "q": "Singapore Flyer"
+  }
  ]
 }
