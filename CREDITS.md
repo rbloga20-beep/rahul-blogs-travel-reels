@@ -591,3 +591,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-09-08-36 | ArtScience Museum | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ArtScience_Museum,_Marina_Bay_Sands,_Singapore_-_20111106.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-09-08-36 | Buddha Tooth Relic Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Buddha_Tooth_Relic_Temple_Singapore.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-09-08-36 | Singapore | Pixabay (MagicTV) | https://pixabay.com/videos/id-198477/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-11-07 | Malaysia | Pixabay (u_0yywa29j0c) | https://pixabay.com/videos/id-279938/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-11-07 | Petronas Twin Towers | Pixabay (jaypeerazon) | https://pixabay.com/videos/id-114731/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-11-07 | Langkawi Sky Bridge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-11-07 | Sipadan Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-11-07 | Putra Mosque | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Putra_Mosque_20231107.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-11-07 | Kek Lok Si Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple,_main_complex.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-11-07 | Saloma Link Bridge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Saloma_Link_Bridge_in_2026.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-11-07 | Malaysia | Pixabay (Natures_Embrace) | https://pixabay.com/videos/id-278595/ | Pixabay Content License, commercial use, no attribution needed |

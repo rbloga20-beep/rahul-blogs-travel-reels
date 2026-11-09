@@ -9005,5 +9005,88 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc133245009|Batu Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb114731|Petronas Twin Towers": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc76809055|Langkawi Sky Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc155036508|Batu Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc110733174|Batu Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc110733176|Batu Caves": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc47824683|Sipadan Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc83761954|George Town Street Art": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc140780843|Putra Mosque": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc167825435|Kek Lok Si Temple": null,
+ "wmc167829902|Kek Lok Si Temple": null,
+ "wmc167826591|Kek Lok Si Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc183805064|Saloma Link Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc48356652|Dutch Square Melaka": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc5489160|Dutch Square Melaka": null,
+ "wmc55030535|Dutch Square Melaka": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc160557643|Kek Lok Si Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb279938|Malaysia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb278595|Malaysia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

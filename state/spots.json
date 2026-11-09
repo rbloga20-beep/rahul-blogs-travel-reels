@@ -5972,5 +5972,63 @@
    "name": "Singapore Flyer",
    "q": "Singapore Flyer"
   }
+ ],
+ "Malaysia": [
+  {
+   "name": "Petronas Twin Towers",
+   "q": "Petronas Twin Towers"
+  },
+  {
+   "name": "Batu Caves",
+   "q": "Batu Caves"
+  },
+  {
+   "name": "Langkawi Sky Bridge",
+   "q": "Langkawi Sky Bridge"
+  },
+  {
+   "name": "Cameron Highlands",
+   "q": "Cameron Highlands"
+  },
+  {
+   "name": "Bohey Dulang Island",
+   "q": "Bohey Dulang"
+  },
+  {
+   "name": "Sipadan Island",
+   "q": "Sipadan Island"
+  },
+  {
+   "name": "Putra Mosque",
+   "q": "Putra Mosque"
+  },
+  {
+   "name": "George Town Street Art",
+   "q": "George Town Penang"
+  },
+  {
+   "name": "Mount Kinabalu",
+   "q": "Mount Kinabalu"
+  },
+  {
+   "name": "Kek Lok Si Temple",
+   "q": "Kek Lok Si"
+  },
+  {
+   "name": "Saloma Link Bridge",
+   "q": "Saloma Link"
+  },
+  {
+   "name": "Dutch Square Melaka",
+   "q": "Dutch Square Melaka"
+  },
+  {
+   "name": "Perhentian Islands",
+   "q": "Perhentian Islands"
+  },
+  {
+   "name": "Gunung Mulu Pinnacles",
+   "q": "Mulu Pinnacles"
+  }
  ]
 }
