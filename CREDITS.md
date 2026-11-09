@@ -567,3 +567,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-08-16-48 | Hue Imperial City | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hue_Imperial_City,_February_2025.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-08-16-48 | Bich Dong Pagoda | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bich_dong.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-08-16-48 | Vietnam | Pixabay (Anewlifetraveling) | https://pixabay.com/videos/id-186115/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Sri Lanka | Pixabay (nuwaus) | https://pixabay.com/videos/id-235859/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Sigiriya Rock | Pixabay (nuwaus) | https://pixabay.com/videos/id-191283/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Nine Arch Bridge | Pixabay (nuwaus) | https://pixabay.com/videos/id-178660/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Galle Fort | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Galle_Fort_church_2014_old.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Dambulla Cave Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sitting_Buddha_in_Dambulla_cave_temple_2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Adam's Peak | Pixabay (nuwaus) | https://pixabay.com/videos/id-174999/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Temple of the Sacred Tooth Relic | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sri_Dalada_Maligawa_2567.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Polonnaruwa Ancient City | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Polonnaruwa.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Mirissa Beach | Pixabay (fillvacofficial) | https://pixabay.com/videos/id-309432/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-02-19 | Sri Lanka | Pixabay (u_e4a7lny092) | https://pixabay.com/videos/id-182129/ | Pixabay Content License, commercial use, no attribution needed |

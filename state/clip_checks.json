@@ -8656,5 +8656,110 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "pxb191283|Sigiriya Rock": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb334113|Coconut Tree Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb178660|Nine Arch Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb242272|Sigiriya Rock": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb182129|Nine Arch Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc149577335|Galle Fort": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc89489512|Kandy to Ella Train": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc22994889|Galle Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc149577327|Galle Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc33583738|Kandy to Ella Train": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc149577328|Galle Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb174999|Adam's Peak": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc194946157|Dambulla Cave Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc194946151|Dambulla Cave Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc162198716|Temple of the Sacred Tooth Relic": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc161770843|Temple of the Sacred Tooth Relic": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc5190188|Polonnaruwa Ancient City": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc162369179|Polonnaruwa Ancient City": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb309432|Mirissa Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb235859|Sri Lanka": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb174999|Sri Lanka": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

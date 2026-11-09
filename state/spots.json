@@ -5740,5 +5740,63 @@
    "name": "Hon Thom Cable Car",
    "q": "Hon Thom Cable"
   }
+ ],
+ "Sri Lanka": [
+  {
+   "name": "Sigiriya Rock",
+   "q": "Sigiriya"
+  },
+  {
+   "name": "Nine Arch Bridge",
+   "q": "Nine Arch Bridge"
+  },
+  {
+   "name": "Coconut Tree Hill",
+   "q": "Coconut Tree Hill"
+  },
+  {
+   "name": "Kandy to Ella Train",
+   "q": "Ella Train"
+  },
+  {
+   "name": "Pidurangala Rock",
+   "q": "Pidurangala"
+  },
+  {
+   "name": "Galle Fort",
+   "q": "Galle Fort"
+  },
+  {
+   "name": "Dalawella Beach Swing",
+   "q": "Dalawella Beach"
+  },
+  {
+   "name": "Dambulla Cave Temple",
+   "q": "Dambulla Cave"
+  },
+  {
+   "name": "Adam's Peak",
+   "q": "Adams Peak"
+  },
+  {
+   "name": "Yala National Park",
+   "q": "Yala Park"
+  },
+  {
+   "name": "Little Adam's Peak",
+   "q": "Little Adams Peak"
+  },
+  {
+   "name": "Temple of the Sacred Tooth Relic",
+   "q": "Temple of Tooth"
+  },
+  {
+   "name": "Polonnaruwa Ancient City",
+   "q": "Polonnaruwa"
+  },
+  {
+   "name": "Mirissa Beach",
+   "q": "Mirissa Beach"
+  }
  ]
 }
