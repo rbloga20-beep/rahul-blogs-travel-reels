@@ -8761,5 +8761,80 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "pxb360567|Boudhanath Stupa": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc142492642|Everest Base Camp": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc56772565|Poon Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc77034491|Poon Hill": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb148611|World Peace Pagoda": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb148612|World Peace Pagoda": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb372784|Tilicho Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb372785|Tilicho Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb360568|Pashupatinath Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc17725741|Sarangkot": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb283302|Gokyo Lakes": {
+  "v": 3,
+  "ok": false,
+  "s": 0
+ },
+ "pxb333740|Nepal": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb303926|Nepal": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb248633|Nepal": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb294247|Nepal": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

@@ -5798,5 +5798,63 @@
    "name": "Mirissa Beach",
    "q": "Mirissa Beach"
   }
+ ],
+ "Nepal": [
+  {
+   "name": "Boudhanath Stupa",
+   "q": "Boudhanath Stupa"
+  },
+  {
+   "name": "Swayambhunath",
+   "q": "Swayambhunath Monkey Temple"
+  },
+  {
+   "name": "Phewa Lake",
+   "q": "Phewa Lake"
+  },
+  {
+   "name": "Everest Base Camp",
+   "q": "Everest Base Camp"
+  },
+  {
+   "name": "Poon Hill",
+   "q": "Poon Hill"
+  },
+  {
+   "name": "Bhaktapur Durbar Square",
+   "q": "Bhaktapur Durbar Square"
+  },
+  {
+   "name": "World Peace Pagoda",
+   "q": "Shanti Stupa Pokhara"
+  },
+  {
+   "name": "Chitwan National Park",
+   "q": "Chitwan National Park"
+  },
+  {
+   "name": "Upper Mustang",
+   "q": "Upper Mustang"
+  },
+  {
+   "name": "Tilicho Lake",
+   "q": "Tilicho Lake"
+  },
+  {
+   "name": "Sarangkot",
+   "q": "Sarangkot Pokhara"
+  },
+  {
+   "name": "Pashupatinath Temple",
+   "q": "Pashupatinath Temple"
+  },
+  {
+   "name": "Patan Durbar Square",
+   "q": "Patan Durbar Square"
+  },
+  {
+   "name": "Gokyo Lakes",
+   "q": "Gokyo Lakes"
+  }
  ]
 }

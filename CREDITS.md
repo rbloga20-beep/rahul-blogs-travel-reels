@@ -577,3 +577,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-09-02-19 | Polonnaruwa Ancient City | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Polonnaruwa.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-09-02-19 | Mirissa Beach | Pixabay (fillvacofficial) | https://pixabay.com/videos/id-309432/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-09-02-19 | Sri Lanka | Pixabay (u_e4a7lny092) | https://pixabay.com/videos/id-182129/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-05-16 | Nepal | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-333740/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-05-16 | Boudhanath Stupa | Pixabay (Pkseries) | https://pixabay.com/videos/id-360567/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-05-16 | Everest Base Camp | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Everest_Base_camp_in_Nepal,_photographed_on_November_29,_2023.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-05-16 | World Peace Pagoda | Pixabay (majidvj) | https://pixabay.com/videos/id-148611/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-05-16 | Tilicho Lake | Pixabay (Aashish_Magar) | https://pixabay.com/videos/id-372785/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-05-16 | Pashupatinath Temple | Pixabay (Pkseries) | https://pixabay.com/videos/id-360568/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-05-16 | Nepal | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-294247/ | Pixabay Content License, commercial use, no attribution needed |
