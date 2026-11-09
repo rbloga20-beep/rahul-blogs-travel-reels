@@ -599,3 +599,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-09-11-07 | Kek Lok Si Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple,_main_complex.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-09-11-07 | Saloma Link Bridge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Saloma_Link_Bridge_in_2026.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-09-11-07 | Malaysia | Pixabay (Natures_Embrace) | https://pixabay.com/videos/id-278595/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-14-26 | Egypt | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-305372/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-14-26 | The Great Sphinx | Pixabay (flutie8211) | https://pixabay.com/videos/id-360197/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-14-26 | Karnak Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Karnak_Temple_Complex,_Egypt43.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-14-26 | Philae Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Aswan,_Temple_of_Philae,_19th_century_pictures,_1870-1888,_photo_36_of_38_-_Archivio_fotografico_Museo_Egizio,_Turin_INV13_011.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-14-26 | Nile River | Pixabay (Berkopasa19) | https://pixabay.com/videos/id-377554/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-09-14-26 | Siwa Oasis | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Egyptian_souvenirs,_Siwa_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-14-26 | Citadel of Saladin | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Scenes_from_Cairo_Citadel_(30652).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-09-14-26 | Egypt | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Karnak_Temple_Complex,_Egypt51.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

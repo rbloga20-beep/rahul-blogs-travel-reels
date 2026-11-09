@@ -9088,5 +9088,208 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb360197|The Great Sphinx": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb323595|Valley of the Kings": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb77540|The Great Sphinx": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb317065|Great Pyramid of Giza": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb172658|The Great Sphinx": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb305372|Great Pyramid of Giza": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb340402|Valley of the Kings": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb302619|Great Pyramid of Giza": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb293997|Great Pyramid of Giza": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb44428|The Great Sphinx": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc175879366|Karnak Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc156510107|Philae Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc156510046|Philae Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc156510118|Philae Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc156510021|Philae Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc175879399|Karnak Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb323595|Temple of Luxor": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb377554|Nile River": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc60900477|Mortuary Temple of Hatshepsut": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc57859093|Mortuary Temple of Hatshepsut": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc200002227|Mortuary Temple of Hatshepsut": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc60900476|Mortuary Temple of Hatshepsut": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb93527|Saint Catherine's Monastery": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc187462019|Siwa Oasis": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc187462074|Siwa Oasis": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb134767|Saint Catherine's Monastery": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb357230|White Desert": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb16138|White Desert": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb228649|White Desert": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb376188|White Desert": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc187462084|Siwa Oasis": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc187461998|Siwa Oasis": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc79362169|Khan el-Khalili": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc79362174|Khan el-Khalili": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc79362349|Khan el-Khalili": null,
+ "wmc79362330|Khan el-Khalili": null,
+ "wmc185179969|Citadel of Saladin": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc185180204|Citadel of Saladin": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc184604954|Citadel of Saladin": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb317065|Egypt": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb305372|Egypt": null,
+ "pxb311488|Egypt": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb335337|Egypt": {
+  "v": 3,
+  "ok": false,
+  "s": 9
  }
 }

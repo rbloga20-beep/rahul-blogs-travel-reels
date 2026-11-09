@@ -6030,5 +6030,63 @@
    "name": "Gunung Mulu Pinnacles",
    "q": "Mulu Pinnacles"
   }
+ ],
+ "Egypt": [
+  {
+   "name": "Great Pyramid of Giza",
+   "q": "Pyramids"
+  },
+  {
+   "name": "The Great Sphinx",
+   "q": "Sphinx"
+  },
+  {
+   "name": "Valley of the Kings",
+   "q": "Luxor"
+  },
+  {
+   "name": "Karnak Temple",
+   "q": "Karnak"
+  },
+  {
+   "name": "Abu Simbel",
+   "q": "Abu Simbel"
+  },
+  {
+   "name": "Philae Temple",
+   "q": "Aswan"
+  },
+  {
+   "name": "Temple of Luxor",
+   "q": "Luxor Temple"
+  },
+  {
+   "name": "Mortuary Temple of Hatshepsut",
+   "q": "Hatshepsut"
+  },
+  {
+   "name": "Nile River",
+   "q": "Felucca"
+  },
+  {
+   "name": "Siwa Oasis",
+   "q": "Siwa"
+  },
+  {
+   "name": "White Desert",
+   "q": "White Desert"
+  },
+  {
+   "name": "Saint Catherine's Monastery",
+   "q": "Mount Sinai"
+  },
+  {
+   "name": "Citadel of Saladin",
+   "q": "Cairo Citadel"
+  },
+  {
+   "name": "Khan el-Khalili",
+   "q": "Cairo Bazaar"
+  }
  ]
 }
