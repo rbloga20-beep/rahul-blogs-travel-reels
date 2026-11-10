@@ -6378,5 +6378,63 @@
    "name": "Ushuaia",
    "q": "Ushuaia, Tierra del Fuego, End of the World"
   }
+ ],
+ "Mexico": [
+  {
+   "name": "Chichen Itza",
+   "q": "Chichen Itza"
+  },
+  {
+   "name": "Tulum Ruins",
+   "q": "Tulum Ruins"
+  },
+  {
+   "name": "Cenote Suytun",
+   "q": "Cenote Suytun"
+  },
+  {
+   "name": "El Arco de Cabo San Lucas",
+   "q": "El Arco Cabo"
+  },
+  {
+   "name": "Hierve el Agua",
+   "q": "Hierve el Agua"
+  },
+  {
+   "name": "Teotihuacan Pyramids",
+   "q": "Teotihuacan"
+  },
+  {
+   "name": "Palacio de Bellas Artes",
+   "q": "Palacio Bellas Artes"
+  },
+  {
+   "name": "Las Coloradas",
+   "q": "Las Coloradas"
+  },
+  {
+   "name": "Guanajuato",
+   "q": "Guanajuato"
+  },
+  {
+   "name": "San Miguel de Allende",
+   "q": "San Miguel Allende"
+  },
+  {
+   "name": "Xochimilco",
+   "q": "Xochimilco"
+  },
+  {
+   "name": "Cenote Ik Kil",
+   "q": "Cenote Ik Kil"
+  },
+  {
+   "name": "Sumidero Canyon",
+   "q": "Sumidero Canyon"
+  },
+  {
+   "name": "Isla Holbox",
+   "q": "Isla Holbox"
+  }
  ]
 }

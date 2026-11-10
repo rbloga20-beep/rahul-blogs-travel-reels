@@ -9869,5 +9869,105 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc81324112|Tulum Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc81324111|Tulum Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc37167248|Chichen Itza": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc113932285|Chichen Itza": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc113932287|Chichen Itza": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc37167849|Chichen Itza": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc91211719|Hierve el Agua": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb273983|Teotihuacan Pyramids": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc173459026|El Arco de Cabo San Lucas": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb144045|Teotihuacan Pyramids": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc116736556|Las Coloradas": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb64065|Guanajuato": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb79560|Guanajuato": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb79562|Guanajuato": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc158652261|Cenote Ik Kil": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc158652277|Cenote Ik Kil": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc139822339|Xochimilco": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc139822367|Xochimilco": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb7266|Mexico": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb7278|Mexico": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

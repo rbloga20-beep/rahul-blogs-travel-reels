@@ -649,3 +649,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-10-11-00 | Obelisco | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:A_Coru%C3%B1a_-_Obelisco_Millenium_09.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-10-11-00 | Teatro Colon | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires,_Argentina.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-10-11-00 | Argentina | Pixabay (JoshuaWoroniecki) | https://pixabay.com/videos/id-350500/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-14-28 | Mexico | Pixabay (Coverr-Free-Footage) | https://pixabay.com/videos/id-7266/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-14-28 | Chichen Itza | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Atlante,_Chichen_Itza,_Yucatan,_Mexique.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-14-28 | Tulum Ruins | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tulum_2001_by_Gary_Todd_06.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-14-28 | El Arco de Cabo San Lucas | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Los_Arcos_of_Cabo_San_Lucas_(noviembre_2024).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-14-28 | Hierve el Agua | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hierve_el_Agua_nature.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-14-28 | Teotihuacan Pyramids | Pixabay (twmx) | https://pixabay.com/videos/id-273983/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-14-28 | Guanajuato | Pixabay (pwixmx) | https://pixabay.com/videos/id-79560/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-14-28 | Cenote Ik Kil | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cenote_Ik_Kil_21.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-14-28 | Mexico | Pixabay (Coverr-Free-Footage) | https://pixabay.com/videos/id-7278/ | Pixabay Content License, commercial use, no attribution needed |
