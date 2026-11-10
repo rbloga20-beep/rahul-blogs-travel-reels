@@ -3023,5 +3023,54 @@
    "id": "18109457948245173",
    "url": "https://www.instagram.com/stories/rahulblogsyt/4027098726678605528"
   }
+ },
+ {
+  "id": "2026-11-10-08-25",
+  "date": "2026-11-10T08:31:10.650Z",
+  "places": [
+   "Christ the Redeemer",
+   "Sugarloaf Mountain",
+   "Iguazu Falls",
+   "Lençóis Maranhenses",
+   "Fernando de Noronha",
+   "Escadaria Selarón",
+   "Copacabana Beach",
+   "Ipanema Beach",
+   "Jalapão",
+   "Chapada Diamantina"
+  ],
+  "hook": "Brazil / Top 10 places in Brazil",
+  "sub": "Top 10 places in Brazil",
+  "music": "Just Keep Walking.mp3",
+  "seconds": 28.43,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-37973/",
+   "Pixabay https://pixabay.com/videos/id-361623/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset,_Brazil_3.jpg",
+   "Pixabay https://pixabay.com/videos/id-260537/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Mar2024._Len%C3%A7%C3%B3is_Maranhenses,_Maranh%C3%A3o,_Brazil_Lencois_04.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Praia_do_Le%C3%A3o_localizada_em_Fernando_de_Noronha.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Escadaria-Selar%C3%B3n_06_41_39_988000.jpeg",
+   "Pixabay https://pixabay.com/videos/id-53493/",
+   "Pixabay https://pixabay.com/videos/id-78287/",
+   "Pixabay https://pixabay.com/videos/id-386307/",
+   "Pixabay https://pixabay.com/videos/id-386313/",
+   "Pixabay https://pixabay.com/videos/id-145100/"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "1084884687936515",
+   "url": "https://www.facebook.com/reel/1084884687936515/"
+  },
+  "ig": {
+   "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+  },
+  "fbStory": {
+   "id": "1524144562856121"
+  },
+  "igStory": {
+   "id": "18153759481536816",
+   "url": "https://www.instagram.com/stories/rahulblogsyt/4027199189837999403"
+  }
  }
 ]

@@ -9662,5 +9662,145 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc134699719|Sugarloaf Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb314|Iguazu Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb288665|Christ the Redeemer": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc133796305|Sugarloaf Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb260537|Iguazu Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb361623|Christ the Redeemer": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb260552|Iguazu Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb67748|Christ the Redeemer": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb310181|Christ the Redeemer": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc149624406|Lençóis Maranhenses": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc158443267|Escadaria Selarón": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc149624402|Lençóis Maranhenses": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc158443257|Escadaria Selarón": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc161172495|Fernando de Noronha": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb336149|Copacabana Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb78287|Ipanema Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb53493|Copacabana Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb76778|Ipanema Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc3171688|Pelourinho": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb336148|Copacabana Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386313|Chapada Diamantina": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386307|Jalapão": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc131993097|Bonito": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb386308|Jalapão": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386303|Chapada Diamantina": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc131993080|Bonito": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb37973|Brazil": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb145100|Brazil": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

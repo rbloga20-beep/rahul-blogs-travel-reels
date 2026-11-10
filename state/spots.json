@@ -6262,5 +6262,63 @@
    "name": "Amazon River Iquitos",
    "q": "Iquitos Amazon"
   }
+ ],
+ "Brazil": [
+  {
+   "name": "Christ the Redeemer",
+   "q": "Christ the Redeemer"
+  },
+  {
+   "name": "Sugarloaf Mountain",
+   "q": "Sugarloaf Mountain"
+  },
+  {
+   "name": "Iguazu Falls",
+   "q": "Iguazu Falls"
+  },
+  {
+   "name": "Lençóis Maranhenses",
+   "q": "Lencois Maranhenses"
+  },
+  {
+   "name": "Fernando de Noronha",
+   "q": "Fernando de Noronha"
+  },
+  {
+   "name": "Escadaria Selarón",
+   "q": "Escadaria Selaron"
+  },
+  {
+   "name": "Copacabana Beach",
+   "q": "Copacabana Beach"
+  },
+  {
+   "name": "Ipanema Beach",
+   "q": "Ipanema Beach"
+  },
+  {
+   "name": "Pelourinho",
+   "q": "Pelourinho Salvador"
+  },
+  {
+   "name": "Jalapão",
+   "q": "Jalapao"
+  },
+  {
+   "name": "Chapada Diamantina",
+   "q": "Chapada Diamantina"
+  },
+  {
+   "name": "Bonito",
+   "q": "Bonito Mato Grosso"
+  },
+  {
+   "name": "Paraty",
+   "q": "Paraty"
+  },
+  {
+   "name": "Amazon Rainforest",
+   "q": "Amazon Rainforest"
+  }
  ]
 }

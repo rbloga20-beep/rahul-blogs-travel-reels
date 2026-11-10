@@ -630,3 +630,15 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-10-05-04 | Paracas National Reserve | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Playa_Roja_in_Paracas,_Peru.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-10-05-04 | Moray Ruins | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Moray_Maras_and_Chicon.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-10-05-04 | Peru | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-317661/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Brazil | Pixabay (leomamede) | https://pixabay.com/videos/id-37973/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Christ the Redeemer | Pixabay (flutie8211) | https://pixabay.com/videos/id-361623/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Sugarloaf Mountain | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset,_Brazil_3.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Iguazu Falls | Pixabay (STEVENOLETO) | https://pixabay.com/videos/id-260537/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Lençóis Maranhenses | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mar2024._Len%C3%A7%C3%B3is_Maranhenses,_Maranh%C3%A3o,_Brazil_Lencois_04.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Fernando de Noronha | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Praia_do_Le%C3%A3o_localizada_em_Fernando_de_Noronha.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Escadaria Selarón | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Escadaria-Selar%C3%B3n_06_41_39_988000.jpeg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Copacabana Beach | Pixabay (mgarridobr) | https://pixabay.com/videos/id-53493/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Ipanema Beach | Pixabay (Kililla) | https://pixabay.com/videos/id-78287/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Jalapão | Pixabay (BrunoBaly) | https://pixabay.com/videos/id-386307/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Chapada Diamantina | Pixabay (BrunoBaly) | https://pixabay.com/videos/id-386313/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-08-25 | Brazil | Pixabay (JailsonSouzaVideomaker) | https://pixabay.com/videos/id-145100/ | Pixabay Content License, commercial use, no attribution needed |
