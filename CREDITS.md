@@ -658,3 +658,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-10-14-28 | Guanajuato | Pixabay (pwixmx) | https://pixabay.com/videos/id-79560/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-10-14-28 | Cenote Ik Kil | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cenote_Ik_Kil_21.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-10-14-28 | Mexico | Pixabay (Coverr-Free-Footage) | https://pixabay.com/videos/id-7278/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Croatia | Pixabay (invisiblepower) | https://pixabay.com/videos/id-11514/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Plitvice Lakes National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Croatia_-_Plitvice_Lakes_National_Park.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Dubrovnik Old Town Walls | Pixabay (prescott10) | https://pixabay.com/videos/id-94167/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Zlatni Rat Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bol_na_Bra%C4%8Du_-_kupa%C4%8Di_na_pla%C5%BEi_Zlatni_rat.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Krka Waterfalls | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bath_place_at_Krka_waterfalls_1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Rovinj Old Town | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rovinj_(35366293692).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Pula Arena | Pixabay (NVKEXPLORE) | https://pixabay.com/videos/id-172590/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Sea Organ Zadar | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Zadar_air_view.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Korčula Old Town | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Grad_Kor%C4%8Dula_-_ulazna_vrata_iznutra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-17-02 | Croatia | Pixabay (u_ihuef93ase) | https://pixabay.com/videos/id-320250/ | Pixabay Content License, commercial use, no attribution needed |

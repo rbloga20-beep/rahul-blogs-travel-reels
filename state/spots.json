@@ -6436,5 +6436,63 @@
    "name": "Isla Holbox",
    "q": "Isla Holbox"
   }
+ ],
+ "Croatia": [
+  {
+   "name": "Plitvice Lakes National Park",
+   "q": "Plitvice Lakes"
+  },
+  {
+   "name": "Dubrovnik Old Town Walls",
+   "q": "Dubrovnik Walls"
+  },
+  {
+   "name": "Zlatni Rat Beach",
+   "q": "Zlatni Rat"
+  },
+  {
+   "name": "Krka Waterfalls",
+   "q": "Krka Waterfalls"
+  },
+  {
+   "name": "Diocletian's Palace",
+   "q": "Diocletian Palace"
+  },
+  {
+   "name": "Rovinj Old Town",
+   "q": "Rovinj Old Town"
+  },
+  {
+   "name": "Hvar Town & Fortress",
+   "q": "Hvar Fortress"
+  },
+  {
+   "name": "Pula Arena",
+   "q": "Pula Arena"
+  },
+  {
+   "name": "Blue Cave Biševo",
+   "q": "Bisevo Blue Cave"
+  },
+  {
+   "name": "Sea Organ Zadar",
+   "q": "Zadar Sea Organ"
+  },
+  {
+   "name": "St. Mark's Church Zagreb",
+   "q": "St Marks Church"
+  },
+  {
+   "name": "Fort Lovrijenac",
+   "q": "Fort Lovrijenac"
+  },
+  {
+   "name": "Korčula Old Town",
+   "q": "Korcula Town"
+  },
+  {
+   "name": "Rastoke Village",
+   "q": "Rastoke Waterfalls"
+  }
  ]
 }

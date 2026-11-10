@@ -9969,5 +9969,100 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb94167|Dubrovnik Old Town Walls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc185999767|Zlatni Rat Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc185999766|Zlatni Rat Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc185999768|Zlatni Rat Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc87111228|Plitvice Lakes National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc64537147|Krka Waterfalls": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc87142984|Rovinj Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb172590|Pula Arena": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb337737|Pula Arena": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb31556|St. Mark's Church Zagreb": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc89512992|Sea Organ Zadar": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb212268|St. Mark's Church Zagreb": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb86633|St. Mark's Church Zagreb": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb272166|St. Mark's Church Zagreb": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc169244788|Korčula Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc159771436|Korčula Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb11514|Croatia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb209010|Croatia": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb320250|Croatia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
