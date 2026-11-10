@@ -9557,5 +9557,110 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "pxb132691|Rainbow Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc4746336|Machu Picchu": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc175701741|Lake Titicaca": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc8527304|Lake Titicaca": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc80844310|Lake Titicaca": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb15886|Laguna 69": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc62246997|Colca Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb16137|Laguna 69": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc8625552|Nazca Lines": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb351833|Laguna 69": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb85308|Laguna 69": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc181314396|Sacred Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc191141820|Paracas National Reserve": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc74847393|Amazon River Iquitos": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc151367345|Amazon River Iquitos": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc169706768|Moray Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc98608956|Amazon River Iquitos": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc23776684|Moray Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc151367346|Amazon River Iquitos": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb323882|Peru": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb317661|Peru": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

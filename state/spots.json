@@ -6204,5 +6204,63 @@
    "name": "Hermanus",
    "q": "Hermanus"
   }
+ ],
+ "Peru": [
+  {
+   "name": "Machu Picchu",
+   "q": "Machu Picchu"
+  },
+  {
+   "name": "Rainbow Mountain",
+   "q": "Vinicunca"
+  },
+  {
+   "name": "Huacachina Oasis",
+   "q": "Huacachina"
+  },
+  {
+   "name": "Humantay Lake",
+   "q": "Humantay"
+  },
+  {
+   "name": "Maras Salt Mines",
+   "q": "Salineras Maras"
+  },
+  {
+   "name": "Lake Titicaca",
+   "q": "Uros Islands"
+  },
+  {
+   "name": "Colca Canyon",
+   "q": "Colca Canyon"
+  },
+  {
+   "name": "Laguna 69",
+   "q": "Laguna 69"
+  },
+  {
+   "name": "Nazca Lines",
+   "q": "Nazca Lines"
+  },
+  {
+   "name": "Cusco Historic Center",
+   "q": "Cusco Plaza"
+  },
+  {
+   "name": "Sacred Valley",
+   "q": "Ollantaytambo"
+  },
+  {
+   "name": "Paracas National Reserve",
+   "q": "Paracas Red Beach"
+  },
+  {
+   "name": "Moray Ruins",
+   "q": "Moray Terraces"
+  },
+  {
+   "name": "Amazon River Iquitos",
+   "q": "Iquitos Amazon"
+  }
  ]
 }

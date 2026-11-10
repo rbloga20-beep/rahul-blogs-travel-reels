@@ -622,3 +622,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-10-02-14 | Blyde River Canyon | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385783/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-10-02-14 | Hermanus | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hermanus_arial_view-001.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-10-02-14 | South Africa | Pixabay (antonlukin) | https://pixabay.com/videos/id-302171/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-05-04 | Peru | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-323882/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-05-04 | Machu Picchu | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Peru_Machu_Picchu_Sunrise.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-05-04 | Rainbow Mountain | Pixabay (ucuzucuyorum) | https://pixabay.com/videos/id-132691/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-05-04 | Lake Titicaca | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tormenta_titicaca.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-05-04 | Colca Canyon | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Colca_Canyon,_Chivay,_Peru_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-05-04 | Paracas National Reserve | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Playa_Roja_in_Paracas,_Peru.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-05-04 | Moray Ruins | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Moray_Maras_and_Chicon.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-05-04 | Peru | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-317661/ | Pixabay Content License, commercial use, no attribution needed |
