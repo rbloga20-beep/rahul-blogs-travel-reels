@@ -6146,5 +6146,63 @@
    "name": "Volubilis",
    "q": "Volubilis"
   }
+ ],
+ "South Africa": [
+  {
+   "name": "Table Mountain",
+   "q": "Table Mountain"
+  },
+  {
+   "name": "Boulders Beach",
+   "q": "Boulders Beach"
+  },
+  {
+   "name": "Bo-Kaap",
+   "q": "Bo-Kaap"
+  },
+  {
+   "name": "Chapman's Peak Drive",
+   "q": "Chapmans Peak"
+  },
+  {
+   "name": "Cape of Good Hope",
+   "q": "Cape Good Hope"
+  },
+  {
+   "name": "Muizenberg Beach",
+   "q": "Muizenberg Beach"
+  },
+  {
+   "name": "Blyde River Canyon",
+   "q": "Blyde River Canyon"
+  },
+  {
+   "name": "Kruger National Park",
+   "q": "Kruger National Park"
+  },
+  {
+   "name": "Kirstenbosch Botanical Garden",
+   "q": "Kirstenbosch"
+  },
+  {
+   "name": "Tsitsikamma National Park",
+   "q": "Tsitsikamma"
+  },
+  {
+   "name": "Drakensberg Amphitheatre",
+   "q": "Drakensberg Amphitheatre"
+  },
+  {
+   "name": "Hole in the Wall",
+   "q": "Coffee Bay"
+  },
+  {
+   "name": "Stellenbosch",
+   "q": "Stellenbosch"
+  },
+  {
+   "name": "Hermanus",
+   "q": "Hermanus"
+  }
  ]
 }

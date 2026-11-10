@@ -9401,5 +9401,161 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb171817|Boulders Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc195931798|Bo-Kaap": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb108429|Table Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb171815|Boulders Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb221869|Boulders Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb302171|Table Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb10004|Boulders Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc193024554|Muizenberg Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb302182|Cape of Good Hope": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc148118316|Chapman's Peak Drive": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc61908077|Muizenberg Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb346339|Cape of Good Hope": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb81458|Kruger National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb385783|Blyde River Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb81457|Kruger National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb234670|Blyde River Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb81452|Kruger National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb81456|Kruger National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb3595|Hole in the Wall": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb236256|Hole in the Wall": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc44831105|Drakensberg Amphitheatre": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb4947|Hole in the Wall": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc147628173|Drakensberg Amphitheatre": null,
+ "pxb46989|Hole in the Wall": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc147628159|Drakensberg Amphitheatre": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc147628160|Drakensberg Amphitheatre": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc5498133|Stellenbosch": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc8742803|Hermanus": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc145879808|Stellenbosch": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc146024919|Stellenbosch": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb234016|South Africa": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb108429|South Africa": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

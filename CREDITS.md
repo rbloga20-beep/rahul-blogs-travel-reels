@@ -614,3 +614,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-09-17-19 | Essaouira Ramparts | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Essaouira_city.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-09-17-19 | Volubilis | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Volubilis_2024.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-09-17-19 | Morocco | Pixabay (2427999) | https://pixabay.com/videos/id-31926/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-02-14 | South Africa | Pixabay (videohive) | https://pixabay.com/videos/id-234016/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-02-14 | Table Mountain | Pixabay (jeanvdmeulen) | https://pixabay.com/videos/id-108429/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-02-14 | Chapman's Peak Drive | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Chapman%27s_Peak_Lookout.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-02-14 | Cape of Good Hope | Pixabay (antonlukin) | https://pixabay.com/videos/id-302182/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-02-14 | Muizenberg Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Muizenberg_beach_huts_May_2026_(2).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-02-14 | Blyde River Canyon | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385783/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-02-14 | Hermanus | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hermanus_arial_view-001.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-02-14 | South Africa | Pixabay (antonlukin) | https://pixabay.com/videos/id-302171/ | Pixabay Content License, commercial use, no attribution needed |
