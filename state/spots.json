@@ -6320,5 +6320,63 @@
    "name": "Amazon Rainforest",
    "q": "Amazon Rainforest"
   }
+ ],
+ "Argentina": [
+  {
+   "name": "Perito Moreno Glacier",
+   "q": "Perito Moreno, Patagonia, Glacier"
+  },
+  {
+   "name": "Iguazu Falls",
+   "q": "Iguazu Falls, Garganta del Diablo, Misiones"
+  },
+  {
+   "name": "Mount Fitz Roy",
+   "q": "Fitz Roy, El Chalten, Patagonia"
+  },
+  {
+   "name": "La Boca",
+   "q": "Caminito, La Boca, Buenos Aires"
+  },
+  {
+   "name": "Salinas Grandes",
+   "q": "Salinas Grandes, Jujuy, Salt Flats"
+  },
+  {
+   "name": "Cerro de los Siete Colores",
+   "q": "Purmamarca, Seven Colors, Jujuy"
+  },
+  {
+   "name": "Obelisco",
+   "q": "Obelisco, Buenos Aires, Avenida 9 de Julio"
+  },
+  {
+   "name": "Quebrada de Humahuaca",
+   "q": "Humahuaca, Tilcara, Northern Argentina"
+  },
+  {
+   "name": "Talampaya National Park",
+   "q": "Talampaya, Red Canyons, La Rioja"
+  },
+  {
+   "name": "Ischigualasto Provincial Park",
+   "q": "Valle de la Luna, Ischigualasto, San Juan"
+  },
+  {
+   "name": "Teatro Colon",
+   "q": "Teatro Colon, Buenos Aires, Architecture"
+  },
+  {
+   "name": "Nahuel Huapi Lake",
+   "q": "Bariloche, Nahuel Huapi, Andes"
+  },
+  {
+   "name": "Cerro Catedral",
+   "q": "Cerro Catedral, Bariloche, Skiing"
+  },
+  {
+   "name": "Ushuaia",
+   "q": "Ushuaia, Tierra del Fuego, End of the World"
+  }
  ]
 }

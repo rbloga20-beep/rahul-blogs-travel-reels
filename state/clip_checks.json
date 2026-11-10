@@ -9802,5 +9802,72 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc55555493|Perito Moreno Glacier": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc362859|Mount Fitz Roy": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc633720|Mount Fitz Roy": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc142855499|Salinas Grandes": null,
+ "wmc142855506|Salinas Grandes": null,
+ "wmc142855504|Salinas Grandes": null,
+ "wmc3494104|La Boca": null,
+ "wmc142855495|Salinas Grandes": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc42582560|Obelisco": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc42582553|Obelisco": null,
+ "wmc116303457|Obelisco": null,
+ "wmc42582551|Obelisco": null,
+ "wmc6798054|Quebrada de Humahuaca": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc181849849|Teatro Colon": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc144123952|Teatro Colon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc177218823|Teatro Colon": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc127661487|Ushuaia": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb206883|Argentina": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb350500|Argentina": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

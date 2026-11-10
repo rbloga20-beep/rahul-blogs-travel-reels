@@ -642,3 +642,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-10-08-25 | Jalapão | Pixabay (BrunoBaly) | https://pixabay.com/videos/id-386307/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-10-08-25 | Chapada Diamantina | Pixabay (BrunoBaly) | https://pixabay.com/videos/id-386313/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-10-08-25 | Brazil | Pixabay (JailsonSouzaVideomaker) | https://pixabay.com/videos/id-145100/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-11-00 | Argentina | Pixabay (aerofotografialincoln) | https://pixabay.com/videos/id-206883/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-10-11-00 | Perito Moreno Glacier | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS-49_Perito_Moreno_Glacier_in_Argentine_Patagonia.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-11-00 | Mount Fitz Roy | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fitz_Roy_1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-11-00 | Salinas Grandes | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Salinas_Grandes_(49739241718).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-11-00 | Obelisco | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:A_Coru%C3%B1a_-_Obelisco_Millenium_09.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-11-00 | Teatro Colon | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires,_Argentina.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-10-11-00 | Argentina | Pixabay (JoshuaWoroniecki) | https://pixabay.com/videos/id-350500/ | Pixabay Content License, commercial use, no attribution needed |
