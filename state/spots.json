@@ -6552,5 +6552,63 @@
    "name": "Dancing House",
    "q": "Dancing House Prague"
   }
+ ],
+ "Netherlands": [
+  {
+   "name": "Keukenhof Gardens",
+   "q": "Keukenhof tulips"
+  },
+  {
+   "name": "Giethoorn",
+   "q": "Giethoorn canals"
+  },
+  {
+   "name": "Zaanse Schans",
+   "q": "Zaanse Schans"
+  },
+  {
+   "name": "Kinderdijk Windmills",
+   "q": "Kinderdijk windmills"
+  },
+  {
+   "name": "Amsterdam Canals",
+   "q": "Amsterdam canals"
+  },
+  {
+   "name": "Rijksmuseum",
+   "q": "Rijksmuseum"
+  },
+  {
+   "name": "Cube Houses Rotterdam",
+   "q": "Cube Houses Rotterdam"
+  },
+  {
+   "name": "De Haar Castle",
+   "q": "De Haar Castle"
+  },
+  {
+   "name": "Volendam",
+   "q": "Volendam harbor"
+  },
+  {
+   "name": "Scheveningen Pier",
+   "q": "Scheveningen Pier"
+  },
+  {
+   "name": "Efteling",
+   "q": "Efteling"
+  },
+  {
+   "name": "Anne Frank House",
+   "q": "Anne Frank House"
+  },
+  {
+   "name": "Dam Square",
+   "q": "Dam Square"
+  },
+  {
+   "name": "Marken",
+   "q": "Marken village"
+  }
  ]
 }
