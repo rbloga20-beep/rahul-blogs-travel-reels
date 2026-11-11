@@ -10571,5 +10571,110 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc8624697|Ad-Deir (The Monastery)": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc147170770|Wadi Rum Desert": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc193650832|Ad-Deir (The Monastery)": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc157457605|Wadi Rum Desert": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb51237|The Dead Sea": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc66494982|Jerash Archaeological Park": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb178693|The Dead Sea": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc66489612|Jerash Archaeological Park": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb251905|The Dead Sea": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc66494963|Jerash Archaeological Park": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc66489627|Jerash Archaeological Park": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc185612840|Wadi Mujib Siq Trail": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb128259|Mount Nebo": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc197976322|Aqaba Red Sea Coast": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc197894473|Aqaba Red Sea Coast": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb112729|Ma'in Hot Springs": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb348049|Ma'in Hot Springs": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb168670|Ma'in Hot Springs": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb125806|Ma'in Hot Springs": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb383365|Jordan": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb251905|Jordan": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

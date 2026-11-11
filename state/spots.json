@@ -6726,5 +6726,63 @@
    "name": "Victoria Harbour",
    "q": "Victoria Harbour"
   }
+ ],
+ "Jordan": [
+  {
+   "name": "Al-Khazneh (The Treasury)",
+   "q": "Treasury Petra"
+  },
+  {
+   "name": "Wadi Rum Desert",
+   "q": "Wadi Rum"
+  },
+  {
+   "name": "Ad-Deir (The Monastery)",
+   "q": "Ad-Deir Petra"
+  },
+  {
+   "name": "The Dead Sea",
+   "q": "Dead Sea"
+  },
+  {
+   "name": "Wadi Mujib Siq Trail",
+   "q": "Wadi Mujib"
+  },
+  {
+   "name": "Jerash Archaeological Park",
+   "q": "Jerash Ruins"
+  },
+  {
+   "name": "Amman Citadel",
+   "q": "Amman Citadel"
+  },
+  {
+   "name": "Mount Nebo",
+   "q": "Mount Nebo"
+  },
+  {
+   "name": "Roman Theatre Amman",
+   "q": "Amman Roman Theatre"
+  },
+  {
+   "name": "Dana Biosphere Reserve",
+   "q": "Dana Reserve"
+  },
+  {
+   "name": "Ma'in Hot Springs",
+   "q": "Ma'in Hot Springs"
+  },
+  {
+   "name": "Aqaba Red Sea Coast",
+   "q": "Aqaba Red Sea"
+  },
+  {
+   "name": "Ajloun Castle",
+   "q": "Ajloun Castle"
+  },
+  {
+   "name": "Umm Qais Ruins",
+   "q": "Umm Qais Gadara"
+  }
  ]
 }

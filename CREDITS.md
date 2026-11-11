@@ -709,3 +709,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-11-11-10 | West Lake | Pixabay (月寂苍穹) | https://pixabay.com/videos/id-190544/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-11-11-10 | Victoria Harbour | Pixabay (jeremy888) | https://pixabay.com/videos/id-17529/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-11-11-10 | China | Pixabay (TungArt7) | https://pixabay.com/videos/id-267749/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-17-07 | Jordan | Pixabay (flutie8211) | https://pixabay.com/videos/id-383365/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-17-07 | Wadi Rum Desert | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Wadi_Rum_Desert,_Jordan_-_53253951179.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-11-17-07 | Ad-Deir (The Monastery) | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Petra_Jordan_BW_36.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-11-17-07 | The Dead Sea | Pixabay (AlonaMalakh) | https://pixabay.com/videos/id-178693/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-17-07 | Wadi Mujib Siq Trail | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Wadi_Mujib_Jordan.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-11-17-07 | Mount Nebo | Pixabay (samirsmier) | https://pixabay.com/videos/id-128259/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-17-07 | Jordan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Wadi_Rum_Desert_Visitor_Centre,_Jordan_(53958672883).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
