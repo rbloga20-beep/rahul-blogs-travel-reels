@@ -686,3 +686,15 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-11-05-10 | Volendam | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Volendam_haven_PK-F-A.01889.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-11-05-10 | Scheveningen Pier | Pixabay (Tbabai) | https://pixabay.com/videos/id-243606/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-11-05-10 | Netherlands | Pixabay (Matthias_Groeneveld) | https://pixabay.com/videos/id-63411/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | South Korea | Pixabay (NEOULKANG) | https://pixabay.com/videos/id-40623/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | Bukchon Hanok Village | Pixabay (YounStudios) | https://pixabay.com/videos/id-341179/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | Gyeongbokgung Palace | Pixabay (santorihan) | https://pixabay.com/videos/id-307145/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | Starfield Library | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20250705_%EB%B3%84%EB%A7%88%EB%8B%B9%EB%8F%84%EC%84%9C%EA%B4%80.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | Gamcheon Culture Village | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Gamcheon_Culture_Village.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | N Seoul Tower | Pixabay (SimplehadaStudio) | https://pixabay.com/videos/id-26353/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | Seongsan Ilchulbong | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Seongsan,_Jeju_Island.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | Dongdaemun Design Plaza | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_-_DDP2376.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | Lotte World Tower | Pixabay (YounStudios) | https://pixabay.com/videos/id-336102/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | Jeonju Hanok Village | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Maeul_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | Boseong Green Tea Fields | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Boseong_-_Boseong3018.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-11-08-24 | South Korea | Pixabay (Rainbow76) | https://pixabay.com/videos/id-325071/ | Pixabay Content License, commercial use, no attribution needed |

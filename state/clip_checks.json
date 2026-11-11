@@ -10276,5 +10276,155 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "wmc197677753|Starfield Library": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb307145|Gyeongbokgung Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb341179|Bukchon Hanok Village": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc169273023|Starfield Library": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb250953|Gyeongbokgung Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc169273340|Starfield Library": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb341180|Bukchon Hanok Village": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc150892207|Starfield Library": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb26353|N Seoul Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc144142057|Gamcheon Culture Village": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc141320456|Gamcheon Culture Village": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb335407|N Seoul Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc192873504|Nami Island": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc144377939|Seongsan Ilchulbong": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc194090370|Seongsan Ilchulbong": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc200734320|Nami Island": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc144377936|Seongsan Ilchulbong": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc195443181|Nami Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc196605928|Nami Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc143929529|Jeonju Hanok Village": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc195958405|Dongdaemun Design Plaza": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb336102|Lotte World Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc195958406|Dongdaemun Design Plaza": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb336666|Lotte World Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc44617114|Boseong Green Tea Fields": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc195958146|Boseong Green Tea Fields": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc2750670|Banpo Bridge Rainbow Fountain": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc44800089|Banpo Bridge Rainbow Fountain": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb40623|South Korea": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb325071|South Korea": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

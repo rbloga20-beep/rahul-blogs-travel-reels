@@ -6610,5 +6610,63 @@
    "name": "Marken",
    "q": "Marken village"
   }
+ ],
+ "South Korea": [
+  {
+   "name": "Bukchon Hanok Village",
+   "q": "Bukchon Hanok Village"
+  },
+  {
+   "name": "Gyeongbokgung Palace",
+   "q": "Gyeongbokgung Palace"
+  },
+  {
+   "name": "Starfield Library",
+   "q": "Starfield Library COEX"
+  },
+  {
+   "name": "Gamcheon Culture Village",
+   "q": "Gamcheon Culture Village"
+  },
+  {
+   "name": "Haeundae Sky Capsule",
+   "q": "Haeundae Sky Capsule"
+  },
+  {
+   "name": "N Seoul Tower",
+   "q": "N Seoul Tower"
+  },
+  {
+   "name": "Haedong Yonggungsa Temple",
+   "q": "Haedong Yonggungsa"
+  },
+  {
+   "name": "Seongsan Ilchulbong",
+   "q": "Seongsan Ilchulbong"
+  },
+  {
+   "name": "Nami Island",
+   "q": "Nami Island"
+  },
+  {
+   "name": "Dongdaemun Design Plaza",
+   "q": "Dongdaemun Design Plaza"
+  },
+  {
+   "name": "Lotte World Tower",
+   "q": "Lotte World Tower"
+  },
+  {
+   "name": "Jeonju Hanok Village",
+   "q": "Jeonju Hanok"
+  },
+  {
+   "name": "Boseong Green Tea Fields",
+   "q": "Boseong Tea Fields"
+  },
+  {
+   "name": "Banpo Bridge Rainbow Fountain",
+   "q": "Banpo Rainbow Fountain"
+  }
  ]
 }
