@@ -6494,5 +6494,63 @@
    "name": "Rastoke Village",
    "q": "Rastoke Waterfalls"
   }
+ ],
+ "Czech Republic": [
+  {
+   "name": "Charles Bridge",
+   "q": "Charles Bridge Prague"
+  },
+  {
+   "name": "Prague Castle",
+   "q": "Prague Castle"
+  },
+  {
+   "name": "Prague Astronomical Clock",
+   "q": "Prague Astronomical Clock"
+  },
+  {
+   "name": "Český Krumlov",
+   "q": "Cesky Krumlov"
+  },
+  {
+   "name": "Pravčická brána",
+   "q": "Pravcicka brana"
+  },
+  {
+   "name": "Sedlec Ossuary",
+   "q": "Sedlec Ossuary"
+  },
+  {
+   "name": "Karlovy Vary",
+   "q": "Karlovy Vary"
+  },
+  {
+   "name": "Hluboká Castle",
+   "q": "Hluboka Castle"
+  },
+  {
+   "name": "Karlštejn Castle",
+   "q": "Karlstejn Castle"
+  },
+  {
+   "name": "Adršpach Rocks",
+   "q": "Adrspach Rocks"
+  },
+  {
+   "name": "Moravian Tuscany",
+   "q": "Moravian Tuscany"
+  },
+  {
+   "name": "Lednice Castle",
+   "q": "Lednice Castle"
+  },
+  {
+   "name": "Trosky Castle",
+   "q": "Trosky Castle"
+  },
+  {
+   "name": "Dancing House",
+   "q": "Dancing House Prague"
+  }
  ]
 }

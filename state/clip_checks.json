@@ -10064,5 +10064,97 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb8404|Prague Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb83436|Prague Astronomical Clock": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb8405|Prague Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb50456|Charles Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb83434|Prague Astronomical Clock": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb8405|Charles Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc166972638|Sedlec Ossuary": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb337739|Český Krumlov": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc166972639|Sedlec Ossuary": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb246526|Karlovy Vary": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb246532|Karlovy Vary": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc44482238|Hluboká Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb337739|Karlštejn Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc126832314|Hluboká Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc11073962|Adršpach Rocks": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc163937583|Trosky Castle": null,
+ "wmc67264900|Dancing House": null,
+ "wmc60549795|Dancing House": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb172220|Czech Republic": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb58839|Czech Republic": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
