@@ -6900,5 +6900,63 @@
    "name": "Nuuksio National Park",
    "q": "Nuuksio National Park"
   }
+ ],
+ "Philippines": [
+  {
+   "name": "Big Lagoon, El Nido",
+   "q": "El Nido Lagoon"
+  },
+  {
+   "name": "Kayangan Lake",
+   "q": "Kayangan Lake"
+  },
+  {
+   "name": "Chocolate Hills",
+   "q": "Chocolate Hills"
+  },
+  {
+   "name": "Kawasan Falls",
+   "q": "Kawasan Falls"
+  },
+  {
+   "name": "Boracay White Beach",
+   "q": "Boracay White Beach"
+  },
+  {
+   "name": "Cloud 9, Siargao",
+   "q": "Cloud 9 Siargao"
+  },
+  {
+   "name": "Mayon Volcano",
+   "q": "Mayon Volcano"
+  },
+  {
+   "name": "Banaue Rice Terraces",
+   "q": "Banaue Rice Terraces"
+  },
+  {
+   "name": "Calle Crisologo",
+   "q": "Calle Crisologo Vigan"
+  },
+  {
+   "name": "Taal Volcano",
+   "q": "Taal Volcano"
+  },
+  {
+   "name": "Kalanggaman Island",
+   "q": "Kalanggaman Island"
+  },
+  {
+   "name": "Moalboal Sardine Run",
+   "q": "Moalboal Sardine Run"
+  },
+  {
+   "name": "Intramuros",
+   "q": "Intramuros Manila"
+  },
+  {
+   "name": "Puerto Princesa Underground River",
+   "q": "Puerto Princesa River"
+  }
  ]
 }

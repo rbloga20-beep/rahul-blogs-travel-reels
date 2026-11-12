@@ -10835,5 +10835,90 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc129792199|Chocolate Hills": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb386061|Kayangan Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb317445|Cloud 9, Siargao": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc1812883|Boracay White Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc1812861|Boracay White Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc89389193|Banaue Rice Terraces": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc153504981|Calle Crisologo": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc22981030|Banaue Rice Terraces": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc195932342|Calle Crisologo": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc195957949|Calle Crisologo": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb288666|Taal Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb298215|Intramuros": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb298216|Intramuros": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb151369|Puerto Princesa Underground River": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb343675|Philippines": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb386061|Philippines": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb228751|Philippines": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

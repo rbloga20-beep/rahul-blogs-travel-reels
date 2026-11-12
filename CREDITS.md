@@ -728,3 +728,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-12-05-11 | Temppeliaukio Rock Church | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Church_in_the_rock_from_the_top.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-12-05-11 | Uspenski Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Uspenski_Cathedral_Helsinki.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-12-05-11 | Finland | Pixabay (imranshakir8089) | https://pixabay.com/videos/id-325053/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Philippines | Pixabay (Chin_Captures) | https://pixabay.com/videos/id-228751/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Kayangan Lake | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386061/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Boracay White Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Boracay_white_beach2.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Cloud 9, Siargao | Pixabay (mavscorner) | https://pixabay.com/videos/id-317445/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Banaue Rice Terraces | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Banaue_Rice_Terraces_2018-11.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Calle Crisologo | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Calle_Crisologo,_Vigan_City_-_Vigan2202.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Taal Volcano | Pixabay (nohnohsanpedro) | https://pixabay.com/videos/id-288666/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Intramuros | Pixabay (nohnohsanpedro) | https://pixabay.com/videos/id-298216/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Puerto Princesa Underground River | Pixabay (Gideonhg90) | https://pixabay.com/videos/id-151369/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-08-24 | Philippines | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Boracay_white_beach1.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
