@@ -723,3 +723,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-12-02-18 | The Kelpies | Pixabay (u_q0gbbf10jt) | https://pixabay.com/videos/id-284376/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-12-02-18 | Urquhart Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Urquhart_Castle_on_Loch_Ness.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-12-02-18 | Scotland | Pixabay (Scottish_Skies) | https://pixabay.com/videos/id-114901/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-05-11 | Finland | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-293495/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-05-11 | Porvoo Old Town | Pixabay (danielp87) | https://pixabay.com/videos/id-209973/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-05-11 | Temppeliaukio Rock Church | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Church_in_the_rock_from_the_top.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-05-11 | Uspenski Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Uspenski_Cathedral_Helsinki.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-05-11 | Finland | Pixabay (imranshakir8089) | https://pixabay.com/videos/id-325053/ | Pixabay Content License, commercial use, no attribution needed |

@@ -6842,5 +6842,63 @@
    "name": "Victoria Street",
    "q": "Victoria Street Edinburgh"
   }
+ ],
+ "Finland": [
+  {
+   "name": "Santa Claus Village",
+   "q": "Santa Claus Village"
+  },
+  {
+   "name": "Kakslauttanen Glass Igloos",
+   "q": "Kakslauttanen Glass Igloo"
+  },
+  {
+   "name": "Helsinki Cathedral",
+   "q": "Helsinki Cathedral"
+  },
+  {
+   "name": "Suomenlinna Fortress",
+   "q": "Suomenlinna Fortress"
+  },
+  {
+   "name": "Porvoo Old Town",
+   "q": "Porvoo Old Town"
+  },
+  {
+   "name": "Riisitunturi National Park",
+   "q": "Riisitunturi Snow"
+  },
+  {
+   "name": "Koli National Park",
+   "q": "Ukko Koli"
+  },
+  {
+   "name": "Temppeliaukio Rock Church",
+   "q": "Temppeliaukio Rock Church"
+  },
+  {
+   "name": "Löyly Sauna",
+   "q": "Löyly Sauna"
+  },
+  {
+   "name": "Olavinlinna Castle",
+   "q": "Olavinlinna Castle"
+  },
+  {
+   "name": "Levi Ski Resort",
+   "q": "Levi Ski Resort"
+  },
+  {
+   "name": "Uspenski Cathedral",
+   "q": "Uspenski Cathedral"
+  },
+  {
+   "name": "Lake Saimaa",
+   "q": "Lake Saimaa"
+  },
+  {
+   "name": "Nuuksio National Park",
+   "q": "Nuuksio National Park"
+  }
  ]
 }

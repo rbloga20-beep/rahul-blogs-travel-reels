@@ -10741,5 +10741,99 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc144427538|Santa Claus Village": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc144432669|Santa Claus Village": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc144432794|Santa Claus Village": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc144432705|Santa Claus Village": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc9652009|Helsinki Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb209973|Porvoo Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc62222664|Riisitunturi National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc187812716|Löyly Sauna": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc179206968|Temppeliaukio Rock Church": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc32004979|Temppeliaukio Rock Church": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc139650901|Koli National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc139646465|Koli National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc170514462|Olavinlinna Castle": null,
+ "wmc131439686|Olavinlinna Castle": null,
+ "wmc1074990|Uspenski Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc5404563|Levi Ski Resort": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc179183404|Levi Ski Resort": null,
+ "wmc90932612|Levi Ski Resort": null,
+ "wmc145893723|Levi Ski Resort": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc163319870|Lake Saimaa": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb293495|Finland": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb325053|Finland": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
