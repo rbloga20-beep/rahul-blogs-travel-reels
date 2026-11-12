@@ -738,3 +738,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-12-08-24 | Intramuros | Pixabay (nohnohsanpedro) | https://pixabay.com/videos/id-298216/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-12-08-24 | Puerto Princesa Underground River | Pixabay (Gideonhg90) | https://pixabay.com/videos/id-151369/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-12-08-24 | Philippines | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Boracay_white_beach1.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-11-15 | Cambodia | Pixabay (GillsLens) | https://pixabay.com/videos/id-34689/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-11-15 | Angkor Wat | Pixabay (pen_ash) | https://pixabay.com/videos/id-171197/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-11-15 | Ta Prohm Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ta_Prohm_Buddhist_Statue.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-11-15 | Bayon Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20191210_Bayon_Temple-3.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-11-15 | Koh Rong | Pixabay (PrumSeng) | https://pixabay.com/videos/id-99597/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-11-15 | Tonle Sap Floating Village | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Floating_school_at_Tonle_Sap.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-11-15 | Banteay Srei | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:%E1%9E%93%E1%9F%85%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%B6%E1%9E%9F%E1%9E%B6%E1%9E%91%E1%9E%94%E1%9E%93%E1%9F%92%E1%9E%91%E1%9E%B6%E1%9E%99%E1%9E%9F%E1%9F%92%E1%9E%9A%E1%9E%B8%E1%9F%A5_-_at_Banteay_Srei_5.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-11-15 | Phnom Bakheng | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Phnom_Bakheng_Temple_(9731368852).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-11-15 | Cambodia | Pixabay (DarkSwannExplore) | https://pixabay.com/videos/id-290038/ | Pixabay Content License, commercial use, no attribution needed |

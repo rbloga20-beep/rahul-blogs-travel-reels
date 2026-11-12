@@ -10920,5 +10920,130 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb171197|Angkor Wat": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb290038|Angkor Wat": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc158102338|Ta Prohm Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc195911315|Ta Prohm Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc125521014|Bayon Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc125521068|Bayon Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc142173195|Tonle Sap Floating Village": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb99597|Koh Rong": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc109111983|Royal Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc109111984|Royal Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc110563299|Royal Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc97203822|Banteay Srei": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc62349298|Banteay Srei": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb288914|Pub Street Siem Reap": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb147893|Pub Street Siem Reap": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb211551|Pub Street Siem Reap": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb276774|Pub Street Siem Reap": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc108768653|Phnom Bakheng": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc108768888|Phnom Bakheng": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc108723712|Phnom Bakheng": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc108723735|Phnom Bakheng": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb34569|Cambodia": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb34689|Cambodia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb34575|Cambodia": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb171197|Cambodia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

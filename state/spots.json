@@ -6958,5 +6958,63 @@
    "name": "Puerto Princesa Underground River",
    "q": "Puerto Princesa River"
   }
+ ],
+ "Cambodia": [
+  {
+   "name": "Angkor Wat",
+   "q": "Angkor Wat"
+  },
+  {
+   "name": "Ta Prohm Temple",
+   "q": "Ta Prohm"
+  },
+  {
+   "name": "Bayon Temple",
+   "q": "Bayon Temple"
+  },
+  {
+   "name": "Koh Rong",
+   "q": "Koh Rong"
+  },
+  {
+   "name": "Tonle Sap Floating Village",
+   "q": "Tonle Sap"
+  },
+  {
+   "name": "Royal Palace",
+   "q": "Phnom Penh Palace"
+  },
+  {
+   "name": "Koh Rong Sanloem",
+   "q": "Koh Rong Sanloem"
+  },
+  {
+   "name": "Banteay Srei",
+   "q": "Banteay Srei"
+  },
+  {
+   "name": "Beng Mealea",
+   "q": "Beng Mealea"
+  },
+  {
+   "name": "Pub Street Siem Reap",
+   "q": "Pub Street"
+  },
+  {
+   "name": "Preah Vihear Temple",
+   "q": "Preah Vihear"
+  },
+  {
+   "name": "Kampot River",
+   "q": "Kampot River"
+  },
+  {
+   "name": "Bokor Hill Station",
+   "q": "Bokor Hill Station"
+  },
+  {
+   "name": "Phnom Bakheng",
+   "q": "Phnom Bakheng"
+  }
  ]
 }
