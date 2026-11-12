@@ -716,3 +716,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-11-17-07 | Wadi Mujib Siq Trail | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Wadi_Mujib_Jordan.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-11-17-07 | Mount Nebo | Pixabay (samirsmier) | https://pixabay.com/videos/id-128259/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-11-17-07 | Jordan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Wadi_Rum_Desert_Visitor_Centre,_Jordan_(53958672883).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-02-18 | Scotland | Pixabay (Scottish_Skies) | https://pixabay.com/videos/id-111144/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-02-18 | Glenfinnan Viaduct | Pixabay (D-GM) | https://pixabay.com/videos/id-152278/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-02-18 | The Quiraing | Pixabay (D-GM) | https://pixabay.com/videos/id-248653/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-02-18 | Edinburgh Castle | Pixabay (Media_Hopper_Studio) | https://pixabay.com/videos/id-376748/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-02-18 | The Kelpies | Pixabay (u_q0gbbf10jt) | https://pixabay.com/videos/id-284376/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-02-18 | Urquhart Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Urquhart_Castle_on_Loch_Ness.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-02-18 | Scotland | Pixabay (Scottish_Skies) | https://pixabay.com/videos/id-114901/ | Pixabay Content License, commercial use, no attribution needed |

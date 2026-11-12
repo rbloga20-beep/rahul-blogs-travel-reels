@@ -10676,5 +10676,70 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc78926208|Glen Coe": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb248653|The Quiraing": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb98510|Dunnottar Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb376746|Edinburgh Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc128726802|Urquhart Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb284376|The Kelpies": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb284375|The Kelpies": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc162856177|Victoria Street": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc200360189|Victoria Street": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc36289052|Victoria Street": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc186275629|Victoria Street": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb111144|Scotland": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb114901|Scotland": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
