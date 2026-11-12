@@ -11151,5 +11151,90 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc62372137|Mount Kilimanjaro": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc155407339|Ngorongoro Crater": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc180007947|Ngorongoro Crater": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc155407541|Ngorongoro Crater": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc179503857|The Rock Restaurant": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc155102234|The Rock Restaurant": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc154398111|The Rock Restaurant": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc157527522|The Rock Restaurant": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc152860620|Tarangire National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc96016021|Mafia Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc84170903|Mafia Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc112535438|Mafia Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc130269946|Mafia Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc7853930|Ol Doinyo Lengai": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc49617083|Ol Doinyo Lengai": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb338442|Tanzania": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb70859|Tanzania": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

@@ -7074,5 +7074,63 @@
    "name": "Ol Pejeta Conservancy",
    "q": "Ol Pejeta"
   }
+ ],
+ "Tanzania": [
+  {
+   "name": "Serengeti National Park",
+   "q": "Serengeti Great Migration"
+  },
+  {
+   "name": "Mount Kilimanjaro",
+   "q": "Kilimanjaro Peak"
+  },
+  {
+   "name": "Ngorongoro Crater",
+   "q": "Ngorongoro Crater"
+  },
+  {
+   "name": "Stone Town",
+   "q": "Stone Town Zanzibar"
+  },
+  {
+   "name": "Nungwi Beach",
+   "q": "Nungwi Beach"
+  },
+  {
+   "name": "The Rock Restaurant",
+   "q": "Rock Restaurant Zanzibar"
+  },
+  {
+   "name": "Tarangire National Park",
+   "q": "Tarangire Elephants Baobab"
+  },
+  {
+   "name": "Nakupenda Sandbank",
+   "q": "Nakupenda Sandbank"
+  },
+  {
+   "name": "Lake Manyara",
+   "q": "Lake Manyara Flamingos"
+  },
+  {
+   "name": "Paje Beach",
+   "q": "Paje Kite Surfing"
+  },
+  {
+   "name": "Changuu Island",
+   "q": "Prison Island Tortoise"
+  },
+  {
+   "name": "Mafia Island",
+   "q": "Mafia Whale Shark"
+  },
+  {
+   "name": "Ruaha National Park",
+   "q": "Ruaha Wilderness"
+  },
+  {
+   "name": "Ol Doinyo Lengai",
+   "q": "Ol Doinyo Lengai"
+  }
  ]
 }

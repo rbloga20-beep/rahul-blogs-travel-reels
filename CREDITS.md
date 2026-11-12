@@ -753,3 +753,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-12-14-25 | Watamu | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Watamu_Mida_Creek_9.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-12-14-25 | Ol Pejeta Conservancy | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:OL_PEJETA_conservancy_%C3%A0_Nanyuki_au_Kenya_14.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-12-14-25 | Kenya | Pixabay (rakefilms) | https://pixabay.com/videos/id-290531/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-17-14 | Tanzania | Pixabay (flutie8211) | https://pixabay.com/videos/id-338442/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-12-17-14 | Mount Kilimanjaro | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Clouds_Over_Mount_Kilimanjaro_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-17-14 | Ngorongoro Crater | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hippos_in_the_water_at_Ngorongoro_Crater,_Tanzania.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-17-14 | Ol Doinyo Lengai | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Plume_from_Ol_Doinyo_Lengai.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-12-17-14 | Tanzania | Pixabay (mds524680) | https://pixabay.com/videos/id-70859/ | Pixabay Content License, commercial use, no attribution needed |
