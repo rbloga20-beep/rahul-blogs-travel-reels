@@ -7016,5 +7016,63 @@
    "name": "Phnom Bakheng",
    "q": "Phnom Bakheng"
   }
+ ],
+ "Kenya": [
+  {
+   "name": "Maasai Mara National Reserve",
+   "q": "Maasai Mara"
+  },
+  {
+   "name": "Giraffe Manor",
+   "q": "Giraffe Manor"
+  },
+  {
+   "name": "Amboseli National Park",
+   "q": "Amboseli Kilimanjaro"
+  },
+  {
+   "name": "Diani Beach",
+   "q": "Diani Beach"
+  },
+  {
+   "name": "Lake Nakuru",
+   "q": "Lake Nakuru"
+  },
+  {
+   "name": "Mount Kenya",
+   "q": "Mount Kenya"
+  },
+  {
+   "name": "Lake Naivasha",
+   "q": "Lake Naivasha"
+  },
+  {
+   "name": "Tsavo National Park",
+   "q": "Tsavo"
+  },
+  {
+   "name": "Samburu National Reserve",
+   "q": "Samburu"
+  },
+  {
+   "name": "Sheldrick Elephant Orphanage",
+   "q": "Sheldrick Orphanage"
+  },
+  {
+   "name": "Lamu Island",
+   "q": "Lamu Island"
+  },
+  {
+   "name": "Hell's Gate National Park",
+   "q": "Hells Gate"
+  },
+  {
+   "name": "Watamu",
+   "q": "Watamu Beach"
+  },
+  {
+   "name": "Ol Pejeta Conservancy",
+   "q": "Ol Pejeta"
+  }
  ]
 }

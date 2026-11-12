@@ -11045,5 +11045,111 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc332686|Maasai Mara National Reserve": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc97415714|Maasai Mara National Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc49618658|Mount Kenya": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc49618650|Mount Kenya": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc49618667|Mount Kenya": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc178509565|Lake Naivasha": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc176048897|Lake Naivasha": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc75354216|Tsavo National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc39977923|Sheldrick Elephant Orphanage": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc39977979|Sheldrick Elephant Orphanage": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb32426|Hell's Gate National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc40082784|Sheldrick Elephant Orphanage": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc40082780|Sheldrick Elephant Orphanage": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb111585|Hell's Gate National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb287627|Hell's Gate National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb270135|Hell's Gate National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc28305385|Watamu": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc141638106|Ol Pejeta Conservancy": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc141638131|Ol Pejeta Conservancy": null,
+ "wmc141638138|Ol Pejeta Conservancy": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb361354|Kenya": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb290531|Kenya": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
