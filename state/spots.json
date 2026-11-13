@@ -7480,5 +7480,63 @@
    "name": "Connemara National Park",
    "q": "Connemara"
   }
+ ],
+ "Hungary": [
+  {
+   "name": "Hungarian Parliament Building",
+   "q": "Hungarian Parliament"
+  },
+  {
+   "name": "Fisherman's Bastion",
+   "q": "Fishermans Bastion"
+  },
+  {
+   "name": "Buda Castle",
+   "q": "Buda Castle"
+  },
+  {
+   "name": "Széchenyi Chain Bridge",
+   "q": "Chain Bridge Budapest"
+  },
+  {
+   "name": "Széchenyi Thermal Bath",
+   "q": "Szechenyi Thermal Bath"
+  },
+  {
+   "name": "St. Stephen's Basilica",
+   "q": "St Stephens Basilica"
+  },
+  {
+   "name": "New York Café Budapest",
+   "q": "New York Cafe"
+  },
+  {
+   "name": "Shoes on the Danube Bank",
+   "q": "Shoes Danube Bank"
+  },
+  {
+   "name": "Vajdahunyad Castle",
+   "q": "Vajdahunyad Castle"
+  },
+  {
+   "name": "Tihany Abbey",
+   "q": "Tihany Abbey"
+  },
+  {
+   "name": "Lake Hévíz",
+   "q": "Lake Heviz"
+  },
+  {
+   "name": "Esztergom Basilica",
+   "q": "Esztergom Basilica"
+  },
+  {
+   "name": "Eger Castle",
+   "q": "Eger Castle"
+  },
+  {
+   "name": "Hortobágyi National Park",
+   "q": "Hortobagy"
+  }
  ]
 }

@@ -11856,5 +11856,80 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc144020653|Fisherman's Bastion": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb143292|Buda Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb162125|Hungarian Parliament Building": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb168415|Hungarian Parliament Building": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc43749344|St. Stephen's Basilica": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc26955001|Széchenyi Chain Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc61779948|Széchenyi Chain Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc143978676|Széchenyi Chain Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb116037|Shoes on the Danube Bank": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc61751456|New York Café Budapest": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc6943086|Esztergom Basilica": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc146467405|Esztergom Basilica": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc5873401|Hortobágyi National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb16289|Hungary": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb225420|Hungary": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
