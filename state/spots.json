@@ -7190,5 +7190,63 @@
    "name": "Cerro San Cristóbal",
    "q": "Cerro San Cristobal"
   }
+ ],
+ "Georgia": [
+  {
+   "name": "Gergeti Trinity Church",
+   "q": "Gergeti Kazbegi"
+  },
+  {
+   "name": "Chronicle of Georgia",
+   "q": "Chronicle Tbilisi"
+  },
+  {
+   "name": "Ali and Nino Statue",
+   "q": "Ali Nino Batumi"
+  },
+  {
+   "name": "Ushguli",
+   "q": "Ushguli Svaneti"
+  },
+  {
+   "name": "Katskhi Pillar",
+   "q": "Katskhi Pillar"
+  },
+  {
+   "name": "Vardzia Cave City",
+   "q": "Vardzia"
+  },
+  {
+   "name": "Ananuri Fortress",
+   "q": "Ananuri"
+  },
+  {
+   "name": "Martvili Canyon",
+   "q": "Martvili Canyon"
+  },
+  {
+   "name": "Bridge of Peace",
+   "q": "Bridge of Peace"
+  },
+  {
+   "name": "Abanotubani Sulfur Baths",
+   "q": "Abanotubani"
+  },
+  {
+   "name": "Narikala Fortress",
+   "q": "Narikala"
+  },
+  {
+   "name": "Sighnaghi",
+   "q": "Sighnaghi"
+  },
+  {
+   "name": "Uplistsikhe",
+   "q": "Uplistsikhe"
+  },
+  {
+   "name": "Rabati Castle",
+   "q": "Rabati Castle"
+  }
  ]
 }

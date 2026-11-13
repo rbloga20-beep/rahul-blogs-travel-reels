@@ -3706,5 +3706,48 @@
    "id": "17917032594491569",
    "url": "https://www.instagram.com/stories/rahulblogsyt/4029186241744187339"
   }
+ },
+ {
+  "id": "2026-11-13-05-10",
+  "date": "2026-11-13T05:27:40.907Z",
+  "places": [
+   "Gergeti Trinity Church",
+   "Ushguli",
+   "Vardzia Cave City",
+   "Ananuri Fortress",
+   "Martvili Canyon",
+   "Abanotubani Sulfur Baths",
+   "Sighnaghi"
+  ],
+  "hook": "Georgia / 7 must-see Georgia spots",
+  "sub": "7 must-see Georgia spots",
+  "music": "Summer Fun.mp3",
+  "seconds": 21.87,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-29290/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Gergeti_Trinity_Church_Bell_Tower_portal.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Ushguli,_Georgia-3883095.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Vardzia,_a_medieval_cave-city_in_Georgia.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Ananuri_(J).jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Martvili_Canyon_ca%C3%ADda.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Abanotubani,_Tbilisi.JPG",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:SIGHNAGHI_FROM_ABOVE.%D7%A1%D7%99%D7%A8%27%D7%A0%D7%90%D7%A8%27%D7%99_%D7%92%D7%92%D7%95%D7%AA.jpg",
+   "Pixabay https://pixabay.com/videos/id-289109/"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "1147975797697635",
+   "url": "https://www.facebook.com/reel/1147975797697635/"
+  },
+  "ig": {
+   "id": "18122287510968836",
+   "url": "https://www.instagram.com/reel/Dfq4VXKDn4V/"
+  },
+  "fbStory": {
+   "id": "1637843051403331"
+  },
+  "igStory": {
+   "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+  }
  }
 ]

@@ -11319,5 +11319,158 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc96078422|Chronicle of Georgia": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc179045171|Ali and Nino Statue": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc95235530|Chronicle of Georgia": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc2042038|Ali and Nino Statue": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc94170187|Chronicle of Georgia": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc96248133|Chronicle of Georgia": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc135729161|Gergeti Trinity Church": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc57854178|Ali and Nino Statue": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc135729152|Gergeti Trinity Church": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc18682721|Ali and Nino Statue": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc93870351|Gergeti Trinity Church": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc105467470|Vardzia Cave City": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc105055454|Ushguli": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc105139043|Ushguli": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc141783590|Martvili Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb375181|Bridge of Peace": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb7270|Bridge of Peace": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc4735071|Ananuri Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb346649|Bridge of Peace": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc4735059|Ananuri Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb276257|Bridge of Peace": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc2867400|Abanotubani Sulfur Baths": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc4776134|Narikala Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc152285027|Sighnaghi": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc115406008|Narikala Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc178523152|Abanotubani Sulfur Baths": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc152285140|Sighnaghi": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc178523152|Narikala Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc202963057|Uplistsikhe": null,
+ "wmc149465317|Uplistsikhe": null,
+ "wmc149465515|Uplistsikhe": null,
+ "pxb29290|Georgia": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb289109|Georgia": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }
