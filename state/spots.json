@@ -7306,5 +7306,63 @@
    "name": "Moynaq Ship Graveyard",
    "q": "Moynaq Aral Sea"
   }
+ ],
+ "Mauritius": [
+  {
+   "name": "Le Morne Brabant",
+   "q": "Le Morne Brabant"
+  },
+  {
+   "name": "Underwater Waterfall",
+   "q": "Underwater Waterfall"
+  },
+  {
+   "name": "Seven Coloured Earth",
+   "q": "Seven Coloured Earth"
+  },
+  {
+   "name": "Chamarel Waterfall",
+   "q": "Chamarel Waterfall"
+  },
+  {
+   "name": "Ile aux Cerfs",
+   "q": "Ile aux Cerfs"
+  },
+  {
+   "name": "Pamplemousses Botanical Garden",
+   "q": "Pamplemousses Garden"
+  },
+  {
+   "name": "Ganga Talao",
+   "q": "Ganga Talao"
+  },
+  {
+   "name": "Cap Malheureux Red Church",
+   "q": "Cap Malheureux"
+  },
+  {
+   "name": "Black River Gorges",
+   "q": "Black River Gorges"
+  },
+  {
+   "name": "Trou aux Biches",
+   "q": "Trou aux Biches"
+  },
+  {
+   "name": "Flic en Flac Beach",
+   "q": "Flic en Flac"
+  },
+  {
+   "name": "Pont Naturel",
+   "q": "Pont Naturel"
+  },
+  {
+   "name": "Rochester Falls",
+   "q": "Rochester Falls"
+  },
+  {
+   "name": "Trou aux Cerfs",
+   "q": "Trou aux Cerfs"
+  }
  ]
 }

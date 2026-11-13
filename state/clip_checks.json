@@ -11596,5 +11596,150 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb370044|Underwater Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc87704221|Seven Coloured Earth": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc87704190|Seven Coloured Earth": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc87704654|Seven Coloured Earth": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc155852537|Le Morne Brabant": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc87703794|Seven Coloured Earth": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb296799|Underwater Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb120473|Underwater Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb32572|Underwater Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc87642557|Le Morne Brabant": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc87696717|Chamarel Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc87818929|Pamplemousses Botanical Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc62189006|Chamarel Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc87696566|Chamarel Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc87777002|Pamplemousses Botanical Garden": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc87777092|Pamplemousses Botanical Garden": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc196239024|Black River Gorges": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc196239018|Black River Gorges": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc45003617|Trou aux Biches": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc45003614|Trou aux Biches": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc87738300|Flic en Flac Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc66589295|Flic en Flac Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc66586177|Flic en Flac Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc127953751|Rochester Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc197079165|Rochester Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc197079172|Rochester Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc4113862|Rochester Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb346878|Mauritius": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb308281|Mauritius": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
