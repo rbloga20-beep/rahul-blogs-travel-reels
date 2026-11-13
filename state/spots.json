@@ -7132,5 +7132,63 @@
    "name": "Ol Doinyo Lengai",
    "q": "Ol Doinyo Lengai"
   }
+ ],
+ "Chile": [
+  {
+   "name": "Torres del Paine",
+   "q": "Torres del Paine"
+  },
+  {
+   "name": "Valle de la Luna",
+   "q": "Valle de la Luna"
+  },
+  {
+   "name": "Ahu Tongariki",
+   "q": "Ahu Tongariki"
+  },
+  {
+   "name": "Marble Caves",
+   "q": "Marble Caves"
+  },
+  {
+   "name": "Mano del Desierto",
+   "q": "Mano del Desierto"
+  },
+  {
+   "name": "Valparaíso",
+   "q": "Valparaiso"
+  },
+  {
+   "name": "El Tatio Geysers",
+   "q": "El Tatio"
+  },
+  {
+   "name": "Villarrica Volcano",
+   "q": "Villarrica Volcano"
+  },
+  {
+   "name": "Embalse El Yeso",
+   "q": "Embalse El Yeso"
+  },
+  {
+   "name": "Queulat Hanging Glacier",
+   "q": "Queulat Glacier"
+  },
+  {
+   "name": "Grey Glacier",
+   "q": "Grey Glacier"
+  },
+  {
+   "name": "Laguna Chaxa",
+   "q": "Laguna Chaxa"
+  },
+  {
+   "name": "Chiloé Palafitos",
+   "q": "Chiloe Palafitos"
+  },
+  {
+   "name": "Cerro San Cristóbal",
+   "q": "Cerro San Cristobal"
+  }
  ]
 }

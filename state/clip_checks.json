@@ -11236,5 +11236,88 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc120220271|Mano del Desierto": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc18904555|Mano del Desierto": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc66479512|Valparaíso": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc120220517|Mano del Desierto": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc150812903|El Tatio Geysers": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc62062859|Embalse El Yeso": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc62116995|Embalse El Yeso": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc150812904|El Tatio Geysers": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc29695559|Villarrica Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc38871698|Villarrica Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc177331170|Grey Glacier": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc177331185|Grey Glacier": null,
+ "wmc177331166|Grey Glacier": null,
+ "wmc177331176|Grey Glacier": null,
+ "wmc1327313|Queulat Hanging Glacier": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc109164847|Chiloé Palafitos": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb28603|Chile": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb190067|Chile": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb369259|Chile": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
