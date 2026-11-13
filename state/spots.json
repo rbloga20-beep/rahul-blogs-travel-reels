@@ -7364,5 +7364,121 @@
    "name": "Trou aux Cerfs",
    "q": "Trou aux Cerfs"
   }
+ ],
+ "Seychelles": [
+  {
+   "name": "Anse Source d'Argent",
+   "q": "Anse Source d'Argent"
+  },
+  {
+   "name": "Anse Lazio",
+   "q": "Anse Lazio"
+  },
+  {
+   "name": "Vallée de Mai",
+   "q": "Vallee de Mai"
+  },
+  {
+   "name": "Curieuse Island",
+   "q": "Curieuse Island"
+  },
+  {
+   "name": "Victoria Clocktower",
+   "q": "Victoria Clocktower"
+  },
+  {
+   "name": "Anse Georgette",
+   "q": "Anse Georgette"
+  },
+  {
+   "name": "Anse Intendance",
+   "q": "Anse Intendance"
+  },
+  {
+   "name": "Morne Seychellois National Park",
+   "q": "Morne Seychellois"
+  },
+  {
+   "name": "Moyenne Island",
+   "q": "Moyenne Island"
+  },
+  {
+   "name": "Aldabra Atoll",
+   "q": "Aldabra Atoll"
+  },
+  {
+   "name": "Beau Vallon",
+   "q": "Beau Vallon"
+  },
+  {
+   "name": "Grand Anse La Digue",
+   "q": "Grand Anse"
+  },
+  {
+   "name": "Copolia Trail",
+   "q": "Copolia Trail"
+  },
+  {
+   "name": "Mission Lodge Lookout",
+   "q": "Mission Lodge"
+  }
+ ],
+ "Ireland": [
+  {
+   "name": "Cliffs of Moher",
+   "q": "Cliffs of Moher"
+  },
+  {
+   "name": "Giant's Causeway",
+   "q": "Giants Causeway"
+  },
+  {
+   "name": "Kylemore Abbey",
+   "q": "Kylemore Abbey"
+  },
+  {
+   "name": "The Dark Hedges",
+   "q": "Dark Hedges"
+  },
+  {
+   "name": "Glendalough",
+   "q": "Glendalough"
+  },
+  {
+   "name": "Rock of Cashel",
+   "q": "Rock of Cashel"
+  },
+  {
+   "name": "Temple Bar",
+   "q": "Temple Bar"
+  },
+  {
+   "name": "Blarney Castle",
+   "q": "Blarney Castle"
+  },
+  {
+   "name": "Killarney National Park",
+   "q": "Killarney National Park"
+  },
+  {
+   "name": "Slieve League",
+   "q": "Slieve League"
+  },
+  {
+   "name": "Dingle Peninsula",
+   "q": "Slea Head Drive"
+  },
+  {
+   "name": "Carrick-a-Rede Rope Bridge",
+   "q": "Carrick-a-Rede"
+  },
+  {
+   "name": "Aran Islands",
+   "q": "Dun Aonghasa"
+  },
+  {
+   "name": "Connemara National Park",
+   "q": "Connemara"
+  }
  ]
 }

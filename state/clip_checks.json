@@ -11741,5 +11741,120 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc5072064|Vallée de Mai": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc156496249|Vallée de Mai": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc12866877|Victoria Clocktower": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc216720|Moyenne Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc194256873|Moyenne Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc194256886|Moyenne Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc120846258|Grand Anse La Digue": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc125320156|Grand Anse La Digue": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc58185349|Mission Lodge Lookout": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc3016147|Giant's Causeway": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb254097|Cliffs of Moher": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb259883|Cliffs of Moher": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc146742978|The Dark Hedges": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc177613369|Glendalough": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb3523|Killarney National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb3558|Killarney National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc32673717|Temple Bar": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc165977729|Temple Bar": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc165977730|Temple Bar": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc66952637|Temple Bar": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc23446939|Slieve League": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb378032|Ireland": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb378029|Ireland": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
