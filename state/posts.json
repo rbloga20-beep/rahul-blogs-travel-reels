@@ -3749,5 +3749,49 @@
   "igStory": {
    "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
   }
+ },
+ {
+  "id": "2026-11-13-08-24",
+  "date": "2026-11-13T08:44:37.607Z",
+  "places": [
+   "Registan Square",
+   "Shah-i-Zinda",
+   "Gur-e-Amir Mausoleum",
+   "Bibi-Khanym Mosque",
+   "Chor Minor",
+   "Ichan Kala",
+   "Tashkent Metro"
+  ],
+  "hook": "Uzbekistan / Top 7 Uzbekistan spots",
+  "sub": "Top 7 Uzbekistan spots",
+  "music": "Traveling Along.mp3",
+  "seconds": 21.2,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-80965/",
+   "Pixabay https://pixabay.com/videos/id-1568/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Main_Street_of_Shah-i-Zinda_01.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Minaret_of_Gur-e_Amir_01.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Southern_dome_of_Bibi-Khanym_Mosque.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Minaret_of_Chor_Minor_01.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Tosh_Hovli_Palace._Ichan_Kala_05.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Aerial_view_of_Tashkent,_2026-05-06_(2).jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Main_Street_of_Shah-i-Zinda_02.jpg"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "1163418486125531",
+   "url": "https://www.facebook.com/reel/1163418486125531/"
+  },
+  "ig": {
+   "id": "17896050786615638",
+   "url": "https://www.instagram.com/reel/DfrO3w1jGIK/"
+  },
+  "fbStory": {
+   "id": "1803749214293789"
+  },
+  "igStory": {
+   "id": "18078881714756305",
+   "url": "https://www.instagram.com/stories/rahulblogsyt/4029380155088326300"
+  }
  }
 ]

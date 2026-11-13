@@ -773,3 +773,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-13-05-10 | Abanotubani Sulfur Baths | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Abanotubani,_Tbilisi.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-13-05-10 | Sighnaghi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:SIGHNAGHI_FROM_ABOVE.%D7%A1%D7%99%D7%A8%27%D7%A0%D7%90%D7%A8%27%D7%99_%D7%92%D7%92%D7%95%D7%AA.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-13-05-10 | Georgia | Pixabay (phlyingdoctor) | https://pixabay.com/videos/id-289109/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-13-08-24 | Uzbekistan | Pixabay (nicedy85) | https://pixabay.com/videos/id-80965/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-13-08-24 | Registan Square | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-1568/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-13-08-24 | Shah-i-Zinda | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Main_Street_of_Shah-i-Zinda_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-13-08-24 | Gur-e-Amir Mausoleum | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Minaret_of_Gur-e_Amir_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-13-08-24 | Bibi-Khanym Mosque | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Southern_dome_of_Bibi-Khanym_Mosque.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-13-08-24 | Chor Minor | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Minaret_of_Chor_Minor_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-13-08-24 | Ichan Kala | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tosh_Hovli_Palace._Ichan_Kala_05.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-13-08-24 | Tashkent Metro | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Aerial_view_of_Tashkent,_2026-05-06_(2).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-13-08-24 | Uzbekistan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Main_Street_of_Shah-i-Zinda_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

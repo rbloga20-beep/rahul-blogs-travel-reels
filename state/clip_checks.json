@@ -11472,5 +11472,129 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "pxb1568|Registan Square": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc141867472|Gur-e-Amir Mausoleum": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc168670932|Gur-e-Amir Mausoleum": null,
+ "wmc141867470|Gur-e-Amir Mausoleum": null,
+ "wmc141867468|Gur-e-Amir Mausoleum": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc142032545|Shah-i-Zinda": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc142032544|Shah-i-Zinda": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc142165848|Po-i-Kalyan Complex": null,
+ "wmc142196121|Po-i-Kalyan Complex": null,
+ "wmc142165850|Po-i-Kalyan Complex": null,
+ "wmc142165847|Po-i-Kalyan Complex": null,
+ "wmc142041785|Bibi-Khanym Mosque": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc142041349|Bibi-Khanym Mosque": null,
+ "wmc142041356|Bibi-Khanym Mosque": null,
+ "wmc142041553|Bibi-Khanym Mosque": null,
+ "wmc142420273|Chor Minor": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc145071988|Chor Minor": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc140885337|Kalta Minor Minaret": null,
+ "wmc142521927|Kalta Minor Minaret": null,
+ "wmc142521929|Kalta Minor Minaret": null,
+ "wmc142521955|Kalta Minor Minaret": null,
+ "pxb378079|Ark of Bukhara": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc197860784|Ichan Kala": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc197860776|Ichan Kala": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc197860781|Ichan Kala": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc142571748|Islam Khodja Minaret": null,
+ "wmc142571749|Islam Khodja Minaret": null,
+ "wmc142571564|Islam Khodja Minaret": null,
+ "wmc142571566|Islam Khodja Minaret": null,
+ "wmc191590864|Tashkent Metro": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc174817669|Tashkent Metro": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc148946312|Tashkent Metro": null,
+ "wmc140586961|Tashkent Metro": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc82805293|Chorsu Bazaar": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc152092166|Hazrati Imam Complex": null,
+ "wmc152092272|Hazrati Imam Complex": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc152092261|Hazrati Imam Complex": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc152092198|Hazrati Imam Complex": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb1568|Uzbekistan": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb80965|Uzbekistan": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

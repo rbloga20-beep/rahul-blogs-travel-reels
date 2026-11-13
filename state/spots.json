@@ -7248,5 +7248,63 @@
    "name": "Rabati Castle",
    "q": "Rabati Castle"
   }
+ ],
+ "Uzbekistan": [
+  {
+   "name": "Registan Square",
+   "q": "Registan Samarkand"
+  },
+  {
+   "name": "Shah-i-Zinda",
+   "q": "Shah-i-Zinda Samarkand"
+  },
+  {
+   "name": "Gur-e-Amir Mausoleum",
+   "q": "Gur-e-Amir Samarkand"
+  },
+  {
+   "name": "Bibi-Khanym Mosque",
+   "q": "Bibi-Khanym Mosque"
+  },
+  {
+   "name": "Po-i-Kalyan Complex",
+   "q": "Kalon Minaret Bukhara"
+  },
+  {
+   "name": "Chor Minor",
+   "q": "Chor Minor Bukhara"
+  },
+  {
+   "name": "Ark of Bukhara",
+   "q": "Ark of Bukhara"
+  },
+  {
+   "name": "Kalta Minor Minaret",
+   "q": "Kalta Minor Khiva"
+  },
+  {
+   "name": "Ichan Kala",
+   "q": "Ichan Kala Khiva"
+  },
+  {
+   "name": "Islam Khodja Minaret",
+   "q": "Islam Khodja Khiva"
+  },
+  {
+   "name": "Chorsu Bazaar",
+   "q": "Chorsu Bazaar Tashkent"
+  },
+  {
+   "name": "Tashkent Metro",
+   "q": "Tashkent Metro Station"
+  },
+  {
+   "name": "Hazrati Imam Complex",
+   "q": "Hazrati Imam Tashkent"
+  },
+  {
+   "name": "Moynaq Ship Graveyard",
+   "q": "Moynaq Aral Sea"
+  }
  ]
 }
