@@ -12191,5 +12191,146 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc49730801|Nyhavn": null,
+ "wmc51505403|Nyhavn": null,
+ "wmc51505549|Nyhavn": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc103849703|The Little Mermaid": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc51453348|The Little Mermaid": null,
+ "wmc20117171|Tivoli Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc103849716|The Little Mermaid": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc49886290|Nyhavn": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc103849693|The Little Mermaid": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc33005233|Tivoli Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc20117158|Tivoli Gardens": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc149942939|Tivoli Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc88132235|Rosenborg Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc20002190|Amalienborg Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc130012520|Amalienborg Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc20002196|Amalienborg Palace": null,
+ "wmc192883728|Rundetårn": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc20112527|Rundetårn": null,
+ "wmc89153|Rundetårn": null,
+ "wmc169425|Rundetårn": null,
+ "wmc49735054|Amalienborg Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc6775653|Kronborg Castle": null,
+ "wmc65512334|Frederiksborg Castle": null,
+ "wmc49886837|Christiansborg Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc40141602|Frederiksborg Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc192883730|Christiansborg Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc85069588|Frederiksborg Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc95376292|Møns Klint": null,
+ "wmc2818791|Rubjerg Knude Lighthouse": null,
+ "wmc81107349|Møns Klint": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc95126433|Skagen": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc49405166|Odense": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc47934485|Odense": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc47933985|Odense": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc48106956|Odense": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb133955|Denmark": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb133954|Denmark": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

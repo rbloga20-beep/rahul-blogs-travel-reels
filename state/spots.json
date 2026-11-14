@@ -7654,5 +7654,63 @@
    "name": "Durbuy Old Town",
    "q": "Durbuy"
   }
+ ],
+ "Denmark": [
+  {
+   "name": "Nyhavn",
+   "q": "Nyhavn, Copenhagen"
+  },
+  {
+   "name": "The Little Mermaid",
+   "q": "Little Mermaid, Copenhagen"
+  },
+  {
+   "name": "Tivoli Gardens",
+   "q": "Tivoli, Copenhagen"
+  },
+  {
+   "name": "Amalienborg Palace",
+   "q": "Amalienborg, Royal Palace"
+  },
+  {
+   "name": "Rosenborg Castle",
+   "q": "Rosenborg, Crown Jewels"
+  },
+  {
+   "name": "Rundetårn",
+   "q": "Round Tower, Copenhagen"
+  },
+  {
+   "name": "Christiansborg Palace",
+   "q": "Christiansborg, Parliament"
+  },
+  {
+   "name": "Frederiksborg Castle",
+   "q": "Frederiksborg, Hillerød"
+  },
+  {
+   "name": "Kronborg Castle",
+   "q": "Kronborg, Hamlet Castle"
+  },
+  {
+   "name": "Møns Klint",
+   "q": "Møns Klint, White Cliffs"
+  },
+  {
+   "name": "Rubjerg Knude Lighthouse",
+   "q": "Rubjerg Knude, Lighthouse"
+  },
+  {
+   "name": "Skagen",
+   "q": "Skagen, Grenen"
+  },
+  {
+   "name": "Odense",
+   "q": "Odense, Hans Christian Andersen"
+  },
+  {
+   "name": "Aarhus",
+   "q": "Aarhus, Den Gamle By"
+  }
  ]
 }
