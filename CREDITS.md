@@ -814,3 +814,15 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-14-02-12 | Warsaw Old Town | Pixabay (PolishSights) | https://pixabay.com/videos/id-65602/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-14-02-12 | Wilanów Palace | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Wilan%C3%B3w_Palace_from_the_side_of_the_park.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-14-02-12 | Poland | Pixabay (swistakens) | https://pixabay.com/videos/id-75253/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Belgium | Pixabay (Matthias_Groeneveld) | https://pixabay.com/videos/id-233619/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Grand Place Brussels | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Grand_Place_20-28,_Brussels,_Belgium.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Rozenhoedkaai Bruges | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rozenhoedkaai,_Bruges_(A._Goethals,_1864).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Atomium Brussels | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-1517/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Dinant Waterfront | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Citadelle_de_Dinant_pic2.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Hallerbos Blue Forest | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hallerbos_Bluebells.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Gravensteen Ghent | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Gravensteen,_Ghent,_Belgium.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Mont des Arts | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Garden_of_Kunstberg-Mont_des_Arts_-_IMG_4030.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Walzin Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Walzin_6.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Villers Abbey | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Train_passes_by_Villers_Abbey_vineyard,_Villers-la-Ville,_2021.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Royal Greenhouses of Laeken | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Grand_Gallery,_Royal_Greenhouses,_Laeken,_2026.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-05-02 | Belgium | Pixabay (Matthias_Groeneveld) | https://pixabay.com/videos/id-235235/ | Pixabay Content License, commercial use, no attribution needed |

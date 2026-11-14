@@ -7596,5 +7596,63 @@
    "name": "Białowieża Forest",
    "q": "Bialowieza Forest"
   }
+ ],
+ "Belgium": [
+  {
+   "name": "Grand Place Brussels",
+   "q": "Grand Place Brussels"
+  },
+  {
+   "name": "Rozenhoedkaai Bruges",
+   "q": "Rozenhoedkaai Bruges"
+  },
+  {
+   "name": "Atomium Brussels",
+   "q": "Atomium"
+  },
+  {
+   "name": "Graslei Ghent",
+   "q": "Graslei Ghent"
+  },
+  {
+   "name": "Dinant Waterfront",
+   "q": "Dinant Citadel"
+  },
+  {
+   "name": "Antwerp Central Station",
+   "q": "Antwerpen-Centraal"
+  },
+  {
+   "name": "Hallerbos Blue Forest",
+   "q": "Hallerbos"
+  },
+  {
+   "name": "Gravensteen Ghent",
+   "q": "Gravensteen"
+  },
+  {
+   "name": "Belfry of Bruges",
+   "q": "Bruges Belfry"
+  },
+  {
+   "name": "Mont des Arts",
+   "q": "Mont des Arts"
+  },
+  {
+   "name": "Walzin Castle",
+   "q": "Chateau de Walzin"
+  },
+  {
+   "name": "Villers Abbey",
+   "q": "Villers Abbey"
+  },
+  {
+   "name": "Royal Greenhouses of Laeken",
+   "q": "Laeken Greenhouses"
+  },
+  {
+   "name": "Durbuy Old Town",
+   "q": "Durbuy"
+  }
  ]
 }

@@ -12043,5 +12043,153 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc175824797|Grand Place Brussels": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb1517|Atomium Brussels": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc4384589|Rozenhoedkaai Bruges": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb230426|Atomium Brussels": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc175824803|Grand Place Brussels": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc167066195|Rozenhoedkaai Bruges": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb230427|Atomium Brussels": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc175821870|Rozenhoedkaai Bruges": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc166257373|Rozenhoedkaai Bruges": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc11159861|Graslei Ghent": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc50454187|Dinant Waterfront": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc50454196|Dinant Waterfront": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc175771199|Gravensteen Ghent": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc10215145|Hallerbos Blue Forest": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc151651548|Walzin Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc12054950|Mont des Arts": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc131688455|Villers Abbey": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc151654723|Walzin Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc12054955|Mont des Arts": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc110371051|Walzin Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc110371030|Walzin Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc75637989|Durbuy Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc55410422|Royal Greenhouses of Laeken": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc153142773|Durbuy Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc191095833|Royal Greenhouses of Laeken": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc190614576|Royal Greenhouses of Laeken": null,
+ "wmc191095841|Royal Greenhouses of Laeken": null,
+ "wmc152883913|Durbuy Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc152883912|Durbuy Old Town": null,
+ "pxb233619|Belgium": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb233621|Belgium": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb235235|Belgium": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
