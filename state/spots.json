@@ -7770,5 +7770,63 @@
    "name": "Marstrand Island",
    "q": "Marstrand Island"
   }
+ ],
+ "Colombia": [
+  {
+   "name": "Walled City of Cartagena",
+   "q": "Cartagena Walled City"
+  },
+  {
+   "name": "Rock of Guatapé",
+   "q": "El Penol Guatape"
+  },
+  {
+   "name": "Cocora Valley",
+   "q": "Cocora Valley"
+  },
+  {
+   "name": "Comuna 13",
+   "q": "Comuna 13"
+  },
+  {
+   "name": "Las Lajas Sanctuary",
+   "q": "Las Lajas Sanctuary"
+  },
+  {
+   "name": "Tayrona National Park",
+   "q": "Tayrona"
+  },
+  {
+   "name": "Caño Cristales",
+   "q": "Cano Cristales"
+  },
+  {
+   "name": "Tatacoa Desert",
+   "q": "Tatacoa Desert"
+  },
+  {
+   "name": "Minca",
+   "q": "Minca"
+  },
+  {
+   "name": "Salento",
+   "q": "Salento"
+  },
+  {
+   "name": "Rosario Islands",
+   "q": "Rosario Islands"
+  },
+  {
+   "name": "Monserrate",
+   "q": "Monserrate"
+  },
+  {
+   "name": "Barichara",
+   "q": "Barichara"
+  },
+  {
+   "name": "Ciudad Perdida",
+   "q": "Ciudad Perdida"
+  }
  ]
 }

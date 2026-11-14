@@ -842,3 +842,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-14-10-53 | Drottningholm Palace | Pixabay (kumbalasuthuvom) | https://pixabay.com/videos/id-42364/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-14-10-53 | Kungsleden | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kungsleden_Landscape.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-14-10-53 | Sweden | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-342306/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-13-59 | Colombia | Pixabay (TRAPHITHO) | https://pixabay.com/videos/id-16011/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-13-59 | Rock of Guatapé | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Embalse_de_Guatap%C3%A9,_febrero_de_2017,_por_Dan_Gold_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-13-59 | Cocora Valley | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386543/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-13-59 | Tayrona National Park | Pixabay (JayShawflybydrones) | https://pixabay.com/videos/id-159016/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-13-59 | Ciudad Perdida | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:34Visita_Parque_Teyuna_Ciudad_perdida-Ovidio_Gonz%C3%A1lez.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-13-59 | Colombia | Pixabay (TRAPHITHO) | https://pixabay.com/videos/id-16445/ | Pixabay Content License, commercial use, no attribution needed |

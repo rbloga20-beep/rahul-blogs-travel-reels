@@ -12458,5 +12458,125 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "pxb386543|Cocora Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc58030606|Rock of Guatapé": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc61868309|Rock of Guatapé": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb159016|Tayrona National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb159011|Tayrona National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc32037599|Minca": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc145478605|Minca": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc32039972|Minca": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc46320514|Minca": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb386543|Salento": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc154143883|Monserrate": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc181934114|Rosario Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb203002|Salento": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc3502661|Rosario Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc137722505|Monserrate": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb203000|Salento": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb140925|Salento": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc154143884|Monserrate": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc191384845|Ciudad Perdida": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc191384847|Ciudad Perdida": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc191384850|Ciudad Perdida": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb16011|Colombia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb44791|Colombia": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb16445|Colombia": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }
