@@ -12578,5 +12578,101 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "wmc151200917|Casa del Árbol": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc138579392|Casa del Árbol": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc61041960|Pailón del Diablo": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc61041959|Pailón del Diablo": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb385782|Quilotoa Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc22007297|Cotopaxi Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc21880610|Cotopaxi Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb351833|Quilotoa Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc140625108|Basílica del Voto Nacional": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc140625105|Basílica del Voto Nacional": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc140625115|Basílica del Voto Nacional": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc140625114|Basílica del Voto Nacional": null,
+ "wmc14590482|Chimborazo Volcano": null,
+ "wmc1508308|Chimborazo Volcano": null,
+ "wmc15712294|Otavalo Market": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc86634792|Otavalo Market": null,
+ "wmc86428985|Mitad del Mundo": null,
+ "wmc86428983|Mitad del Mundo": null,
+ "wmc34388136|Cajas National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc34388124|Cajas National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc34388122|Cajas National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc34388135|Cajas National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb385782|Ecuador": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb158229|Ecuador": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

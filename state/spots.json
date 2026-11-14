@@ -7828,5 +7828,63 @@
    "name": "Ciudad Perdida",
    "q": "Ciudad Perdida"
   }
+ ],
+ "Ecuador": [
+  {
+   "name": "Bartolomé Island",
+   "q": "Bartolome Island"
+  },
+  {
+   "name": "Casa del Árbol",
+   "q": "Casa del Arbol"
+  },
+  {
+   "name": "Pailón del Diablo",
+   "q": "Pailon del Diablo"
+  },
+  {
+   "name": "Quilotoa Lake",
+   "q": "Quilotoa"
+  },
+  {
+   "name": "Cotopaxi Volcano",
+   "q": "Cotopaxi"
+  },
+  {
+   "name": "Basílica del Voto Nacional",
+   "q": "Voto Nacional"
+  },
+  {
+   "name": "Chimborazo Volcano",
+   "q": "Chimborazo"
+  },
+  {
+   "name": "Otavalo Market",
+   "q": "Otavalo"
+  },
+  {
+   "name": "Cuenca Cathedral",
+   "q": "Cuenca Cathedral"
+  },
+  {
+   "name": "Kicker Rock",
+   "q": "Kicker Rock"
+  },
+  {
+   "name": "Mitad del Mundo",
+   "q": "Mitad del Mundo"
+  },
+  {
+   "name": "Mindo Cloud Forest",
+   "q": "Mindo Cloud Forest"
+  },
+  {
+   "name": "Cajas National Park",
+   "q": "Cajas National Park"
+  },
+  {
+   "name": "Nariz del Diablo",
+   "q": "Nariz del Diablo"
+  }
  ]
 }
