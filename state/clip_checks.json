@@ -11931,5 +11931,117 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc145819773|Kraków Main Market Square": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb300846|Wawel Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc98924284|Kraków Main Market Square": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc67540419|Gdańsk Długi Targ": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc67857753|Gdańsk Długi Targ": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc67551460|Gdańsk Długi Targ": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc7879030|Gdańsk Długi Targ": null,
+ "wmc98844070|Morskie Oko Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc98845710|Morskie Oko Lake": null,
+ "wmc98845290|Morskie Oko Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc98924497|Morskie Oko Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb65602|Warsaw Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb65603|Warsaw Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc155907732|Zakopane & Tatra Mountains": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc155907736|Zakopane & Tatra Mountains": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc155907730|Zakopane & Tatra Mountains": null,
+ "wmc155907731|Zakopane & Tatra Mountains": null,
+ "wmc151699669|Wilanów Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc164456402|Wilanów Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc151619422|Białowieża Forest": null,
+ "wmc151619423|Białowieża Forest": null,
+ "wmc136441561|Białowieża Forest": null,
+ "wmc72715603|Crooked Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc72715606|Crooked Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc72715717|Crooked Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc72715704|Crooked Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb38340|Poland": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb75253|Poland": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

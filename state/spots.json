@@ -7538,5 +7538,63 @@
    "name": "Hortobágyi National Park",
    "q": "Hortobagy"
   }
+ ],
+ "Poland": [
+  {
+   "name": "Kraków Main Market Square",
+   "q": "Krakow Market Square"
+  },
+  {
+   "name": "Wawel Castle",
+   "q": "Wawel Castle"
+  },
+  {
+   "name": "Gdańsk Długi Targ",
+   "q": "Gdansk Old Town"
+  },
+  {
+   "name": "Wrocław Market Square",
+   "q": "Wroclaw Old Town"
+  },
+  {
+   "name": "Malbork Castle",
+   "q": "Malbork Castle"
+  },
+  {
+   "name": "Morskie Oko Lake",
+   "q": "Morskie Oko Tatras"
+  },
+  {
+   "name": "Zakopane & Tatra Mountains",
+   "q": "Zakopane Kasprowy Wierch"
+  },
+  {
+   "name": "Warsaw Old Town",
+   "q": "Warsaw Old Town"
+  },
+  {
+   "name": "Moszna Castle",
+   "q": "Moszna Castle"
+  },
+  {
+   "name": "Zalipie Painted Village",
+   "q": "Zalipie Village"
+  },
+  {
+   "name": "Słowiński Sand Dunes",
+   "q": "Slowinski Sand Dunes"
+  },
+  {
+   "name": "Wilanów Palace",
+   "q": "Wilanow Palace"
+  },
+  {
+   "name": "Crooked Forest",
+   "q": "Crooked Forest Gryfino"
+  },
+  {
+   "name": "Białowieża Forest",
+   "q": "Bialowieza Forest"
+  }
  ]
 }

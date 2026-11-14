@@ -806,3 +806,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-13-17-04 | Shoes on the Danube Bank | Pixabay (AttilaPergel) | https://pixabay.com/videos/id-116037/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-13-17-04 | Esztergom Basilica | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Esztergom_Basilica_interier_4.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-13-17-04 | Hungary | Pixabay (AttilaPergel) | https://pixabay.com/videos/id-225420/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-02-12 | Poland | Pixabay (gziku) | https://pixabay.com/videos/id-38340/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-02-12 | Wawel Castle | Pixabay (adamr) | https://pixabay.com/videos/id-300846/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-02-12 | Gdańsk Długi Targ | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:D%C5%82ugi_Targ_29_Gda%C5%84sk.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-02-12 | Morskie Oko Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Antoni_Gramatyka_-_The_Morskie_Oko_Lake_-_MNK_II-a-1335_-_National_Museum_Krak%C3%B3w.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-02-12 | Zakopane & Tatra Mountains | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kasprowy_Wierch_Cableway,_1950-1951_06.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-02-12 | Warsaw Old Town | Pixabay (PolishSights) | https://pixabay.com/videos/id-65602/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-02-12 | Wilanów Palace | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Wilan%C3%B3w_Palace_from_the_side_of_the_park.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-02-12 | Poland | Pixabay (swistakens) | https://pixabay.com/videos/id-75253/ | Pixabay Content License, commercial use, no attribution needed |
