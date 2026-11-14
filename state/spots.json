@@ -7712,5 +7712,63 @@
    "name": "Aarhus",
    "q": "Aarhus, Den Gamle By"
   }
+ ],
+ "Sweden": [
+  {
+   "name": "Gamla Stan",
+   "q": "Gamla Stan"
+  },
+  {
+   "name": "Icehotel Jukkasjärvi",
+   "q": "Icehotel Jukkasjarvi"
+  },
+  {
+   "name": "Abisko National Park",
+   "q": "Abisko"
+  },
+  {
+   "name": "Stockholm Metro Stations",
+   "q": "Stockholm Metro Art"
+  },
+  {
+   "name": "Treehotel Harads",
+   "q": "Treehotel Harads"
+  },
+  {
+   "name": "Visby",
+   "q": "Visby Gotland"
+  },
+  {
+   "name": "Smögen Boardwalk",
+   "q": "Smogenbryggan"
+  },
+  {
+   "name": "Ale's Stones",
+   "q": "Ales Stenar"
+  },
+  {
+   "name": "Turning Torso",
+   "q": "Turning Torso"
+  },
+  {
+   "name": "Drottningholm Palace",
+   "q": "Drottningholm"
+  },
+  {
+   "name": "Stockholm Archipelago",
+   "q": "Stockholm Archipelago"
+  },
+  {
+   "name": "Kungsleden",
+   "q": "Kungsleden"
+  },
+  {
+   "name": "Gammelstad Church Town",
+   "q": "Gammelstad"
+  },
+  {
+   "name": "Marstrand Island",
+   "q": "Marstrand Island"
+  }
  ]
 }

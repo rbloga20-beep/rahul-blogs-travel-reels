@@ -836,3 +836,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-14-08-12 | Skagen | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kystmuseet_Skagen_-_redningsb%C3%A5d.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-14-08-12 | Odense | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Coat_of_arms_Odense_town_hall_Denmark.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-14-08-12 | Denmark | Pixabay (fotoblend) | https://pixabay.com/videos/id-133954/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-10-53 | Sweden | Pixabay (VReel) | https://pixabay.com/videos/id-35260/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-10-53 | Abisko National Park | Pixabay (MAKY_OREL) | https://pixabay.com/videos/id-30618/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-10-53 | Visby | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Winter_in_Visby_2017.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-10-53 | Drottningholm Palace | Pixabay (kumbalasuthuvom) | https://pixabay.com/videos/id-42364/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-14-10-53 | Kungsleden | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kungsleden_Landscape.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-14-10-53 | Sweden | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-342306/ | Pixabay Content License, commercial use, no attribution needed |

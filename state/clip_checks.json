@@ -12332,5 +12332,131 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb30618|Abisko National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc3676775|Stockholm Metro Stations": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc10553621|Stockholm Metro Stations": null,
+ "wmc90750235|Visby": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc55830433|Visby": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc130906692|Visby": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc64856319|Visby": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc127728508|Smögen Boardwalk": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc10708052|Turning Torso": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc50678556|Kungsleden": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb42377|Drottningholm Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc146660906|Kungsleden": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc63542988|Kungsleden": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb42364|Drottningholm Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc78185202|Kungsleden": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc119791715|Stockholm Archipelago": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc119791687|Stockholm Archipelago": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc119793457|Stockholm Archipelago": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb310574|Drottningholm Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc119791697|Stockholm Archipelago": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc31308977|Marstrand Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc163997390|Marstrand Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc34509189|Marstrand Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc157343038|Marstrand Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb35260|Sweden": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb342306|Sweden": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }
