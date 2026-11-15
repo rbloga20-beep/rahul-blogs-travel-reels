@@ -13459,5 +13459,80 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc148891031|Ksamil": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc50714720|Theth": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc149396424|Ksamil": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc68608952|Blue Eye": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc140513060|Blue Eye": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc190738407|Blue Eye": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc149120899|Valbona Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc10532665|Dhërmi": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc51048794|Dhërmi": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc149646248|Porto Palermo": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc149646237|Porto Palermo": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc149646239|Porto Palermo": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc149646234|Porto Palermo": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb302121|Albania": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb302123|Albania": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

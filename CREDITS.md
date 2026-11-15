@@ -896,3 +896,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-15-14-00 | Perast | Pixabay (antonlukin) | https://pixabay.com/videos/id-231574/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-15-14-00 | Budva Old Town | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Old_Town_Budva,_Montenegro.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-15-14-00 | Montenegro | Pixabay (antonlukin) | https://pixabay.com/videos/id-250708/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-16-52 | Albania | Pixabay (Albanian_Filmmaker) | https://pixabay.com/videos/id-302121/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-16-52 | Ksamil | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ksamil_beach.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-16-52 | Theth | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Theth_Church_Albania.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-16-52 | Blue Eye | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Blue_eye_Albania.png | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-16-52 | Dhërmi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Dhermi_beach..JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-16-52 | Valbona Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kamping_n%C3%AB_Lugin%C3%ABn_e_Valbon%C3%ABs.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-16-52 | Albania | Pixabay (Albanian_Filmmaker) | https://pixabay.com/videos/id-302123/ | Pixabay Content License, commercial use, no attribution needed |

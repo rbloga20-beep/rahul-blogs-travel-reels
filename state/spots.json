@@ -8524,5 +8524,63 @@
    "name": "Grebaje Valley",
    "q": "Grebaje Valley Prokletije"
   }
+ ],
+ "Albania": [
+  {
+   "name": "Ksamil",
+   "q": "Ksamil Beach"
+  },
+  {
+   "name": "Theth",
+   "q": "Theth Church"
+  },
+  {
+   "name": "Blue Eye",
+   "q": "Syri i Kalter"
+  },
+  {
+   "name": "Lake Koman",
+   "q": "Lake Koman Ferry"
+  },
+  {
+   "name": "Berat",
+   "q": "Berat Old Town"
+  },
+  {
+   "name": "Gjirokastër",
+   "q": "Gjirokaster Old Town"
+  },
+  {
+   "name": "Gjipe Beach",
+   "q": "Gjipe Canyon"
+  },
+  {
+   "name": "Dhërmi",
+   "q": "Dhermi Beach"
+  },
+  {
+   "name": "Valbona Valley",
+   "q": "Valbona Valley"
+  },
+  {
+   "name": "Cape of Rodon",
+   "q": "Cape of Rodon"
+  },
+  {
+   "name": "Rozafa Castle",
+   "q": "Rozafa Castle"
+  },
+  {
+   "name": "Porto Palermo",
+   "q": "Porto Palermo Castle"
+  },
+  {
+   "name": "Benja Thermal Baths",
+   "q": "Benja Thermal Baths"
+  },
+  {
+   "name": "Butrint",
+   "q": "Butrint Ruins"
+  }
  ]
 }
