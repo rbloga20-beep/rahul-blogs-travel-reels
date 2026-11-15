@@ -13354,5 +13354,110 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc177355257|Symphony of Stones": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb304448|Sevanavank Monastery": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb8406|Republic Square Yerevan": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb246310|Republic Square Yerevan": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc4242215|Kotor Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc39670882|San Giovanni Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc40227583|San Giovanni Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc67765781|Kotor Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc39670781|San Giovanni Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc142341369|San Giovanni Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc199287406|Black Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc145975784|Black Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc188462873|Sveti Stefan": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc136516151|Njegoš Mausoleum": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc72705854|Ostrog Monastery": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc21939564|Blue Cave": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc88877516|Budva Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb231574|Perast": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb231573|Perast": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb31484|Montenegro": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb250708|Montenegro": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

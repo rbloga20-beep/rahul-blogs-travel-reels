@@ -8408,5 +8408,121 @@
    "name": "Sükhbaatar Square",
    "q": "Sukhbaatar Square"
   }
+ ],
+ "Armenia": [
+  {
+   "name": "Khor Virap Monastery",
+   "q": "Khor Virap"
+  },
+  {
+   "name": "Garni Temple",
+   "q": "Garni Temple"
+  },
+  {
+   "name": "Geghard Monastery",
+   "q": "Geghard"
+  },
+  {
+   "name": "Tatev Monastery",
+   "q": "Tatev Monastery"
+  },
+  {
+   "name": "Symphony of Stones",
+   "q": "Symphony of Stones"
+  },
+  {
+   "name": "Yerevan Cascade",
+   "q": "Yerevan Cascade"
+  },
+  {
+   "name": "Sevanavank Monastery",
+   "q": "Sevanavank"
+  },
+  {
+   "name": "Noravank Monastery",
+   "q": "Noravank"
+  },
+  {
+   "name": "Republic Square Yerevan",
+   "q": "Republic Square"
+  },
+  {
+   "name": "Zvartnots Cathedral",
+   "q": "Zvartnots"
+  },
+  {
+   "name": "Haghartsin Monastery",
+   "q": "Haghartsin"
+  },
+  {
+   "name": "Haghpat Monastery",
+   "q": "Haghpat"
+  },
+  {
+   "name": "Jermuk Waterfall",
+   "q": "Jermuk Waterfall"
+  },
+  {
+   "name": "Mount Aragats",
+   "q": "Mount Aragats"
+  }
+ ],
+ "Montenegro": [
+  {
+   "name": "Kotor Old Town",
+   "q": "Kotor Old Town"
+  },
+  {
+   "name": "San Giovanni Fortress",
+   "q": "Kotor Fortress"
+  },
+  {
+   "name": "Our Lady of the Rocks",
+   "q": "Our Lady Rocks"
+  },
+  {
+   "name": "Sveti Stefan",
+   "q": "Sveti Stefan"
+  },
+  {
+   "name": "Đurđevića Tara Bridge",
+   "q": "Tara Bridge"
+  },
+  {
+   "name": "Black Lake",
+   "q": "Crno Jezero Durmitor"
+  },
+  {
+   "name": "Ostrog Monastery",
+   "q": "Ostrog Monastery"
+  },
+  {
+   "name": "Njegoš Mausoleum",
+   "q": "Njegos Mausoleum Lovcen"
+  },
+  {
+   "name": "Pavlova Strana Viewpoint",
+   "q": "Pavlova Strana Skadar"
+  },
+  {
+   "name": "Perast",
+   "q": "Perast"
+  },
+  {
+   "name": "Budva Old Town",
+   "q": "Budva Old Town"
+  },
+  {
+   "name": "Blue Cave",
+   "q": "Blue Cave Lustica"
+  },
+  {
+   "name": "Porto Montenegro",
+   "q": "Porto Montenegro Tivat"
+  },
+  {
+   "name": "Grebaje Valley",
+   "q": "Grebaje Valley Prokletije"
+  }
  ]
 }
