@@ -873,3 +873,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-15-05-10 | Yehliu Geopark | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20190415_Yehliu_geopark_beach_rock_formation-4.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-15-05-10 | Chiang Kai-shek Memorial Hall | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20190416_Chiang_Kai-shek_Memorial_Hall-6.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-15-05-10 | Taiwan | Pixabay (MagicTV) | https://pixabay.com/videos/id-93383/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-08-16 | Laos | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386258/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-08-16 | Kuang Si Falls | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386259/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-08-16 | Wat Xieng Thong | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20191212_Wat_Xieng_Thong_temple-2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-08-16 | Nam Song River | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Nam_song_river_vang_vieng.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-08-16 | Mount Phousi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20191212_Phousi_Hill_standing_Buddha_statue-4.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-08-16 | Laos | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20191212_Wat_Xieng_Thong_temple-7.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

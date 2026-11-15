@@ -13126,5 +13126,96 @@
   "v": 3,
   "ok": false,
   "s": 9
+ },
+ "pxb386259|Kuang Si Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc128067225|Wat Xieng Thong": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc128067278|Wat Xieng Thong": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc156988460|Pha That Luang": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc74847393|Nam Song River": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc23777218|Nam Song River": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc25228171|Nam Song River": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc128066873|Mount Phousi": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc128066852|Mount Phousi": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb7262|Si Phan Don": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb218714|Si Phan Don": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb1917|Si Phan Don": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb2950|Si Phan Don": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc118863240|Gibbon Experience": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc118886657|Gibbon Experience": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc118899811|Gibbon Experience": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc118857195|Gibbon Experience": null,
+ "pxb386258|Laos": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386259|Laos": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

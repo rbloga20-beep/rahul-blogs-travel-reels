@@ -8292,5 +8292,63 @@
    "name": "Elephant Mountain",
    "q": "Xiangshan"
   }
+ ],
+ "Laos": [
+  {
+   "name": "Kuang Si Falls",
+   "q": "Kuang Si Falls"
+  },
+  {
+   "name": "Nam Xay Viewpoint",
+   "q": "Nam Xay Viewpoint"
+  },
+  {
+   "name": "Wat Xieng Thong",
+   "q": "Wat Xieng Thong"
+  },
+  {
+   "name": "Pha That Luang",
+   "q": "Pha That Luang"
+  },
+  {
+   "name": "Plain of Jars",
+   "q": "Plain of Jars"
+  },
+  {
+   "name": "Nam Song River",
+   "q": "Nam Song River"
+  },
+  {
+   "name": "Wat Phou",
+   "q": "Wat Phou"
+  },
+  {
+   "name": "Kong Lor Cave",
+   "q": "Kong Lor Cave"
+  },
+  {
+   "name": "Mount Phousi",
+   "q": "Mount Phousi"
+  },
+  {
+   "name": "Si Phan Don",
+   "q": "4000 Islands"
+  },
+  {
+   "name": "Patuxai Arch",
+   "q": "Patuxai Monument"
+  },
+  {
+   "name": "Pak Ou Caves",
+   "q": "Pak Ou Caves"
+  },
+  {
+   "name": "Gibbon Experience",
+   "q": "Gibbon Experience"
+  },
+  {
+   "name": "Tad Fane Waterfall",
+   "q": "Tad Fane"
+  }
  ]
 }
