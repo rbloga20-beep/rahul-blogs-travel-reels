@@ -7886,5 +7886,63 @@
    "name": "Nariz del Diablo",
    "q": "Nariz del Diablo"
   }
+ ],
+ "Costa Rica": [
+  {
+   "name": "Arenal Volcano",
+   "q": "Arenal Volcano"
+  },
+  {
+   "name": "Rio Celeste",
+   "q": "Rio Celeste"
+  },
+  {
+   "name": "Manuel Antonio National Park",
+   "q": "Manuel Antonio"
+  },
+  {
+   "name": "Monteverde Cloud Forest",
+   "q": "Monteverde Cloud Forest"
+  },
+  {
+   "name": "Nauyaca Waterfalls",
+   "q": "Nauyaca Waterfalls"
+  },
+  {
+   "name": "La Fortuna Waterfall",
+   "q": "La Fortuna Waterfall"
+  },
+  {
+   "name": "Mistico Arenal Hanging Bridges",
+   "q": "Mistico Hanging Bridges"
+  },
+  {
+   "name": "Marino Ballena National Park",
+   "q": "Whale Tail Uvita"
+  },
+  {
+   "name": "Tabacon Hot Springs",
+   "q": "Tabacon Hot Springs"
+  },
+  {
+   "name": "Santa Teresa Beach",
+   "q": "Santa Teresa Beach"
+  },
+  {
+   "name": "Corcovado National Park",
+   "q": "Corcovado National Park"
+  },
+  {
+   "name": "Tortuguero National Park",
+   "q": "Tortuguero Canals"
+  },
+  {
+   "name": "Poas Volcano",
+   "q": "Poas Volcano Crater"
+  },
+  {
+   "name": "Tamarindo Beach",
+   "q": "Tamarindo Beach"
+  }
  ]
 }

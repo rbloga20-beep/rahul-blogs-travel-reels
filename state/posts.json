@@ -4171,5 +4171,50 @@
    "id": "18113007059286814",
    "url": "https://www.instagram.com/stories/rahulblogsyt/4030358250138127555"
   }
+ },
+ {
+  "id": "2026-11-15-02-14",
+  "date": "2026-11-15T02:19:35.723Z",
+  "places": [
+   "Arenal Volcano",
+   "Rio Celeste",
+   "Manuel Antonio National Park",
+   "La Fortuna Waterfall",
+   "Corcovado National Park",
+   "Tortuguero National Park",
+   "Poas Volcano",
+   "Tamarindo Beach"
+  ],
+  "hook": "Costa Rica / Top 8 spots in Costa Rica",
+  "sub": "Top 8 spots in Costa Rica",
+  "music": "Tears of Joy.mp3",
+  "seconds": 23.8,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-386710/",
+   "Pixabay https://pixabay.com/videos/id-313443/",
+   "Pixabay https://pixabay.com/videos/id-386139/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Quepos-manuel-antonio-park-as-seen-from-tarrazu-mountains.jpg",
+   "Pixabay https://pixabay.com/videos/id-201552/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Sirena_Ranger_Station.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:The_beach_at_Tortuguero,_Costa_Rica.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Poas_Volcano_2022_by_US_Embassy_in_Costa_Rica_05.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Costa_Rica_Langosta_Beach_near_Tamarindo_0208.jpg",
+   "Pixabay https://pixabay.com/videos/id-386709/"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "1657430609124949",
+   "url": "https://www.facebook.com/reel/1657430609124949/"
+  },
+  "ig": {
+   "id": "18097555778483651",
+   "url": "https://www.instagram.com/reel/DfvsbOWgF4_/"
+  },
+  "fbStory": {
+   "id": "4498211797099554"
+  },
+  "igStory": {
+   "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+  }
  }
 ]

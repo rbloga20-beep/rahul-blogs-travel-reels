@@ -12674,5 +12674,75 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc16315809|Manuel Antonio National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc60773586|Manuel Antonio National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb313443|Arenal Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386139|Rio Celeste": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb201552|La Fortuna Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc146957674|Corcovado National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc23038685|Tortuguero National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc146957190|Corcovado National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc63777537|Tortuguero National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc115478641|Poas Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc144216247|Tamarindo Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc115478642|Poas Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb386710|Costa Rica": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386709|Costa Rica": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }
