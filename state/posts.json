@@ -4216,5 +4216,49 @@
   "igStory": {
    "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
   }
+ },
+ {
+  "id": "2026-11-15-05-10",
+  "date": "2026-11-15T05:16:39.010Z",
+  "places": [
+   "Taipei 101",
+   "Shifen Waterfall",
+   "Taroko Gorge",
+   "Alishan Forest Railway",
+   "Fo Guang Shan Buddha Museum",
+   "Yehliu Geopark",
+   "Chiang Kai-shek Memorial Hall"
+  ],
+  "hook": "Taiwan / Top 7 places in Taiwan",
+  "sub": "Top 7 places in Taiwan",
+  "music": "Slow Pop.mp3",
+  "seconds": 22.2,
+  "clips": [
+   "Pixabay https://pixabay.com/videos/id-99368/",
+   "Pixabay https://pixabay.com/videos/id-219774/",
+   "Pixabay https://pixabay.com/videos/id-38558/",
+   "Pixabay https://pixabay.com/videos/id-39342/",
+   "Pixabay https://pixabay.com/videos/id-125841/",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Fo_Guang_Shan_-_FoGuangShan5227.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:20190415_Yehliu_geopark_beach_rock_formation-4.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:20190416_Chiang_Kai-shek_Memorial_Hall-6.jpg",
+   "Pixabay https://pixabay.com/videos/id-93383/"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "1588677959943811",
+   "url": "https://www.facebook.com/reel/1588677959943811/"
+  },
+  "ig": {
+   "id": "18117206591521590",
+   "url": "https://www.instagram.com/reel/DfwAranle9Q/"
+  },
+  "fbStory": {
+   "id": "4672773036379088"
+  },
+  "igStory": {
+   "id": "17902174617674145",
+   "url": "https://www.instagram.com/stories/rahulblogsyt/4030725148290044207"
+  }
  }
 ]

@@ -864,3 +864,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-15-02-14 | Poas Volcano | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Poas_Volcano_2022_by_US_Embassy_in_Costa_Rica_05.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-15-02-14 | Tamarindo Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Costa_Rica_Langosta_Beach_near_Tamarindo_0208.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-15-02-14 | Costa Rica | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386709/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-05-10 | Taiwan | Pixabay (MagicTV) | https://pixabay.com/videos/id-99368/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-05-10 | Taipei 101 | Pixabay (MagicTV) | https://pixabay.com/videos/id-219774/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-05-10 | Shifen Waterfall | Pixabay (Mr_K13) | https://pixabay.com/videos/id-38558/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-05-10 | Taroko Gorge | Pixabay (happypixel19) | https://pixabay.com/videos/id-39342/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-05-10 | Alishan Forest Railway | Pixabay (jeffplay) | https://pixabay.com/videos/id-125841/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-05-10 | Fo Guang Shan Buddha Museum | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fo_Guang_Shan_-_FoGuangShan5227.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-05-10 | Yehliu Geopark | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20190415_Yehliu_geopark_beach_rock_formation-4.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-05-10 | Chiang Kai-shek Memorial Hall | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20190416_Chiang_Kai-shek_Memorial_Hall-6.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-05-10 | Taiwan | Pixabay (MagicTV) | https://pixabay.com/videos/id-93383/ | Pixabay Content License, commercial use, no attribution needed |

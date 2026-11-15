@@ -12744,5 +12744,387 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc92318451|Martha Brae River": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc197934877|Rick's Cafe": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc58833046|Rick's Cafe": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc107087028|Floyd's Pelican Bar": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc58793532|Seven Mile Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc109300375|Seven Mile Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb28975|YS Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc121026517|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc80729937|Frenchman's Cove": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc121026540|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc203141875|Frenchman's Cove": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc121026547|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc121026530|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb24515|YS Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb149958|YS Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb326081|YS Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc11765391|Mystic Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc72737023|Bob Marley Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc139276468|Rose Hall Great House": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc92985967|Rose Hall Great House": null,
+ "wmc139276469|Rose Hall Great House": null,
+ "wmc90729664|Rose Hall Great House": null,
+ "wmc189721086|Mystic Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc4833115|Mystic Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc69018353|Mystic Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb384637|Blue Mountains": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb15909|Blue Mountains": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb258964|Blue Mountains": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb44278|Blue Mountains": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc67884987|Seventh Heaven Fiji": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc37516072|Seventh Heaven Fiji": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc67884959|Seventh Heaven Fiji": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc127690471|Seventh Heaven Fiji": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb216058|Cloud 9": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb278753|Cloud 9": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb2114|Cloud 9": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb2142|Cloud 9": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc127270982|Garden of the Sleeping Giant": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc127270984|Garden of the Sleeping Giant": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc71552019|Navala Village": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc72185098|Navala Village": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc166009876|Navala Village": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc148462|Navala Village": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc84608778|Beqa Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc8615088|Tsingy de Bemaraha": null,
+ "wmc192634907|Museum of Islamic Art": null,
+ "wmc192634193|Museum of Islamic Art": null,
+ "wmc192633427|Museum of Islamic Art": null,
+ "wmc192633337|Museum of Islamic Art": null,
+ "pxb281828|The Pearl-Qatar": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb281830|The Pearl-Qatar": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc86627661|Doha Corniche": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc86627274|Doha Corniche": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb361512|Education City Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc197522187|Purple Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc158275133|Purple Island": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc95412277|Purple Island": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc113251697|Purple Island": null,
+ "pxb261184|Taipei 101": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb38558|Shifen Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb307463|Taipei 101": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb219774|Taipei 101": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb99368|Taipei 101": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb125841|Alishan Forest Railway": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb100886|Sun Moon Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb39342|Taroko Gorge": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb100885|Sun Moon Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb93383|Taroko Gorge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb111960|Sun Moon Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb168080|Sun Moon Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb43616|Dragon and Tiger Pagodas": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb125748|Rainbow Village": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb43614|Dragon and Tiger Pagodas": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb43615|Dragon and Tiger Pagodas": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb43617|Dragon and Tiger Pagodas": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc195957690|Fo Guang Shan Buddha Museum": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc195932587|Fo Guang Shan Buddha Museum": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc53211784|Qingshui Cliff": null,
+ "wmc70931269|Qingshui Cliff": null,
+ "wmc119272967|Chiang Kai-shek Memorial Hall": null,
+ "wmc119272970|Chiang Kai-shek Memorial Hall": null,
+ "wmc119272968|Chiang Kai-shek Memorial Hall": null,
+ "wmc119270769|Yehliu Geopark": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc119272958|Chiang Kai-shek Memorial Hall": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc119270847|Yehliu Geopark": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc119272677|Elephant Mountain": null,
+ "wmc119272678|Elephant Mountain": null,
+ "wmc198412654|Elephant Mountain": null,
+ "wmc99462662|Ximending": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc148187564|Elephant Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 9
  }
 }

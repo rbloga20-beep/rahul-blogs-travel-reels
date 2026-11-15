@@ -7944,5 +7944,353 @@
    "name": "Tamarindo Beach",
    "q": "Tamarindo Beach"
   }
+ ],
+ "Jamaica": [
+  {
+   "name": "Dunn's River Falls",
+   "q": "Dunn's River Falls"
+  },
+  {
+   "name": "Rick's Cafe",
+   "q": "Rick's Cafe Negril"
+  },
+  {
+   "name": "Martha Brae River",
+   "q": "Martha Brae Rafting"
+  },
+  {
+   "name": "Blue Hole",
+   "q": "Blue Hole Ocho Rios"
+  },
+  {
+   "name": "Seven Mile Beach",
+   "q": "Seven Mile Beach"
+  },
+  {
+   "name": "Floyd's Pelican Bar",
+   "q": "Pelican Bar"
+  },
+  {
+   "name": "Blue Lagoon",
+   "q": "Blue Lagoon Port Antonio"
+  },
+  {
+   "name": "YS Falls",
+   "q": "YS Falls"
+  },
+  {
+   "name": "Frenchman's Cove",
+   "q": "Frenchmans Cove"
+  },
+  {
+   "name": "Bob Marley Museum",
+   "q": "Bob Marley Museum"
+  },
+  {
+   "name": "Mystic Mountain",
+   "q": "Mystic Mountain Bobsled"
+  },
+  {
+   "name": "Rose Hall Great House",
+   "q": "Rose Hall Great House"
+  },
+  {
+   "name": "Blue Mountains",
+   "q": "Blue Mountains Peak"
+  },
+  {
+   "name": "Doctor's Cave Beach",
+   "q": "Doctor's Cave Beach"
+  }
+ ],
+ "Fiji": [
+  {
+   "name": "Cloud 9",
+   "q": "Cloud 9"
+  },
+  {
+   "name": "Malamala Beach Club",
+   "q": "Malamala Beach Club"
+  },
+  {
+   "name": "Seventh Heaven Fiji",
+   "q": "Seventh Heaven"
+  },
+  {
+   "name": "Sawa-i-Lau Caves",
+   "q": "Sawa-i-Lau Caves"
+  },
+  {
+   "name": "Monuriki Island",
+   "q": "Monuriki Island"
+  },
+  {
+   "name": "Sigatoka Sand Dunes",
+   "q": "Sigatoka Sand Dunes"
+  },
+  {
+   "name": "Tavoro Waterfalls",
+   "q": "Tavoro Waterfalls"
+  },
+  {
+   "name": "Garden of the Sleeping Giant",
+   "q": "Sleeping Giant"
+  },
+  {
+   "name": "Natadola Beach",
+   "q": "Natadola Beach"
+  },
+  {
+   "name": "Navala Village",
+   "q": "Navala Village"
+  },
+  {
+   "name": "Sri Siva Subramaniya Temple",
+   "q": "Sri Siva Subramaniya"
+  },
+  {
+   "name": "Lavena Coastal Walk",
+   "q": "Lavena Coastal Walk"
+  },
+  {
+   "name": "Beqa Lagoon",
+   "q": "Beqa Lagoon"
+  },
+  {
+   "name": "Tivua Island",
+   "q": "Tivua Island"
+  }
+ ],
+ "Madagascar": [
+  {
+   "name": "Avenue of the Baobabs",
+   "q": "Avenue of the Baobabs"
+  },
+  {
+   "name": "Tsingy de Bemaraha",
+   "q": "Tsingy de Bemaraha"
+  },
+  {
+   "name": "Nosy Iranja",
+   "q": "Nosy Iranja"
+  },
+  {
+   "name": "Isalo National Park",
+   "q": "Isalo National Park"
+  },
+  {
+   "name": "Nosy Be",
+   "q": "Nosy Be"
+  },
+  {
+   "name": "Tsingy Rouge",
+   "q": "Tsingy Rouge"
+  },
+  {
+   "name": "Andasibe-Mantadia National Park",
+   "q": "Andasibe Mantadia"
+  },
+  {
+   "name": "Île Sainte-Marie",
+   "q": "Ile Sainte Marie"
+  },
+  {
+   "name": "Emerald Sea",
+   "q": "Emerald Sea Diego Suarez"
+  },
+  {
+   "name": "Ranomafana National Park",
+   "q": "Ranomafana"
+  },
+  {
+   "name": "Ankarana Reserve",
+   "q": "Ankarana Tsingy"
+  },
+  {
+   "name": "Ambohimanga",
+   "q": "Ambohimanga"
+  },
+  {
+   "name": "Kirindy Forest",
+   "q": "Kirindy Forest"
+  },
+  {
+   "name": "Masoala National Park",
+   "q": "Masoala"
+  }
+ ],
+ "Oman": [
+  {
+   "name": "Sultan Qaboos Grand Mosque",
+   "q": "Sultan Qaboos Mosque"
+  },
+  {
+   "name": "Bimmah Sinkhole",
+   "q": "Bimmah Sinkhole"
+  },
+  {
+   "name": "Wadi Shab",
+   "q": "Wadi Shab"
+  },
+  {
+   "name": "Wahiba Sands",
+   "q": "Wahiba Sands"
+  },
+  {
+   "name": "Jebel Shams",
+   "q": "Jebel Shams"
+  },
+  {
+   "name": "Jebel Akhdar",
+   "q": "Jebel Akhdar"
+  },
+  {
+   "name": "Nizwa Fort",
+   "q": "Nizwa Fort"
+  },
+  {
+   "name": "Wadi Bani Khalid",
+   "q": "Wadi Bani Khalid"
+  },
+  {
+   "name": "Mutrah Corniche",
+   "q": "Mutrah Corniche"
+  },
+  {
+   "name": "Royal Opera House Muscat",
+   "q": "Royal Opera House"
+  },
+  {
+   "name": "Daymaniyat Islands",
+   "q": "Daymaniyat Islands"
+  },
+  {
+   "name": "Wadi Darbat",
+   "q": "Wadi Darbat"
+  },
+  {
+   "name": "Al Alam Palace",
+   "q": "Al Alam Palace"
+  },
+  {
+   "name": "Ras Al Jinz Turtle Reserve",
+   "q": "Ras Al Jinz"
+  }
+ ],
+ "Qatar": [
+  {
+   "name": "Souq Waqif",
+   "q": "Souq Waqif"
+  },
+  {
+   "name": "Museum of Islamic Art",
+   "q": "Museum Islamic Art"
+  },
+  {
+   "name": "National Museum of Qatar",
+   "q": "National Museum Qatar"
+  },
+  {
+   "name": "The Pearl-Qatar",
+   "q": "The Pearl Qatar"
+  },
+  {
+   "name": "Katara Cultural Village",
+   "q": "Katara Cultural Village"
+  },
+  {
+   "name": "Khor Al Adaid",
+   "q": "Khor Al Adaid"
+  },
+  {
+   "name": "Doha Corniche",
+   "q": "Doha Corniche"
+  },
+  {
+   "name": "Msheireb Downtown",
+   "q": "Msheireb Downtown"
+  },
+  {
+   "name": "Katara Towers",
+   "q": "Katara Towers"
+  },
+  {
+   "name": "Al Zubarah Fort",
+   "q": "Al Zubarah Fort"
+  },
+  {
+   "name": "Villaggio Mall",
+   "q": "Villaggio Mall"
+  },
+  {
+   "name": "Education City Mosque",
+   "q": "Education City Mosque"
+  },
+  {
+   "name": "Purple Island",
+   "q": "Purple Island Mangroves"
+  },
+  {
+   "name": "Imam Abdul Wahhab Mosque",
+   "q": "Grand Mosque Doha"
+  }
+ ],
+ "Taiwan": [
+  {
+   "name": "Taipei 101",
+   "q": "Taipei 101"
+  },
+  {
+   "name": "Jiufen Old Street",
+   "q": "Jiufen"
+  },
+  {
+   "name": "Shifen Waterfall",
+   "q": "Shifen"
+  },
+  {
+   "name": "Sun Moon Lake",
+   "q": "Sun Moon Lake"
+  },
+  {
+   "name": "Taroko Gorge",
+   "q": "Taroko"
+  },
+  {
+   "name": "Alishan Forest Railway",
+   "q": "Alishan"
+  },
+  {
+   "name": "Rainbow Village",
+   "q": "Rainbow Village"
+  },
+  {
+   "name": "Fo Guang Shan Buddha Museum",
+   "q": "Fo Guang Shan"
+  },
+  {
+   "name": "Dragon and Tiger Pagodas",
+   "q": "Lotus Pond"
+  },
+  {
+   "name": "Qingshui Cliff",
+   "q": "Qingshui Cliff"
+  },
+  {
+   "name": "Yehliu Geopark",
+   "q": "Yehliu"
+  },
+  {
+   "name": "Chiang Kai-shek Memorial Hall",
+   "q": "Chiang Kai-shek Memorial"
+  },
+  {
+   "name": "Ximending",
+   "q": "Ximending"
+  },
+  {
+   "name": "Elephant Mountain",
+   "q": "Xiangshan"
+  }
  ]
 }
