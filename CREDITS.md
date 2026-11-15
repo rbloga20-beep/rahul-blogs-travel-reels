@@ -879,3 +879,14 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-15-08-16 | Nam Song River | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Nam_song_river_vang_vieng.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-15-08-16 | Mount Phousi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20191212_Phousi_Hill_standing_Buddha_statue-4.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-15-08-16 | Laos | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20191212_Wat_Xieng_Thong_temple-7.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Mongolia | Pixabay (flutie8211) | https://pixabay.com/videos/id-360196/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Genghis Khan Statue Complex | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Genghis_Khan_Equestrian_Statue.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Khongoryn Els | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Khongoryn_Els_04.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Lake Khövsgöl | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lake_Kh%C3%B6vsg%C3%B6l_Mongolia.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Flaming Cliffs | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bayanzag_12.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Gorkhi-Terelj National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20191001_TurtleRock_(49526875751).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Erdene Zuu Monastery | Pixabay (C_G_N) | https://pixabay.com/videos/id-348580/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Yolyn Am | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Yolyn_Am_04.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Amarbayasgalant Monastery | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Amarbayasgalant_monastery_temple_01.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Terkhiin Tsagaan Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Terkhiin_Tsagaan_Lake_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-15-10-54 | Mongolia | Pixabay (Kanenori) | https://pixabay.com/videos/id-201424/ | Pixabay Content License, commercial use, no attribution needed |

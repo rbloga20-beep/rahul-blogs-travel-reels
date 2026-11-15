@@ -8350,5 +8350,63 @@
    "name": "Tad Fane Waterfall",
    "q": "Tad Fane"
   }
+ ],
+ "Mongolia": [
+  {
+   "name": "Genghis Khan Statue Complex",
+   "q": "Genghis Khan Statue"
+  },
+  {
+   "name": "Khongoryn Els",
+   "q": "Khongoryn Els"
+  },
+  {
+   "name": "Lake Khövsgöl",
+   "q": "Lake Khovsgol"
+  },
+  {
+   "name": "Flaming Cliffs",
+   "q": "Flaming Cliffs"
+  },
+  {
+   "name": "Gorkhi-Terelj National Park",
+   "q": "Terelj Turtle Rock"
+  },
+  {
+   "name": "Erdene Zuu Monastery",
+   "q": "Erdene Zuu Monastery"
+  },
+  {
+   "name": "Tsagaan Suvarga",
+   "q": "Tsagaan Suvarga"
+  },
+  {
+   "name": "Yolyn Am",
+   "q": "Yolyn Am"
+  },
+  {
+   "name": "Altai Tavan Bogd National Park",
+   "q": "Altai Tavan Bogd"
+  },
+  {
+   "name": "Orkhon Waterfall",
+   "q": "Orkhon Waterfall"
+  },
+  {
+   "name": "Hustai National Park",
+   "q": "Hustai National Park"
+  },
+  {
+   "name": "Amarbayasgalant Monastery",
+   "q": "Amarbayasgalant Monastery"
+  },
+  {
+   "name": "Terkhiin Tsagaan Lake",
+   "q": "Terkhiin Tsagaan Lake"
+  },
+  {
+   "name": "Sükhbaatar Square",
+   "q": "Sukhbaatar Square"
+  }
  ]
 }

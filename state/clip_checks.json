@@ -13217,5 +13217,142 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc146258092|Khongoryn Els": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc146321458|Khongoryn Els": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc140663919|Lake Khövsgöl": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc145886467|Lake Khövsgöl": null,
+ "wmc145886466|Lake Khövsgöl": null,
+ "wmc145862451|Lake Khövsgöl": null,
+ "wmc77328291|Genghis Khan Statue Complex": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb348580|Erdene Zuu Monastery": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc146199928|Flaming Cliffs": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc160696276|Gorkhi-Terelj National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb348579|Erdene Zuu Monastery": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc160585337|Gorkhi-Terelj National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc146199921|Flaming Cliffs": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc2069193|Gorkhi-Terelj National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc146418004|Yolyn Am": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc111447282|Altai Tavan Bogd National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc111447487|Altai Tavan Bogd National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc146418003|Yolyn Am": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc68908206|Amarbayasgalant Monastery": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc4634898|Amarbayasgalant Monastery": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc68908218|Amarbayasgalant Monastery": null,
+ "wmc68908212|Amarbayasgalant Monastery": null,
+ "wmc146034563|Orkhon Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc146034562|Orkhon Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc146034276|Orkhon Waterfall": null,
+ "wmc1924216|Orkhon Waterfall": null,
+ "wmc145986830|Terkhiin Tsagaan Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc145986829|Terkhiin Tsagaan Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc154359381|Sükhbaatar Square": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc145819169|Sükhbaatar Square": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc154359376|Sükhbaatar Square": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb360196|Mongolia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb201424|Mongolia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }
