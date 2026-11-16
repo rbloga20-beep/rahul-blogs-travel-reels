@@ -931,3 +931,14 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-16-09-50 | Bigăr Waterfall | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cascada_bigar.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-09-50 | Biertan Fortified Church | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Biertan_scalinata.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-09-50 | Romania | Pixabay (FreeCreativeStuff) | https://pixabay.com/videos/id-27377/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Bulgaria | Pixabay (shantararam) | https://pixabay.com/videos/id-8837/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Alexander Nevsky Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Saint_Alexander_Nevsky_Cathedral,_North_Fa%C3%A7ade_(Upper).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Buzludzha Monument | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Buzludzha_seen_from_Shipka_peak_1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Seven Rila Lakes | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lake_%C2%ABBabreka%C2%BB_from_the_Seven_Rila_Lakes.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Belogradchik Fortress | Pixabay (hristom2000) | https://pixabay.com/videos/id-294738/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Prohodna Cave | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Prohodna-eyes-right-2.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Old Town Nesebar | Pixabay (spasspasov) | https://pixabay.com/videos/id-366511/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Tsarevets Fortress | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tsarevets_15.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Rose Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rose_Valley_PA_house_on_the_hill.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Shipka Memorial Church | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Shipka_Memorial_Church_Bulgaria_22.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-11-33 | Bulgaria | Pixabay (spasspasov) | https://pixabay.com/videos/id-325858/ | Pixabay Content License, commercial use, no attribution needed |

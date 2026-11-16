@@ -13826,5 +13826,108 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc198723913|Alexander Nevsky Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc114587866|Buzludzha Monument": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc58474224|Alexander Nevsky Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc198723901|Alexander Nevsky Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc114587711|Buzludzha Monument": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc151024026|Buzludzha Monument": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc114592759|Buzludzha Monument": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc40642441|Seven Rila Lakes": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb294738|Belogradchik Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb200448|Belogradchik Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb366511|Old Town Nesebar": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc6556232|Tsarevets Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc2371994|Prohodna Cave": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc6555311|Tsarevets Fortress": null,
+ "wmc6555297|Tsarevets Fortress": null,
+ "wmc6555276|Tsarevets Fortress": null,
+ "pxb366500|Old Town Nesebar": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc19172543|Shipka Memorial Church": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc19172370|Shipka Memorial Church": null,
+ "wmc19172445|Shipka Memorial Church": null,
+ "wmc8546709|Shipka Memorial Church": null,
+ "wmc41729936|Rose Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc12514767|Rose Valley": null,
+ "wmc11145514|Rose Valley": null,
+ "wmc41635862|Rose Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb8837|Bulgaria": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb325858|Bulgaria": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

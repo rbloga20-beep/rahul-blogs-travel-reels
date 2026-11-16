@@ -8756,5 +8756,63 @@
    "name": "Biertan Fortified Church",
    "q": "Biertan"
   }
+ ],
+ "Bulgaria": [
+  {
+   "name": "Rila Monastery",
+   "q": "Rila Monastery"
+  },
+  {
+   "name": "Alexander Nevsky Cathedral",
+   "q": "Alexander Nevsky"
+  },
+  {
+   "name": "Buzludzha Monument",
+   "q": "Buzludzha"
+  },
+  {
+   "name": "Seven Rila Lakes",
+   "q": "Seven Rila Lakes"
+  },
+  {
+   "name": "Belogradchik Fortress",
+   "q": "Belogradchik"
+  },
+  {
+   "name": "Devetashka Cave",
+   "q": "Devetashka Cave"
+  },
+  {
+   "name": "Prohodna Cave",
+   "q": "Prohodna Cave"
+  },
+  {
+   "name": "Old Town Nesebar",
+   "q": "Nesebar"
+  },
+  {
+   "name": "Tsarevets Fortress",
+   "q": "Tsarevets Fortress"
+  },
+  {
+   "name": "Plovdiv Old Town",
+   "q": "Plovdiv Old Town"
+  },
+  {
+   "name": "Rose Valley",
+   "q": "Rose Valley Kazanlak"
+  },
+  {
+   "name": "Shipka Memorial Church",
+   "q": "Shipka Church"
+  },
+  {
+   "name": "Melnik Pyramids",
+   "q": "Melnik Pyramids"
+  },
+  {
+   "name": "Veleka Beach",
+   "q": "Sinemorets Veleka"
+  }
  ]
 }
