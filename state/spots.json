@@ -8698,5 +8698,63 @@
    "name": "Trenčín Castle",
    "q": "Trencin Castle"
   }
+ ],
+ "Romania": [
+  {
+   "name": "Bran Castle",
+   "q": "Bran Castle"
+  },
+  {
+   "name": "Peleș Castle",
+   "q": "Peles Castle"
+  },
+  {
+   "name": "Transfăgărășan Highway",
+   "q": "Transfagarasan"
+  },
+  {
+   "name": "Salina Turda",
+   "q": "Salina Turda"
+  },
+  {
+   "name": "Corvin Castle",
+   "q": "Corvin Castle"
+  },
+  {
+   "name": "Sighișoara Citadel",
+   "q": "Sighisoara Citadel"
+  },
+  {
+   "name": "Merry Cemetery",
+   "q": "Merry Cemetery Sapanta"
+  },
+  {
+   "name": "Danube Delta",
+   "q": "Danube Delta"
+  },
+  {
+   "name": "Bâlea Lake",
+   "q": "Balea Lake"
+  },
+  {
+   "name": "Statue of Decebalus",
+   "q": "Statue of Decebalus"
+  },
+  {
+   "name": "Palace of the Parliament",
+   "q": "Palace of Parliament Bucharest"
+  },
+  {
+   "name": "Bigăr Waterfall",
+   "q": "Bigar Waterfall"
+  },
+  {
+   "name": "Transalpina Highway",
+   "q": "Transalpina"
+  },
+  {
+   "name": "Biertan Fortified Church",
+   "q": "Biertan"
+  }
  ]
 }

@@ -922,3 +922,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-16-05-38 | Devín Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Slovakia-Devin_castle2.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-05-38 | Trenčín Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tren%C4%8D%C3%ADn_castle_in_Autumn.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-05-38 | Slovakia | Pixabay (DenisMat) | https://pixabay.com/videos/id-6872/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-09-50 | Romania | Pixabay (AttilaPergel) | https://pixabay.com/videos/id-225421/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-09-50 | Bran Castle | Pixabay (u_n89079j2ge) | https://pixabay.com/videos/id-129654/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-09-50 | Transfăgărășan Highway | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:B%C3%A2lea_Lac,_Romania_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-09-50 | Merry Cemetery | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Merry_Cemetery,_S%C4%83p%C3%A2n%C8%9Ba,_2017.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-09-50 | Danube Delta | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Danube_Delta_1.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-09-50 | Bâlea Lake | Pixabay (marinadrian) | https://pixabay.com/videos/id-57482/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-09-50 | Bigăr Waterfall | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cascada_bigar.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-09-50 | Biertan Fortified Church | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Biertan_scalinata.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-09-50 | Romania | Pixabay (FreeCreativeStuff) | https://pixabay.com/videos/id-27377/ | Pixabay Content License, commercial use, no attribution needed |

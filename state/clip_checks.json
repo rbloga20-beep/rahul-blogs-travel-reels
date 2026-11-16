@@ -13734,5 +13734,97 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc179830616|Transfăgărășan Highway": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb129654|Bran Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61869005|Transfăgărășan Highway": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb287248|Bran Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc3787678|Transfăgărășan Highway": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb57482|Bâlea Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc141119026|Merry Cemetery": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc5320450|Danube Delta": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc141119027|Merry Cemetery": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc85688610|Danube Delta": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc152306396|Palace of the Parliament": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc149262364|Bigăr Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc149262359|Bigăr Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc8031995|Bigăr Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc146357295|Bigăr Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc118554790|Biertan Fortified Church": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc97095517|Biertan Fortified Church": null,
+ "wmc97095557|Biertan Fortified Church": null,
+ "pxb225421|Romania": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb27377|Romania": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
