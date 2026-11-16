@@ -8814,5 +8814,63 @@
    "name": "Veleka Beach",
    "q": "Sinemorets Veleka"
   }
+ ],
+ "Malta": [
+  {
+   "name": "Blue Lagoon",
+   "q": "Blue Lagoon Comino"
+  },
+  {
+   "name": "Popeye Village",
+   "q": "Popeye Village"
+  },
+  {
+   "name": "Mdina Gate",
+   "q": "Mdina Gate"
+  },
+  {
+   "name": "Marsaxlokk Harbor",
+   "q": "Marsaxlokk Luzzu"
+  },
+  {
+   "name": "Blue Grotto",
+   "q": "Blue Grotto Zurrieq"
+  },
+  {
+   "name": "Tal-Mixta Cave",
+   "q": "Tal Mixta Cave"
+  },
+  {
+   "name": "St. Peter's Pool",
+   "q": "St Peters Pool"
+  },
+  {
+   "name": "Upper Barrakka Gardens",
+   "q": "Upper Barrakka"
+  },
+  {
+   "name": "Cittadella Gozo",
+   "q": "Gozo Citadel"
+  },
+  {
+   "name": "Ramla Bay",
+   "q": "Ramla Bay"
+  },
+  {
+   "name": "Coral Lagoon",
+   "q": "Coral Lagoon Mellieha"
+  },
+  {
+   "name": "Dingli Cliffs",
+   "q": "Dingli Cliffs"
+  },
+  {
+   "name": "Golden Bay",
+   "q": "Golden Bay Malta"
+  },
+  {
+   "name": "Mosta Dome",
+   "q": "Mosta Rotunda"
+  }
  ]
 }

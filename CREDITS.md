@@ -942,3 +942,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-16-11-33 | Rose Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rose_Valley_PA_house_on_the_hill.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-11-33 | Shipka Memorial Church | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Shipka_Memorial_Church_Bulgaria_22.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-11-33 | Bulgaria | Pixabay (spasspasov) | https://pixabay.com/videos/id-325858/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-15-52 | Malta | Pixabay (SandraFire) | https://pixabay.com/videos/id-290756/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-15-52 | Marsaxlokk Harbor | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS022-E-61781_-_View_of_Malta.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-15-52 | St. Peter's Pool | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:St._Peter%27s_Pool_%C3%A0_Malte.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-15-52 | Ramla Bay | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:2025_Ramla_bay_Mary.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-15-52 | Malta | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-354344/ | Pixabay Content License, commercial use, no attribution needed |

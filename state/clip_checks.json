@@ -13929,5 +13929,85 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc175635888|Mdina Gate": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc121026537|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc121026556|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc61759158|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc121026529|Blue Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc186270202|Marsaxlokk Harbor": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc111320827|Marsaxlokk Harbor": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc111320867|Marsaxlokk Harbor": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc153174151|St. Peter's Pool": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc177803594|Ramla Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc131710987|Coral Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc177803595|Ramla Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc1356148|Coral Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc333992|Coral Lagoon": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb290756|Malta": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb354344|Malta": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
