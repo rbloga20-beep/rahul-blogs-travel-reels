@@ -13664,5 +13664,75 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc130409010|Štrbské Pleso": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc152341294|Bojnice Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc2577160|Bojnice Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc74875060|Orava Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc11962391|Orava Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc149627924|Banská Štiavnica": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc935354|Devín Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc149627929|Banská Štiavnica": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc935388|Devín Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc16395260|Slovak Paradise": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc201248922|Trenčín Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc17195182|Trenčín Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb14362|Slovakia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb6872|Slovakia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

@@ -8640,5 +8640,63 @@
    "name": "Triglav National Park",
    "q": "Mount Triglav"
   }
+ ],
+ "Slovakia": [
+  {
+   "name": "Bojnice Castle",
+   "q": "Bojnice Castle"
+  },
+  {
+   "name": "Spiš Castle",
+   "q": "Spis Castle"
+  },
+  {
+   "name": "Štrbské Pleso",
+   "q": "Strbske Pleso Tatras"
+  },
+  {
+   "name": "Bratislava Castle",
+   "q": "Bratislava Castle"
+  },
+  {
+   "name": "Orava Castle",
+   "q": "Orava Castle"
+  },
+  {
+   "name": "Chmarošský Viaduct",
+   "q": "Chmaros Viaduct Telgart"
+  },
+  {
+   "name": "Čičmany",
+   "q": "Cicmany village"
+  },
+  {
+   "name": "Banská Štiavnica",
+   "q": "Banska Stiavnica"
+  },
+  {
+   "name": "Devín Castle",
+   "q": "Devin Castle"
+  },
+  {
+   "name": "Vlkolínec",
+   "q": "Vlkolinec UNESCO"
+  },
+  {
+   "name": "Slovak Paradise",
+   "q": "Slovak Paradise National Park"
+  },
+  {
+   "name": "Lomnický Štít",
+   "q": "Lomnicky Stit Tatras"
+  },
+  {
+   "name": "Blue Church Bratislava",
+   "q": "Blue Church Bratislava"
+  },
+  {
+   "name": "Trenčín Castle",
+   "q": "Trencin Castle"
+  }
  ]
 }

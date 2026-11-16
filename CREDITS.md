@@ -914,3 +914,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-16-02-26 | Zelenci Nature Reserve | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Zelenci_4.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-02-26 | Triglav National Park | Pixabay (LynX_BGW) | https://pixabay.com/videos/id-306684/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-16-02-26 | Slovenia | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Predjama_castle,_Slovenia.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-05-38 | Slovakia | Pixabay (AS_Photography) | https://pixabay.com/videos/id-14362/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-05-38 | Bojnice Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bojnice_%E2%80%93_Bojnick%C3%BD_z%C3%A1mok_6.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-05-38 | Štrbské Pleso | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:%C5%A0trbsk%C3%A9_Pleso_railway_station_platforms.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-05-38 | Orava Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Slovensk%C3%BD_naivista_z_19._storo%C4%8Dia_-_Orava_Castle_-_O_3588_-_Slovak_National_Gallery.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-05-38 | Banská Štiavnica | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_%C5%A0tiavnica,_Cellofix_photo_postcard_1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-05-38 | Devín Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Slovakia-Devin_castle2.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-05-38 | Trenčín Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tren%C4%8D%C3%ADn_castle_in_Autumn.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-05-38 | Slovakia | Pixabay (DenisMat) | https://pixabay.com/videos/id-6872/ | Pixabay Content License, commercial use, no attribution needed |
