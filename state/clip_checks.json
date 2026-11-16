@@ -13534,5 +13534,135 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc69983143|Predjama Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc69919321|Predjama Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb385162|Lake Bled": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb223273|Lake Bled": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc181001381|Lake Bohinj": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb386375|Soča Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc61349946|Vintgar Gorge": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc135358753|Vintgar Gorge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61398583|Lake Bohinj": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc57277103|Ljubljana Triple Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc40378070|Piran Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc36287398|Piran Old Town": null,
+ "wmc3361671|Ljubljana Triple Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc36289575|Piran Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc36289607|Piran Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc44151465|Velika Planina": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc40709519|Velika Planina": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc166906220|Jamnik Church": null,
+ "wmc45781862|Logar Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc45781658|Logar Valley": null,
+ "wmc45781877|Logar Valley": null,
+ "wmc6586435|Zelenci Nature Reserve": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc39295454|Zelenci Nature Reserve": null,
+ "wmc163599743|Jamnik Church": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc166906219|Jamnik Church": null,
+ "wmc57329649|Zelenci Nature Reserve": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc163334161|Jamnik Church": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc141760825|Peričnik Waterfall": null,
+ "wmc24990052|Peričnik Waterfall": null,
+ "wmc24619730|Peričnik Waterfall": null,
+ "wmc24990016|Peričnik Waterfall": null,
+ "pxb306684|Triglav National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386375|Slovenia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb385162|Slovenia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

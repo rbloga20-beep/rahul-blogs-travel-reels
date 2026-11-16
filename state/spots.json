@@ -8582,5 +8582,63 @@
    "name": "Butrint",
    "q": "Butrint Ruins"
   }
+ ],
+ "Slovenia": [
+  {
+   "name": "Lake Bled",
+   "q": "Lake Bled"
+  },
+  {
+   "name": "Predjama Castle",
+   "q": "Predjama Castle"
+  },
+  {
+   "name": "Postojna Cave",
+   "q": "Postojna Cave"
+  },
+  {
+   "name": "Lake Bohinj",
+   "q": "Lake Bohinj"
+  },
+  {
+   "name": "Vintgar Gorge",
+   "q": "Vintgar Gorge"
+  },
+  {
+   "name": "Soča Valley",
+   "q": "Soca River"
+  },
+  {
+   "name": "Piran Old Town",
+   "q": "Piran"
+  },
+  {
+   "name": "Ljubljana Triple Bridge",
+   "q": "Ljubljana Triple Bridge"
+  },
+  {
+   "name": "Velika Planina",
+   "q": "Velika Planina"
+  },
+  {
+   "name": "Logar Valley",
+   "q": "Logar Valley"
+  },
+  {
+   "name": "Jamnik Church",
+   "q": "Jamnik Church"
+  },
+  {
+   "name": "Zelenci Nature Reserve",
+   "q": "Zelenci"
+  },
+  {
+   "name": "Peričnik Waterfall",
+   "q": "Pericnik Waterfall"
+  },
+  {
+   "name": "Triglav National Park",
+   "q": "Mount Triglav"
+  }
  ]
 }

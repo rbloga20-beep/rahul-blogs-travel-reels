@@ -903,3 +903,14 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-15-16-52 | Dhërmi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Dhermi_beach..JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-15-16-52 | Valbona Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kamping_n%C3%AB_Lugin%C3%ABn_e_Valbon%C3%ABs.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-15-16-52 | Albania | Pixabay (Albanian_Filmmaker) | https://pixabay.com/videos/id-302123/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Slovenia | Pixabay (AttilaPergel) | https://pixabay.com/videos/id-223273/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Lake Bled | Pixabay (Razzak_100) | https://pixabay.com/videos/id-385162/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Predjama Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:H%C3%B6hlenburg_Predjama,_Slowenien.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Lake Bohinj | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:2025_Bohinj_Lake_coast.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Vintgar Gorge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The-vintgar-gorge-2548278.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Soča Valley | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386375/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Ljubljana Triple Bridge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ljubljana-2149704.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Velika Planina | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Velika_planina_2015_(2).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Zelenci Nature Reserve | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Zelenci_4.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Triglav National Park | Pixabay (LynX_BGW) | https://pixabay.com/videos/id-306684/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-02-26 | Slovenia | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Predjama_castle,_Slovenia.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
