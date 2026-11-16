@@ -14009,5 +14009,71 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc116555716|Nissi Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc116555717|Nissi Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb296980|Cape Greco": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc116553007|Lefkara Village": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc116553005|Lefkara Village": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc116553006|Lefkara Village": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc193958262|Kourion Amphitheatre": null,
+ "pxb356517|Tombs of the Kings": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc116611760|Larnaca Salt Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb218681|Tombs of the Kings": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc186593337|Larnaca Salt Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc186350718|Fig Tree Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb258369|Cyprus": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb280146|Cyprus": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

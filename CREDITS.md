@@ -947,3 +947,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-16-15-52 | St. Peter's Pool | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:St._Peter%27s_Pool_%C3%A0_Malte.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-15-52 | Ramla Bay | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:2025_Ramla_bay_Mary.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-15-52 | Malta | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-354344/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-17-23 | Cyprus | Pixabay (Gunay07) | https://pixabay.com/videos/id-258369/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-17-23 | Nissi Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:2022_03_Nissi_beach_2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-17-23 | Cape Greco | Pixabay (raihantalukdeer) | https://pixabay.com/videos/id-296980/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-16-17-23 | Lefkara Village | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:2022_03_Pano_Lefkara_1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-17-23 | Larnaca Salt Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:2022_03_Larnaca_Salt_Lake_3.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-17-23 | Fig Tree Bay | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Protaras,_Cyprus,_Fig_Tree_Bay,_view_to_North_Cyprus_mountains.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-16-17-23 | Cyprus | Pixabay (sean_atalioti) | https://pixabay.com/videos/id-280146/ | Pixabay Content License, commercial use, no attribution needed |

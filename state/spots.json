@@ -8872,5 +8872,63 @@
    "name": "Mosta Dome",
    "q": "Mosta Rotunda"
   }
+ ],
+ "Cyprus": [
+  {
+   "name": "Aphrodite's Rock",
+   "q": "Petra tou Romiou"
+  },
+  {
+   "name": "Blue Lagoon Akamas",
+   "q": "Akamas Blue Lagoon"
+  },
+  {
+   "name": "Nissi Beach",
+   "q": "Nissi Beach"
+  },
+  {
+   "name": "Cape Greco",
+   "q": "Cape Greco"
+  },
+  {
+   "name": "Ayia Napa Sea Caves",
+   "q": "Ayia Napa Sea Caves"
+  },
+  {
+   "name": "Edro III Shipwreck",
+   "q": "Edro III"
+  },
+  {
+   "name": "Kyrenia Harbour",
+   "q": "Kyrenia Harbour"
+  },
+  {
+   "name": "Kourion Amphitheatre",
+   "q": "Kourion"
+  },
+  {
+   "name": "Lefkara Village",
+   "q": "Lefkara"
+  },
+  {
+   "name": "Tombs of the Kings",
+   "q": "Tombs of the Kings"
+  },
+  {
+   "name": "St. Hilarion Castle",
+   "q": "St Hilarion Castle"
+  },
+  {
+   "name": "Larnaca Salt Lake",
+   "q": "Larnaca Salt Lake"
+  },
+  {
+   "name": "Fig Tree Bay",
+   "q": "Fig Tree Bay"
+  },
+  {
+   "name": "Millomeris Waterfall",
+   "q": "Millomeris Waterfall"
+  }
  ]
 }
