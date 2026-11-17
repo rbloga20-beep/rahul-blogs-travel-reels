@@ -14618,5 +14618,271 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc87321232|Casco Viejo": null,
+ "wmc48089793|Casco Viejo": null,
+ "wmc63883240|Casco Viejo": null,
+ "wmc86063276|Casco Viejo": null,
+ "wmc159435522|San Blas Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb346372|Bocas del Toro": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc152332172|Coiba National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc156758923|Coiba National Park": null,
+ "pxb281828|Pearl Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb281835|Pearl Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc117073737|Santa Catalina": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc169379396|Santa Catalina": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc98323939|Santa Catalina": null,
+ "pxb281830|Pearl Islands": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc199249592|Portobelo": null,
+ "wmc125137993|Gamboa Rainforest": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc62074580|Portobelo": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc133565525|Great Blue Hole": null,
+ "wmc6515716|Great Blue Hole": null,
+ "wmc15505571|Great Blue Hole": null,
+ "wmc24958921|Great Blue Hole": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc158809383|Hol Chan Marine Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc95243631|Caracol Maya Ruins": null,
+ "wmc2100222|Lamanai Maya Ruins": null,
+ "wmc76240593|Caracol Maya Ruins": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc108705846|Caracol Maya Ruins": null,
+ "wmc38008348|Placencia Peninsula": null,
+ "wmc37266519|Placencia Peninsula": null,
+ "wmc37250917|Placencia Peninsula": null,
+ "pxb332678|Big Rock Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc61064280|Rio On Pools": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc73709662|Rio On Pools": null,
+ "wmc66696922|Rio On Pools": null,
+ "wmc66696927|Rio On Pools": null,
+ "wmc84934446|Placencia Peninsula": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc58407793|Pig Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc23296255|Pig Beach": null,
+ "wmc86177446|Pig Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc153623591|Atlantis Paradise Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc57019557|Thunderball Grotto": null,
+ "wmc57019566|Thunderball Grotto": null,
+ "wmc23776533|Thunderball Grotto": null,
+ "wmc23776565|Thunderball Grotto": null,
+ "pxb280497|Pink Sands Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc111465515|Compass Cay": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc34936649|Montaña Redonda": null,
+ "wmc24814220|Montaña Redonda": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc655185|Altos de Chavón": null,
+ "wmc655169|Altos de Chavón": null,
+ "wmc655195|Altos de Chavón": null,
+ "wmc36289052|Playa Rincón": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc157377153|Playa Rincón": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc157377152|Playa Rincón": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc157377131|Playa Rincón": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc5850388|Punta Cana": null,
+ "wmc11504050|Punta Cana": null,
+ "wmc185315716|Zona Colonial": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc91275539|Playa Macao": null,
+ "wmc91275115|Playa Macao": null,
+ "wmc91275116|Playa Macao": null,
+ "wmc91275827|Playa Macao": null,
+ "wmc151334616|Bahía de Samaná": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc89061261|Nylon Pool": null,
+ "wmc89059814|Nylon Pool": null,
+ "wmc89060628|Nylon Pool": null,
+ "wmc89059984|Nylon Pool": null,
+ "pxb299564|Pigeon Point": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb55762|Maracas Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb144411|Pigeon Point": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb24705|Pigeon Point": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb308186|Pigeon Point": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc26770398|Englishman's Bay": null,
+ "wmc121534993|Englishman's Bay": null,
+ "wmc167643793|Argyle Waterfall": null,
+ "wmc167643804|Argyle Waterfall": null,
+ "wmc167643806|Argyle Waterfall": null,
+ "wmc165128969|Pitch Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc121832131|Pitch Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc67415831|Pitch Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc6256435|Asa Wright Nature Centre": null,
+ "wmc7004411|Castara Bay": null,
+ "wmc80977090|Castara Bay": null,
+ "wmc7004398|Castara Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc119316865|Castara Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb21358|Temple in the Sea": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc73035409|Little Tobago": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc73035438|Little Tobago": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb369185|Caroni Bird Sanctuary": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc61773490|Little Tobago": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb216515|Caroni Bird Sanctuary": {
+  "v": 3,
+  "ok": false,
+  "s": 6
  }
 }

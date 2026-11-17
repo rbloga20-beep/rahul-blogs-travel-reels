@@ -638,5 +638,37 @@
  "Guatemala": {
   "date": "2026-11-17",
   "status": "posted"
+ },
+ "Panama": {
+  "date": "2026-11-17",
+  "status": "no footage"
+ },
+ "Belize": {
+  "date": "2026-11-17",
+  "status": "no footage"
+ },
+ "Bahamas": {
+  "date": "2026-11-17",
+  "status": "no footage"
+ },
+ "Barbados": {
+  "date": "2026-11-17",
+  "status": "no footage"
+ },
+ "Dominican Republic": {
+  "date": "2026-11-17",
+  "status": "no footage"
+ },
+ "Trinidad and Tobago": {
+  "date": "2026-11-17",
+  "status": "no footage"
+ },
+ "Uruguay": {
+  "date": "2026-11-17",
+  "status": "no footage"
+ },
+ "Paraguay": {
+  "date": "2026-11-17",
+  "status": "no footage"
  }
 }

@@ -9278,5 +9278,469 @@
    "name": "Yaxha",
    "q": "Yaxha, Mayan temple"
   }
+ ],
+ "Panama": [
+  {
+   "name": "San Blas Islands",
+   "q": "San Blas"
+  },
+  {
+   "name": "Casco Viejo",
+   "q": "Casco Viejo"
+  },
+  {
+   "name": "Miraflores Locks",
+   "q": "Miraflores Locks"
+  },
+  {
+   "name": "Bocas del Toro",
+   "q": "Bocas del Toro"
+  },
+  {
+   "name": "Volcán Barú",
+   "q": "Volcan Baru"
+  },
+  {
+   "name": "Boquete",
+   "q": "Boquete"
+  },
+  {
+   "name": "Coiba National Park",
+   "q": "Coiba"
+  },
+  {
+   "name": "Biomuseo",
+   "q": "Biomuseo"
+  },
+  {
+   "name": "La India Dormida",
+   "q": "India Dormida"
+  },
+  {
+   "name": "Cinta Costera",
+   "q": "Cinta Costera"
+  },
+  {
+   "name": "Pearl Islands",
+   "q": "Pearl Islands"
+  },
+  {
+   "name": "Santa Catalina",
+   "q": "Santa Catalina"
+  },
+  {
+   "name": "Portobelo",
+   "q": "Portobelo"
+  },
+  {
+   "name": "Gamboa Rainforest",
+   "q": "Gamboa"
+  }
+ ],
+ "Belize": [
+  {
+   "name": "Great Blue Hole",
+   "q": "Great Blue Hole"
+  },
+  {
+   "name": "The Split, Caye Caulker",
+   "q": "Caye Caulker Split"
+  },
+  {
+   "name": "Xunantunich Maya Ruins",
+   "q": "Xunantunich"
+  },
+  {
+   "name": "Hol Chan Marine Reserve",
+   "q": "Hol Chan"
+  },
+  {
+   "name": "Shark Ray Alley",
+   "q": "Shark Ray Alley"
+  },
+  {
+   "name": "ATM Cave",
+   "q": "Actun Tunichil Muknal"
+  },
+  {
+   "name": "Caracol Maya Ruins",
+   "q": "Caracol"
+  },
+  {
+   "name": "Ambergris Caye",
+   "q": "Ambergris Caye"
+  },
+  {
+   "name": "Lamanai Maya Ruins",
+   "q": "Lamanai"
+  },
+  {
+   "name": "Big Rock Falls",
+   "q": "Big Rock Falls"
+  },
+  {
+   "name": "Placencia Peninsula",
+   "q": "Placencia"
+  },
+  {
+   "name": "Rio On Pools",
+   "q": "Rio On Pools"
+  },
+  {
+   "name": "Silk Caye",
+   "q": "Silk Caye"
+  },
+  {
+   "name": "Altun Ha Maya Ruins",
+   "q": "Altun Ha"
+  }
+ ],
+ "Bahamas": [
+  {
+   "name": "Pig Beach",
+   "q": "Pig Beach Exuma"
+  },
+  {
+   "name": "Dean's Blue Hole",
+   "q": "Deans Blue Hole"
+  },
+  {
+   "name": "Atlantis Paradise Island",
+   "q": "Atlantis Paradise Island"
+  },
+  {
+   "name": "Pink Sands Beach",
+   "q": "Pink Sands Beach"
+  },
+  {
+   "name": "Compass Cay",
+   "q": "Compass Cay Sharks"
+  },
+  {
+   "name": "Thunderball Grotto",
+   "q": "Thunderball Grotto"
+  },
+  {
+   "name": "Queen's Staircase",
+   "q": "Queens Staircase Nassau"
+  },
+  {
+   "name": "Glass Window Bridge",
+   "q": "Glass Window Bridge"
+  },
+  {
+   "name": "Ocean Atlas Underwater Sculpture",
+   "q": "Ocean Atlas Nassau"
+  },
+  {
+   "name": "CocoCay",
+   "q": "CocoCay"
+  },
+  {
+   "name": "Stocking Island",
+   "q": "Stocking Island Exuma"
+  },
+  {
+   "name": "Gold Rock Beach",
+   "q": "Gold Rock Beach"
+  },
+  {
+   "name": "Cable Beach",
+   "q": "Cable Beach Nassau"
+  },
+  {
+   "name": "Pipe Creek Sandbar",
+   "q": "Pipe Creek Sandbar"
+  }
+ ],
+ "Barbados": [
+  {
+   "name": "Carlisle Bay",
+   "q": "Carlisle Bay"
+  },
+  {
+   "name": "Bathsheba Beach",
+   "q": "Bathsheba Soup Bowl"
+  },
+  {
+   "name": "Harrison's Cave",
+   "q": "Harrisons Cave"
+  },
+  {
+   "name": "Crane Beach",
+   "q": "Crane Beach"
+  },
+  {
+   "name": "Bottom Bay",
+   "q": "Bottom Bay"
+  },
+  {
+   "name": "Animal Flower Cave",
+   "q": "Animal Flower Cave"
+  },
+  {
+   "name": "Hunte's Gardens",
+   "q": "Huntes Gardens"
+  },
+  {
+   "name": "St. Nicholas Abbey",
+   "q": "St Nicholas Abbey"
+  },
+  {
+   "name": "Pebbles Beach",
+   "q": "Pebbles Beach"
+  },
+  {
+   "name": "Cherry Tree Hill",
+   "q": "Cherry Tree Hill"
+  },
+  {
+   "name": "South Coast Boardwalk",
+   "q": "South Coast Boardwalk"
+  },
+  {
+   "name": "St. John's Parish Church",
+   "q": "St Johns Church"
+  },
+  {
+   "name": "Dover Beach",
+   "q": "Dover Beach"
+  },
+  {
+   "name": "Mount Gay Rum Distillery",
+   "q": "Mount Gay Rum"
+  }
+ ],
+ "Dominican Republic": [
+  {
+   "name": "Saona Island",
+   "q": "Saona Island, Caribbean beach"
+  },
+  {
+   "name": "Hoyo Azul",
+   "q": "Hoyo Azul, cenote"
+  },
+  {
+   "name": "Montaña Redonda",
+   "q": "Montana Redonda, swing"
+  },
+  {
+   "name": "Bahía de las Águilas",
+   "q": "Bahia de las Aguilas, beach"
+  },
+  {
+   "name": "Altos de Chavón",
+   "q": "Altos de Chavon, architecture"
+  },
+  {
+   "name": "Damajagua Waterfalls",
+   "q": "Damajagua, waterfalls"
+  },
+  {
+   "name": "Cayo Levantado",
+   "q": "Cayo Levantado, island"
+  },
+  {
+   "name": "Playa Rincón",
+   "q": "Playa Rincon, beach"
+  },
+  {
+   "name": "Los Haitises National Park",
+   "q": "Los Haitises, mangroves"
+  },
+  {
+   "name": "Zona Colonial",
+   "q": "Zona Colonial, Santo Domingo"
+  },
+  {
+   "name": "El Limón Waterfall",
+   "q": "El Limon, waterfall"
+  },
+  {
+   "name": "Punta Cana",
+   "q": "Punta Cana, resort"
+  },
+  {
+   "name": "Bahía de Samaná",
+   "q": "Samana, whale watching"
+  },
+  {
+   "name": "Playa Macao",
+   "q": "Playa Macao, surfing"
+  }
+ ],
+ "Trinidad and Tobago": [
+  {
+   "name": "Maracas Beach",
+   "q": "Maracas Bay"
+  },
+  {
+   "name": "Pigeon Point",
+   "q": "Tobago"
+  },
+  {
+   "name": "Nylon Pool",
+   "q": "Buccoo Reef"
+  },
+  {
+   "name": "Argyle Waterfall",
+   "q": "Tobago Waterfall"
+  },
+  {
+   "name": "Englishman's Bay",
+   "q": "Tobago Beach"
+  },
+  {
+   "name": "Pitch Lake",
+   "q": "La Brea"
+  },
+  {
+   "name": "Temple in the Sea",
+   "q": "Waterloo"
+  },
+  {
+   "name": "Castara Bay",
+   "q": "Castara"
+  },
+  {
+   "name": "Asa Wright Nature Centre",
+   "q": "Trinidad Rainforest"
+  },
+  {
+   "name": "Store Bay",
+   "q": "Crown Point"
+  },
+  {
+   "name": "Caroni Bird Sanctuary",
+   "q": "Scarlet Ibis"
+  },
+  {
+   "name": "Little Tobago",
+   "q": "Bird of Paradise Island"
+  },
+  {
+   "name": "Paria Waterfall",
+   "q": "Paria Bay"
+  },
+  {
+   "name": "Mount St. Benedict",
+   "q": "Tunapuna"
+  }
+ ],
+ "Uruguay": [
+  {
+   "name": "Casapueblo",
+   "q": "Punta Ballena"
+  },
+  {
+   "name": "Casco Histórico",
+   "q": "Colonia del Sacramento"
+  },
+  {
+   "name": "La Mano",
+   "q": "Playa Brava"
+  },
+  {
+   "name": "Cabo Polonio",
+   "q": "Lighthouse"
+  },
+  {
+   "name": "Calle de los Suspiros",
+   "q": "Colonia"
+  },
+  {
+   "name": "Plaza Independencia",
+   "q": "Montevideo"
+  },
+  {
+   "name": "Punta del Este",
+   "q": "Peninsula"
+  },
+  {
+   "name": "José Ignacio",
+   "q": "Faro"
+  },
+  {
+   "name": "Palacio Salvo",
+   "q": "Montevideo"
+  },
+  {
+   "name": "Punta del Diablo",
+   "q": "Fisherman village"
+  },
+  {
+   "name": "Mercado del Puerto",
+   "q": "Montevideo"
+  },
+  {
+   "name": "Valizas",
+   "q": "Sand dunes"
+  },
+  {
+   "name": "Piriápolis",
+   "q": "Cerro San Antonio"
+  },
+  {
+   "name": "Rambla de Montevideo",
+   "q": "Sunset"
+  }
+ ],
+ "Paraguay": [
+  {
+   "name": "Saltos del Monday",
+   "q": "Saltos del Monday"
+  },
+  {
+   "name": "Itaipu Dam",
+   "q": "Itaipu Dam"
+  },
+  {
+   "name": "Jesuit Missions of Trinidad",
+   "q": "Trinidad Ruins"
+  },
+  {
+   "name": "Jesús de Tavarangue",
+   "q": "Tavarangue Ruins"
+  },
+  {
+   "name": "Dunas de San Cosme y Damián",
+   "q": "San Cosme Dunes"
+  },
+  {
+   "name": "Palacio de los López",
+   "q": "Palacio de Lopez"
+  },
+  {
+   "name": "Salto Cristal",
+   "q": "Salto Cristal"
+  },
+  {
+   "name": "Laguna Blanca",
+   "q": "Laguna Blanca"
+  },
+  {
+   "name": "Cerro Corá National Park",
+   "q": "Cerro Cora"
+  },
+  {
+   "name": "Lake Ypacaraí",
+   "q": "Lake Ypacarai"
+  },
+  {
+   "name": "Panteón Nacional de los Héroes",
+   "q": "Panteon de Heroes"
+  },
+  {
+   "name": "Cerro Tres Kandú",
+   "q": "Tres Kandu"
+  },
+  {
+   "name": "Ojo de Mar",
+   "q": "Ojo de Mar"
+  },
+  {
+   "name": "Paraguayan Pantanal",
+   "q": "Paraguayan Pantanal"
+  }
  ]
 }
