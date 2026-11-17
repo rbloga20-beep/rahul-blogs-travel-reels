@@ -8930,5 +8930,121 @@
    "name": "Millomeris Waterfall",
    "q": "Millomeris Waterfall"
   }
+ ],
+ "Tunisia": [
+  {
+   "name": "Sidi Bou Said",
+   "q": "Sidi Bou Said"
+  },
+  {
+   "name": "El Jem Amphitheatre",
+   "q": "El Jem"
+  },
+  {
+   "name": "Medina of Tunis",
+   "q": "Tunis Medina"
+  },
+  {
+   "name": "Chott el Djerid",
+   "q": "Chott el Djerid"
+  },
+  {
+   "name": "Mos Espa",
+   "q": "Mos Espa"
+  },
+  {
+   "name": "Great Mosque of Kairouan",
+   "q": "Kairouan Mosque"
+  },
+  {
+   "name": "Matmata Troglodytes",
+   "q": "Matmata"
+  },
+  {
+   "name": "Djerbahood",
+   "q": "Djerbahood"
+  },
+  {
+   "name": "Carthage Ruins",
+   "q": "Carthage Ruins"
+  },
+  {
+   "name": "Douz Sahara Dunes",
+   "q": "Douz Sahara"
+  },
+  {
+   "name": "Chebika Oasis",
+   "q": "Chebika Oasis"
+  },
+  {
+   "name": "Hammamet Kasbah",
+   "q": "Hammamet Kasbah"
+  },
+  {
+   "name": "Ribat of Monastir",
+   "q": "Monastir Ribat"
+  },
+  {
+   "name": "Chenini Village",
+   "q": "Chenini"
+  }
+ ],
+ "Namibia": [
+  {
+   "name": "Deadvlei",
+   "q": "Deadvlei"
+  },
+  {
+   "name": "Dune 45",
+   "q": "Dune 45"
+  },
+  {
+   "name": "Kolmanskop",
+   "q": "Kolmanskop"
+  },
+  {
+   "name": "Spitzkoppe",
+   "q": "Spitzkoppe"
+  },
+  {
+   "name": "Sandwich Harbour",
+   "q": "Sandwich Harbour"
+  },
+  {
+   "name": "Skeleton Coast",
+   "q": "Skeleton Coast Shipwreck"
+  },
+  {
+   "name": "Etosha National Park",
+   "q": "Etosha"
+  },
+  {
+   "name": "Fish River Canyon",
+   "q": "Fish River Canyon"
+  },
+  {
+   "name": "Quiver Tree Forest",
+   "q": "Quiver Tree Forest"
+  },
+  {
+   "name": "Big Daddy Dune",
+   "q": "Big Daddy Dune"
+  },
+  {
+   "name": "Cape Cross Seal Reserve",
+   "q": "Cape Cross Seals"
+  },
+  {
+   "name": "Walvis Bay Lagoon",
+   "q": "Walvis Bay Flamingos"
+  },
+  {
+   "name": "Epupa Falls",
+   "q": "Epupa Falls"
+  },
+  {
+   "name": "Twyfelfontein",
+   "q": "Twyfelfontein"
+  }
  ]
 }

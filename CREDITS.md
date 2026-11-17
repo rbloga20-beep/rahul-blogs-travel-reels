@@ -954,3 +954,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-16-17-23 | Larnaca Salt Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:2022_03_Larnaca_Salt_Lake_3.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-17-23 | Fig Tree Bay | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Protaras,_Cyprus,_Fig_Tree_Bay,_view_to_North_Cyprus_mountains.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-16-17-23 | Cyprus | Pixabay (sean_atalioti) | https://pixabay.com/videos/id-280146/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-02-23 | Namibia | Pixabay (antonlukin) | https://pixabay.com/videos/id-284556/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-02-23 | Dune 45 | Pixabay (tommyvideo) | https://pixabay.com/videos/id-55442/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-02-23 | Spitzkoppe | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Spitzkoppe_and_rock_pool.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-02-23 | Skeleton Coast | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-360532/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-02-23 | Namibia | Pixabay (antonlukin) | https://pixabay.com/videos/id-284571/ | Pixabay Content License, commercial use, no attribution needed |

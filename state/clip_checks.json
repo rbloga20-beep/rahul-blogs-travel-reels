@@ -14075,5 +14075,115 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc11249048|Medina of Tunis": null,
+ "pxb128300|El Jem Amphitheatre": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb308886|Sidi Bou Said": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb308884|Sidi Bou Said": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb128301|El Jem Amphitheatre": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc21988047|Carthage Ruins": null,
+ "wmc61853889|Carthage Ruins": null,
+ "wmc61131091|Carthage Ruins": null,
+ "wmc22178968|Carthage Ruins": null,
+ "wmc153831205|Matmata Troglodytes": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc153831204|Matmata Troglodytes": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc153831207|Matmata Troglodytes": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc67447096|Chenini Village": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc67447076|Chenini Village": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb55501|Dune 45": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb338977|Dune 45": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb338975|Dune 45": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb55442|Dune 45": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb360532|Skeleton Coast": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc149144982|Spitzkoppe": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb361057|Etosha National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb258584|Etosha National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb218645|Etosha National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb218642|Etosha National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb284556|Namibia": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb284571|Namibia": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }
