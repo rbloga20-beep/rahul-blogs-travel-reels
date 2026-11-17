@@ -970,3 +970,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-17-08-26 | Huayna Potosi | Pixabay (adege) | https://pixabay.com/videos/id-207309/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-17-08-26 | Madidi National Park | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-381966/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-17-08-26 | Bolivia | Pixabay (antonlukin) | https://pixabay.com/videos/id-128192/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-11-13 | Cuba | Pixabay (ornanvelazquez) | https://pixabay.com/videos/id-381976/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-11-13 | Old Havana | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Shopping_mall_in_Old_Havana,_Cuba_LCCN2010638655.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-11-13 | Trinidad Plaza Mayor | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Plaza_Mayor_-_Trinidad_-_03.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-11-13 | Varadero Beach | Pixabay (Murati) | https://pixabay.com/videos/id-145947/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-11-13 | Plaza de la Revolución | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Plaza_de_la_Revoluci%C3%B3n_20240420_155436.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-11-13 | Hotel Nacional de Cuba | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hotel_Nacional_de_Cuba,_Havana,_Cuba_LCCN2010638786.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-11-13 | El Yunque Baracoa | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rooftop_image_of_Baracoa,_Cuba,_looking_towards_El_Yunque_mountain.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-11-13 | Che Guevara Mausoleum | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Che_Guevara_Mausoleum_Santa_Clara_Cuba.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-11-13 | Cuba | Pixabay (ornanvelazquez) | https://pixabay.com/videos/id-381969/ | Pixabay Content License, commercial use, no attribution needed |

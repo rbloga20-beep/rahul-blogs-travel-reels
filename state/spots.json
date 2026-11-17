@@ -9162,5 +9162,63 @@
    "name": "Incahuasi Island",
    "q": "Giant Cacti"
   }
+ ],
+ "Cuba": [
+  {
+   "name": "Old Havana",
+   "q": "Habana Vieja"
+  },
+  {
+   "name": "El Capitolio",
+   "q": "Capitolio Habana"
+  },
+  {
+   "name": "Malecón",
+   "q": "Malecon Havana"
+  },
+  {
+   "name": "Viñales Valley",
+   "q": "Vinales Valley"
+  },
+  {
+   "name": "Trinidad Plaza Mayor",
+   "q": "Trinidad Plaza Mayor"
+  },
+  {
+   "name": "Varadero Beach",
+   "q": "Varadero Beach"
+  },
+  {
+   "name": "Morro Castle",
+   "q": "Castillo del Morro"
+  },
+  {
+   "name": "Plaza de la Revolución",
+   "q": "Plaza de la Revolucion"
+  },
+  {
+   "name": "Palacio de Valle",
+   "q": "Palacio de Valle"
+  },
+  {
+   "name": "Cayo Coco",
+   "q": "Cayo Coco"
+  },
+  {
+   "name": "Hotel Nacional de Cuba",
+   "q": "Hotel Nacional Cuba"
+  },
+  {
+   "name": "Playa Paraíso",
+   "q": "Playa Paraiso"
+  },
+  {
+   "name": "El Yunque Baracoa",
+   "q": "El Yunque Baracoa"
+  },
+  {
+   "name": "Che Guevara Mausoleum",
+   "q": "Santa Clara Che Guevara"
+  }
  ]
 }

@@ -14449,5 +14449,90 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc118539395|Malecón": null,
+ "wmc116612502|El Capitolio": null,
+ "wmc167389861|Old Havana": null,
+ "wmc146093705|El Capitolio": null,
+ "wmc51589755|Old Havana": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc51750561|Old Havana": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc50917413|Old Havana": null,
+ "wmc6077542|Viñales Valley": null,
+ "wmc93878642|Viñales Valley": null,
+ "pxb145947|Varadero Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc65187198|Trinidad Plaza Mayor": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc202227496|Trinidad Plaza Mayor": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc128213263|Morro Castle": null,
+ "wmc147751594|Plaza de la Revolución": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc61487829|Plaza de la Revolución": null,
+ "wmc61487745|Plaza de la Revolución": null,
+ "wmc61487925|Plaza de la Revolución": null,
+ "wmc111097098|Cayo Coco": null,
+ "wmc111096923|Cayo Coco": null,
+ "wmc111096970|Cayo Coco": null,
+ "wmc51585493|Hotel Nacional de Cuba": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc202229470|Hotel Nacional de Cuba": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc202229466|Hotel Nacional de Cuba": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc145735351|Che Guevara Mausoleum": null,
+ "wmc61467304|El Yunque Baracoa": null,
+ "wmc55798679|Che Guevara Mausoleum": null,
+ "wmc55799339|Che Guevara Mausoleum": null,
+ "wmc61467251|El Yunque Baracoa": null,
+ "wmc25998435|El Yunque Baracoa": null,
+ "wmc77033368|Che Guevara Mausoleum": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc198756389|El Yunque Baracoa": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb381976|Cuba": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb381969|Cuba": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
