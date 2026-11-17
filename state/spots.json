@@ -9046,5 +9046,63 @@
    "name": "Twyfelfontein",
    "q": "Twyfelfontein"
   }
+ ],
+ "Zimbabwe": [
+  {
+   "name": "Victoria Falls",
+   "q": "Victoria Falls"
+  },
+  {
+   "name": "Mana Pools National Park",
+   "q": "Mana Pools"
+  },
+  {
+   "name": "Hwange National Park",
+   "q": "Hwange"
+  },
+  {
+   "name": "Great Zimbabwe",
+   "q": "Great Zimbabwe"
+  },
+  {
+   "name": "Matobo Hills",
+   "q": "Matobo Hills"
+  },
+  {
+   "name": "Lake Kariba",
+   "q": "Lake Kariba"
+  },
+  {
+   "name": "Chilojo Cliffs",
+   "q": "Chilojo Cliffs"
+  },
+  {
+   "name": "Mutarazi Falls",
+   "q": "Mutarazi Falls"
+  },
+  {
+   "name": "Chinhoyi Caves",
+   "q": "Chinhoyi Caves"
+  },
+  {
+   "name": "Vumba Mountains",
+   "q": "Vumba Mountains"
+  },
+  {
+   "name": "Chimanimani Mountains",
+   "q": "Chimanimani"
+  },
+  {
+   "name": "Victoria Falls Bridge",
+   "q": "Victoria Falls Bridge"
+  },
+  {
+   "name": "Nyanga National Park",
+   "q": "Nyanga"
+  },
+  {
+   "name": "Epworth Balancing Rocks",
+   "q": "Balancing Rocks"
+  }
  ]
 }

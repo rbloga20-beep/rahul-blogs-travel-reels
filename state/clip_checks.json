@@ -14185,5 +14185,74 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "wmc185768579|Hwange National Park": null,
+ "wmc185768586|Hwange National Park": null,
+ "wmc185768578|Hwange National Park": null,
+ "wmc185768577|Hwange National Park": null,
+ "pxb343125|Victoria Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc6931019|Mana Pools National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc17040973|Mana Pools National Park": null,
+ "pxb134762|Victoria Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc314629|Lake Kariba": null,
+ "wmc66520158|Mutarazi Falls": null,
+ "wmc9730201|Mutarazi Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc150272216|Mutarazi Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc66520226|Mutarazi Falls": null,
+ "wmc195962614|Epworth Balancing Rocks": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc91756485|Nyanga National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc195962618|Epworth Balancing Rocks": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc62226401|Nyanga National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc197433932|Nyanga National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc197433937|Nyanga National Park": null,
+ "pxb343125|Zimbabwe": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb134772|Zimbabwe": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
