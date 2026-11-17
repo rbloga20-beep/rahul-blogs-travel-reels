@@ -964,3 +964,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-17-05-10 | Nyanga National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:A_walk_in_the_Mist._(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-17-05-10 | Epworth Balancing Rocks | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Chiremba_Balancing_Rocks_-_Harare3500.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-17-05-10 | Zimbabwe | Pixabay (Teshy) | https://pixabay.com/videos/id-134762/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-08-26 | Bolivia | Pixabay (antonlukin) | https://pixabay.com/videos/id-128114/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-08-26 | Salar de Uyuni | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Uyuni_Salt_Flats_Bolivia.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-08-26 | Isla del Sol | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Isla_de_Sol,_Lago_Titicaca_3.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-08-26 | Huayna Potosi | Pixabay (adege) | https://pixabay.com/videos/id-207309/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-08-26 | Madidi National Park | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-381966/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-08-26 | Bolivia | Pixabay (antonlukin) | https://pixabay.com/videos/id-128192/ | Pixabay Content License, commercial use, no attribution needed |

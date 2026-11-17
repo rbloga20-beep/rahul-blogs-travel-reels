@@ -9104,5 +9104,63 @@
    "name": "Epworth Balancing Rocks",
    "q": "Balancing Rocks"
   }
+ ],
+ "Bolivia": [
+  {
+   "name": "Salar de Uyuni",
+   "q": "Uyuni Salt Flats"
+  },
+  {
+   "name": "Death Road",
+   "q": "Yungas Road"
+  },
+  {
+   "name": "Isla del Sol",
+   "q": "Lake Titicaca"
+  },
+  {
+   "name": "Laguna Colorada",
+   "q": "Red Lagoon"
+  },
+  {
+   "name": "Valle de la Luna",
+   "q": "Moon Valley"
+  },
+  {
+   "name": "Huayna Potosi",
+   "q": "Andes Mountains"
+  },
+  {
+   "name": "Tiwanaku",
+   "q": "Ancient Ruins"
+  },
+  {
+   "name": "Madidi National Park",
+   "q": "Amazon Rainforest"
+  },
+  {
+   "name": "Sucre",
+   "q": "White City"
+  },
+  {
+   "name": "Potosi",
+   "q": "Cerro Rico"
+  },
+  {
+   "name": "Laguna Verde",
+   "q": "Green Lagoon"
+  },
+  {
+   "name": "Mi Teleferico",
+   "q": "La Paz"
+  },
+  {
+   "name": "Torotoro National Park",
+   "q": "Dinosaur Footprints"
+  },
+  {
+   "name": "Incahuasi Island",
+   "q": "Giant Cacti"
+  }
  ]
 }

@@ -14254,5 +14254,200 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc75266203|Death Road": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc162831932|Isla del Sol": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61840258|Salar de Uyuni": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc48284503|Death Road": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc162831945|Isla del Sol": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc180533265|Death Road": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc191070907|Salar de Uyuni": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc17040973|Death Road": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc61846643|Salar de Uyuni": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc61674730|Salar de Uyuni": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb7127|Huayna Potosi": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb321037|Valle de la Luna": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb34608|Huayna Potosi": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb28916|Valle de la Luna": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb355608|Huayna Potosi": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb302462|Valle de la Luna": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb179970|Valle de la Luna": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb207309|Huayna Potosi": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb381966|Madidi National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb33641|Sucre": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb295629|Tiwanaku": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb67252|Madidi National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb33395|Sucre": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb311488|Tiwanaku": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb33393|Sucre": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb33396|Sucre": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb366653|Tiwanaku": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb312690|Tiwanaku": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb382965|Mi Teleferico": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb369827|Laguna Verde": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc149222732|Potosi": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc180428794|Potosi": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc8254975|Potosi": null,
+ "pxb369829|Laguna Verde": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb375120|Laguna Verde": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb378780|Laguna Verde": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc42599734|Incahuasi Island": null,
+ "wmc101234646|Torotoro National Park": null,
+ "wmc184749819|Incahuasi Island": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc184749654|Incahuasi Island": null,
+ "wmc42605108|Incahuasi Island": null,
+ "pxb128114|Bolivia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb128192|Bolivia": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
