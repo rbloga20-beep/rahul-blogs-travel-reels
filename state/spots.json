@@ -9220,5 +9220,63 @@
    "name": "Che Guevara Mausoleum",
    "q": "Santa Clara Che Guevara"
   }
+ ],
+ "Guatemala": [
+  {
+   "name": "Tikal National Park",
+   "q": "Tikal, Maya ruins"
+  },
+  {
+   "name": "Lake Atitlán",
+   "q": "Lake Atitlan, Panajachel"
+  },
+  {
+   "name": "Antigua Guatemala",
+   "q": "Antigua, Santa Catalina Arch"
+  },
+  {
+   "name": "Acatenango Volcano",
+   "q": "Acatenango, Fuego eruption"
+  },
+  {
+   "name": "Semuc Champey",
+   "q": "Semuc Champey, turquoise pools"
+  },
+  {
+   "name": "Flores Island",
+   "q": "Flores, Peten"
+  },
+  {
+   "name": "Pacaya Volcano",
+   "q": "Pacaya, lava"
+  },
+  {
+   "name": "Chichicastenango Market",
+   "q": "Chichicastenango, Mayan market"
+  },
+  {
+   "name": "San Juan La Laguna",
+   "q": "San Juan La Laguna, colorful streets"
+  },
+  {
+   "name": "Cerro de la Cruz",
+   "q": "Cerro de la Cruz, Antigua view"
+  },
+  {
+   "name": "Hobotenango",
+   "q": "Hobotenango, Hobbit houses"
+  },
+  {
+   "name": "Rio Dulce",
+   "q": "Rio Dulce, Livingston"
+  },
+  {
+   "name": "Santa Catarina Palopó",
+   "q": "Santa Catarina Palopo, Atitlan"
+  },
+  {
+   "name": "Yaxha",
+   "q": "Yaxha, Mayan temple"
+  }
  ]
 }

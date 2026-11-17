@@ -979,3 +979,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-17-11-13 | El Yunque Baracoa | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Rooftop_image_of_Baracoa,_Cuba,_looking_towards_El_Yunque_mountain.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-17-11-13 | Che Guevara Mausoleum | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Che_Guevara_Mausoleum_Santa_Clara_Cuba.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-17-11-13 | Cuba | Pixabay (ornanvelazquez) | https://pixabay.com/videos/id-381969/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-14-28 | Guatemala | Pixabay (javlemus) | https://pixabay.com/videos/id-24216/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-14-28 | Tikal National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tikal_Talud-tablero_Temple_at_Mundo_Perdido.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-14-28 | Lake Atitlán | Pixabay (javlemus) | https://pixabay.com/videos/id-24217/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-17-14-28 | Pacaya Volcano | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pacaya_Volcano.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-14-28 | Rio Dulce | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Green_R%C3%ADo_Dulce_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-17-14-28 | Yaxha | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Yaxha_Temple_(10515529223).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

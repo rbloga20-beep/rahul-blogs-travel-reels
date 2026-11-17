@@ -14534,5 +14534,89 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc107330775|Tikal National Park": null,
+ "wmc3136423|Antigua Guatemala": null,
+ "wmc107330776|Tikal National Park": null,
+ "wmc3136421|Antigua Guatemala": null,
+ "wmc3136420|Antigua Guatemala": null,
+ "pxb24217|Lake Atitlán": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc88517530|Tikal National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc107330765|Tikal National Park": null,
+ "wmc84276104|Flores Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc196390980|Acatenango Volcano": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc61752105|Flores Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc93596116|Flores Island": null,
+ "wmc2276651|Flores Island": null,
+ "wmc62194484|Acatenango Volcano": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc76314078|San Juan La Laguna": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc196390749|Chichicastenango Market": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc106729031|Pacaya Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc159246112|Cerro de la Cruz": null,
+ "wmc61648120|Rio Dulce": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc184621063|Cerro de la Cruz": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc159246124|Cerro de la Cruz": null,
+ "wmc159246120|Cerro de la Cruz": null,
+ "wmc108811841|Yaxha": null,
+ "wmc108811633|Yaxha": null,
+ "wmc108811369|Yaxha": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc108811921|Yaxha": null,
+ "pxb24216|Guatemala": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb24217|Guatemala": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
