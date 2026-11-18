@@ -9742,5 +9742,63 @@
    "name": "Paraguayan Pantanal",
    "q": "Paraguayan Pantanal"
   }
+ ],
+ "Venezuela": [
+  {
+   "name": "Angel Falls",
+   "q": "Angel Falls"
+  },
+  {
+   "name": "Mount Roraima",
+   "q": "Mount Roraima"
+  },
+  {
+   "name": "Los Roques",
+   "q": "Los Roques"
+  },
+  {
+   "name": "Canaima Lagoon",
+   "q": "Canaima Lagoon"
+  },
+  {
+   "name": "Catatumbo Lightning",
+   "q": "Catatumbo Lightning"
+  },
+  {
+   "name": "Médanos de Coro",
+   "q": "Medanos de Coro"
+  },
+  {
+   "name": "Cayo Sombrero",
+   "q": "Cayo Sombrero"
+  },
+  {
+   "name": "Colonia Tovar",
+   "q": "Colonia Tovar"
+  },
+  {
+   "name": "Mérida Cable Car",
+   "q": "Mukumbari"
+  },
+  {
+   "name": "El Ávila National Park",
+   "q": "El Avila"
+  },
+  {
+   "name": "Choroní",
+   "q": "Choroni"
+  },
+  {
+   "name": "Orinoco Delta",
+   "q": "Orinoco Delta"
+  },
+  {
+   "name": "Playa El Agua",
+   "q": "Playa El Agua"
+  },
+  {
+   "name": "Cueva del Guácharo",
+   "q": "Cueva del Guacharo"
+  }
  ]
 }

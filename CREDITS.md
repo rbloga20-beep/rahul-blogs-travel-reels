@@ -985,3 +985,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-17-14-28 | Pacaya Volcano | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pacaya_Volcano.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-17-14-28 | Rio Dulce | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Green_R%C3%ADo_Dulce_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-17-14-28 | Yaxha | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Yaxha_Temple_(10515529223).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-02-20 | Venezuela | Pixabay (Auzket) | https://pixabay.com/videos/id-129972/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-18-02-20 | Angel Falls | Pixabay (DragonPiao) | https://pixabay.com/videos/id-251790/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-18-02-20 | Los Roques | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS-46_Los_Roques_archipelago,_Venezuela.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-02-20 | El Ávila National Park | Pixabay (Leolo212) | https://pixabay.com/videos/id-244972/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-18-02-20 | Venezuela | Pixabay (Jrafave) | https://pixabay.com/videos/id-233975/ | Pixabay Content License, commercial use, no attribution needed |

@@ -14884,5 +14884,65 @@
   "v": 3,
   "ok": false,
   "s": 6
+ },
+ "wmc19229922|Mount Roraima": null,
+ "wmc48253938|Los Roques": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc62097302|Los Roques": null,
+ "pxb251790|Angel Falls": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb272094|Angel Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc112595087|Médanos de Coro": null,
+ "wmc14825142|Canaima Lagoon": null,
+ "wmc145434022|Catatumbo Lightning": null,
+ "wmc17734743|Canaima Lagoon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc84497657|Orinoco Delta": null,
+ "wmc120152581|Choroní": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb244972|El Ávila National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb233975|El Ávila National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc3286839|Playa El Agua": null,
+ "wmc3286758|Playa El Agua": null,
+ "wmc3287100|Playa El Agua": null,
+ "wmc3286985|Playa El Agua": null,
+ "pxb251790|Venezuela": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb233975|Venezuela": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb129972|Venezuela": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
