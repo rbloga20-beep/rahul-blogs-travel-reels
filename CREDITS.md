@@ -1019,3 +1019,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-18-14-23 | Khan Shatyr | Pixabay (doitboy) | https://pixabay.com/videos/id-41245/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-18-14-23 | Beket-Ata Mosque | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kyzylkup.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-18-14-23 | Kazakhstan | Pixabay (Arystan_001) | https://pixabay.com/videos/id-215022/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-18-17-16 | Kyrgyzstan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jeti-%C3%96g%C3%BCz.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-17-16 | Song-Kul Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Son-K%C3%B6l_lake.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-17-16 | Jeti-Oguz | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mosque_in_Jeti-%C3%96g%C3%BCz.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-17-16 | Burana Tower | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Burana_Tower_site_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-17-16 | Kolsay Lakes | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kolsay_lake_base.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-17-16 | Kel-Suu Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kel-Suu.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-17-16 | Arslanbob | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Arslanbob_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-17-16 | Kyrgyzstan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kolsay_Lake,_2022.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

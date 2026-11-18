@@ -15415,5 +15415,77 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc143368663|Issyk-Kul Lake": null,
+ "wmc199104041|Song-Kul Lake": null,
+ "wmc199103917|Song-Kul Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc141685917|Burana Tower": null,
+ "wmc143151621|Burana Tower": null,
+ "wmc143068467|Jeti-Oguz": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc110035721|Jeti-Oguz": null,
+ "wmc143151600|Burana Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc143151609|Burana Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc142980837|Jeti-Oguz": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc153049669|Kel-Suu Lake": null,
+ "wmc153049671|Kel-Suu Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc144928378|Arslanbob": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc195684151|Arslanbob": null,
+ "wmc144928367|Arslanbob": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc149546884|Kolsay Lakes": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc149546883|Kolsay Lakes": null,
+ "wmc45118740|Kolsay Lakes": null,
+ "wmc195684149|Arslanbob": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc125494794|Kolsay Lakes": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc105031371|Chon-Kemin": null,
+ "wmc200837507|Chon-Kemin": null,
+ "wmc148067233|Lenin Peak": null,
+ "pxb133262|Kyrgyzstan": {
+  "v": 3,
+  "ok": false,
+  "s": 1
  }
 }

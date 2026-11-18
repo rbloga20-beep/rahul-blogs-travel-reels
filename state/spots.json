@@ -10148,5 +10148,63 @@
    "name": "Turkistan",
    "q": "Khoja Ahmed Yasawi"
   }
+ ],
+ "Kyrgyzstan": [
+  {
+   "name": "Ala-Kul Lake",
+   "q": "Ala-Kul, Karakol"
+  },
+  {
+   "name": "Song-Kul Lake",
+   "q": "Song-Kul, Yurt"
+  },
+  {
+   "name": "Issyk-Kul Lake",
+   "q": "Issyk-Kul"
+  },
+  {
+   "name": "Skazka Canyon",
+   "q": "Skazka, Fairytale Canyon"
+  },
+  {
+   "name": "Jeti-Oguz",
+   "q": "Jeti-Oguz, Seven Bulls"
+  },
+  {
+   "name": "Burana Tower",
+   "q": "Burana Tower"
+  },
+  {
+   "name": "Kolsay Lakes",
+   "q": "Kolsay"
+  },
+  {
+   "name": "Kel-Suu Lake",
+   "q": "Kel-Suu"
+  },
+  {
+   "name": "Arslanbob",
+   "q": "Arslanbob, Walnut Forest"
+  },
+  {
+   "name": "Sary-Chelek",
+   "q": "Sary-Chelek"
+  },
+  {
+   "name": "Chon-Kemin",
+   "q": "Chon-Kemin"
+  },
+  {
+   "name": "Barskoon Waterfall",
+   "q": "Barskoon"
+  },
+  {
+   "name": "Tash Rabat",
+   "q": "Tash Rabat"
+  },
+  {
+   "name": "Lenin Peak",
+   "q": "Lenin Peak, Pamir"
+  }
  ]
 }
