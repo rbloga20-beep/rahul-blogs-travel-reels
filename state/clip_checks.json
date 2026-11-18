@@ -15137,5 +15137,154 @@
   "v": 3,
   "ok": false,
   "s": 3
+ },
+ "wmc126355547|Gutenberg Castle": null,
+ "wmc79581583|Vaduz Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc88764209|Red House Vaduz": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc141542932|Red House Vaduz": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc41551212|Fürstensteig Trail": null,
+ "wmc41552831|Fürstensteig Trail": null,
+ "wmc50950116|Cathedral of St. Florin": null,
+ "wmc50950021|Cathedral of St. Florin": null,
+ "wmc33301160|Old Rhine Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc33346337|Old Rhine Bridge": null,
+ "wmc33342834|Old Rhine Bridge": null,
+ "wmc33342134|Old Rhine Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc110837400|Kunstmuseum Liechtenstein": null,
+ "wmc60270022|Sareis Chairlift": null,
+ "wmc12619665|Sareis Chairlift": null,
+ "wmc60871094|Sareis Chairlift": null,
+ "wmc98280952|Sareis Chairlift": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc153518275|Steg Reservoir": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc163498380|Steg Reservoir": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc89347612|Steg Reservoir": null,
+ "wmc153518276|Steg Reservoir": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc200402199|Noblesse du Temps": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc200402142|Noblesse du Temps": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc202692607|Noblesse du Temps": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc200404678|Noblesse du Temps": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc1170623|Ordino Village": null,
+ "wmc141627259|Casa de la Vall": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc22492485|Sant Romà de les Bons": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc138295914|Sant Romà de les Bons": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc195915266|Old City Baku": null,
+ "wmc7112049|Old City Baku": null,
+ "wmc7137577|Old City Baku": null,
+ "wmc195915263|Old City Baku": null,
+ "pxb252356|Flame Towers": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc150454200|Heydar Aliyev Center": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb252343|Flame Towers": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc195915257|Heydar Aliyev Center": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc150454978|Heydar Aliyev Center": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc150004320|Gobustan Mud Volcanoes": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc195957871|Candy Cane Mountains": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc195915253|Yanar Dag": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc195915253|Gobustan Mud Volcanoes": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc169618856|Ateshgah Fire Temple": null,
+ "wmc169618287|Ateshgah Fire Temple": null,
+ "wmc142030262|Lake Goygol": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

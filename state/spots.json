@@ -9916,5 +9916,179 @@
    "name": "Fort Antoine",
    "q": "Fort Antoine"
   }
+ ],
+ "Liechtenstein": [
+  {
+   "name": "Vaduz Castle",
+   "q": "Vaduz Castle"
+  },
+  {
+   "name": "Gutenberg Castle",
+   "q": "Gutenberg Castle"
+  },
+  {
+   "name": "Red House Vaduz",
+   "q": "Rotes Haus"
+  },
+  {
+   "name": "Old Rhine Bridge",
+   "q": "Old Rhine Bridge"
+  },
+  {
+   "name": "Fürstensteig Trail",
+   "q": "Furstensteig"
+  },
+  {
+   "name": "Cathedral of St. Florin",
+   "q": "St Florin Cathedral"
+  },
+  {
+   "name": "Malbun Village",
+   "q": "Malbun"
+  },
+  {
+   "name": "Sareis Chairlift",
+   "q": "Sareis"
+  },
+  {
+   "name": "Kunstmuseum Liechtenstein",
+   "q": "Kunstmuseum Liechtenstein"
+  },
+  {
+   "name": "Triesenberg",
+   "q": "Triesenberg"
+  },
+  {
+   "name": "Steg Reservoir",
+   "q": "Stausee Steg"
+  },
+  {
+   "name": "Schellenberg Castle Ruins",
+   "q": "Schellenberg Ruins"
+  },
+  {
+   "name": "Augstenberg Peak",
+   "q": "Augstenberg"
+  },
+  {
+   "name": "Pfälzerhütte",
+   "q": "Pfalzerhutte"
+  }
+ ],
+ "Andorra": [
+  {
+   "name": "Mirador Roc del Quer",
+   "q": "Roc del Quer"
+  },
+  {
+   "name": "Canillo Tibetan Bridge",
+   "q": "Canillo Tibetan Bridge"
+  },
+  {
+   "name": "Tristaina Solar Viewpoint",
+   "q": "Tristaina Solar"
+  },
+  {
+   "name": "Tristaina Lakes",
+   "q": "Estanys de Tristaina"
+  },
+  {
+   "name": "Caldea Thermal Spa",
+   "q": "Caldea Spa"
+  },
+  {
+   "name": "Meritxell Sanctuary",
+   "q": "Meritxell Sanctuary"
+  },
+  {
+   "name": "Sant Joan de Caselles",
+   "q": "Sant Joan Caselles"
+  },
+  {
+   "name": "Vall de Incles",
+   "q": "Vall de Incles"
+  },
+  {
+   "name": "Noblesse du Temps",
+   "q": "Noblesse du Temps"
+  },
+  {
+   "name": "Tobotronc",
+   "q": "Tobotronc"
+  },
+  {
+   "name": "Ordino Village",
+   "q": "Ordino"
+  },
+  {
+   "name": "Casa de la Vall",
+   "q": "Casa de Vall"
+  },
+  {
+   "name": "Grandvalira Ski Resort",
+   "q": "Grandvalira"
+  },
+  {
+   "name": "Sant Romà de les Bons",
+   "q": "Sant Roma Bons"
+  }
+ ],
+ "Azerbaijan": [
+  {
+   "name": "Flame Towers",
+   "q": "Flame Towers Baku"
+  },
+  {
+   "name": "Heydar Aliyev Center",
+   "q": "Heydar Aliyev Center"
+  },
+  {
+   "name": "Old City Baku",
+   "q": "Icherisheher Baku"
+  },
+  {
+   "name": "Gobustan Mud Volcanoes",
+   "q": "Gobustan Mud Volcanoes"
+  },
+  {
+   "name": "Yanar Dag",
+   "q": "Yanar Dag Fire"
+  },
+  {
+   "name": "Candy Cane Mountains",
+   "q": "Candy Cane Mountains"
+  },
+  {
+   "name": "Sheki Khans Palace",
+   "q": "Sheki Palace"
+  },
+  {
+   "name": "Khinalug Village",
+   "q": "Khinalug"
+  },
+  {
+   "name": "Shahdag Resort",
+   "q": "Shahdag Mountain"
+  },
+  {
+   "name": "Lake Goygol",
+   "q": "Lake Goygol"
+  },
+  {
+   "name": "Ateshgah Fire Temple",
+   "q": "Ateshgah Temple"
+  },
+  {
+   "name": "Highland Park Baku",
+   "q": "Highland Park Baku"
+  },
+  {
+   "name": "Baku Boulevard",
+   "q": "Baku Boulevard"
+  },
+  {
+   "name": "Nizami Street",
+   "q": "Nizami Street Baku"
+  }
  ]
 }
