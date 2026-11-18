@@ -15286,5 +15286,134 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc149546880|Kolsai Lakes": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc143020515|Charyn Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc149546881|Kaindy Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc143020522|Charyn Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc149546882|Kaindy Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb215022|Bayterek Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc82706028|Big Almaty Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc82828424|Big Almaty Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc12847713|Big Almaty Lake": null,
+ "pxb40704|Bayterek Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb41245|Bayterek Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb41244|Bayterek Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc6361512|Medeu": null,
+ "wmc16324813|Medeu": null,
+ "pxb215022|Khan Shatyr": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb40704|Khan Shatyr": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb41245|Khan Shatyr": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb41244|Khan Shatyr": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc139149968|Beket-Ata Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc192066697|Beket-Ata Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc192082007|Beket-Ata Mosque": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc192081998|Beket-Ata Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc169555916|Tamgaly Tas": null,
+ "wmc12900928|Turkistan": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc12865087|Turkistan": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc12874210|Turkistan": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc151649565|Turkistan": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb293992|Kazakhstan": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb215022|Kazakhstan": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

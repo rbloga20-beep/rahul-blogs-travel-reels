@@ -1012,3 +1012,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-18-11-14 | Candy Cane Mountains | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Candy_Cane_Mountains_-_CandyCaneMts8300.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-18-11-14 | Lake Goygol | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Goygol_National_Park_(1).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-18-11-14 | Azerbaijan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:HEIDAR_ALIYEV_CENTER_AND_GARDENS.%D7%9E%D7%A8%D7%9B%D7%96_%D7%94%D7%99%D7%99%D7%93%D7%A8_%D7%90%D7%9C%D7%99%D7%99%D7%91_%D7%95%D7%94%D7%93%D7%A9%D7%90.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-14-23 | Kazakhstan | Pixabay (Stepanovnn) | https://pixabay.com/videos/id-293992/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-18-14-23 | Charyn Canyon | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Charyn_Canyon,_Kazakhstan_03.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-14-23 | Kaindy Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kaindy_lake.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-14-23 | Kolsai Lakes | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kolsai_lake.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-14-23 | Khan Shatyr | Pixabay (doitboy) | https://pixabay.com/videos/id-41245/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-18-14-23 | Beket-Ata Mosque | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kyzylkup.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-14-23 | Kazakhstan | Pixabay (Arystan_001) | https://pixabay.com/videos/id-215022/ | Pixabay Content License, commercial use, no attribution needed |

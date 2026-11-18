@@ -10090,5 +10090,63 @@
    "name": "Nizami Street",
    "q": "Nizami Street Baku"
   }
+ ],
+ "Kazakhstan": [
+  {
+   "name": "Charyn Canyon",
+   "q": "Charyn Canyon"
+  },
+  {
+   "name": "Kaindy Lake",
+   "q": "Kaindy Lake"
+  },
+  {
+   "name": "Kolsai Lakes",
+   "q": "Kolsai Lakes"
+  },
+  {
+   "name": "Big Almaty Lake",
+   "q": "Big Almaty Lake"
+  },
+  {
+   "name": "Singing Dune",
+   "q": "Altyn-Emel"
+  },
+  {
+   "name": "Bayterek Tower",
+   "q": "Astana"
+  },
+  {
+   "name": "Khan Shatyr",
+   "q": "Astana"
+  },
+  {
+   "name": "Medeu",
+   "q": "Medeu"
+  },
+  {
+   "name": "Shymbulak",
+   "q": "Shymbulak"
+  },
+  {
+   "name": "Aktau Mountains",
+   "q": "Altyn-Emel"
+  },
+  {
+   "name": "Beket-Ata Mosque",
+   "q": "Mangystau"
+  },
+  {
+   "name": "Boszhira Tract",
+   "q": "Boszhira"
+  },
+  {
+   "name": "Tamgaly Tas",
+   "q": "Tamgaly Tas"
+  },
+  {
+   "name": "Turkistan",
+   "q": "Khoja Ahmed Yasawi"
+  }
  ]
 }
