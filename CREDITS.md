@@ -990,3 +990,7 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-18-02-20 | Los Roques | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS-46_Los_Roques_archipelago,_Venezuela.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-18-02-20 | El Ávila National Park | Pixabay (Leolo212) | https://pixabay.com/videos/id-244972/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-18-02-20 | Venezuela | Pixabay (Jrafave) | https://pixabay.com/videos/id-233975/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-18-05-13 | Luxembourg | Pixabay (Jack4ac22) | https://pixabay.com/videos/id-77071/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-18-05-13 | Adolphe Bridge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Adolphe_Bridge_in_Luxembourg.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-05-13 | Grand Ducal Palace | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Grand_Ducal_Palace_-_Luxembourg_City_-_DSC05967.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-18-05-13 | Luxembourg | Pixabay (Jack4ac22) | https://pixabay.com/videos/id-77070/ | Pixabay Content License, commercial use, no attribution needed |

@@ -9800,5 +9800,63 @@
    "name": "Cueva del Guácharo",
    "q": "Cueva del Guacharo"
   }
+ ],
+ "Luxembourg": [
+  {
+   "name": "Vianden Castle",
+   "q": "Vianden Castle"
+  },
+  {
+   "name": "Chemin de la Corniche",
+   "q": "Chemin Corniche"
+  },
+  {
+   "name": "The Grund",
+   "q": "Grund Luxembourg"
+  },
+  {
+   "name": "Bock Casemates",
+   "q": "Bock Casemates"
+  },
+  {
+   "name": "Schiessentümpel Waterfall",
+   "q": "Schiessentumpel"
+  },
+  {
+   "name": "Adolphe Bridge",
+   "q": "Adolphe Bridge"
+  },
+  {
+   "name": "Esch-sur-Sûre",
+   "q": "Esch sur Sure"
+  },
+  {
+   "name": "Bourscheid Castle",
+   "q": "Bourscheid Castle"
+  },
+  {
+   "name": "Grand Ducal Palace",
+   "q": "Grand Ducal Palace"
+  },
+  {
+   "name": "Larochette Castle",
+   "q": "Larochette Castle"
+  },
+  {
+   "name": "Clervaux Castle",
+   "q": "Clervaux Castle"
+  },
+  {
+   "name": "Beaufort Castle",
+   "q": "Beaufort Castle"
+  },
+  {
+   "name": "Echternach Abbey",
+   "q": "Echternach Abbey"
+  },
+  {
+   "name": "Mudam Museum",
+   "q": "Mudam Luxembourg"
+  }
  ]
 }

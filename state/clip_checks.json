@@ -14944,5 +14944,75 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc87257326|Vianden Castle": null,
+ "wmc12276456|Vianden Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc79210872|Chemin de la Corniche": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc115284905|The Grund": null,
+ "wmc79210901|Chemin de la Corniche": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc47779140|Chemin de la Corniche": null,
+ "wmc94397810|The Grund": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc115284432|The Grund": null,
+ "wmc161067652|Chemin de la Corniche": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc13511630|Schiessentümpel Waterfall": null,
+ "wmc3014539|Schiessentümpel Waterfall": null,
+ "wmc12834653|Schiessentümpel Waterfall": null,
+ "wmc2044322|Schiessentümpel Waterfall": null,
+ "wmc157834623|Adolphe Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc47737730|Grand Ducal Palace": null,
+ "wmc47737733|Grand Ducal Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc194076583|Esch-sur-Sûre": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc47737731|Grand Ducal Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc148224962|Mudam Museum": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc148225093|Mudam Museum": null,
+ "pxb77071|Luxembourg": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb77070|Luxembourg": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }
