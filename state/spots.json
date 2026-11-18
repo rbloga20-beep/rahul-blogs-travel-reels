@@ -9858,5 +9858,63 @@
    "name": "Mudam Museum",
    "q": "Mudam Luxembourg"
   }
+ ],
+ "Monaco": [
+  {
+   "name": "Monte Carlo Casino",
+   "q": "Monte Carlo Casino"
+  },
+  {
+   "name": "Place du Casino",
+   "q": "Place du Casino"
+  },
+  {
+   "name": "Prince's Palace of Monaco",
+   "q": "Palais Princier"
+  },
+  {
+   "name": "Port Hercules",
+   "q": "Port Hercules"
+  },
+  {
+   "name": "Oceanographic Museum",
+   "q": "Oceanographic Museum"
+  },
+  {
+   "name": "Fairmont Hairpin Curve",
+   "q": "Fairmont Hairpin"
+  },
+  {
+   "name": "Monaco Cathedral",
+   "q": "Monaco Cathedral"
+  },
+  {
+   "name": "Jardin Exotique",
+   "q": "Jardin Exotique"
+  },
+  {
+   "name": "Larvotto Beach",
+   "q": "Larvotto Beach"
+  },
+  {
+   "name": "Japanese Garden",
+   "q": "Jardin Japonais"
+  },
+  {
+   "name": "Fontvieille Harbour",
+   "q": "Fontvieille Harbour"
+  },
+  {
+   "name": "Princess Grace Rose Garden",
+   "q": "Princess Grace Rose Garden"
+  },
+  {
+   "name": "Opéra de Monte-Carlo",
+   "q": "Salle Garnier"
+  },
+  {
+   "name": "Fort Antoine",
+   "q": "Fort Antoine"
+  }
  ]
 }

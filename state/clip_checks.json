@@ -15014,5 +15014,128 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "wmc5032126|Monte Carlo Casino": null,
+ "wmc33427928|Monte Carlo Casino": null,
+ "wmc33067269|Monte Carlo Casino": null,
+ "wmc124148621|Monte Carlo Casino": null,
+ "wmc87646643|Prince's Palace of Monaco": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc175543806|Place du Casino": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc112537286|Place du Casino": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc20413009|Place du Casino": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc112328089|Oceanographic Museum": null,
+ "wmc23701385|Fairmont Hairpin Curve": null,
+ "wmc175543709|Fairmont Hairpin Curve": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc23701384|Fairmont Hairpin Curve": null,
+ "wmc163207037|Oceanographic Museum": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc175543787|Fairmont Hairpin Curve": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc112468318|Oceanographic Museum": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc112423004|Oceanographic Museum": null,
+ "wmc61911624|Port Hercules": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc112592407|Larvotto Beach": null,
+ "wmc112566790|Larvotto Beach": null,
+ "wmc112608311|Larvotto Beach": null,
+ "wmc1565597|Monaco Cathedral": null,
+ "wmc715554|Monaco Cathedral": null,
+ "wmc19228589|Monaco Cathedral": null,
+ "wmc112608268|Larvotto Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc29703124|Monaco Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc165136063|Princess Grace Rose Garden": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc87646451|Fontvieille Harbour": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc112691903|Opéra de Monte-Carlo": null,
+ "wmc33066968|Opéra de Monte-Carlo": null,
+ "wmc201992266|Fort Antoine": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc33427970|Fort Antoine": null,
+ "wmc112456789|Fort Antoine": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc6489528|Opéra de Monte-Carlo": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc85411702|Opéra de Monte-Carlo": null,
+ "wmc111637809|Fort Antoine": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb32141|Monaco": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb32247|Monaco": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb32139|Monaco": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb32136|Monaco": {
+  "v": 3,
+  "ok": false,
+  "s": 3
  }
 }
