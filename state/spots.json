@@ -10206,5 +10206,63 @@
    "name": "Lenin Peak",
    "q": "Lenin Peak, Pamir"
   }
+ ],
+ "Lebanon": [
+  {
+   "name": "Jeita Grotto",
+   "q": "caves, stalactites, underground river"
+  },
+  {
+   "name": "Byblos Citadel",
+   "q": "Byblos, crusader castle, ancient harbor"
+  },
+  {
+   "name": "Baalbek Ruins",
+   "q": "Baalbek, Roman temples, Heliopolis"
+  },
+  {
+   "name": "Raouche Rocks",
+   "q": "Pigeon Rocks, Beirut coastline, sunset"
+  },
+  {
+   "name": "Cedars of God",
+   "q": "cedar forest, Bsharri, ancient trees"
+  },
+  {
+   "name": "Beiteddine Palace",
+   "q": "Beiteddine, Chouf, palace architecture"
+  },
+  {
+   "name": "Batroun Old Souk",
+   "q": "Batroun, cobblestone streets, coastal town"
+  },
+  {
+   "name": "Harissa Statue",
+   "q": "Our Lady of Lebanon, Jounieh, panoramic view"
+  },
+  {
+   "name": "Deir el Qamar",
+   "q": "Deir el Qamar, mountain village, stone houses"
+  },
+  {
+   "name": "Anfeh",
+   "q": "Anfeh, blue shutters, Mediterranean"
+  },
+  {
+   "name": "Mzaar Kfardebian",
+   "q": "Mzaar, ski resort, snowy mountains"
+  },
+  {
+   "name": "Beirut Souks",
+   "q": "Beirut, downtown, modern architecture"
+  },
+  {
+   "name": "Qadisha Valley",
+   "q": "Qadisha, holy valley, hiking"
+  },
+  {
+   "name": "Tyre Hippodrome",
+   "q": "Tyre, Roman ruins, archaeological site"
+  }
  ]
 }

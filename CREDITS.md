@@ -1027,3 +1027,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-18-17-16 | Kel-Suu Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kel-Suu.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-18-17-16 | Arslanbob | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Arslanbob_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-18-17-16 | Kyrgyzstan | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kolsay_Lake,_2022.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-02-20 | Lebanon | Pixabay (RyanHaddad) | https://pixabay.com/videos/id-120714/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-02-20 | Baalbek Ruins | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Capitals_in_ruins,_Baalbek_LOC_matpc.07083.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-02-20 | Cedars of God | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_cedars_of_Lebanon,_Cedrus_Libani_Barr._Camping_among_the_cedars._LOC_matpc.02140.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-02-20 | Anfeh | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS059-E-114445_-_View_of_Lebanon.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-02-20 | Qadisha Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Qadisha%27s_Heart.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-02-20 | Lebanon | Pixabay (RyanHaddad) | https://pixabay.com/videos/id-88403/ | Pixabay Content License, commercial use, no attribution needed |

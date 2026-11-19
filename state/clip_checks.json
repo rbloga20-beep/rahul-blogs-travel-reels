@@ -15487,5 +15487,71 @@
   "v": 3,
   "ok": false,
   "s": 1
+ },
+ "pxb297927|Jeita Grotto": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc31431201|Baalbek Ruins": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc31431063|Baalbek Ruins": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc66883191|Baalbek Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc66820078|Baalbek Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc192686076|Raouche Rocks": null,
+ "wmc192686091|Raouche Rocks": null,
+ "wmc192686087|Raouche Rocks": null,
+ "wmc192686088|Raouche Rocks": null,
+ "wmc66664164|Cedars of God": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc66470004|Harissa Statue": null,
+ "wmc66470015|Harissa Statue": null,
+ "wmc130562468|Beirut Souks": null,
+ "wmc104185225|Anfeh": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc104308372|Anfeh": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc82065804|Tyre Hippodrome": null,
+ "wmc148996782|Qadisha Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc66468613|Qadisha Valley": null,
+ "wmc66468783|Qadisha Valley": null,
+ "wmc66468739|Qadisha Valley": null,
+ "pxb120714|Lebanon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb88403|Lebanon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
