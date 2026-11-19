@@ -15674,5 +15674,285 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc67704910|Qal'at al-Bahrain": null,
+ "wmc67704911|Qal'at al-Bahrain": null,
+ "wmc195717629|Bahrain World Trade Center": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc179955867|Bab Al Bahrain": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc104964159|Bab Al Bahrain": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc104964708|Bab Al Bahrain": null,
+ "wmc99981618|Bahrain World Trade Center": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc104964158|Bab Al Bahrain": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc2731459|Tree of Life": null,
+ "pxb327692|Al Fateh Grand Mosque": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb369828|Bahrain National Theatre": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb303410|Al Fateh Grand Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb34734|Bahrain National Theatre": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb303407|Al Fateh Grand Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb89371|Bahrain National Theatre": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb303406|Al Fateh Grand Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb369875|Bahrain National Theatre": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc54549901|Manama Souq": null,
+ "wmc26094137|Manama Souq": null,
+ "wmc36409963|The Avenues Bahrain": null,
+ "wmc97530991|The Avenues Bahrain": null,
+ "wmc7514112|The Avenues Bahrain": null,
+ "wmc36413466|The Avenues Bahrain": null,
+ "wmc54543457|Manama Souq": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc20790645|Manama Souq": null,
+ "pxb24245|Bahrain International Circuit": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb384356|Al Dar Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb384355|Al Dar Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb384357|Al Dar Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb374067|Bahrain International Circuit": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb384352|Al Dar Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb353733|Bahrain International Circuit": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb173295|Akagera National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb78004|Nyungwe Forest National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb331422|Volcanoes National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb278890|Akagera National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb78005|Nyungwe Forest National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb331423|Volcanoes National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb240426|Akagera National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb308504|Akagera National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb131811|Volcanoes National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc149804580|Lake Kivu": null,
+ "wmc3347181|Kigali Genocide Memorial": null,
+ "wmc177254651|Kigali Convention Centre": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc166339523|Lake Kivu": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc153573836|Devil's Pool": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc125853893|Liuwa Plain National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc167722932|Lower Zambezi National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc176601834|Blue Lagoon National Park": null,
+ "wmc118910307|Blue Lagoon National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc179509888|Blue Lagoon National Park": null,
+ "wmc118888091|Blue Lagoon National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc14674678|Livingstone Island": null,
+ "wmc104165059|Bazaruto Archipelago": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc175709053|Bazaruto Archipelago": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc128455352|Quirimbas Archipelago": null,
+ "wmc121157553|Quirimbas Archipelago": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc30215528|Ilha de Mozambique": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc141210407|Quirimbas Archipelago": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc130402759|Ilha de Mozambique": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc111616934|Quirimbas Archipelago": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc54737685|Ilha de Mozambique": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc130402873|Ilha de Mozambique": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc104165059|Benguerra Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc144169307|Benguerra Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc400284|Lake Niassa": null,
+ "wmc80096671|Inhaca Island": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc3290263|Inhaca Island": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc30469848|Santa Maria": null,
+ "wmc93097395|Santa Maria": null,
+ "pxb208922|Mozambique": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb385245|Mozambique": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

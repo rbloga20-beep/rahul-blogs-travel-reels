@@ -10322,5 +10322,353 @@
    "name": "Wadi Al-Disah",
    "q": "Wadi Al-Disah, Tabuk"
   }
+ ],
+ "Bahrain": [
+  {
+   "name": "Bahrain World Trade Center",
+   "q": "Manama, Architecture, Skyscrapers"
+  },
+  {
+   "name": "Bab Al Bahrain",
+   "q": "Manama, Souq, Traditional"
+  },
+  {
+   "name": "Qal'at al-Bahrain",
+   "q": "Bahrain Fort, UNESCO, Archaeology"
+  },
+  {
+   "name": "Al Fateh Grand Mosque",
+   "q": "Mosque, Architecture, Islamic"
+  },
+  {
+   "name": "Tree of Life",
+   "q": "Desert, Nature, Solitary"
+  },
+  {
+   "name": "Bahrain National Theatre",
+   "q": "Architecture, Modern, Waterfront"
+  },
+  {
+   "name": "Arad Fort",
+   "q": "Muharraq, Fortress, Sunset"
+  },
+  {
+   "name": "Manama Souq",
+   "q": "Market, Spices, Vibrant"
+  },
+  {
+   "name": "The Avenues Bahrain",
+   "q": "Waterfront, Shopping, Promenade"
+  },
+  {
+   "name": "Bahrain International Circuit",
+   "q": "F1, Racing, Motorsports"
+  },
+  {
+   "name": "Sheikh Isa bin Ali House",
+   "q": "Muharraq, Heritage, Architecture"
+  },
+  {
+   "name": "Al Dar Islands",
+   "q": "Beach, Island, Turquoise"
+  },
+  {
+   "name": "Bu Maher Fort",
+   "q": "Pearling Path, Muharraq, History"
+  },
+  {
+   "name": "Dilmun Burial Mounds",
+   "q": "UNESCO, Desert, Ancient"
+  }
+ ],
+ "Rwanda": [
+  {
+   "name": "Volcanoes National Park",
+   "q": "Mountain Gorillas"
+  },
+  {
+   "name": "Nyungwe Forest National Park",
+   "q": "Canopy Walkway"
+  },
+  {
+   "name": "Akagera National Park",
+   "q": "African Safari"
+  },
+  {
+   "name": "Kigali Convention Centre",
+   "q": "Kigali Architecture"
+  },
+  {
+   "name": "Lake Kivu",
+   "q": "Lake Kivu"
+  },
+  {
+   "name": "Kigali Genocide Memorial",
+   "q": "Kigali Memorial"
+  },
+  {
+   "name": "Mount Bisoke",
+   "q": "Bisoke Crater"
+  },
+  {
+   "name": "Gishwati-Mukura National Park",
+   "q": "Chimpanzee Trekking"
+  },
+  {
+   "name": "Congo Nile Trail",
+   "q": "Congo Nile"
+  },
+  {
+   "name": "Kimironko Market",
+   "q": "Kigali Market"
+  },
+  {
+   "name": "Iby'iwacu Cultural Village",
+   "q": "Rwanda Culture"
+  },
+  {
+   "name": "Nyamirambo Women's Centre",
+   "q": "Nyamirambo"
+  },
+  {
+   "name": "King's Palace Museum",
+   "q": "Nyanza Palace"
+  },
+  {
+   "name": "Rubavu",
+   "q": "Rubavu Beach"
+  }
+ ],
+ "Uganda": [
+  {
+   "name": "Bwindi Impenetrable National Park",
+   "q": "Bwindi Gorilla Trekking"
+  },
+  {
+   "name": "Murchison Falls",
+   "q": "Murchison Falls"
+  },
+  {
+   "name": "Lake Bunyonyi",
+   "q": "Lake Bunyonyi"
+  },
+  {
+   "name": "Sipi Falls",
+   "q": "Sipi Falls"
+  },
+  {
+   "name": "Kazinga Channel",
+   "q": "Kazinga Channel"
+  },
+  {
+   "name": "Rwenzori Mountains",
+   "q": "Rwenzori Mountains"
+  },
+  {
+   "name": "Source of the Nile, Jinja",
+   "q": "Source of Nile"
+  },
+  {
+   "name": "Kidepo Valley National Park",
+   "q": "Kidepo Valley"
+  },
+  {
+   "name": "Kayabwe Equator Mark",
+   "q": "Kayabwe Equator"
+  },
+  {
+   "name": "Kibale National Park",
+   "q": "Kibale Forest"
+  },
+  {
+   "name": "Fort Portal Crater Lakes",
+   "q": "Fort Portal Crater"
+  },
+  {
+   "name": "Mgahinga Gorilla National Park",
+   "q": "Mgahinga"
+  },
+  {
+   "name": "Lake Mburo National Park",
+   "q": "Lake Mburo"
+  },
+  {
+   "name": "Ziwa Rhino Sanctuary",
+   "q": "Ziwa Rhino"
+  }
+ ],
+ "Ethiopia": [
+  {
+   "name": "Church of Saint George",
+   "q": "Lalibela Church"
+  },
+  {
+   "name": "Dallol Hydrothermal Field",
+   "q": "Dallol Danakil"
+  },
+  {
+   "name": "Erta Ale Volcano",
+   "q": "Erta Ale"
+  },
+  {
+   "name": "Simien Mountains",
+   "q": "Simien Mountains"
+  },
+  {
+   "name": "Abuna Yemata Guh",
+   "q": "Abuna Yemata"
+  },
+  {
+   "name": "Blue Nile Falls",
+   "q": "Blue Nile Falls"
+  },
+  {
+   "name": "Fasil Ghebbi",
+   "q": "Fasil Ghebbi"
+  },
+  {
+   "name": "Harar Old Town",
+   "q": "Harar Jugol"
+  },
+  {
+   "name": "Omo Valley",
+   "q": "Omo Valley"
+  },
+  {
+   "name": "Bale Mountains",
+   "q": "Bale Mountains"
+  },
+  {
+   "name": "Gheralta Mountains",
+   "q": "Gheralta"
+  },
+  {
+   "name": "Sof Omar Caves",
+   "q": "Sof Omar"
+  },
+  {
+   "name": "Obelisks of Axum",
+   "q": "Axum Stelae"
+  },
+  {
+   "name": "Wenchi Crater Lake",
+   "q": "Wenchi Crater"
+  }
+ ],
+ "Zambia": [
+  {
+   "name": "Victoria Falls",
+   "q": "Victoria Falls, Zambezi"
+  },
+  {
+   "name": "Devil's Pool",
+   "q": "Devils Pool, Livingstone"
+  },
+  {
+   "name": "South Luangwa National Park",
+   "q": "South Luangwa, Safari"
+  },
+  {
+   "name": "Lower Zambezi National Park",
+   "q": "Lower Zambezi, Canoeing"
+  },
+  {
+   "name": "Kafue National Park",
+   "q": "Kafue, Busanga Plains"
+  },
+  {
+   "name": "Liuwa Plain National Park",
+   "q": "Liuwa Plain, Wildebeest"
+  },
+  {
+   "name": "Lake Kariba",
+   "q": "Lake Kariba, Houseboat"
+  },
+  {
+   "name": "Kalambo Falls",
+   "q": "Kalambo Falls, Tanganyika"
+  },
+  {
+   "name": "Kasanka National Park",
+   "q": "Kasanka, Bat Migration"
+  },
+  {
+   "name": "Ngonye Falls",
+   "q": "Ngonye Falls, Sioma"
+  },
+  {
+   "name": "Blue Lagoon National Park",
+   "q": "Blue Lagoon, Kafue Flats"
+  },
+  {
+   "name": "Mutinondo Wilderness",
+   "q": "Mutinondo, Granite Inselbergs"
+  },
+  {
+   "name": "Chishimba Falls",
+   "q": "Chishimba Falls, Kasama"
+  },
+  {
+   "name": "Livingstone Island",
+   "q": "Livingstone Island, Zambezi"
+  }
+ ],
+ "Mozambique": [
+  {
+   "name": "Bazaruto Archipelago",
+   "q": "Bazaruto, dunes, turquoise"
+  },
+  {
+   "name": "Tofo Beach",
+   "q": "Tofo, surfing, whale shark"
+  },
+  {
+   "name": "Gorongosa National Park",
+   "q": "Gorongosa, safari, wildlife"
+  },
+  {
+   "name": "Ilha de Mozambique",
+   "q": "Ilha, colonial, architecture"
+  },
+  {
+   "name": "Quirimbas Archipelago",
+   "q": "Quirimbas, islands, snorkeling"
+  },
+  {
+   "name": "Maputo Central Railway Station",
+   "q": "Maputo, architecture, station"
+  },
+  {
+   "name": "Benguerra Island",
+   "q": "Benguerra, luxury, beach"
+  },
+  {
+   "name": "Ponta do Ouro",
+   "q": "Ponta, diving, dolphins"
+  },
+  {
+   "name": "Vilankulo",
+   "q": "Vilankulo, dhow, sunset"
+  },
+  {
+   "name": "Inhaca Island",
+   "q": "Inhaca, coral, reef"
+  },
+  {
+   "name": "Lake Niassa",
+   "q": "Niassa, lake, crystal"
+  },
+  {
+   "name": "Bilene Lagoon",
+   "q": "Bilene, lagoon, swimming"
+  },
+  {
+   "name": "Maputo Special Reserve",
+   "q": "Maputo, elephants, reserve"
+  },
+  {
+   "name": "Santa Maria",
+   "q": "Santa Maria, peninsula, beach"
+  }
  ]
 }

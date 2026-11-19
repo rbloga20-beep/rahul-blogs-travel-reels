@@ -710,5 +710,29 @@
  "Saudi Arabia": {
   "date": "2026-11-19",
   "status": "posted"
+ },
+ "Bahrain": {
+  "date": "2026-11-19",
+  "status": "no footage"
+ },
+ "Rwanda": {
+  "date": "2026-11-19",
+  "status": "no footage"
+ },
+ "Uganda": {
+  "date": "2026-11-19",
+  "status": "no footage"
+ },
+ "Ethiopia": {
+  "date": "2026-11-19",
+  "status": "no footage"
+ },
+ "Zambia": {
+  "date": "2026-11-19",
+  "status": "no footage"
+ },
+ "Mozambique": {
+  "date": "2026-11-19",
+  "status": "posted"
  }
 }

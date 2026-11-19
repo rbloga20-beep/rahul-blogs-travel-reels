@@ -1038,3 +1038,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-19-05-17 | King Abdullah Financial District | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:KAFD_14.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-19-05-17 | Farasan Islands | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS-42_Red_Sea_in_the_Middle_East.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-19-05-17 | Saudi Arabia | Pixabay (AtKinani) | https://pixabay.com/videos/id-269163/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-08-39 | Mozambique | Pixabay (SINAL-MULTIMEDIA) | https://pixabay.com/videos/id-208922/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-08-39 | Bazaruto Archipelago | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS059-E-92404_-_View_of_Mozambique.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-08-39 | Ilha de Mozambique | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Miseric%C3%B3rdia_Church_-_Mozambique_Island.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-08-39 | Quirimbas Archipelago | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Iss070e026322.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-08-39 | Inhaca Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Delagoa_bay.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-08-39 | Mozambique | Pixabay (u_co7757splw) | https://pixabay.com/videos/id-385245/ | Pixabay Content License, commercial use, no attribution needed |
