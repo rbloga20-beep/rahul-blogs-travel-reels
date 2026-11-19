@@ -10264,5 +10264,63 @@
    "name": "Tyre Hippodrome",
    "q": "Tyre, Roman ruins, archaeological site"
   }
+ ],
+ "Saudi Arabia": [
+  {
+   "name": "AlUla",
+   "q": "AlUla, Hegra"
+  },
+  {
+   "name": "Elephant Rock",
+   "q": "Elephant Rock, AlUla"
+  },
+  {
+   "name": "Maraya",
+   "q": "Maraya, AlUla"
+  },
+  {
+   "name": "Edge of the World",
+   "q": "Edge of the World, Riyadh"
+  },
+  {
+   "name": "Al Balad",
+   "q": "Al Balad, Jeddah"
+  },
+  {
+   "name": "Diriyah",
+   "q": "Diriyah, At-Turaif"
+  },
+  {
+   "name": "King Abdullah Financial District",
+   "q": "KAFD, Riyadh"
+  },
+  {
+   "name": "Kingdom Centre",
+   "q": "Kingdom Centre, Riyadh"
+  },
+  {
+   "name": "Jabal Al-Fil",
+   "q": "Jabal Al-Fil, AlUla"
+  },
+  {
+   "name": "Farasan Islands",
+   "q": "Farasan Islands, Red Sea"
+  },
+  {
+   "name": "Rijal Almaa",
+   "q": "Rijal Almaa, Asir"
+  },
+  {
+   "name": "Al-Masmak Fortress",
+   "q": "Masmak Fortress, Riyadh"
+  },
+  {
+   "name": "Jeddah Corniche",
+   "q": "Jeddah Corniche, Red Sea"
+  },
+  {
+   "name": "Wadi Al-Disah",
+   "q": "Wadi Al-Disah, Tabuk"
+  }
  ]
 }

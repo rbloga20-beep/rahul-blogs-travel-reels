@@ -1033,3 +1033,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-19-02-20 | Anfeh | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS059-E-114445_-_View_of_Lebanon.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-19-02-20 | Qadisha Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Qadisha%27s_Heart.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-19-02-20 | Lebanon | Pixabay (RyanHaddad) | https://pixabay.com/videos/id-88403/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-05-17 | Saudi Arabia | Pixabay (Music_Box) | https://pixabay.com/videos/id-113622/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-05-17 | Diriyah | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Diriyah2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-05-17 | King Abdullah Financial District | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:KAFD_14.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-05-17 | Farasan Islands | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS-42_Red_Sea_in_the_Middle_East.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-05-17 | Saudi Arabia | Pixabay (AtKinani) | https://pixabay.com/videos/id-269163/ | Pixabay Content License, commercial use, no attribution needed |

@@ -15553,5 +15553,126 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc4133200|AlUla": null,
+ "wmc61394074|Maraya": null,
+ "wmc61394077|Maraya": null,
+ "wmc101274476|Elephant Rock": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc147584744|Maraya": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc147584767|Maraya": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc159577733|Elephant Rock": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc57998233|Elephant Rock": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc128848387|Al Balad": null,
+ "wmc144699740|Diriyah": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc144699729|Diriyah": null,
+ "wmc144699724|Diriyah": null,
+ "wmc144699738|Diriyah": null,
+ "wmc200682103|Al Balad": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc146330379|Edge of the World": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc200682102|Al Balad": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc186356076|Edge of the World": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc200682106|Al Balad": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc143992416|Edge of the World": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc188332412|Edge of the World": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc134758734|Jabal Al-Fil": null,
+ "wmc153729704|Jabal Al-Fil": null,
+ "wmc153729862|Jabal Al-Fil": null,
+ "wmc157974564|Jabal Al-Fil": null,
+ "wmc195893311|King Abdullah Financial District": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc124830151|Kingdom Centre": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc195893314|King Abdullah Financial District": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc195878535|King Abdullah Financial District": null,
+ "wmc195878527|King Abdullah Financial District": null,
+ "wmc66533164|Al-Masmak Fortress": null,
+ "wmc38764670|Farasan Islands": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc76232364|Farasan Islands": null,
+ "wmc195873989|Farasan Islands": null,
+ "wmc123905589|Farasan Islands": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb120206|Saudi Arabia": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb113622|Saudi Arabia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb269163|Saudi Arabia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
