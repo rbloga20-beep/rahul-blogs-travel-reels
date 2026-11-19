@@ -1053,3 +1053,6 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-19-11-15 | Erakor Island | Pixabay (Solarselle77) | https://pixabay.com/videos/id-352855/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-19-11-15 | Lonnoc Beach | Pixabay (Relaxing_Guru) | https://pixabay.com/videos/id-42894/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-19-11-15 | Vanuatu | Pixabay (Ambient_Nature_Atmosphere) | https://pixabay.com/videos/id-164588/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-14-25 | Namua Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Namua_island_Samoa.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-14-25 | Savai'i Giant Clam Sanctuary | Pixabay (waiguobox) | https://pixabay.com/videos/id-161946/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-14-25 | Mulinu'u Peninsula | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mulinu%27u_by_Tattersall_Studios_-_Samoa_1893-1949.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

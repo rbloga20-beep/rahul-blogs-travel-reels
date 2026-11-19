@@ -16167,5 +16167,73 @@
   "v": 3,
   "ok": false,
   "s": 9
+ },
+ "wmc85403953|To Sua Ocean Trench": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc45522655|Sopoaga Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc45522650|Sopoaga Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc69018115|Papaseea Sliding Rocks": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc157326203|Tafatafa Beach": null,
+ "wmc83672480|Namua Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc22643838|Alofaaga Blowholes": null,
+ "wmc9141534|Falealupo Rainforest Preserve": null,
+ "wmc111122773|Falealupo Rainforest Preserve": null,
+ "wmc111096194|Falealupo Rainforest Preserve": null,
+ "wmc9141193|Falealupo Rainforest Preserve": null,
+ "pxb161946|Savai'i Giant Clam Sanctuary": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc16841908|Mulinu'u Peninsula": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc9531077|Mulinu'u Peninsula": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc16842176|Mulinu'u Peninsula": null,
+ "wmc16842366|Mulinu'u Peninsula": null,
+ "pxb139071|Samoa": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb24691|Samoa": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb362069|Samoa": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb314933|Samoa": {
+  "v": 3,
+  "ok": false,
+  "s": 1
  }
 }
