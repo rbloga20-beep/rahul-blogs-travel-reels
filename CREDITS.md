@@ -1056,3 +1056,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-19-14-25 | Namua Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Namua_island_Samoa.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-19-14-25 | Savai'i Giant Clam Sanctuary | Pixabay (waiguobox) | https://pixabay.com/videos/id-161946/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-19-14-25 | Mulinu'u Peninsula | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Mulinu%27u_by_Tattersall_Studios_-_Samoa_1893-1949.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-17-16 | Palau | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-348759/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-17-16 | Rock Islands | Pixabay (mafifp_) | https://pixabay.com/videos/id-152817/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-17-16 | Milky Way | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-362645/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-17-16 | Blue Corner | Pixabay (motionstock) | https://pixabay.com/videos/id-31503/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-17-16 | Kayangel Atoll | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cargo_drops_from_a_U.S._Air_Force_C-130_Hercules_aircraft_over_the_Pacific_Ocean_toward_a_landing_zone_on_the_shore_of_Kayangel_Island_during_the_62nd_annual_Operation_Christmas_Drop_Dec._11,_2013_131211-F-NA975-171.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-17-16 | Blue Holes | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-307699/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-17-16 | Palau | Pixabay (mafifp_) | https://pixabay.com/videos/id-152819/ | Pixabay Content License, commercial use, no attribution needed |

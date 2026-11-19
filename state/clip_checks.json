@@ -16235,5 +16235,120 @@
   "v": 3,
   "ok": false,
   "s": 1
+ },
+ "wmc7166016|Jellyfish Lake": null,
+ "pxb126923|Milky Way": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb349206|Milky Way": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb362645|Milky Way": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb152817|Rock Islands": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb134913|Milky Way": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb152819|Rock Islands": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb88635|German Channel": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb31503|Blue Corner": null,
+ "wmc41176448|Peleliu Island": null,
+ "wmc30267069|Kayangel Atoll": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc49448467|Kayangel Atoll": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc30544449|Kayangel Atoll": null,
+ "wmc43115963|Peleliu Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc148205463|Peleliu Island": null,
+ "wmc158096018|Ngerulmud Capitol": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc42803805|Kayangel Atoll": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc158095999|Ngerulmud Capitol": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc158096005|Ngerulmud Capitol": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc158096009|Ngerulmud Capitol": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc96320310|Long Beach Sandbar": null,
+ "wmc29815548|Long Beach Sandbar": null,
+ "wmc29815558|Long Beach Sandbar": null,
+ "wmc29917526|Long Beach Sandbar": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb307699|Blue Holes": null,
+ "pxb4968|Blue Holes": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb33941|Blue Holes": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb40404|Blue Holes": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc12844125|Badrulchau Monoliths": null,
+ "pxb348759|Palau": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb139070|Palau": {
+  "v": 3,
+  "ok": false,
+  "s": 1
  }
 }

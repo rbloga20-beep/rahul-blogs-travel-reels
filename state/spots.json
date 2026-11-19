@@ -10786,5 +10786,63 @@
    "name": "Palolo Deep Marine Reserve",
    "q": "Palolo Deep"
   }
+ ],
+ "Palau": [
+  {
+   "name": "Jellyfish Lake",
+   "q": "Jellyfish Lake"
+  },
+  {
+   "name": "Rock Islands",
+   "q": "Rock Islands"
+  },
+  {
+   "name": "Milky Way",
+   "q": "Milky Way"
+  },
+  {
+   "name": "Blue Corner",
+   "q": "Blue Corner"
+  },
+  {
+   "name": "German Channel",
+   "q": "German Channel"
+  },
+  {
+   "name": "Ngardmau Waterfall",
+   "q": "Ngardmau Waterfall"
+  },
+  {
+   "name": "Ngerulmud Capitol",
+   "q": "Ngerulmud Capitol"
+  },
+  {
+   "name": "Peleliu Island",
+   "q": "Peleliu Island"
+  },
+  {
+   "name": "Kayangel Atoll",
+   "q": "Kayangel Atoll"
+  },
+  {
+   "name": "Blue Holes",
+   "q": "Blue Holes"
+  },
+  {
+   "name": "Ulong Channel",
+   "q": "Ulong Channel"
+  },
+  {
+   "name": "Long Beach Sandbar",
+   "q": "Long Beach Sandbar"
+  },
+  {
+   "name": "Badrulchau Monoliths",
+   "q": "Badrulchau Monoliths"
+  },
+  {
+   "name": "Airai Bai",
+   "q": "Airai Bai"
+  }
  ]
 }
