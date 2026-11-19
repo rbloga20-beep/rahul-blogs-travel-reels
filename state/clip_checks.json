@@ -15954,5 +15954,218 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb297815|Blue Cave": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb281536|Mele Cascades": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb320509|Mount Yasur": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb378836|Mele Cascades": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb224152|Blue Cave": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb367646|Mount Yasur": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb266506|Mele Cascades": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb337102|Mount Yasur": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb373499|Mele Cascades": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb224153|Blue Cave": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb338329|Mount Yasur": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb386225|Champagne Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb281244|Nanda Blue Hole": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb158088|Millennium Cave": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb371534|Nanda Blue Hole": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb164588|Millennium Cave": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb6399|Champagne Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb386226|Champagne Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb6404|Champagne Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc132398310|Hideaway Island Underwater Post Office": null,
+ "pxb386256|Port Resolution": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc193474358|Riri Blue Hole": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc132398309|Hideaway Island Underwater Post Office": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb386257|Port Resolution": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc193474373|Riri Blue Hole": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb238302|Port Resolution": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc193474376|Riri Blue Hole": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb238303|Port Resolution": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc193474366|Riri Blue Hole": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb322898|Tanna Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc41256412|Million Dollar Point": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb352855|Erakor Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb323431|Tanna Island": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc39126024|Million Dollar Point": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc17056688|Million Dollar Point": null,
+ "wmc17057081|Million Dollar Point": null,
+ "pxb352853|Erakor Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb42894|Lonnoc Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb275166|Chief Roi Mata's Domain": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb7268|Lonnoc Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb7262|Lonnoc Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 0
+ },
+ "pxb94418|Chief Roi Mata's Domain": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb38460|Lonnoc Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb207907|Chief Roi Mata's Domain": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb248453|Chief Roi Mata's Domain": {
+  "v": 3,
+  "ok": false,
+  "s": 9
  }
 }

@@ -10670,5 +10670,63 @@
    "name": "Santa Maria",
    "q": "Santa Maria, peninsula, beach"
   }
+ ],
+ "Vanuatu": [
+  {
+   "name": "Mount Yasur",
+   "q": "volcano eruption"
+  },
+  {
+   "name": "Blue Cave",
+   "q": "underwater cavern"
+  },
+  {
+   "name": "Mele Cascades",
+   "q": "waterfall swimming"
+  },
+  {
+   "name": "Champagne Beach",
+   "q": "white sand turquoise"
+  },
+  {
+   "name": "Nanda Blue Hole",
+   "q": "crystal clear swimming"
+  },
+  {
+   "name": "Millennium Cave",
+   "q": "canyon trekking"
+  },
+  {
+   "name": "Hideaway Island Underwater Post Office",
+   "q": "underwater mail"
+  },
+  {
+   "name": "Port Resolution",
+   "q": "black sand beach"
+  },
+  {
+   "name": "Riri Blue Hole",
+   "q": "kayaking jungle"
+  },
+  {
+   "name": "Tanna Island",
+   "q": "tribal culture"
+  },
+  {
+   "name": "Erakor Island",
+   "q": "tropical resort"
+  },
+  {
+   "name": "Million Dollar Point",
+   "q": "scuba wreck"
+  },
+  {
+   "name": "Lonnoc Beach",
+   "q": "palm trees beach"
+  },
+  {
+   "name": "Chief Roi Mata's Domain",
+   "q": "unesco heritage"
+  }
  ]
 }

@@ -1044,3 +1044,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-19-08-39 | Quirimbas Archipelago | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Iss070e026322.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-19-08-39 | Inhaca Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Delagoa_bay.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-19-08-39 | Mozambique | Pixabay (u_co7757splw) | https://pixabay.com/videos/id-385245/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-11-15 | Vanuatu | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-224153/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-11-15 | Blue Cave | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-224152/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-11-15 | Champagne Beach | Pixabay (Coverr-Free-Footage) | https://pixabay.com/videos/id-6404/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-11-15 | Nanda Blue Hole | Pixabay (Positive_Hedgehog) | https://pixabay.com/videos/id-281244/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-11-15 | Millennium Cave | Pixabay (Ambient_Nature_Atmosphere) | https://pixabay.com/videos/id-158088/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-11-15 | Riri Blue Hole | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Exercise_DELAYEN-_3rd_ANGLICO_RHIB_and_Kayak_Training_in_Tahiti_(9299777).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-19-11-15 | Erakor Island | Pixabay (Solarselle77) | https://pixabay.com/videos/id-352855/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-11-15 | Lonnoc Beach | Pixabay (Relaxing_Guru) | https://pixabay.com/videos/id-42894/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-19-11-15 | Vanuatu | Pixabay (Ambient_Nature_Atmosphere) | https://pixabay.com/videos/id-164588/ | Pixabay Content License, commercial use, no attribution needed |
