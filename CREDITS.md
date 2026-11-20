@@ -1083,3 +1083,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-20-08-26 | Palanga Pier | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:07_palanga_Sunset_over_the_Pier_(27882084113).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-20-08-26 | Kernavė Mounds | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kernav%C4%97s_piliakalniai_1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-20-08-26 | Lithuania | Pixabay (Pauline_17) | https://pixabay.com/videos/id-11442/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-11-13 | Bosnia and Herzegovina | Pixabay (antonlukin) | https://pixabay.com/videos/id-161073/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-11-13 | Stari Most | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Stari_most.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-11-13 | Blagaj Tekke | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Blagaj_Tekke,_the_spring_of_the_Buna_river,_Bosnia_and_Herzegovina_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-11-13 | Jajce Waterfall | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pliva_Waterfall,_Jajce,_2022.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-11-13 | Mehmed Paša Sokolović Bridge | Pixabay (antonlukin) | https://pixabay.com/videos/id-162571/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-11-13 | Bosnia and Herzegovina | Pixabay (antonlukin) | https://pixabay.com/videos/id-161071/ | Pixabay Content License, commercial use, no attribution needed |

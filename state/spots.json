@@ -11076,5 +11076,63 @@
    "name": "Anykščiai Treetop Walkway",
    "q": "Anyksciai Treetop Walk"
   }
+ ],
+ "Bosnia and Herzegovina": [
+  {
+   "name": "Stari Most",
+   "q": "Stari Most"
+  },
+  {
+   "name": "Kravica Waterfall",
+   "q": "Kravica Waterfall"
+  },
+  {
+   "name": "Blagaj Tekke",
+   "q": "Blagaj Tekke"
+  },
+  {
+   "name": "Baščaršija",
+   "q": "Bascarsija Sebilj"
+  },
+  {
+   "name": "Štrbački Buk",
+   "q": "Strbacki Buk"
+  },
+  {
+   "name": "Počitelj Old Town",
+   "q": "Pocitelj"
+  },
+  {
+   "name": "Jajce Waterfall",
+   "q": "Pliva Waterfall"
+  },
+  {
+   "name": "Hajdučka Vrata",
+   "q": "Hajducka Vrata"
+  },
+  {
+   "name": "Lukomir Village",
+   "q": "Lukomir"
+  },
+  {
+   "name": "Pliva Watermills",
+   "q": "Jajce Watermills"
+  },
+  {
+   "name": "Tjentište Monument",
+   "q": "Tjentiste Spomenik"
+  },
+  {
+   "name": "Mehmed Paša Sokolović Bridge",
+   "q": "Visegrad Bridge"
+  },
+  {
+   "name": "Arslanagića Bridge",
+   "q": "Arslanagica Bridge"
+  },
+  {
+   "name": "Vrelo Bosne",
+   "q": "Vrelo Bosne"
+  }
  ]
 }

@@ -16643,5 +16643,60 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc67689694|Kravica Waterfall": null,
+ "wmc186592053|Blagaj Tekke": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc121220136|Stari Most": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc186592052|Blagaj Tekke": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc150083103|Stari Most": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc142427637|Baščaršija": null,
+ "wmc9666007|Počitelj Old Town": null,
+ "wmc202442244|Baščaršija": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc5180862|Baščaršija": null,
+ "wmc160063815|Jajce Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc46876956|Jajce Waterfall": null,
+ "pxb162571|Mehmed Paša Sokolović Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb162567|Mehmed Paša Sokolović Bridge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb161073|Bosnia and Herzegovina": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb161071|Bosnia and Herzegovina": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
