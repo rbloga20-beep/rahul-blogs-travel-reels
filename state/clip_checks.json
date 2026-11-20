@@ -16350,5 +16350,149 @@
   "v": 3,
   "ok": false,
   "s": 1
+ },
+ "wmc7046419|Pico do Fogo": null,
+ "pxb221922|Santa Maria Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc30469848|Cabo Santa Maria Shipwreck": null,
+ "wmc9103340|Deserto de Viana": null,
+ "wmc9103926|Deserto de Viana": null,
+ "wmc2952779|Deserto de Viana": null,
+ "wmc15881154|Paul Valley": null,
+ "wmc149085|Paul Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc15878801|Paul Valley": null,
+ "wmc70812776|Paul Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc163570813|Pedra de Lume Salt Crater": null,
+ "wmc99850432|Pedra de Lume Salt Crater": null,
+ "wmc3059090|Pedra de Lume Salt Crater": null,
+ "wmc2951021|Pedra de Lume Salt Crater": null,
+ "wmc4819514|Tarrafal Beach": null,
+ "wmc4977529|Cidade Velha": null,
+ "wmc4977547|Cidade Velha": null,
+ "wmc3174623|Cidade Velha": null,
+ "wmc4978071|Cidade Velha": null,
+ "wmc37685931|Mindelo Bay": null,
+ "wmc81343918|Mindelo Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc81344307|Mindelo Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc116184829|Mindelo Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb216912|Tallinn Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc198723895|Alexander Nevsky Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc135830475|Alexander Nevsky Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb216906|Tallinn Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc12018011|Telliskivi Creative City": null,
+ "pxb123297|Kadriorg Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc61880125|Rummu Quarry": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc71101083|Jägala Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc186276766|Rummu Quarry": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc186276785|Rummu Quarry": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc186276744|Rummu Quarry": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc152652604|Narva Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc152652795|Narva Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc153185913|Haapsalu Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc115459633|Taevaskoja Sandstone Cliffs": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc136503023|Taevaskoja Sandstone Cliffs": null,
+ "wmc144850117|Pärnu Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb44191|Estonia": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb309810|Estonia": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb123297|Estonia": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb258691|Estonia": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }

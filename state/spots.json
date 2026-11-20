@@ -10844,5 +10844,121 @@
    "name": "Airai Bai",
    "q": "Airai Bai"
   }
+ ],
+ "Cape Verde": [
+  {
+   "name": "Buracona Blue Eye",
+   "q": "Buracona Blue Eye"
+  },
+  {
+   "name": "Santa Maria Beach",
+   "q": "Santa Maria Beach"
+  },
+  {
+   "name": "Pico do Fogo",
+   "q": "Pico do Fogo"
+  },
+  {
+   "name": "Deserto de Viana",
+   "q": "Deserto de Viana"
+  },
+  {
+   "name": "Cabo Santa Maria Shipwreck",
+   "q": "Santa Maria Shipwreck"
+  },
+  {
+   "name": "Paul Valley",
+   "q": "Vale de Paul"
+  },
+  {
+   "name": "Fontainhas Village",
+   "q": "Fontainhas"
+  },
+  {
+   "name": "Pedra de Lume Salt Crater",
+   "q": "Pedra de Lume"
+  },
+  {
+   "name": "Tarrafal Beach",
+   "q": "Tarrafal Beach"
+  },
+  {
+   "name": "Chã das Caldeiras",
+   "q": "Cha das Caldeiras"
+  },
+  {
+   "name": "Cidade Velha",
+   "q": "Cidade Velha"
+  },
+  {
+   "name": "Estrada da Corda",
+   "q": "Estrada da Corda"
+  },
+  {
+   "name": "Mindelo Bay",
+   "q": "Mindelo"
+  },
+  {
+   "name": "Monte Verde",
+   "q": "Monte Verde"
+  }
+ ],
+ "Estonia": [
+  {
+   "name": "Tallinn Old Town",
+   "q": "Tallinn Old Town"
+  },
+  {
+   "name": "Alexander Nevsky Cathedral",
+   "q": "Alexander Nevsky Cathedral"
+  },
+  {
+   "name": "Kohtuotsa Viewing Platform",
+   "q": "Kohtuotsa"
+  },
+  {
+   "name": "Kadriorg Palace",
+   "q": "Kadriorg Palace"
+  },
+  {
+   "name": "Telliskivi Creative City",
+   "q": "Telliskivi"
+  },
+  {
+   "name": "Viru Bog",
+   "q": "Viru Bog"
+  },
+  {
+   "name": "Rummu Quarry",
+   "q": "Rummu Quarry"
+  },
+  {
+   "name": "Jägala Waterfall",
+   "q": "Jagala Waterfall"
+  },
+  {
+   "name": "Kuressaare Castle",
+   "q": "Kuressaare Castle"
+  },
+  {
+   "name": "Narva Castle",
+   "q": "Narva Castle"
+  },
+  {
+   "name": "Haapsalu Castle",
+   "q": "Haapsalu Castle"
+  },
+  {
+   "name": "Keila Waterfall",
+   "q": "Keila Waterfall"
+  },
+  {
+   "name": "Taevaskoja Sandstone Cliffs",
+   "q": "Taevaskoja"
+  },
+  {
+   "name": "Pärnu Beach",
+   "q": "Parnu Beach"
+  }
  ]
 }

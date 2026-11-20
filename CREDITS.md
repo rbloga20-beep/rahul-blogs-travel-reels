@@ -1063,3 +1063,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-19-17-16 | Kayangel Atoll | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cargo_drops_from_a_U.S._Air_Force_C-130_Hercules_aircraft_over_the_Pacific_Ocean_toward_a_landing_zone_on_the_shore_of_Kayangel_Island_during_the_62nd_annual_Operation_Christmas_Drop_Dec._11,_2013_131211-F-NA975-171.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-19-17-16 | Blue Holes | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-307699/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-19-17-16 | Palau | Pixabay (mafifp_) | https://pixabay.com/videos/id-152819/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-02-24 | Estonia | Pixabay (rulavideo) | https://pixabay.com/videos/id-258691/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-02-24 | Tallinn Old Town | Pixabay (danielp87) | https://pixabay.com/videos/id-216912/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-02-24 | Alexander Nevsky Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Belltower_of_Saint_Alexander_Nevsky_Cathedral.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-02-24 | Kadriorg Palace | Pixabay (Elireallife) | https://pixabay.com/videos/id-123297/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-02-24 | Rummu Quarry | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Abandoned_houses_drone_view_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-02-24 | Jägala Waterfall | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:J%C3%A4gala_waterfall.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-02-24 | Narva Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Narva_Castle_in_Narva,_Estonia.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-02-24 | Pärnu Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Koiraranta_Parnu-beach.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-02-24 | Estonia | Pixabay (danielp87) | https://pixabay.com/videos/id-216906/ | Pixabay Content License, commercial use, no attribution needed |
