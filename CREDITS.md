@@ -1072,3 +1072,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-20-02-24 | Narva Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Narva_Castle_in_Narva,_Estonia.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-20-02-24 | Pärnu Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Koiraranta_Parnu-beach.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-20-02-24 | Estonia | Pixabay (danielp87) | https://pixabay.com/videos/id-216906/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-05-13 | Latvia | Pixabay (Nils_Vega) | https://pixabay.com/videos/id-317171/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-05-13 | House of the Blackheads | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:House_of_the_Blackheads_in_Riga.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-05-13 | Turaida Museum Reserve | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Turaida_Castle_by_A._M._Hagen.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-05-13 | Cape Kolka | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Baltijos_j%C5%ABra_Kolkos_rage.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-05-13 | Latvia | Pixabay (Nils_Vega) | https://pixabay.com/videos/id-317508/ | Pixabay Content License, commercial use, no attribution needed |

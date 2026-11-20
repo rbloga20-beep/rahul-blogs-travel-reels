@@ -10960,5 +10960,63 @@
    "name": "Pärnu Beach",
    "q": "Parnu Beach"
   }
+ ],
+ "Latvia": [
+  {
+   "name": "House of the Blackheads",
+   "q": "House of Blackheads"
+  },
+  {
+   "name": "Rundāle Palace",
+   "q": "Rundale Palace"
+  },
+  {
+   "name": "Great Ķemeri Bog Boardwalk",
+   "q": "Kemeri Bog Boardwalk"
+  },
+  {
+   "name": "Turaida Museum Reserve",
+   "q": "Turaida Castle"
+  },
+  {
+   "name": "Ventas Rumba",
+   "q": "Ventas Rumba"
+  },
+  {
+   "name": "Riga Old Town",
+   "q": "Vecriga"
+  },
+  {
+   "name": "Cēsis Medieval Castle",
+   "q": "Cesis Castle"
+  },
+  {
+   "name": "Jūrmala Beach",
+   "q": "Jurmala Beach"
+  },
+  {
+   "name": "Cape Kolka",
+   "q": "Cape Kolka"
+  },
+  {
+   "name": "Alberta Street Art Nouveau",
+   "q": "Alberta Street Riga"
+  },
+  {
+   "name": "St. Peter's Church Tower",
+   "q": "St Peters Church"
+  },
+  {
+   "name": "Sigulda Cable Car",
+   "q": "Sigulda Cable Car"
+  },
+  {
+   "name": "Karosta Northern Forts",
+   "q": "Karosta Northern Forts"
+  },
+  {
+   "name": "Bauska Castle",
+   "q": "Bauska Castle"
+  }
  ]
 }

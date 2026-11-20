@@ -16494,5 +16494,66 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "wmc148019197|House of the Blackheads": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc171810271|House of the Blackheads": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc143654425|Turaida Museum Reserve": null,
+ "wmc133929744|Turaida Museum Reserve": null,
+ "wmc100895520|Riga Old Town": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc54373105|Turaida Museum Reserve": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc100891852|Riga Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc133929743|Turaida Museum Reserve": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc42534109|Jūrmala Beach": null,
+ "wmc41736033|Jūrmala Beach": null,
+ "wmc25159084|Cape Kolka": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc143655887|Sigulda Cable Car": null,
+ "pxb20254|St. Peter's Church Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb365638|St. Peter's Church Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc155578332|Karosta Northern Forts": null,
+ "pxb317171|Latvia": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb317508|Latvia": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
