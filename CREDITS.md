@@ -1077,3 +1077,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-20-05-13 | Turaida Museum Reserve | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Turaida_Castle_by_A._M._Hagen.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-20-05-13 | Cape Kolka | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Baltijos_j%C5%ABra_Kolkos_rage.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-20-05-13 | Latvia | Pixabay (Nils_Vega) | https://pixabay.com/videos/id-317508/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-08-26 | Lithuania | Pixabay (petrasrozkovas) | https://pixabay.com/videos/id-41523/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-08-26 | Trakai Island Castle | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Trakai_castle_from_lake.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-08-26 | Curonian Spit | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Curonian_Spit_from_Space,_2006.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-08-26 | Palanga Pier | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:07_palanga_Sunset_over_the_Pier_(27882084113).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-08-26 | Kernavė Mounds | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kernav%C4%97s_piliakalniai_1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-08-26 | Lithuania | Pixabay (Pauline_17) | https://pixabay.com/videos/id-11442/ | Pixabay Content License, commercial use, no attribution needed |

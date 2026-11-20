@@ -11018,5 +11018,63 @@
    "name": "Bauska Castle",
    "q": "Bauska Castle"
   }
+ ],
+ "Lithuania": [
+  {
+   "name": "Trakai Island Castle",
+   "q": "Trakai Castle"
+  },
+  {
+   "name": "Hill of Crosses",
+   "q": "Hill of Crosses"
+  },
+  {
+   "name": "Curonian Spit",
+   "q": "Parnidis Dune"
+  },
+  {
+   "name": "Vilnius Old Town",
+   "q": "Vilnius Old Town"
+  },
+  {
+   "name": "Užupis",
+   "q": "Uzupis"
+  },
+  {
+   "name": "St. Anne's Church",
+   "q": "St Annes Church"
+  },
+  {
+   "name": "Gediminas Tower",
+   "q": "Gediminas Tower"
+  },
+  {
+   "name": "Kaunas Castle",
+   "q": "Kaunas Castle"
+  },
+  {
+   "name": "Palanga Pier",
+   "q": "Palanga Pier"
+  },
+  {
+   "name": "Kernavė Mounds",
+   "q": "Kernave Mounds"
+  },
+  {
+   "name": "Rumšiškės Museum",
+   "q": "Rumsiskes"
+  },
+  {
+   "name": "Gate of Dawn",
+   "q": "Gate of Dawn"
+  },
+  {
+   "name": "Ventė Cape",
+   "q": "Vente Cape"
+  },
+  {
+   "name": "Anykščiai Treetop Walkway",
+   "q": "Anyksciai Treetop Walk"
+  }
  ]
 }

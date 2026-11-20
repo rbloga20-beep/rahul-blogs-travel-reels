@@ -16555,5 +16555,93 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb327188|Hill of Crosses": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc8712363|Curonian Spit": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc165991200|Trakai Island Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc92671792|Curonian Spit": null,
+ "wmc40955310|Trakai Island Castle": null,
+ "wmc98677082|Curonian Spit": null,
+ "pxb184565|Hill of Crosses": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb373126|Hill of Crosses": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb373125|Hill of Crosses": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc157243239|Užupis": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb86015|St. Anne's Church": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb130293|St. Anne's Church": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc157239850|Vilnius Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc157238282|Palanga Pier": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc157238207|Palanga Pier": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc20162214|Kernavė Mounds": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc20162290|Kernavė Mounds": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb270385|Gate of Dawn": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb41523|Lithuania": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb11442|Lithuania": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
