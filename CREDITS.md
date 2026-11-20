@@ -1096,3 +1096,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-20-14-24 | Golubac Fortress | Pixabay (antonlukin) | https://pixabay.com/videos/id-226264/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-20-14-24 | Petrovaradin Fortress | Pixabay (Vimeo-Free-Videos) | https://pixabay.com/videos/id-1276/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-20-14-24 | Serbia | Pixabay (LynX_BGW) | https://pixabay.com/videos/id-300694/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-17-10 | North Macedonia | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:SubmergedChurchOfStNicholas-Mavrovo021.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-17-10 | Matka Canyon | Pixabay (Frabull) | https://pixabay.com/videos/id-200444/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-17-10 | Lake Ohrid | Pixabay (antonlukin) | https://pixabay.com/videos/id-314778/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-17-10 | Bay of Bones Museum | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:%D0%97%D0%B0%D0%BB%D0%B8%D0%B2%D0%BE%D1%82_%D0%BD%D0%B0_%D0%BA%D0%BE%D1%81%D0%BA%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%9E%D1%85%D1%80%D0%B8%D0%B4%D1%81%D0%BA%D0%BE_%D0%95%D0%B7%D0%B5%D1%80%D0%BE.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-17-10 | Skopje Old Bazaar | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Umbrellas_in_Skopje_Old_Bazaar.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-17-10 | Submerged Church of Mavrovo | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:SubmergedChurchOfStNicholas-Mavrovo008.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

@@ -11192,5 +11192,63 @@
    "name": "Kopaonik Mountain",
    "q": "Kopaonik Resort"
   }
+ ],
+ "North Macedonia": [
+  {
+   "name": "Church of St. John at Kaneo",
+   "q": "St John Kaneo"
+  },
+  {
+   "name": "Matka Canyon",
+   "q": "Matka Canyon"
+  },
+  {
+   "name": "Lake Ohrid",
+   "q": "Lake Ohrid"
+  },
+  {
+   "name": "Bay of Bones Museum",
+   "q": "Bay of Bones Ohrid"
+  },
+  {
+   "name": "Monastery of St. Naum",
+   "q": "Saint Naum Monastery"
+  },
+  {
+   "name": "Skopje Old Bazaar",
+   "q": "Skopje Old Bazaar"
+  },
+  {
+   "name": "Stone Bridge",
+   "q": "Skopje Stone Bridge"
+  },
+  {
+   "name": "Submerged Church of Mavrovo",
+   "q": "Mavrovo Submerged Church"
+  },
+  {
+   "name": "Stone Town of Kuklica",
+   "q": "Kuklica Stone Dolls"
+  },
+  {
+   "name": "Samuel's Fortress",
+   "q": "Samuels Fortress Ohrid"
+  },
+  {
+   "name": "Vevčani Springs",
+   "q": "Vevcani Springs"
+  },
+  {
+   "name": "Kratovo Old Town",
+   "q": "Kratovo Bridges"
+  },
+  {
+   "name": "Smolare Waterfall",
+   "q": "Smolare Waterfall"
+  },
+  {
+   "name": "Pelister Eyes Lakes",
+   "q": "Pelister National Park"
+  }
  ]
 }

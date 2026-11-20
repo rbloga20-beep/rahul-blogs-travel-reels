@@ -16766,5 +16766,64 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "pxb200444|Matka Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb314778|Lake Ohrid": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc11638792|Skopje Old Bazaar": null,
+ "wmc5615321|Skopje Old Bazaar": null,
+ "wmc72732744|Skopje Old Bazaar": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc142136863|Bay of Bones Museum": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc150221784|Stone Bridge": null,
+ "wmc202029480|Stone Bridge": null,
+ "wmc149253755|Submerged Church of Mavrovo": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc127329889|Stone Bridge": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc149253774|Submerged Church of Mavrovo": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb1074|Pelister Eyes Lakes": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb119626|North Macedonia": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb131694|North Macedonia": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb364236|North Macedonia": {
+  "v": 3,
+  "ok": false,
+  "s": 1
  }
 }
