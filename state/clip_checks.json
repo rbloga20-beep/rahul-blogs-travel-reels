@@ -16698,5 +16698,73 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc154450234|Church of Saint Sava": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc202417361|Church of Saint Sava": null,
+ "pxb162043|Belgrade Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc154450814|Church of Saint Sava": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb162042|Belgrade Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc168499472|Drina River House": null,
+ "wmc45327649|Drina River House": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb226264|Golubac Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb226265|Golubac Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc4120754|Gardoš Tower": null,
+ "wmc4120759|Gardoš Tower": null,
+ "wmc6603513|Gardoš Tower": null,
+ "wmc6603516|Gardoš Tower": null,
+ "pxb1276|Petrovaradin Fortress": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc153306963|Šargan Eight Railway": null,
+ "wmc130551471|Subotica City Hall": null,
+ "wmc12092732|Devil's Town": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc12092733|Devil's Town": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb292918|Serbia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb300694|Serbia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

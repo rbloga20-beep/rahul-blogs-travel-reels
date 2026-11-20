@@ -1089,3 +1089,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-20-11-13 | Jajce Waterfall | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pliva_Waterfall,_Jajce,_2022.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-20-11-13 | Mehmed Paša Sokolović Bridge | Pixabay (antonlukin) | https://pixabay.com/videos/id-162571/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-20-11-13 | Bosnia and Herzegovina | Pixabay (antonlukin) | https://pixabay.com/videos/id-161071/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-14-24 | Serbia | Pixabay (LynX_BGW) | https://pixabay.com/videos/id-292918/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-14-24 | Belgrade Fortress | Pixabay (BreakDownPictures) | https://pixabay.com/videos/id-162043/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-14-24 | Church of Saint Sava | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Church_of_Saint_Sava,_Belgrade_(3).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-14-24 | Drina River House | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ku%C4%87ica_na_Drini.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-20-14-24 | Golubac Fortress | Pixabay (antonlukin) | https://pixabay.com/videos/id-226264/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-14-24 | Petrovaradin Fortress | Pixabay (Vimeo-Free-Videos) | https://pixabay.com/videos/id-1276/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-20-14-24 | Serbia | Pixabay (LynX_BGW) | https://pixabay.com/videos/id-300694/ | Pixabay Content License, commercial use, no attribution needed |

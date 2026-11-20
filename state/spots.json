@@ -11134,5 +11134,63 @@
    "name": "Vrelo Bosne",
    "q": "Vrelo Bosne"
   }
+ ],
+ "Serbia": [
+  {
+   "name": "Belgrade Fortress",
+   "q": "Kalemegdan Belgrade"
+  },
+  {
+   "name": "Church of Saint Sava",
+   "q": "Saint Sava Temple"
+  },
+  {
+   "name": "Uvac Canyon",
+   "q": "Uvac River Meanders"
+  },
+  {
+   "name": "Drina River House",
+   "q": "Drina River House"
+  },
+  {
+   "name": "Golubac Fortress",
+   "q": "Golubac Fortress"
+  },
+  {
+   "name": "Banjska Stena",
+   "q": "Banjska Stena Tara"
+  },
+  {
+   "name": "Gardoš Tower",
+   "q": "Gardos Tower Zemun"
+  },
+  {
+   "name": "Petrovaradin Fortress",
+   "q": "Petrovaradin Fortress"
+  },
+  {
+   "name": "Drvengrad",
+   "q": "Drvengrad Mecavnik"
+  },
+  {
+   "name": "Subotica City Hall",
+   "q": "Subotica City Hall"
+  },
+  {
+   "name": "Šargan Eight Railway",
+   "q": "Sargan Eight Railway"
+  },
+  {
+   "name": "Devil's Town",
+   "q": "Djavolja Varos"
+  },
+  {
+   "name": "Studenica Monastery",
+   "q": "Studenica Monastery"
+  },
+  {
+   "name": "Kopaonik Mountain",
+   "q": "Kopaonik Resort"
+  }
  ]
 }
