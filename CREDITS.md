@@ -1132,3 +1132,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-21-14-10 | Belvédère Lookout Moorea | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20221026_142420_Belv%C3%A9d%C3%A8re_de_Opunohu.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-21-14-10 | Marae Taputapuatea | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Taputapuatea_Marae,_Rarotonga_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-21-14-10 | French Polynesia | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386226/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-16-57 | Greenland | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-342909/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-16-57 | Tasermiut Fjord | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS047-E-83810_-_View_of_Earth.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-16-57 | Scoresby Sund | Pixabay (mariohagen) | https://pixabay.com/videos/id-48188/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-16-57 | Tasiilaq | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tasiilaq,_Greenland_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-16-57 | Sermeq Kujalleq Glacier | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jakobshavn_Calving_Front_(7166014512).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-16-57 | Greenland | Pixabay (TungArt7) | https://pixabay.com/videos/id-207981/ | Pixabay Content License, commercial use, no attribution needed |

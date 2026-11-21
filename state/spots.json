@@ -11656,5 +11656,63 @@
    "name": "Mount Rotui",
    "q": "Mount Rotui"
   }
+ ],
+ "Greenland": [
+  {
+   "name": "Ilulissat Icefjord",
+   "q": "Ilulissat Icefjord"
+  },
+  {
+   "name": "Nuuk Old Harbour",
+   "q": "Nuuk Harbour"
+  },
+  {
+   "name": "Tasermiut Fjord",
+   "q": "Tasermiut Fjord"
+  },
+  {
+   "name": "Scoresby Sund",
+   "q": "Scoresby Sund"
+  },
+  {
+   "name": "Uummannaq Mountain",
+   "q": "Uummannaq"
+  },
+  {
+   "name": "Prince Christian Sound",
+   "q": "Prince Christian Sound"
+  },
+  {
+   "name": "Eqi Glacier",
+   "q": "Eqi Glacier"
+  },
+  {
+   "name": "Disko Island",
+   "q": "Disko Island"
+  },
+  {
+   "name": "Tasiilaq",
+   "q": "Tasiilaq"
+  },
+  {
+   "name": "Point 660 Ice Cap",
+   "q": "Point 660"
+  },
+  {
+   "name": "Sermermiut Boardwalk",
+   "q": "Sermermiut"
+  },
+  {
+   "name": "Hvalsey Church Ruins",
+   "q": "Hvalsey Church"
+  },
+  {
+   "name": "Sisimiut",
+   "q": "Sisimiut"
+  },
+  {
+   "name": "Sermeq Kujalleq Glacier",
+   "q": "Sermeq Kujalleq"
+  }
  ]
 }

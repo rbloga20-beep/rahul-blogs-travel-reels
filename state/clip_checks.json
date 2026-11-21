@@ -17305,5 +17305,105 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc102213609|Tasermiut Fjord": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc102213641|Tasermiut Fjord": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb48188|Scoresby Sund": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc162580413|Prince Christian Sound": null,
+ "wmc46954378|Prince Christian Sound": null,
+ "wmc127729040|Uummannaq Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc161360150|Prince Christian Sound": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc3822928|Uummannaq Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc160209492|Prince Christian Sound": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc66942923|Disko Island": null,
+ "wmc67036980|Disko Island": null,
+ "wmc67036984|Disko Island": null,
+ "wmc67046864|Disko Island": null,
+ "wmc49028471|Tasiilaq": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc47217348|Hvalsey Church Ruins": null,
+ "wmc47217342|Hvalsey Church Ruins": null,
+ "wmc47217343|Hvalsey Church Ruins": null,
+ "wmc40650108|Hvalsey Church Ruins": null,
+ "pxb103312|Point 660 Ice Cap": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103309|Point 660 Ice Cap": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103316|Point 660 Ice Cap": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb103307|Point 660 Ice Cap": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc51485151|Sermeq Kujalleq Glacier": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc188168730|Sermeq Kujalleq Glacier": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc127659656|Sisimiut": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc127659752|Sisimiut": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb342909|Greenland": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb207981|Greenland": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }
