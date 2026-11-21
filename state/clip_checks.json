@@ -16888,5 +16888,106 @@
   "v": 3,
   "ok": false,
   "s": 5
+ },
+ "wmc70789526|St. Peter's Square": null,
+ "pxb45018|Sistine Chapel": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc156386070|St. Peter's Square": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb365638|St. Peter's Basilica": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc195241331|St. Peter's Square": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb188736|St. Peter's Basilica": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc156386081|St. Peter's Square": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc18145296|Vatican Museums": null,
+ "wmc146264380|Vatican Museums": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc146264380|Bramante Staircase": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc145564879|Vatican Museums": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc145564879|Bramante Staircase": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc101237487|Gallery of Maps": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc28875921|Gallery of Maps": null,
+ "wmc144711202|Gallery of Maps": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc28876019|Gallery of Maps": null,
+ "wmc28986053|Vatican Gardens": null,
+ "wmc186499002|Raphael Rooms": null,
+ "wmc198661627|Raphael Rooms": null,
+ "wmc186499001|Raphael Rooms": null,
+ "wmc101237550|Raphael Rooms": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb365638|St. Peter's Dome": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc90133132|Gallery of Tapestries": null,
+ "pxb382707|Pinecone Courtyard": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc113155293|Swiss Guard": null,
+ "wmc29956589|Swiss Guard": null,
+ "wmc151889135|Swiss Guard": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc98485184|Swiss Guard": null,
+ "wmc196032666|Vatican Necropolis": null,
+ "wmc195949920|Vatican Necropolis": null,
+ "wmc196030778|Vatican Necropolis": null,
+ "wmc174092250|Casina Pio IV": null,
+ "wmc196053828|Vatican Necropolis": {
+  "v": 3,
+  "ok": false,
+  "s": 2
  }
 }

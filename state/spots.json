@@ -11308,5 +11308,63 @@
    "name": "Museum of Curiosities",
    "q": "Museo delle Curiosita"
   }
+ ],
+ "Vatican City": [
+  {
+   "name": "St. Peter's Basilica",
+   "q": "St Peter Basilica"
+  },
+  {
+   "name": "St. Peter's Square",
+   "q": "St Peter Square"
+  },
+  {
+   "name": "Sistine Chapel",
+   "q": "Sistine Chapel"
+  },
+  {
+   "name": "Vatican Museums",
+   "q": "Vatican Museums"
+  },
+  {
+   "name": "Bramante Staircase",
+   "q": "Bramante Staircase"
+  },
+  {
+   "name": "Gallery of Maps",
+   "q": "Gallery of Maps"
+  },
+  {
+   "name": "St. Peter's Dome",
+   "q": "St Peter Dome"
+  },
+  {
+   "name": "Vatican Gardens",
+   "q": "Vatican Gardens"
+  },
+  {
+   "name": "Raphael Rooms",
+   "q": "Raphael Rooms"
+  },
+  {
+   "name": "Pinecone Courtyard",
+   "q": "Pinecone Courtyard"
+  },
+  {
+   "name": "Gallery of Tapestries",
+   "q": "Gallery of Tapestries"
+  },
+  {
+   "name": "Swiss Guard",
+   "q": "Swiss Guard"
+  },
+  {
+   "name": "Vatican Necropolis",
+   "q": "Vatican Necropolis"
+  },
+  {
+   "name": "Casina Pio IV",
+   "q": "Casina Pio IV"
+  }
  ]
 }
