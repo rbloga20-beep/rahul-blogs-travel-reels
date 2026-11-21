@@ -1122,3 +1122,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-21-08-20 | Tel Aviv Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tel_Aviv_Beach_2021.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-21-08-20 | Sea of Galilee | Pixabay (samirsmier) | https://pixabay.com/videos/id-131985/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-21-08-20 | Israel | Pixabay (DragonPiao) | https://pixabay.com/videos/id-251905/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-10-57 | Brunei | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Empire_Hotel_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-10-57 | Kampong Ayer | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Cultural_%26_Tourism_Gallery.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-10-57 | Istana Nurul Iman | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jalan_Tutong_Park_to_Istana_Nurul_Iman_2011.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-10-57 | The Empire Brunei | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Empire_Hotel_03.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-10-57 | Taman Mahkota Jubli Emas | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Taman_Mahkota_Jubli_Emas.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

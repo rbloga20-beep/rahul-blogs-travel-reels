@@ -11424,5 +11424,179 @@
    "name": "Old City of Acre",
    "q": "Akko Old City"
   }
+ ],
+ "Kuwait": [
+  {
+   "name": "Kuwait Towers",
+   "q": "Kuwait Towers"
+  },
+  {
+   "name": "Al Shaheed Park",
+   "q": "Al Shaheed Park"
+  },
+  {
+   "name": "Grand Mosque",
+   "q": "Kuwait Grand Mosque"
+  },
+  {
+   "name": "Souq Al-Mubarakiya",
+   "q": "Souq Al Mubarakiya"
+  },
+  {
+   "name": "The Avenues Mall",
+   "q": "The Avenues Mall"
+  },
+  {
+   "name": "JACC Cultural Centre",
+   "q": "JACC Kuwait"
+  },
+  {
+   "name": "The Mirror House",
+   "q": "Mirror House Kuwait"
+  },
+  {
+   "name": "Failaka Island",
+   "q": "Failaka Island"
+  },
+  {
+   "name": "Al Salam Palace Museum",
+   "q": "Al Salam Palace"
+  },
+  {
+   "name": "Green Island",
+   "q": "Green Island Kuwait"
+  },
+  {
+   "name": "The Scientific Center",
+   "q": "Kuwait Scientific Center"
+  },
+  {
+   "name": "Al Kout Waterfront",
+   "q": "Al Kout Waterfront"
+  },
+  {
+   "name": "Liberation Tower",
+   "q": "Liberation Tower"
+  },
+  {
+   "name": "Al Mutla Ridge",
+   "q": "Mutla Ridge"
+  }
+ ],
+ "Myanmar": [
+  {
+   "name": "Bagan Temples",
+   "q": "Bagan balloons sunrise"
+  },
+  {
+   "name": "Inle Lake",
+   "q": "Inle Lake fishermen"
+  },
+  {
+   "name": "Shwedagon Pagoda",
+   "q": "Shwedagon Pagoda Yangon"
+  },
+  {
+   "name": "U Bein Bridge",
+   "q": "U Bein Bridge"
+  },
+  {
+   "name": "Hsinbyume Pagoda",
+   "q": "Hsinbyume Pagoda Mingun"
+  },
+  {
+   "name": "Golden Rock",
+   "q": "Kyaiktiyo Golden Rock"
+  },
+  {
+   "name": "Mount Popa",
+   "q": "Taung Kalat Popa"
+  },
+  {
+   "name": "Kakku Pagodas",
+   "q": "Kakku Pagodas"
+  },
+  {
+   "name": "Ngapali Beach",
+   "q": "Ngapali Beach"
+  },
+  {
+   "name": "Mrauk U",
+   "q": "Mrauk U temples"
+  },
+  {
+   "name": "Kuthodaw Pagoda",
+   "q": "Kuthodaw Pagoda Mandalay"
+  },
+  {
+   "name": "Kyaut Ka Latt Pagoda",
+   "q": "Kyaut Ka Latt"
+  },
+  {
+   "name": "Mergui Archipelago",
+   "q": "Mergui Archipelago"
+  },
+  {
+   "name": "Saddar Cave",
+   "q": "Saddar Cave Hpa-An"
+  }
+ ],
+ "Brunei": [
+  {
+   "name": "Sultan Omar Ali Saifuddien Mosque",
+   "q": "Omar Ali Saifuddien"
+  },
+  {
+   "name": "Jame' Asr Hassanil Bolkiah Mosque",
+   "q": "Jame Asr Hassanil"
+  },
+  {
+   "name": "Kampong Ayer",
+   "q": "Kampong Ayer"
+  },
+  {
+   "name": "Ulu Temburong National Park",
+   "q": "Ulu Temburong"
+  },
+  {
+   "name": "Istana Nurul Iman",
+   "q": "Istana Nurul Iman"
+  },
+  {
+   "name": "The Empire Brunei",
+   "q": "Empire Hotel Brunei"
+  },
+  {
+   "name": "Gadong Night Market",
+   "q": "Gadong Night Market"
+  },
+  {
+   "name": "Royal Regalia Museum",
+   "q": "Royal Regalia Museum"
+  },
+  {
+   "name": "Luagan Lalak Recreation Park",
+   "q": "Luagan Lalak"
+  },
+  {
+   "name": "Taman Mahkota Jubli Emas",
+   "q": "Mahkota Jubli Emas"
+  },
+  {
+   "name": "Billionth Barrel Monument",
+   "q": "Billionth Barrel Monument"
+  },
+  {
+   "name": "Seri Kenangan Beach",
+   "q": "Seri Kenangan"
+  },
+  {
+   "name": "Teng Yun Temple",
+   "q": "Teng Yun Temple"
+  },
+  {
+   "name": "Brunei River Safari",
+   "q": "Proboscis Monkey Safari"
+  }
  ]
 }

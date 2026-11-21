@@ -17094,5 +17094,142 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb67351|Kuwait Towers": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc191951816|JACC Cultural Centre": null,
+ "wmc4178103|Souq Al-Mubarakiya": null,
+ "wmc162961727|The Avenues Mall": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc203049590|The Avenues Mall": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc33579944|The Avenues Mall": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc61346122|The Avenues Mall": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc30865012|Failaka Island": null,
+ "wmc96194326|Failaka Island": null,
+ "wmc78368987|Al Salam Palace Museum": null,
+ "wmc3822811|Al Salam Palace Museum": null,
+ "wmc39741069|Al Salam Palace Museum": null,
+ "wmc39327235|Al Salam Palace Museum": null,
+ "wmc21996715|The Mirror House": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc150099871|The Mirror House": null,
+ "wmc149416867|The Mirror House": null,
+ "wmc86553889|The Scientific Center": null,
+ "wmc166160484|The Scientific Center": null,
+ "wmc181235350|The Scientific Center": null,
+ "wmc196207238|The Scientific Center": null,
+ "wmc96345693|Green Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc145417220|Green Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc186270202|Green Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc167988320|Green Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc27428027|Al Mutla Ridge": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc145824269|Liberation Tower": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc20337630|Liberation Tower": null,
+ "wmc200817783|Liberation Tower": null,
+ "wmc89323858|Liberation Tower": null,
+ "wmc30484333|Inle Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc137955616|Mergui Archipelago": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc146495679|Mergui Archipelago": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc59599133|Mergui Archipelago": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc160086608|Sultan Omar Ali Saifuddien Mosque": null,
+ "wmc76543115|Kampong Ayer": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc160086605|Sultan Omar Ali Saifuddien Mosque": null,
+ "wmc110505596|Sultan Omar Ali Saifuddien Mosque": null,
+ "wmc160086602|Sultan Omar Ali Saifuddien Mosque": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc6235350|The Empire Brunei": null,
+ "wmc118230474|The Empire Brunei": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc118230473|The Empire Brunei": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc15269470|Istana Nurul Iman": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc57836204|Royal Regalia Museum": null,
+ "wmc76544489|Taman Mahkota Jubli Emas": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb26284|Brunei": {
+  "v": 3,
+  "ok": false,
+  "s": 1
  }
 }
