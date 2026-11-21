@@ -1127,3 +1127,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-21-10-57 | Istana Nurul Iman | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jalan_Tutong_Park_to_Istana_Nurul_Iman_2011.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-21-10-57 | The Empire Brunei | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Empire_Hotel_03.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-21-10-57 | Taman Mahkota Jubli Emas | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Taman_Mahkota_Jubli_Emas.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-14-10 | French Polynesia | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386225/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-14-10 | Mount Otemanu | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Marara_22_Refugee_Evacuation_7202700.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-14-10 | Belvédère Lookout Moorea | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:20221026_142420_Belv%C3%A9d%C3%A8re_de_Opunohu.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-14-10 | Marae Taputapuatea | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Taputapuatea_Marae,_Rarotonga_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-14-10 | French Polynesia | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386226/ | Pixabay Content License, commercial use, no attribution needed |

@@ -17231,5 +17231,79 @@
   "v": 3,
   "ok": false,
   "s": 1
+ },
+ "wmc118275980|Mount Otemanu": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc7012221|Mount Otemanu": null,
+ "wmc6959571|Mount Otemanu": null,
+ "wmc118275978|Mount Otemanu": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc19628495|Cook's Bay": null,
+ "wmc145929179|Cook's Bay": null,
+ "wmc124748724|Belvédère Lookout Moorea": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc152522625|Belvédère Lookout Moorea": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc68077004|Cook's Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc68076979|Cook's Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc111443714|Tetiaroa Atoll": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc89885468|Tetiaroa Atoll": null,
+ "wmc89885487|Tetiaroa Atoll": null,
+ "wmc202774978|Tetiaroa Atoll": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc8542978|Maupiti Lagoon": null,
+ "wmc121617820|Maupiti Lagoon": null,
+ "wmc121617821|Maupiti Lagoon": null,
+ "wmc161250216|Marae Taputapuatea": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc125090306|Marae Taputapuatea": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc161250235|Marae Taputapuatea": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb386225|French Polynesia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386226|French Polynesia": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

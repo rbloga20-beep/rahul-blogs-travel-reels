@@ -11598,5 +11598,63 @@
    "name": "Brunei River Safari",
    "q": "Proboscis Monkey Safari"
   }
+ ],
+ "French Polynesia": [
+  {
+   "name": "Mount Otemanu",
+   "q": "Mount Otemanu"
+  },
+  {
+   "name": "Teahupo'o",
+   "q": "Teahupoo"
+  },
+  {
+   "name": "Matira Beach",
+   "q": "Matira Beach"
+  },
+  {
+   "name": "Belvédère Lookout Moorea",
+   "q": "Belvedere Moorea"
+  },
+  {
+   "name": "Cook's Bay",
+   "q": "Cooks Bay Moorea"
+  },
+  {
+   "name": "Rangiroa Blue Lagoon",
+   "q": "Rangiroa Blue Lagoon"
+  },
+  {
+   "name": "Fakarava Pink Sand Beach",
+   "q": "Fakarava Pink Sand"
+  },
+  {
+   "name": "Taha'a Coral Garden",
+   "q": "Tahaa Coral Garden"
+  },
+  {
+   "name": "Tetiaroa Atoll",
+   "q": "Tetiaroa"
+  },
+  {
+   "name": "Maupiti Lagoon",
+   "q": "Maupiti Lagoon"
+  },
+  {
+   "name": "Faarumai Waterfalls",
+   "q": "Faarumai Waterfalls"
+  },
+  {
+   "name": "Temae Beach",
+   "q": "Temae Beach"
+  },
+  {
+   "name": "Marae Taputapuatea",
+   "q": "Taputapuatea Marae"
+  },
+  {
+   "name": "Mount Rotui",
+   "q": "Mount Rotui"
+  }
  ]
 }
