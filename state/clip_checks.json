@@ -16825,5 +16825,68 @@
   "v": 3,
   "ok": false,
   "s": 1
+ },
+ "wmc195775801|Cesta Tower": null,
+ "wmc179684178|Cesta Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc179682366|Guaita Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc179684052|Cesta Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc179682428|Guaita Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc179684248|Montale Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc14757156|Montale Tower": null,
+ "wmc179684288|Montale Tower": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc7830330|Palazzo Pubblico": null,
+ "wmc147441601|Piazza della Libertà": null,
+ "wmc195775801|Mount Titano": null,
+ "wmc4977677|Basilica di San Marino": null,
+ "wmc5543119|Basilica di San Marino": null,
+ "wmc5573154|Basilica di San Marino": null,
+ "wmc95978188|Basilica di San Marino": null,
+ "wmc38217358|Mount Titano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc49383140|Borgo Maggiore": null,
+ "wmc16977835|Museum of Curiosities": null,
+ "wmc65640503|Chiesa di San Francesco": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc193533067|Chiesa di San Francesco": null,
+ "wmc147202313|Chiesa di San Francesco": null,
+ "wmc147202314|Chiesa di San Francesco": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb131712|San Marino": {
+  "v": 3,
+  "ok": false,
+  "s": 5
  }
 }

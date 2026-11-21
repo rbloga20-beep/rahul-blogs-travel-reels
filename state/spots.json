@@ -11250,5 +11250,63 @@
    "name": "Pelister Eyes Lakes",
    "q": "Pelister National Park"
   }
+ ],
+ "San Marino": [
+  {
+   "name": "Guaita Tower",
+   "q": "Guaita Tower"
+  },
+  {
+   "name": "Cesta Tower",
+   "q": "Cesta Tower"
+  },
+  {
+   "name": "Montale Tower",
+   "q": "Montale Tower"
+  },
+  {
+   "name": "Piazza della Libertà",
+   "q": "Piazza della Liberta"
+  },
+  {
+   "name": "Palazzo Pubblico",
+   "q": "Palazzo Pubblico"
+  },
+  {
+   "name": "Passo delle Streghe",
+   "q": "Passo delle Streghe"
+  },
+  {
+   "name": "Basilica di San Marino",
+   "q": "Basilica San Marino"
+  },
+  {
+   "name": "San Marino Cable Car",
+   "q": "Funivia San Marino"
+  },
+  {
+   "name": "Mount Titano",
+   "q": "Mount Titano"
+  },
+  {
+   "name": "Cava dei Balestrieri",
+   "q": "Cava dei Balestrieri"
+  },
+  {
+   "name": "Porta San Francesco",
+   "q": "Porta San Francesco"
+  },
+  {
+   "name": "Borgo Maggiore",
+   "q": "Borgo Maggiore"
+  },
+  {
+   "name": "Chiesa di San Francesco",
+   "q": "Chiesa San Francesco"
+  },
+  {
+   "name": "Museum of Curiosities",
+   "q": "Museo delle Curiosita"
+  }
  ]
 }
