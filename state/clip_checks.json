@@ -16989,5 +16989,110 @@
   "v": 3,
   "ok": false,
   "s": 2
+ },
+ "pxb15230|Western Wall": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb234670|Dome of the Rock": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb51237|Dead Sea": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb128271|Dead Sea": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb251905|Dead Sea": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb128158|Masada": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc283953|Bahá'í Gardens": null,
+ "wmc184081050|Old Jaffa": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb128162|Masada": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc165119527|Red Canyon": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc165119589|Red Canyon": null,
+ "wmc165119492|Red Canyon": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc155405698|Red Canyon": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb277306|Church of the Holy Sepulchre": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc61824086|Tel Aviv Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb268542|Caesarea": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc115346329|Tel Aviv Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc60394288|Tel Aviv Beach": null,
+ "pxb268544|Caesarea": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc147422161|Tel Aviv Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc40534416|Old City of Acre": null,
+ "wmc91002831|Old City of Acre": null,
+ "pxb131985|Sea of Galilee": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb268543|Israel": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb268542|Israel": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

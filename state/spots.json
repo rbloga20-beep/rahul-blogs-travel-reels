@@ -11366,5 +11366,63 @@
    "name": "Casina Pio IV",
    "q": "Casina Pio IV"
   }
+ ],
+ "Israel": [
+  {
+   "name": "Western Wall",
+   "q": "Western Wall"
+  },
+  {
+   "name": "Dome of the Rock",
+   "q": "Dome of the Rock"
+  },
+  {
+   "name": "Dead Sea",
+   "q": "Dead Sea"
+  },
+  {
+   "name": "Masada",
+   "q": "Masada"
+  },
+  {
+   "name": "Bahá'í Gardens",
+   "q": "Bahai Gardens Haifa"
+  },
+  {
+   "name": "Old Jaffa",
+   "q": "Jaffa"
+  },
+  {
+   "name": "Ein Gedi",
+   "q": "Ein Gedi"
+  },
+  {
+   "name": "Ramon Crater",
+   "q": "Ramon Crater"
+  },
+  {
+   "name": "Red Canyon",
+   "q": "Red Canyon Eilat"
+  },
+  {
+   "name": "Caesarea",
+   "q": "Caesarea"
+  },
+  {
+   "name": "Tel Aviv Beach",
+   "q": "Tel Aviv Beach"
+  },
+  {
+   "name": "Church of the Holy Sepulchre",
+   "q": "Holy Sepulchre"
+  },
+  {
+   "name": "Sea of Galilee",
+   "q": "Sea of Galilee"
+  },
+  {
+   "name": "Old City of Acre",
+   "q": "Akko Old City"
+  }
  ]
 }

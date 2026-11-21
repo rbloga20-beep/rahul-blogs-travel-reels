@@ -1114,3 +1114,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-21-05-05 | Vatican Museums | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Circular_staircase_of_the_Vatican_Museums_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-21-05-05 | Gallery of Maps | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Painted_Ceiling_of_the_Gallery_of_Maps_(48466262566).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-21-05-05 | Vatican City | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Spiral_staircase_in_the_Vatican_Museums_from_bottom_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-08-20 | Israel | Pixabay (DronePhotoIsrael) | https://pixabay.com/videos/id-268543/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-08-20 | Western Wall | Pixabay (2427999) | https://pixabay.com/videos/id-15230/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-08-20 | Dead Sea | Pixabay (samirsmier) | https://pixabay.com/videos/id-128271/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-08-20 | Masada | Pixabay (samirsmier) | https://pixabay.com/videos/id-128158/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-08-20 | Caesarea | Pixabay (DronePhotoIsrael) | https://pixabay.com/videos/id-268542/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-08-20 | Tel Aviv Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tel_Aviv_Beach_2021.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-21-08-20 | Sea of Galilee | Pixabay (samirsmier) | https://pixabay.com/videos/id-131985/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-21-08-20 | Israel | Pixabay (DragonPiao) | https://pixabay.com/videos/id-251905/ | Pixabay Content License, commercial use, no attribution needed |
