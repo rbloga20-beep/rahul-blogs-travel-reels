@@ -18196,5 +18196,104 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "wmc30909015|Black Rocks of Pungo Andongo": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc167469450|Kissama National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc112293791|Kissama National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc112293793|Kissama National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc16112415|Kissama National Park": null,
+ "pxb47872|Iona National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb177223|Iona National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb154586|Iona National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb175688|Iona National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc40054822|Lagoa do Arco": null,
+ "wmc120856400|Cabo Ledo": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc121787469|Cabo Ledo": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb309564|Cox's Bazar Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb369433|Sundarbans Mangrove Forest": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb309563|Cox's Bazar Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc5627024|Saint Martin's Island": null,
+ "pxb141511|Tanguar Haor": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb132382|Tanguar Haor": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc77151749|Lalbagh Fort": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc90816421|Nafakhum Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc17380553|Nafakhum Waterfall": null,
+ "pxb372151|Bangladesh": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb372140|Bangladesh": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

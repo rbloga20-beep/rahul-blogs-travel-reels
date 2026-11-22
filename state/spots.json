@@ -12700,5 +12700,121 @@
    "name": "Royal Mausoleum of Mauretania",
    "q": "Royal Mausoleum Mauretania"
   }
+ ],
+ "Angola": [
+  {
+   "name": "Kalandula Falls",
+   "q": "Kalandula Falls"
+  },
+  {
+   "name": "Serra da Leba Pass",
+   "q": "Serra da Leba"
+  },
+  {
+   "name": "Tundavala Fissure",
+   "q": "Tundavala Fissure"
+  },
+  {
+   "name": "Miradouro da Lua",
+   "q": "Miradouro da Lua"
+  },
+  {
+   "name": "Kissama National Park",
+   "q": "Kissama"
+  },
+  {
+   "name": "Black Rocks of Pungo Andongo",
+   "q": "Pungo Andongo"
+  },
+  {
+   "name": "Iona National Park",
+   "q": "Iona Park"
+  },
+  {
+   "name": "Mussulo Island",
+   "q": "Mussulo"
+  },
+  {
+   "name": "Cristo Rei Statue Lubango",
+   "q": "Cristo Rei Lubango"
+  },
+  {
+   "name": "Cabo Ledo",
+   "q": "Cabo Ledo"
+  },
+  {
+   "name": "Lagoa do Arco",
+   "q": "Lagoa do Arco"
+  },
+  {
+   "name": "Praia da Caotinha",
+   "q": "Praia da Caotinha"
+  },
+  {
+   "name": "Dala Waterfalls",
+   "q": "Quedas do Dala"
+  },
+  {
+   "name": "Luanda Bay",
+   "q": "Luanda Bay"
+  }
+ ],
+ "Bangladesh": [
+  {
+   "name": "Cox's Bazar Beach",
+   "q": "Cox's Bazar"
+  },
+  {
+   "name": "Sundarbans Mangrove Forest",
+   "q": "Sundarbans"
+  },
+  {
+   "name": "Sajek Valley",
+   "q": "Sajek Valley"
+  },
+  {
+   "name": "Saint Martin's Island",
+   "q": "Saint Martin Island"
+  },
+  {
+   "name": "Ratargul Swamp Forest",
+   "q": "Ratargul Swamp"
+  },
+  {
+   "name": "Tanguar Haor",
+   "q": "Tanguar Haor"
+  },
+  {
+   "name": "Srimangal Tea Gardens",
+   "q": "Srimangal"
+  },
+  {
+   "name": "Jaflong",
+   "q": "Jaflong"
+  },
+  {
+   "name": "Bichanakandi",
+   "q": "Bichanakandi"
+  },
+  {
+   "name": "Ahsan Manzil",
+   "q": "Ahsan Manzil"
+  },
+  {
+   "name": "Panam City",
+   "q": "Panam City"
+  },
+  {
+   "name": "Lalbagh Fort",
+   "q": "Lalbagh Fort"
+  },
+  {
+   "name": "Kaptai Lake",
+   "q": "Kaptai Lake"
+  },
+  {
+   "name": "Nafakhum Waterfall",
+   "q": "Nafakhum"
+  }
  ]
 }
