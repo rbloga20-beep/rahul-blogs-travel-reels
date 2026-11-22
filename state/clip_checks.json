@@ -17466,5 +17466,127 @@
   "v": 3,
   "ok": true,
   "s": 6
+ },
+ "wmc175436608|Elmina Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb309375|Cape Coast Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc175436722|Elmina Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb227071|Cape Coast Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb86457|Cape Coast Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb184480|Cape Coast Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc185203667|African Renaissance Monument": null,
+ "wmc185204726|African Renaissance Monument": null,
+ "wmc185203716|African Renaissance Monument": null,
+ "wmc185204895|African Renaissance Monument": null,
+ "wmc83165172|Gorée Island": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc178350783|Bandia Reserve": null,
+ "wmc178350781|Bandia Reserve": null,
+ "wmc178350779|Bandia Reserve": null,
+ "wmc178350788|Bandia Reserve": null,
+ "wmc53134981|Saint-Louis": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc150300504|Djoudj National Bird Sanctuary": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc161497292|Saint-Louis": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc150300500|Djoudj National Bird Sanctuary": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc24007271|Ngor Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc186322564|Ngor Island": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc186321652|Ngor Island": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc186322191|Ngor Island": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc61965604|Cap Skirring": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc3440806|Les Mamelles Lighthouse": null,
+ "wmc3440862|Les Mamelles Lighthouse": null,
+ "wmc3440788|Les Mamelles Lighthouse": null,
+ "wmc3440781|Les Mamelles Lighthouse": null,
+ "wmc171034240|Niokolo-Koba National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc171034231|Niokolo-Koba National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb348074|Senegal": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb140268|Senegal": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb24692|Senegal": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb140252|Senegal": {
+  "v": 3,
+  "ok": false,
+  "s": 1
  }
 }

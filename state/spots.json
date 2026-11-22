@@ -11830,5 +11830,121 @@
    "name": "Mokolodi Nature Reserve",
    "q": "Mokolodi Nature Reserve"
   }
+ ],
+ "Ghana": [
+  {
+   "name": "Kakum Canopy Walk",
+   "q": "Kakum canopy walk"
+  },
+  {
+   "name": "Cape Coast Castle",
+   "q": "Cape Coast Castle"
+  },
+  {
+   "name": "Elmina Castle",
+   "q": "Elmina Castle"
+  },
+  {
+   "name": "Aburi Botanical Gardens",
+   "q": "Aburi Botanical Gardens"
+  },
+  {
+   "name": "Larabanga Mosque",
+   "q": "Larabanga Mosque"
+  },
+  {
+   "name": "Nzulezo Stilt Village",
+   "q": "Nzulezo"
+  },
+  {
+   "name": "Wli Waterfalls",
+   "q": "Wli Waterfall"
+  },
+  {
+   "name": "Mole National Park",
+   "q": "Mole National Park"
+  },
+  {
+   "name": "Boti Falls",
+   "q": "Boti Falls"
+  },
+  {
+   "name": "Jamestown Lighthouse",
+   "q": "Jamestown Lighthouse"
+  },
+  {
+   "name": "Adomi Bridge",
+   "q": "Adomi Bridge"
+  },
+  {
+   "name": "Mount Afadjato",
+   "q": "Mount Afadjato"
+  },
+  {
+   "name": "Shai Hills Resource Reserve",
+   "q": "Shai Hills"
+  },
+  {
+   "name": "Bonwire Kente Village",
+   "q": "Bonwire Kente"
+  }
+ ],
+ "Senegal": [
+  {
+   "name": "Gorée Island",
+   "q": "Goree Island"
+  },
+  {
+   "name": "Lake Retba",
+   "q": "Lac Rose Retba"
+  },
+  {
+   "name": "African Renaissance Monument",
+   "q": "African Renaissance Monument"
+  },
+  {
+   "name": "Lompoul Desert",
+   "q": "Lompoul Desert"
+  },
+  {
+   "name": "Fadiouth Shell Island",
+   "q": "Fadiouth Shell Island"
+  },
+  {
+   "name": "Saloum Delta",
+   "q": "Saloum Delta"
+  },
+  {
+   "name": "Saint-Louis",
+   "q": "Saint-Louis Faidherbe Bridge"
+  },
+  {
+   "name": "Djoudj National Bird Sanctuary",
+   "q": "Djoudj Bird Sanctuary"
+  },
+  {
+   "name": "Bandia Reserve",
+   "q": "Bandia Reserve"
+  },
+  {
+   "name": "Cap Skirring",
+   "q": "Cap Skirring Beach"
+  },
+  {
+   "name": "Ngor Island",
+   "q": "Ngor Island"
+  },
+  {
+   "name": "Dakar Grand Mosque",
+   "q": "Dakar Grand Mosque"
+  },
+  {
+   "name": "Les Mamelles Lighthouse",
+   "q": "Phare des Mamelles"
+  },
+  {
+   "name": "Niokolo-Koba National Park",
+   "q": "Niokolo-Koba"
+  }
  ]
 }
