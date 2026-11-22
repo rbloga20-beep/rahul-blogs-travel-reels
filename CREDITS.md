@@ -1150,3 +1150,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-22-05-08 | Ngor Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Otok_Ngor_16._o%C5%BEujka_2026.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-22-05-08 | Niokolo-Koba National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Parc_national_du_niokolo_koba_leuve_gambie_11.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-22-05-08 | Senegal | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Djoudj_Nov_2014_04.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-10-55 | Tajikistan | Pixabay (vappole) | https://pixabay.com/videos/id-373506/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-22-10-55 | Iskanderkul Lake | Pixabay (vappole) | https://pixabay.com/videos/id-373507/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-22-10-55 | Pamir Highway | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Panj_river_landscape.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-10-55 | Karakul Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lake_Karakul.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-10-55 | Wakhan Valley | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Piandj_vall%C3%A9e.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-10-55 | Nurek Reservoir | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Nurek_Reservoir,_Tajikistan.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-10-55 | Ak-Baital Pass | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pamir_Highway-1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-10-55 | Tajikistan | Pixabay (vappole) | https://pixabay.com/videos/id-373509/ | Pixabay Content License, commercial use, no attribution needed |

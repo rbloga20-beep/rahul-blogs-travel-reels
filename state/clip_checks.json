@@ -17926,5 +17926,86 @@
   "v": 3,
   "ok": false,
   "s": 3
+ },
+ "wmc133847575|Karakul Lake": null,
+ "wmc31265200|Karakul Lake": null,
+ "pxb373507|Iskanderkul Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc161457059|Pamir Highway": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc161399977|Pamir Highway": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc161458679|Karakul Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb373509|Iskanderkul Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc193620897|Wakhan Valley": null,
+ "wmc193537292|Wakhan Valley": null,
+ "wmc163586978|Wakhan Valley": null,
+ "wmc90758502|Seven Lakes": null,
+ "wmc161457884|Wakhan Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61875440|Seven Lakes": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc159621663|Seven Lakes": null,
+ "wmc12065922|Nurek Reservoir": null,
+ "wmc113990848|Nurek Reservoir": null,
+ "wmc161402528|Ak-Baital Pass": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc114180175|Nurek Reservoir": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc162040527|Ak-Baital Pass": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc149787728|Nurek Reservoir": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc200485837|Bulunkul Lake": null,
+ "wmc21232423|Kulikalon Lakes": null,
+ "wmc156077593|Hisor Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb373506|Tajikistan": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb373507|Tajikistan": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

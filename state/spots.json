@@ -12410,5 +12410,63 @@
    "name": "Cathedral of the Most Holy Trinity",
    "q": "Hamilton Cathedral"
   }
+ ],
+ "Tajikistan": [
+  {
+   "name": "Iskanderkul Lake",
+   "q": "Iskanderkul"
+  },
+  {
+   "name": "Pamir Highway",
+   "q": "Pamir Highway"
+  },
+  {
+   "name": "Karakul Lake",
+   "q": "Karakul Lake"
+  },
+  {
+   "name": "Seven Lakes",
+   "q": "Haft Kul"
+  },
+  {
+   "name": "Alaudin Lakes",
+   "q": "Alaudin Lakes"
+  },
+  {
+   "name": "Wakhan Valley",
+   "q": "Wakhan Valley"
+  },
+  {
+   "name": "Yamchun Fort",
+   "q": "Yamchun Fort"
+  },
+  {
+   "name": "Nurek Reservoir",
+   "q": "Nurek Dam"
+  },
+  {
+   "name": "Ak-Baital Pass",
+   "q": "Ak Baital Pass"
+  },
+  {
+   "name": "Hisor Fortress",
+   "q": "Hisor Fortress"
+  },
+  {
+   "name": "Bulunkul Lake",
+   "q": "Bulunkul"
+  },
+  {
+   "name": "Kulikalon Lakes",
+   "q": "Kulikalon Lakes"
+  },
+  {
+   "name": "Khujand Fortress",
+   "q": "Khujand Fortress"
+  },
+  {
+   "name": "Ismail Samani Monument",
+   "q": "Ismail Samani Monument"
+  }
  ]
 }
