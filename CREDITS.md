@@ -1158,3 +1158,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-22-10-55 | Nurek Reservoir | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Nurek_Reservoir,_Tajikistan.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-22-10-55 | Ak-Baital Pass | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pamir_Highway-1.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-22-10-55 | Tajikistan | Pixabay (vappole) | https://pixabay.com/videos/id-373509/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-22-14-18 | Algeria | Pixabay (u_ucc65chy5p) | https://pixabay.com/videos/id-262072/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-22-14-18 | Tassili n'Ajjer | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS-40_Tifernine_dunes_and_Tassili_Najjer_Mountains_in_Algeria.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-14-18 | Assekrem | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ahaggar_Landsat_8_pan_sharpened_composite.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-14-18 | Jardin d'Essai du Hamma | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jardin_d%27essai_du_Hamma_%C3%A0_Alger,_o%C3%B9_Johnny_Weissmuller_a_jou%C3%A9_Tarzan.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-14-18 | Royal Mausoleum of Mauretania | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tomb_of_Juba_II_and_Cleopatra_Selene_(James_Bruce).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-14-18 | Algeria | Pixabay (Natmondo) | https://pixabay.com/videos/id-368715/ | Pixabay Content License, commercial use, no attribution needed |

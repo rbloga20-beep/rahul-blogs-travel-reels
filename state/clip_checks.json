@@ -18007,5 +18007,194 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb103550|Darvaza Gas Crater": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc8148214|Arch of Neutrality": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc108776104|Ancient Merv": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc102671781|Independence Monument": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc91014230|Kunya-Urgench": null,
+ "wmc2634077|Ancient Nisa": null,
+ "wmc192051761|Gonur Depe": null,
+ "wmc65658603|Mount Tavurvur": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc1162679|Mount Tavurvur": null,
+ "wmc76043433|Sepik River": null,
+ "wmc127922542|Mount Wilhelm": null,
+ "wmc114939334|Mount Wilhelm": null,
+ "wmc4757161|Mount Wilhelm": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc38305620|Mount Wilhelm": null,
+ "wmc49797947|Sepik River": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc16221271|Sepik River": null,
+ "wmc93506075|Sepik River": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc79790677|Lusancay Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc163671919|Kimbe Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc121734167|Conflict Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc121734190|Conflict Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc121734261|Conflict Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc121734217|Conflict Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc203534754|Mount Hagen": null,
+ "wmc115807266|Duke of York Islands": null,
+ "wmc15362470|Duke of York Islands": null,
+ "wmc93515703|Duke of York Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc115810680|Duke of York Islands": null,
+ "wmc48305644|Ha'amonga 'a Maui Trilithon": null,
+ "wmc65754529|Ha'amonga 'a Maui Trilithon": null,
+ "wmc19798664|Swallow's Cave": null,
+ "wmc111201429|Uoleva Island": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc111201565|Uoleva Island": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc175058302|Fafa Island": null,
+ "wmc126267792|Fafa Island": null,
+ "wmc126267796|Fafa Island": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc194413224|Fafa Island": null,
+ "wmc118192|'Eua National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc80836771|'Eua National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc129571594|Casbah of Algiers": null,
+ "wmc36891950|Tassili n'Ajjer": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc154428315|Tassili n'Ajjer": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc78012466|Assekrem": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc118332704|Timgad Ruins": null,
+ "wmc185534025|Timgad Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc178715895|Tipasa Ruins": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc185533634|Timgad Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc116825646|Notre-Dame d'Afrique": null,
+ "wmc103376398|Maqam Echahid": null,
+ "wmc150126750|Jardin d'Essai du Hamma": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc152129824|Jardin d'Essai du Hamma": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc152129822|Jardin d'Essai du Hamma": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc1769935|Fort Santa Cruz": null,
+ "wmc116260323|Royal Mausoleum of Mauretania": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb262072|Algeria": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb311900|Algeria": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb368715|Algeria": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }
