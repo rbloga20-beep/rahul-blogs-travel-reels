@@ -1138,3 +1138,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-21-16-57 | Tasiilaq | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tasiilaq,_Greenland_02.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-21-16-57 | Sermeq Kujalleq Glacier | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jakobshavn_Calving_Front_(7166014512).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-21-16-57 | Greenland | Pixabay (TungArt7) | https://pixabay.com/videos/id-207981/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-22-02-18 | Botswana | Pixabay (Teshy) | https://pixabay.com/videos/id-134765/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-22-02-18 | Okavango Delta | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Okavango-delta-sunrise-april-2025.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-02-18 | Makgadikgadi Pans | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS058-E-29269_-_View_of_Botswana.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-02-18 | Linyanti Wildlife Reserve | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS035-E-5305_-_View_of_Namibia.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-22-02-18 | Botswana | Pixabay (HaGe2) | https://pixabay.com/videos/id-5332/ | Pixabay Content License, commercial use, no attribution needed |

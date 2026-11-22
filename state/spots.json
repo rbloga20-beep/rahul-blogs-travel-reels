@@ -11714,5 +11714,121 @@
    "name": "Sermeq Kujalleq Glacier",
    "q": "Sermeq Kujalleq"
   }
+ ],
+ "Faroe Islands": [
+  {
+   "name": "Múlafossur Waterfall",
+   "q": "Mulafossur Gasadalur"
+  },
+  {
+   "name": "Trælanípa Cliff",
+   "q": "Traelanipa Sorvagsvatn"
+  },
+  {
+   "name": "Kallur Lighthouse",
+   "q": "Kallur Kalsoy"
+  },
+  {
+   "name": "Drangarnir Sea Stacks",
+   "q": "Drangarnir"
+  },
+  {
+   "name": "Saksun Village",
+   "q": "Saksun"
+  },
+  {
+   "name": "Tjørnuvík Beach",
+   "q": "Tjornuvik"
+  },
+  {
+   "name": "Gjógv",
+   "q": "Gjogv"
+  },
+  {
+   "name": "Mykines Island",
+   "q": "Mykines Puffins"
+  },
+  {
+   "name": "Fossá Waterfall",
+   "q": "Fossa"
+  },
+  {
+   "name": "Tinganes",
+   "q": "Tinganes Torshavn"
+  },
+  {
+   "name": "Trøllkonufingur",
+   "q": "Trollkonufingur"
+  },
+  {
+   "name": "Klakkur Viewpoint",
+   "q": "Klakkur Klaksvik"
+  },
+  {
+   "name": "Viðareiði",
+   "q": "Vidareidi"
+  },
+  {
+   "name": "Risin og Kellingin",
+   "q": "Risin Kellingin"
+  }
+ ],
+ "Botswana": [
+  {
+   "name": "Okavango Delta",
+   "q": "Okavango Delta mokoro"
+  },
+  {
+   "name": "Chobe National Park",
+   "q": "Chobe River elephants"
+  },
+  {
+   "name": "Makgadikgadi Pans",
+   "q": "Makgadikgadi salt pan"
+  },
+  {
+   "name": "Moremi Game Reserve",
+   "q": "Moremi Game Reserve"
+  },
+  {
+   "name": "Kubu Island",
+   "q": "Kubu Island baobab"
+  },
+  {
+   "name": "Central Kalahari Game Reserve",
+   "q": "Central Kalahari"
+  },
+  {
+   "name": "Savuti Marsh",
+   "q": "Savuti Marsh"
+  },
+  {
+   "name": "Baines' Baobabs",
+   "q": "Baines Baobabs"
+  },
+  {
+   "name": "Tsodilo Hills",
+   "q": "Tsodilo Hills"
+  },
+  {
+   "name": "Khwai Concession",
+   "q": "Khwai River safari"
+  },
+  {
+   "name": "Nxai Pan National Park",
+   "q": "Nxai Pan zebra"
+  },
+  {
+   "name": "Linyanti Wildlife Reserve",
+   "q": "Linyanti Swamps"
+  },
+  {
+   "name": "Chief's Island",
+   "q": "Chiefs Island Okavango"
+  },
+  {
+   "name": "Mokolodi Nature Reserve",
+   "q": "Mokolodi Nature Reserve"
+  }
  ]
 }

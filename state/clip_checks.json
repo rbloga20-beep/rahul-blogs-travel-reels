@@ -17405,5 +17405,66 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc61897584|Múlafossur Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc32093775|Fossá Waterfall": null,
+ "wmc169731554|Makgadikgadi Pans": null,
+ "wmc169727835|Makgadikgadi Pans": null,
+ "wmc166268695|Okavango Delta": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc104082488|Makgadikgadi Pans": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc179053698|Okavango Delta": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc104082541|Makgadikgadi Pans": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc145419902|Moremi Game Reserve": null,
+ "wmc62059482|Central Kalahari Game Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc145419902|Central Kalahari Game Reserve": null,
+ "wmc199128573|Tsodilo Hills": null,
+ "wmc185799326|Tsodilo Hills": null,
+ "wmc119355840|Linyanti Wildlife Reserve": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc119355891|Linyanti Wildlife Reserve": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc174686161|Chief's Island": null,
+ "wmc185418543|Chief's Island": null,
+ "wmc185418757|Chief's Island": null,
+ "wmc185418550|Chief's Island": null,
+ "pxb134765|Botswana": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb5332|Botswana": {
+  "v": 3,
+  "ok": true,
+  "s": 6
  }
 }
