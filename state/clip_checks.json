@@ -18640,5 +18640,262 @@
   "ok": true,
   "s": 6
  },
- "wmc135727809|Pointe-Denis": null
+ "wmc135727809|Pointe-Denis": null,
+ "wmc32793120|Kaieteur Falls": null,
+ "wmc34162250|Kaieteur Falls": null,
+ "wmc156354748|St. George's Cathedral": null,
+ "wmc169163134|Georgetown Botanical Gardens": null,
+ "wmc42601815|Georgetown Botanical Gardens": null,
+ "wmc41707371|Georgetown Botanical Gardens": null,
+ "wmc17034712|Georgetown Botanical Gardens": null,
+ "pxb360206|Shell Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb377064|Shell Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb314737|Shell Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb53968|Shell Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc144706896|Demerara Harbour Bridge": null,
+ "wmc144706876|Demerara Harbour Bridge": null,
+ "wmc142372968|Kanuku Mountains": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc100089363|Kanuku Mountains": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc100081500|Kanuku Mountains": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc100089955|Kanuku Mountains": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc43331017|West Bay Beach, Roatán": null,
+ "wmc75678334|Copán Ruins": null,
+ "wmc148897687|Copán Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc148897686|Copán Ruins": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc179985885|Utila": null,
+ "wmc49264005|Utila": null,
+ "wmc16141567|Utila": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc6061227|Utila": null,
+ "wmc102637801|Guanaja": null,
+ "wmc102637800|Guanaja": null,
+ "wmc102637798|Guanaja": null,
+ "wmc102637799|Guanaja": null,
+ "wmc31599963|Lake Yojoa": null,
+ "wmc196394326|Lake Yojoa": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc17150544|Lake Yojoa": null,
+ "wmc31599997|Lake Yojoa": null,
+ "wmc142302528|Celaque National Park": null,
+ "wmc123406922|Celaque National Park": null,
+ "wmc123406920|Celaque National Park": null,
+ "wmc142367329|Lancetilla Botanical Garden": null,
+ "wmc142359442|Lancetilla Botanical Garden": null,
+ "wmc142308227|Lancetilla Botanical Garden": null,
+ "wmc142301212|Lancetilla Botanical Garden": null,
+ "wmc69219041|Omoa Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc69219056|Omoa Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc69974740|Omoa Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc69974734|Omoa Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc30907244|Cape Maclear": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc30907738|Cape Maclear": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc30908180|Cape Maclear": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc30909137|Cape Maclear": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc115080434|Liwonde National Park": null,
+ "wmc156935750|Liwonde National Park": null,
+ "wmc119422749|Liwonde National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc119422753|Liwonde National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc802882|Mount Mulanje": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc155439287|Likoma Island": null,
+ "wmc155439290|Likoma Island": null,
+ "wmc162994549|Likoma Island": null,
+ "wmc155439337|Likoma Island": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc44761157|Zomba Plateau": null,
+ "wmc44761638|Zomba Plateau": null,
+ "wmc44761635|Zomba Plateau": null,
+ "wmc44761632|Zomba Plateau": null,
+ "wmc165603456|Majete Wildlife Reserve": null,
+ "wmc5935550|Majete Wildlife Reserve": null,
+ "wmc44689813|Kasungu National Park": null,
+ "wmc44688556|Kasungu National Park": null,
+ "wmc111409705|Nkhotakota Wildlife Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb108366|Lake Malawi": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc81717272|Nkhotakota Wildlife Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc111409879|Nkhotakota Wildlife Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc111506384|Nkhotakota Wildlife Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc8296747|Mua Mission": null,
+ "wmc102314223|Mua Mission": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc79999416|Eye of the Sahara": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc99838133|Eye of the Sahara": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc121537625|Oualata": null,
+ "wmc178901056|Banc d'Arguin National Park": null,
+ "wmc104062622|Banc d'Arguin National Park": null,
+ "wmc64002022|Oualata": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc75285801|Banc d'Arguin National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc104062619|Banc d'Arguin National Park": null,
+ "wmc110147548|Cricova Winery": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc110147551|Cricova Winery": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc200451675|Mileștii Mici": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc110147542|Cricova Winery": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc122943166|Mileștii Mici": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc110147544|Cricova Winery": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc122943152|Mileștii Mici": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc76962806|Soroca Fortress": null,
+ "wmc88426409|Bendery Fortress": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ }
 }

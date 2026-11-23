@@ -13338,5 +13338,469 @@
    "name": "Bao Bolong Wetland Reserve",
    "q": "Bao Bolong Wetland"
   }
+ ],
+ "Guyana": [
+  {
+   "name": "Kaieteur Falls",
+   "q": "Kaieteur Falls"
+  },
+  {
+   "name": "Orinduik Falls",
+   "q": "Orinduik Falls"
+  },
+  {
+   "name": "St. George's Cathedral",
+   "q": "St Georges Cathedral"
+  },
+  {
+   "name": "Stabroek Market",
+   "q": "Stabroek Market"
+  },
+  {
+   "name": "Iwokrama Canopy Walkway",
+   "q": "Iwokrama Canopy Walkway"
+  },
+  {
+   "name": "Mount Roraima",
+   "q": "Mount Roraima"
+  },
+  {
+   "name": "Rupununi Savannah",
+   "q": "Rupununi Savannah"
+  },
+  {
+   "name": "Shell Beach",
+   "q": "Shell Beach"
+  },
+  {
+   "name": "Georgetown Botanical Gardens",
+   "q": "Georgetown Botanical Gardens"
+  },
+  {
+   "name": "Karanambu Lodge",
+   "q": "Karanambu Lodge"
+  },
+  {
+   "name": "Demerara Harbour Bridge",
+   "q": "Demerara Harbour Bridge"
+  },
+  {
+   "name": "Surama Village",
+   "q": "Surama Village"
+  },
+  {
+   "name": "Kanuku Mountains",
+   "q": "Kanuku Mountains"
+  },
+  {
+   "name": "Baracara Falls",
+   "q": "Baracara Falls"
+  }
+ ],
+ "Honduras": [
+  {
+   "name": "West Bay Beach, Roatán",
+   "q": "West Bay Roatan"
+  },
+  {
+   "name": "Copán Ruins",
+   "q": "Copan Ruins"
+  },
+  {
+   "name": "Cayos Cochinos",
+   "q": "Cayos Cochinos"
+  },
+  {
+   "name": "Utila",
+   "q": "Utila Island"
+  },
+  {
+   "name": "Pulhapanzak Waterfall",
+   "q": "Pulhapanzak"
+  },
+  {
+   "name": "Pico Bonito National Park",
+   "q": "Pico Bonito"
+  },
+  {
+   "name": "Lake Yojoa",
+   "q": "Lake Yojoa"
+  },
+  {
+   "name": "Comayagua Cathedral",
+   "q": "Comayagua Cathedral"
+  },
+  {
+   "name": "Guanaja",
+   "q": "Guanaja"
+  },
+  {
+   "name": "Omoa Fortress",
+   "q": "Omoa Fortress"
+  },
+  {
+   "name": "Lancetilla Botanical Garden",
+   "q": "Lancetilla"
+  },
+  {
+   "name": "Celaque National Park",
+   "q": "Celaque"
+  },
+  {
+   "name": "Santa Rosa de Copán",
+   "q": "Santa Rosa Copan"
+  },
+  {
+   "name": "Trujillo Bay",
+   "q": "Trujillo Bay"
+  }
+ ],
+ "Ivory Coast": [
+  {
+   "name": "Basilica of Our Lady of Peace",
+   "q": "Yamoussoukro Basilica"
+  },
+  {
+   "name": "Grand-Bassam",
+   "q": "Grand Bassam"
+  },
+  {
+   "name": "St. Paul's Cathedral",
+   "q": "St Paul Cathedral Abidjan"
+  },
+  {
+   "name": "Assinie-Mafia",
+   "q": "Assinie Beach"
+  },
+  {
+   "name": "Man Waterfalls",
+   "q": "Cascade de Man"
+  },
+  {
+   "name": "Dent de Man",
+   "q": "Dent de Man"
+  },
+  {
+   "name": "Taï National Park",
+   "q": "Tai National Park"
+  },
+  {
+   "name": "Banco National Park",
+   "q": "Banco Forest"
+  },
+  {
+   "name": "Kong Mosque",
+   "q": "Kong Mosque"
+  },
+  {
+   "name": "Mount Nimba",
+   "q": "Mount Nimba"
+  },
+  {
+   "name": "Monogaga Beach",
+   "q": "Monogaga Beach"
+  },
+  {
+   "name": "Jacqueville",
+   "q": "Jacqueville Beach"
+  },
+  {
+   "name": "Comoé National Park",
+   "q": "Comoe National Park"
+  },
+  {
+   "name": "La Pyramide",
+   "q": "La Pyramide Abidjan"
+  }
+ ],
+ "Lesotho": [
+  {
+   "name": "Maletsunyane Falls",
+   "q": "Maletsunyane Falls"
+  },
+  {
+   "name": "Sani Pass",
+   "q": "Sani Pass"
+  },
+  {
+   "name": "Katse Dam",
+   "q": "Katse Dam"
+  },
+  {
+   "name": "Ha Kome Cave Dwellings",
+   "q": "Ha Kome"
+  },
+  {
+   "name": "Tse'hlanyane National Park",
+   "q": "Tsehlanyane"
+  },
+  {
+   "name": "Thaba Bosiu",
+   "q": "Thaba Bosiu"
+  },
+  {
+   "name": "Sehlabathebe National Park",
+   "q": "Sehlabathebe"
+  },
+  {
+   "name": "Afriski Mountain Resort",
+   "q": "Afriski"
+  },
+  {
+   "name": "Bokong Nature Reserve",
+   "q": "Bokong Reserve"
+  },
+  {
+   "name": "Malealea Valley",
+   "q": "Malealea"
+  },
+  {
+   "name": "Gates of Paradise Pass",
+   "q": "Gates of Paradise"
+  },
+  {
+   "name": "Liphofung Cave",
+   "q": "Liphofung"
+  },
+  {
+   "name": "Subeng Dinosaur Footprints",
+   "q": "Subeng Footprints"
+  },
+  {
+   "name": "Thabana Ntlenyana",
+   "q": "Thabana Ntlenyana"
+  }
+ ],
+ "Malawi": [
+  {
+   "name": "Cape Maclear",
+   "q": "Cape Maclear"
+  },
+  {
+   "name": "Mount Mulanje",
+   "q": "Mount Mulanje"
+  },
+  {
+   "name": "Liwonde National Park",
+   "q": "Liwonde"
+  },
+  {
+   "name": "Likoma Island",
+   "q": "Likoma Island"
+  },
+  {
+   "name": "Nyika National Park",
+   "q": "Nyika"
+  },
+  {
+   "name": "Zomba Plateau",
+   "q": "Zomba Plateau"
+  },
+  {
+   "name": "Nkhata Bay",
+   "q": "Nkhata Bay"
+  },
+  {
+   "name": "Majete Wildlife Reserve",
+   "q": "Majete"
+  },
+  {
+   "name": "Manchewe Falls",
+   "q": "Manchewe Falls"
+  },
+  {
+   "name": "Lake Malawi",
+   "q": "Lake Malawi"
+  },
+  {
+   "name": "Nkhotakota Wildlife Reserve",
+   "q": "Nkhotakota"
+  },
+  {
+   "name": "Kasungu National Park",
+   "q": "Kasungu"
+  },
+  {
+   "name": "Mua Mission",
+   "q": "Mua Mission"
+  },
+  {
+   "name": "Kuti Wildlife Reserve",
+   "q": "Kuti Reserve"
+  }
+ ],
+ "Mauritania": [
+  {
+   "name": "Eye of the Sahara",
+   "q": "Richat Structure"
+  },
+  {
+   "name": "Mauritania Iron Ore Train",
+   "q": "Iron Ore Train"
+  },
+  {
+   "name": "Chinguetti",
+   "q": "Chinguetti Mosque"
+  },
+  {
+   "name": "Terjit Oasis",
+   "q": "Terjit Oasis"
+  },
+  {
+   "name": "Port de Pêche",
+   "q": "Port de Peche"
+  },
+  {
+   "name": "Ben Amera Monolith",
+   "q": "Ben Amera"
+  },
+  {
+   "name": "Banc d'Arguin National Park",
+   "q": "Banc d'Arguin"
+  },
+  {
+   "name": "Ouadane",
+   "q": "Ouadane Ruins"
+  },
+  {
+   "name": "Oualata",
+   "q": "Oualata"
+  },
+  {
+   "name": "Amogjar Pass",
+   "q": "Amogjar Canyon"
+  },
+  {
+   "name": "Nouadhibou Ship Graveyard",
+   "q": "Nouadhibou Ship Graveyard"
+  },
+  {
+   "name": "Tichitt",
+   "q": "Tichitt"
+  },
+  {
+   "name": "Aicha Monolith",
+   "q": "Aicha Monolith"
+  },
+  {
+   "name": "Azougui Oasis",
+   "q": "Azougui"
+  }
+ ],
+ "Moldova": [
+  {
+   "name": "Orheiul Vechi",
+   "q": "Orheiul Vechi"
+  },
+  {
+   "name": "Cricova Winery",
+   "q": "Cricova Winery"
+  },
+  {
+   "name": "Mileștii Mici",
+   "q": "Milestii Mici"
+  },
+  {
+   "name": "Soroca Fortress",
+   "q": "Soroca Fortress"
+  },
+  {
+   "name": "Tiraspol",
+   "q": "Tiraspol Transnistria"
+  },
+  {
+   "name": "Bendery Fortress",
+   "q": "Bendery Fortress"
+  },
+  {
+   "name": "Castel Mimi",
+   "q": "Castel Mimi"
+  },
+  {
+   "name": "Chisinau Triumphal Arch",
+   "q": "Chisinau Triumphal Arch"
+  },
+  {
+   "name": "Nativity Cathedral Chisinau",
+   "q": "Nativity Cathedral Chisinau"
+  },
+  {
+   "name": "Căpriana Monastery",
+   "q": "Capriana Monastery"
+  },
+  {
+   "name": "Țipova Monastery",
+   "q": "Tipova Monastery"
+  },
+  {
+   "name": "Saharna Monastery",
+   "q": "Saharna Monastery"
+  },
+  {
+   "name": "Candle of Gratitude",
+   "q": "Candle of Gratitude"
+  },
+  {
+   "name": "Dendrarium Park",
+   "q": "Dendrarium Park"
+  }
+ ],
+ "New Caledonia": [
+  {
+   "name": "Heart of Voh",
+   "q": "Heart of Voh"
+  },
+  {
+   "name": "Natural Pool of Oro",
+   "q": "Oro Natural Pool"
+  },
+  {
+   "name": "Kanumera Bay",
+   "q": "Kanumera Bay"
+  },
+  {
+   "name": "Kuto Bay",
+   "q": "Kuto Bay"
+  },
+  {
+   "name": "Upi Bay",
+   "q": "Upi Bay"
+  },
+  {
+   "name": "Amedee Lighthouse",
+   "q": "Amedee Lighthouse"
+  },
+  {
+   "name": "Mouli Bridge",
+   "q": "Mouli Bridge"
+  },
+  {
+   "name": "Ilot Maitre",
+   "q": "Ilot Maitre"
+  },
+  {
+   "name": "Jokin Cliffs",
+   "q": "Jokin Cliffs"
+  },
+  {
+   "name": "Hienghene Hen Rock",
+   "q": "Hienghene Hen"
+  },
+  {
+   "name": "Tjibaou Cultural Centre",
+   "q": "Tjibaou Cultural Centre"
+  },
+  {
+   "name": "Luengoni Beach",
+   "q": "Luengoni Beach"
+  },
+  {
+   "name": "Anse Vata Beach",
+   "q": "Anse Vata"
+  },
+  {
+   "name": "Duck Island",
+   "q": "Ilot Canard"
+  }
  ]
 }
