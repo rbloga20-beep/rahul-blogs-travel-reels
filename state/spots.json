@@ -13860,5 +13860,63 @@
    "name": "San Ramón Waterfall",
    "q": "San Ramon Waterfall"
   }
+ ],
+ "Pakistan": [
+  {
+   "name": "Hunza Valley",
+   "q": "Hunza Valley"
+  },
+  {
+   "name": "Attabad Lake",
+   "q": "Attabad Lake"
+  },
+  {
+   "name": "Fairy Meadows",
+   "q": "Fairy Meadows"
+  },
+  {
+   "name": "Passu Cones",
+   "q": "Passu Cones"
+  },
+  {
+   "name": "Badshahi Mosque",
+   "q": "Badshahi Mosque"
+  },
+  {
+   "name": "Shangrila Lake",
+   "q": "Shangrila Lake Skardu"
+  },
+  {
+   "name": "Deosai National Park",
+   "q": "Deosai Plains"
+  },
+  {
+   "name": "Faisal Mosque",
+   "q": "Faisal Mosque"
+  },
+  {
+   "name": "Khunjerab Pass",
+   "q": "Khunjerab Pass"
+  },
+  {
+   "name": "Saif-ul-Maluk Lake",
+   "q": "Saiful Muluk Lake"
+  },
+  {
+   "name": "Derawar Fort",
+   "q": "Derawar Fort"
+  },
+  {
+   "name": "Katpana Cold Desert",
+   "q": "Katpana Desert"
+  },
+  {
+   "name": "Ratti Gali Lake",
+   "q": "Ratti Gali Lake"
+  },
+  {
+   "name": "Hingol National Park",
+   "q": "Hingol National Park"
+  }
  ]
 }

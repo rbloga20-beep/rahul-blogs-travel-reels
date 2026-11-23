@@ -19029,5 +19029,72 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc9768955|Attabad Lake": null,
+ "pxb226918|Hunza Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc180961049|Attabad Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb274698|Fairy Meadows": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb364333|Fairy Meadows": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb329694|Hunza Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc180960379|Passu Cones": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc180960371|Passu Cones": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc145823007|Deosai National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb45527|Faisal Mosque": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc5184428|Saif-ul-Maluk Lake": null,
+ "pxb191181|Katpana Cold Desert": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc105874049|Hingol National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb235846|Pakistan": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb236926|Pakistan": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

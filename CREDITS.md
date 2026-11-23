@@ -1181,3 +1181,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-23-11-16 | Playa Maderas | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Walking_along_the_beach_in_the_dark_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-23-11-16 | Mombacho Volcano | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS066-E-103300_-_View_of_Nicaragua.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-23-11-16 | Nicaragua | Pixabay (GrayoPrado) | https://pixabay.com/videos/id-360728/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-23-14-31 | Pakistan | Pixabay (asifsharif) | https://pixabay.com/videos/id-235846/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-23-14-31 | Hunza Valley | Pixabay (u_9ug4hg4oce) | https://pixabay.com/videos/id-226918/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-23-14-31 | Attabad Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Attabad_Lake_In_autumn.png | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-23-14-31 | Passu Cones | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Passu_mountains.png | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-23-14-31 | Faisal Mosque | Pixabay (bharakahuchannel) | https://pixabay.com/videos/id-45527/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-23-14-31 | Katpana Cold Desert | Pixabay (Asif_khanAK) | https://pixabay.com/videos/id-191181/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-23-14-31 | Hingol National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hingol_oli_2021044_lrg.jpeg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-23-14-31 | Pakistan | Pixabay (asifsharif) | https://pixabay.com/videos/id-236926/ | Pixabay Content License, commercial use, no attribution needed |
