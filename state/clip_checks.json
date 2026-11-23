@@ -18374,5 +18374,271 @@
   "v": 3,
   "ok": false,
   "s": 4
- }
+ },
+ "wmc43409523|Lobe Waterfalls": null,
+ "wmc168495227|Mount Cameroon": null,
+ "wmc133566900|Mount Cameroon": null,
+ "wmc168921700|Mount Cameroon": null,
+ "wmc168584422|Mount Cameroon": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc58269696|Ekom Nkam Waterfalls": null,
+ "wmc58269693|Ekom Nkam Waterfalls": null,
+ "wmc58269682|Ekom Nkam Waterfalls": null,
+ "wmc58269681|Ekom Nkam Waterfalls": null,
+ "wmc168582453|Korup National Park": null,
+ "wmc168582455|Korup National Park": null,
+ "wmc168581917|Korup National Park": null,
+ "wmc168582454|Korup National Park": null,
+ "wmc30905626|Foumban Royal Palace": null,
+ "wmc30905521|Foumban Royal Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc71073137|Lake Oku": null,
+ "wmc117932634|Lake Oku": null,
+ "wmc101420988|Campo Ma'an National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc96862971|Campo Ma'an National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc92642389|Campo Ma'an National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc92623297|Campo Ma'an National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb19321|Lac Salé": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb11941|Lac Salé": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb57119|Lac Salé": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb11943|Lac Salé": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc80085761|Aitutaki Lagoon": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb137388|One Foot Island": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc113374692|Te Rua Manga": null,
+ "pxb386257|Black Rock Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb370067|Black Rock Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb292706|Black Rock Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb28726|Black Rock Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc3331564|Akaiami Island": null,
+ "wmc152451289|Punanga Nui Market": null,
+ "wmc152451297|Punanga Nui Market": null,
+ "wmc152451234|Punanga Nui Market": null,
+ "wmc152450983|Punanga Nui Market": null,
+ "wmc191784318|Maina Island": null,
+ "wmc199866865|Maina Island": null,
+ "wmc143123580|Maina Island": null,
+ "wmc199854920|Maina Island": null,
+ "wmc43138089|Highland Paradise": null,
+ "wmc32016483|Moucha Island": null,
+ "wmc111242507|Moucha Island": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc8370855|Lake Assal": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc111015374|Lake Coatepeque": null,
+ "wmc146886711|Santa Ana Volcano": null,
+ "wmc111416655|Lake Coatepeque": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc111015314|Lake Coatepeque": null,
+ "wmc146886726|Santa Ana Volcano": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc166311930|El Tunco": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc86800461|Santa Ana Volcano": null,
+ "wmc166311924|El Tunco": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc11039267|Ruta de las Flores": null,
+ "wmc146900363|Ruta de las Flores": null,
+ "wmc11039308|Ruta de las Flores": null,
+ "wmc11039417|Ruta de las Flores": null,
+ "wmc183871677|Conchagua Lookout": null,
+ "wmc63720393|Suchitoto": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc104675902|Conchagua Lookout": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc104675978|Conchagua Lookout": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc104675952|Conchagua Lookout": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc63720400|Suchitoto": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc152065618|El Zonte": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc152065629|El Zonte": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc152065624|El Zonte": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc152065614|El Zonte": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc9938007|Izalco Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc196391991|Izalco Volcano": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc30575695|Phophonyane Falls": null,
+ "wmc30575694|Phophonyane Falls": null,
+ "wmc30575696|Phophonyane Falls": null,
+ "wmc52447983|Execution Rock": null,
+ "wmc135600458|Execution Rock": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc52448084|Execution Rock": null,
+ "wmc160506516|Execution Rock": null,
+ "wmc160309704|House on Fire": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc160309532|House on Fire": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc160309670|House on Fire": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc160309498|House on Fire": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc148257670|Lopé National Park": null,
+ "wmc148257780|Lopé National Park": null,
+ "wmc185465701|Ivindo National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc148256730|Lopé National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc191276152|Loango National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc115943064|Lopé National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc161158110|Loango National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc161158102|Loango National Park": null,
+ "wmc191276123|Loango National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc135727809|Pointe-Denis": null
 }

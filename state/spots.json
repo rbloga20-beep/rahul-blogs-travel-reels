@@ -12874,5 +12874,469 @@
    "name": "Kpassè Sacred Forest",
    "q": "Kpasse Sacred Forest"
   }
+ ],
+ "Cameroon": [
+  {
+   "name": "Mount Cameroon",
+   "q": "Mount Cameroon"
+  },
+  {
+   "name": "Lobe Waterfalls",
+   "q": "Lobe Waterfalls"
+  },
+  {
+   "name": "Rhumsiki Peak",
+   "q": "Rhumsiki Peak"
+  },
+  {
+   "name": "Ekom Nkam Waterfalls",
+   "q": "Ekom Nkam"
+  },
+  {
+   "name": "Mount Manengouba Twin Lakes",
+   "q": "Manengouba Twin Lakes"
+  },
+  {
+   "name": "Limbe Black Sand Beach",
+   "q": "Limbe Black Sand"
+  },
+  {
+   "name": "Waza National Park",
+   "q": "Waza National Park"
+  },
+  {
+   "name": "Foumban Royal Palace",
+   "q": "Foumban Royal Palace"
+  },
+  {
+   "name": "Korup National Park",
+   "q": "Korup National Park"
+  },
+  {
+   "name": "Mefou Wildlife Sanctuary",
+   "q": "Mefou Sanctuary"
+  },
+  {
+   "name": "Dja Faunal Reserve",
+   "q": "Dja Faunal Reserve"
+  },
+  {
+   "name": "Ebodje Beach",
+   "q": "Ebodje Beach"
+  },
+  {
+   "name": "Lake Oku",
+   "q": "Lake Oku"
+  },
+  {
+   "name": "Campo Ma'an National Park",
+   "q": "Campo Maan"
+  }
+ ],
+ "Comoros": [
+  {
+   "name": "Mount Karthala Crater",
+   "q": "Karthala Crater"
+  },
+  {
+   "name": "Dos de Dragon",
+   "q": "Dos de Dragon"
+  },
+  {
+   "name": "Lac Salé",
+   "q": "Lac Sale"
+  },
+  {
+   "name": "Nioumachoua Islets",
+   "q": "Nioumachoua Islets"
+  },
+  {
+   "name": "Chomoni Beach",
+   "q": "Chomoni Beach"
+  },
+  {
+   "name": "Moroni Friday Mosque",
+   "q": "Moroni Friday Mosque"
+  },
+  {
+   "name": "Mohéli Marine Park",
+   "q": "Moheli Marine Park"
+  },
+  {
+   "name": "Moya Beach",
+   "q": "Moya Beach"
+  },
+  {
+   "name": "Trou du Prophète",
+   "q": "Trou du Prophet"
+  },
+  {
+   "name": "Mutsamudu Medina",
+   "q": "Mutsamudu Medina"
+  },
+  {
+   "name": "Bouni Beach",
+   "q": "Bouni Beach"
+  },
+  {
+   "name": "Lake Dziani Boundouni",
+   "q": "Dziani Boundouni"
+  },
+  {
+   "name": "Itsandra Beach",
+   "q": "Itsandra Beach"
+  },
+  {
+   "name": "Lingoni Waterfalls",
+   "q": "Lingoni Waterfalls"
+  }
+ ],
+ "Cook Islands": [
+  {
+   "name": "Muri Lagoon",
+   "q": "Muri Lagoon"
+  },
+  {
+   "name": "One Foot Island",
+   "q": "One Foot Island"
+  },
+  {
+   "name": "Aitutaki Lagoon",
+   "q": "Aitutaki Lagoon"
+  },
+  {
+   "name": "Te Rua Manga",
+   "q": "Te Rua Manga"
+  },
+  {
+   "name": "Black Rock Beach",
+   "q": "Black Rock"
+  },
+  {
+   "name": "Titiaveka Beach",
+   "q": "Titiaveka"
+  },
+  {
+   "name": "Aroa Marine Reserve",
+   "q": "Aroa Marine Reserve"
+  },
+  {
+   "name": "Wigmore's Waterfall",
+   "q": "Wigmore Waterfall"
+  },
+  {
+   "name": "Akaiami Island",
+   "q": "Akaiami"
+  },
+  {
+   "name": "Ootu Beach",
+   "q": "Ootu Beach"
+  },
+  {
+   "name": "Anatakitaki Cave",
+   "q": "Anatakitaki"
+  },
+  {
+   "name": "Punanga Nui Market",
+   "q": "Punanga Nui"
+  },
+  {
+   "name": "Maina Island",
+   "q": "Maina Island"
+  },
+  {
+   "name": "Highland Paradise",
+   "q": "Highland Paradise"
+  }
+ ],
+ "Djibouti": [
+  {
+   "name": "Lake Assal",
+   "q": "Lake Assal"
+  },
+  {
+   "name": "Lake Abbe",
+   "q": "Lake Abbe"
+  },
+  {
+   "name": "Moucha Island",
+   "q": "Moucha Island"
+  },
+  {
+   "name": "Day Forest National Park",
+   "q": "Day Forest"
+  },
+  {
+   "name": "Gulf of Tadjoura",
+   "q": "Gulf of Tadjoura"
+  },
+  {
+   "name": "Ardoukoba Volcano",
+   "q": "Ardoukoba"
+  },
+  {
+   "name": "Grand Bara Desert",
+   "q": "Grand Bara"
+  },
+  {
+   "name": "Ghoubbet-el-Kharab",
+   "q": "Ghoubbet"
+  },
+  {
+   "name": "Plage des Sables Blancs",
+   "q": "Sables Blancs"
+  },
+  {
+   "name": "Maskali Island",
+   "q": "Maskali Island"
+  },
+  {
+   "name": "Tadjoura",
+   "q": "Tadjoura"
+  },
+  {
+   "name": "Ras Siyyan",
+   "q": "Ras Siyyan"
+  },
+  {
+   "name": "DECAN Wildlife Refuge",
+   "q": "DECAN Wildlife"
+  },
+  {
+   "name": "Goda Mountains",
+   "q": "Goda Mountains"
+  }
+ ],
+ "El Salvador": [
+  {
+   "name": "Santa Ana Volcano",
+   "q": "Santa Ana Volcano"
+  },
+  {
+   "name": "Lake Coatepeque",
+   "q": "Lake Coatepeque"
+  },
+  {
+   "name": "El Tunco",
+   "q": "El Tunco"
+  },
+  {
+   "name": "Tazumal Ruins",
+   "q": "Tazumal"
+  },
+  {
+   "name": "Iglesia El Rosario",
+   "q": "Iglesia El Rosario"
+  },
+  {
+   "name": "Ruta de las Flores",
+   "q": "Ruta de las Flores"
+  },
+  {
+   "name": "Puerta del Diablo",
+   "q": "Puerta del Diablo"
+  },
+  {
+   "name": "Conchagua Lookout",
+   "q": "Espiritu de la Montana"
+  },
+  {
+   "name": "Suchitoto",
+   "q": "Suchitoto"
+  },
+  {
+   "name": "Malacatiupan Waterfalls",
+   "q": "Malacatiupan"
+  },
+  {
+   "name": "Tamanique Waterfalls",
+   "q": "Tamanique Waterfalls"
+  },
+  {
+   "name": "El Zonte",
+   "q": "El Zonte"
+  },
+  {
+   "name": "Izalco Volcano",
+   "q": "Izalco Volcano"
+  },
+  {
+   "name": "Joya de Cerén",
+   "q": "Joya de Ceren"
+  }
+ ],
+ "Eswatini": [
+  {
+   "name": "Mlilwane Wildlife Sanctuary",
+   "q": "Mlilwane, Wildlife, Eswatini"
+  },
+  {
+   "name": "Hlane Royal National Park",
+   "q": "Hlane, Safari, Lions"
+  },
+  {
+   "name": "Sibebe Rock",
+   "q": "Sibebe, Hiking, Monolith"
+  },
+  {
+   "name": "Phophonyane Falls",
+   "q": "Phophonyane, Waterfall, Nature"
+  },
+  {
+   "name": "Mantenga Cultural Village",
+   "q": "Mantenga, Culture, Dance"
+  },
+  {
+   "name": "Mkhaya Game Reserve",
+   "q": "Mkhaya, Rhinos, Safari"
+  },
+  {
+   "name": "Malolotja Nature Reserve",
+   "q": "Malolotja, Mountains, Canopy"
+  },
+  {
+   "name": "Ezulwini Valley",
+   "q": "Ezulwini, Valley, Scenery"
+  },
+  {
+   "name": "Swazi Candles",
+   "q": "Swazi Candles, Crafts, Art"
+  },
+  {
+   "name": "Ngwenya Glass",
+   "q": "Ngwenya, Glassblowing, Art"
+  },
+  {
+   "name": "Execution Rock",
+   "q": "Execution Rock, Mlilwane, Viewpoint"
+  },
+  {
+   "name": "Maguga Dam",
+   "q": "Maguga, Dam, Reservoir"
+  },
+  {
+   "name": "Shewula Mountain Camp",
+   "q": "Shewula, Mountains, Community"
+  },
+  {
+   "name": "House on Fire",
+   "q": "House on Fire, Architecture, Festival"
+  }
+ ],
+ "Gabon": [
+  {
+   "name": "Loango National Park",
+   "q": "Loango surfing hippos"
+  },
+  {
+   "name": "Ivindo National Park",
+   "q": "Kongou Falls Ivindo"
+  },
+  {
+   "name": "Lopé National Park",
+   "q": "Lope National Park"
+  },
+  {
+   "name": "Cirque de Léconi",
+   "q": "Cirque de Leconi"
+  },
+  {
+   "name": "Pongara National Park",
+   "q": "Pongara National Park"
+  },
+  {
+   "name": "Pointe-Denis",
+   "q": "Pointe Denis"
+  },
+  {
+   "name": "St. Michael Cathedral",
+   "q": "St Michael Cathedral"
+  },
+  {
+   "name": "Lambaréné",
+   "q": "Lambarene Schweitzer"
+  },
+  {
+   "name": "Mayumba National Park",
+   "q": "Mayumba National Park"
+  },
+  {
+   "name": "Fernan Vaz Lagoon",
+   "q": "Fernan Vaz"
+  },
+  {
+   "name": "Akanda National Park",
+   "q": "Akanda National Park"
+  },
+  {
+   "name": "Moukalaba-Doudou National Park",
+   "q": "Moukalaba Doudou"
+  },
+  {
+   "name": "Cap Estérias",
+   "q": "Cap Esterias"
+  },
+  {
+   "name": "Libreville Seafront",
+   "q": "Libreville seafront"
+  }
+ ],
+ "Gambia": [
+  {
+   "name": "Kachikally Crocodile Pool",
+   "q": "Kachikally Crocodile Pool"
+  },
+  {
+   "name": "Kunta Kinteh Island",
+   "q": "Kunta Kinteh Island"
+  },
+  {
+   "name": "Tanji Fishing Village",
+   "q": "Tanji Fishing Village"
+  },
+  {
+   "name": "Arch 22",
+   "q": "Arch 22 Banjul"
+  },
+  {
+   "name": "Sanyang Beach",
+   "q": "Sanyang Beach"
+  },
+  {
+   "name": "Abuko Nature Reserve",
+   "q": "Abuko Nature Reserve"
+  },
+  {
+   "name": "Bijilo Forest Park",
+   "q": "Bijilo Monkey Park"
+  },
+  {
+   "name": "Wassu Stone Circles",
+   "q": "Wassu Stone Circles"
+  },
+  {
+   "name": "Albert Market",
+   "q": "Albert Market"
+  },
+  {
+   "name": "Makasutu Cultural Forest",
+   "q": "Makasutu Cultural Forest"
+  },
+  {
+   "name": "River Gambia Baboon Islands",
+   "q": "Baboon Islands"
+  },
+  {
+   "name": "Janjanbureh",
+   "q": "Janjanbureh"
+  },
+  {
+   "name": "Kotu Beach",
+   "q": "Kotu Beach"
+  },
+  {
+   "name": "Bao Bolong Wetland Reserve",
+   "q": "Bao Bolong Wetland"
+  }
  ]
 }
