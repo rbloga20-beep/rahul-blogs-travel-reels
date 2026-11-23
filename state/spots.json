@@ -12816,5 +12816,63 @@
    "name": "Nafakhum Waterfall",
    "q": "Nafakhum"
   }
+ ],
+ "Benin": [
+  {
+   "name": "Ganvie Lake Village",
+   "q": "Ganvie"
+  },
+  {
+   "name": "Door of No Return",
+   "q": "Door of No Return"
+  },
+  {
+   "name": "Pendjari National Park",
+   "q": "Pendjari"
+  },
+  {
+   "name": "Temple of Pythons",
+   "q": "Temple des Pythons"
+  },
+  {
+   "name": "Royal Palaces of Abomey",
+   "q": "Abomey Palaces"
+  },
+  {
+   "name": "Tanougou Waterfalls",
+   "q": "Tanougou Waterfalls"
+  },
+  {
+   "name": "Tata Somba Mud Castles",
+   "q": "Tata Somba"
+  },
+  {
+   "name": "Dantokpa Market",
+   "q": "Dantokpa Market"
+  },
+  {
+   "name": "Cotonou Cathedral",
+   "q": "Cotonou Cathedral"
+  },
+  {
+   "name": "Great Mosque of Porto-Novo",
+   "q": "Porto Novo Mosque"
+  },
+  {
+   "name": "Kota Waterfalls",
+   "q": "Kota Waterfalls"
+  },
+  {
+   "name": "Fidjrossè Beach",
+   "q": "Fidjrosse Beach"
+  },
+  {
+   "name": "Lake Ahémé",
+   "q": "Lake Aheme"
+  },
+  {
+   "name": "Kpassè Sacred Forest",
+   "q": "Kpasse Sacred Forest"
+  }
  ]
 }

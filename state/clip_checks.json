@@ -18295,5 +18295,84 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc186229838|Ganvie Lake Village": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc175436608|Door of No Return": {
+  "v": 3,
+  "ok": false,
+  "s": 0
+ },
+ "wmc58190220|Door of No Return": null,
+ "wmc186221352|Ganvie Lake Village": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc160492736|Door of No Return": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc185187012|Door of No Return": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc145448432|Temple of Pythons": null,
+ "wmc150562133|Dantokpa Market": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc151771246|Tata Somba Mud Castles": null,
+ "wmc113489378|Tata Somba Mud Castles": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc144552868|Cotonou Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc178972948|Fidjrossè Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc151762525|Kota Waterfalls": null,
+ "wmc79989449|Lake Ahémé": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc79989450|Lake Ahémé": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb167796|Benin": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb26284|Benin": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb133662|Benin": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb167798|Benin": {
+  "v": 3,
+  "ok": false,
+  "s": 4
  }
 }
