@@ -18897,5 +18897,137 @@
   "v": 3,
   "ok": false,
   "s": 1
+ },
+ "wmc121550231|Ometepe Island": null,
+ "wmc16379602|Cerro Negro": null,
+ "pxb112021|Granada": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb126864|Granada": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb126868|Granada": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb309258|Granada": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc148888371|Little Corn Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc104228507|Masaya Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc62111984|San Juan del Sur": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc148887421|Little Corn Island": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc104228439|Masaya Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc148888370|Little Corn Island": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc148888367|Little Corn Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb124575|Cathedral of León": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc8753269|Somoto Canyon": null,
+ "pxb275813|Cathedral of León": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc120835189|Somoto Canyon": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc120835176|Somoto Canyon": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc120835180|Somoto Canyon": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc37064633|Las Isletas de Granada": null,
+ "wmc23023011|Las Isletas de Granada": null,
+ "wmc52010036|Las Isletas de Granada": null,
+ "wmc36563358|Las Isletas de Granada": null,
+ "wmc171598136|Pearl Cays": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc61782463|Playa Maderas": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc148903552|Pearl Cays": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc61744517|Playa Maderas": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc61851515|Playa Maderas": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc121984942|Mombacho Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc104228473|Mombacho Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb156415|Nicaragua": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb360728|Nicaragua": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

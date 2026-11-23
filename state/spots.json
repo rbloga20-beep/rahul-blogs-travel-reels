@@ -13802,5 +13802,63 @@
    "name": "Duck Island",
    "q": "Ilot Canard"
   }
+ ],
+ "Nicaragua": [
+  {
+   "name": "Granada",
+   "q": "Granada"
+  },
+  {
+   "name": "Ometepe Island",
+   "q": "Ometepe"
+  },
+  {
+   "name": "Cerro Negro",
+   "q": "Cerro Negro"
+  },
+  {
+   "name": "Masaya Volcano",
+   "q": "Masaya Volcano"
+  },
+  {
+   "name": "Little Corn Island",
+   "q": "Little Corn Island"
+  },
+  {
+   "name": "San Juan del Sur",
+   "q": "San Juan del Sur"
+  },
+  {
+   "name": "Cathedral of León",
+   "q": "Leon Cathedral"
+  },
+  {
+   "name": "Laguna de Apoyo",
+   "q": "Laguna de Apoyo"
+  },
+  {
+   "name": "Somoto Canyon",
+   "q": "Somoto Canyon"
+  },
+  {
+   "name": "Las Isletas de Granada",
+   "q": "Isletas de Granada"
+  },
+  {
+   "name": "Playa Maderas",
+   "q": "Playa Maderas"
+  },
+  {
+   "name": "Pearl Cays",
+   "q": "Pearl Cays"
+  },
+  {
+   "name": "Mombacho Volcano",
+   "q": "Mombacho Volcano"
+  },
+  {
+   "name": "San Ramón Waterfall",
+   "q": "San Ramon Waterfall"
+  }
  ]
 }
