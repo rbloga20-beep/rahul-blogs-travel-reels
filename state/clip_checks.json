@@ -19096,5 +19096,96 @@
   "v": 3,
   "ok": true,
   "s": 9
- }
+ },
+ "wmc194052835|Timothy Hill Overlook": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc194268386|Timothy Hill Overlook": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc194116026|Timothy Hill Overlook": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc194391104|Timothy Hill Overlook": null,
+ "wmc150166912|Nevis Peak": null,
+ "wmc14784862|Mount Liamuiga": null,
+ "wmc111288643|Mount Liamuiga": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc150166937|Nevis Peak": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc150166958|Nevis Peak": null,
+ "wmc150166828|Nevis Peak": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc26671352|Romney Manor": null,
+ "wmc8250310|Romney Manor": null,
+ "pxb267790|St. Kitts Scenic Railway": null,
+ "pxb386257|Black Rocks": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb337105|St. Kitts Scenic Railway": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb370067|Black Rocks": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb292706|Black Rocks": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb28726|Black Rocks": null,
+ "pxb331521|St. Kitts Scenic Railway": null,
+ "wmc17020339|Independence Square": null,
+ "wmc14694226|South Friar's Bay": null,
+ "wmc177708654|South Friar's Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc14686680|South Friar's Bay": null,
+ "wmc14692335|South Friar's Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc17020320|Independence Square": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc131936796|Fairview Great House": null,
+ "wmc65735333|Frigate Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc41484602|Frigate Bay": null,
+ "wmc62814448|Frigate Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc40734739|Frigate Bay": null,
+ "pxb144406|Saint Kitts and Nevis": null
 }
