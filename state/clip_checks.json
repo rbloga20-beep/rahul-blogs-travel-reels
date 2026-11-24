@@ -19469,5 +19469,114 @@
   "v": 3,
   "ok": false,
   "s": 3
+ },
+ "pxb386137|Na Pali Coast": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb29850|Waikiki Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb375458|Waikiki Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb138813|Diamond Head": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb208406|Diamond Head": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc24933878|Waimea Canyon": null,
+ "pxb35188|Haleakala Crater": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc33939889|Road to Hana": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc24952475|Waimea Canyon": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc33938884|Road to Hana": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc33938889|Road to Hana": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc34077034|Road to Hana": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc90559300|Stairway to Heaven": null,
+ "wmc50693378|Kualoa Ranch": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc107265787|Stairway to Heaven": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc50693379|Kualoa Ranch": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc4005594|Punaluu Black Sand Beach": null,
+ "wmc18017554|Punaluu Black Sand Beach": null,
+ "wmc64488646|Punaluu Black Sand Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc64488699|Punaluu Black Sand Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc26693508|Mauna Kea Summit": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc50892572|Hawaii Volcanoes National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc110735511|Hawaii Volcanoes National Park": null,
+ "wmc16929254|Akaka Falls": null,
+ "wmc17161478|Akaka Falls": null,
+ "wmc17161480|Akaka Falls": null,
+ "wmc17161484|Akaka Falls": null,
+ "pxb386137|Hawaii": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386256|Hawaii": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

@@ -14382,5 +14382,63 @@
    "name": "Kpalimé Forest",
    "q": "Kpalime Forest"
   }
+ ],
+ "Hawaii": [
+  {
+   "name": "Na Pali Coast",
+   "q": "Na Pali Coast"
+  },
+  {
+   "name": "Waikiki Beach",
+   "q": "Waikiki"
+  },
+  {
+   "name": "Diamond Head",
+   "q": "Diamond Head"
+  },
+  {
+   "name": "Road to Hana",
+   "q": "Road to Hana"
+  },
+  {
+   "name": "Haleakala Crater",
+   "q": "Haleakala"
+  },
+  {
+   "name": "Waimea Canyon",
+   "q": "Waimea Canyon"
+  },
+  {
+   "name": "Stairway to Heaven",
+   "q": "Haiku Stairs"
+  },
+  {
+   "name": "Kualoa Ranch",
+   "q": "Kualoa Ranch"
+  },
+  {
+   "name": "Hanauma Bay",
+   "q": "Hanauma Bay"
+  },
+  {
+   "name": "Mauna Kea Summit",
+   "q": "Mauna Kea"
+  },
+  {
+   "name": "Hawaii Volcanoes National Park",
+   "q": "Kilauea Volcano"
+  },
+  {
+   "name": "Punaluu Black Sand Beach",
+   "q": "Punaluu Beach"
+  },
+  {
+   "name": "Lanikai Beach",
+   "q": "Lanikai Beach"
+  },
+  {
+   "name": "Akaka Falls",
+   "q": "Akaka Falls"
+  }
  ]
 }

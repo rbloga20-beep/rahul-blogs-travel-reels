@@ -1194,3 +1194,14 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-23-17-23 | St. Kitts Scenic Railway | Pixabay (SYG_Anime) | https://pixabay.com/videos/id-267790/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-23-17-23 | Black Rocks | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386257/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-23-17-23 | Saint Kitts and Nevis | Pixabay (Solarselle77) | https://pixabay.com/videos/id-331521/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Hawaii | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386256/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Na Pali Coast | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386137/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Waikiki Beach | Pixabay (Liemedia) | https://pixabay.com/videos/id-29850/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Diamond Head | Pixabay (Roy-Images) | https://pixabay.com/videos/id-138813/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Haleakala Crater | Pixabay (mdreisch) | https://pixabay.com/videos/id-35188/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Waimea Canyon | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:David_Howard_Hitchcock_-_%27Waimea_Canyon,_Kauai%27,_oil_on_canvas,_1909,_Hawaii_State_Art_Museum.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Kualoa Ranch | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Kualoa_Ranch_(alternative).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Mauna Kea Summit | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Hilo_wharf_with_Mauna_Kea_in_the_background,_1895_(PPWD-5-2-011).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Hawaii Volcanoes National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Volcanoes_National_Park,_Hawaii_LCCN2010630474.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Punaluu Black Sand Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Water_hyacinths_at_Punaluu_Black_Sand_Beach_(II).JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-24-05-19 | Hawaii | Pixabay (Tpix10) | https://pixabay.com/videos/id-375458/ | Pixabay Content License, commercial use, no attribution needed |
