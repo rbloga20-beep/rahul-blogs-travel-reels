@@ -1611,11 +1611,7 @@
   "ok": true,
   "s": 9
  },
- "pxb358006|Amalfi Coast": {
-  "v": 2,
-  "ok": true,
-  "s": 9
- },
+ "pxb358006|Amalfi Coast": null,
  "pxb312077|Cappadocia": {
   "v": 2,
   "ok": true,
@@ -19842,5 +19838,87 @@
  "wmc110093859|Isla Verde": null,
  "wmc133819538|Isla Verde": null,
  "pxb343671|Puerto Rico": null,
- "pxb124467|Puerto Rico": null
+ "pxb124467|Puerto Rico": null,
+ "pxb338731|Positano": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb338731|Ravello": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb338733|Ravello": null,
+ "pxb358006|Amalfi Town": null,
+ "pxb354464|Amalfi Town": null,
+ "wmc144655625|Fiordo di Furore": null,
+ "wmc199594841|Fiordo di Furore": null,
+ "wmc199594843|Fiordo di Furore": null,
+ "wmc199594840|Fiordo di Furore": null,
+ "pxb338733|Villa Cimbrone": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb338731|Villa Cimbrone": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb331682|Sorrento": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb338729|Atrani": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb343975|Sorrento": null,
+ "pxb338733|Atrani": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc85369423|Maiori": null,
+ "wmc55026097|Nerano": null,
+ "wmc121235421|Nerano": null,
+ "wmc11208368|Nerano": null,
+ "wmc67837730|Nerano": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb381632|Capri": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb381614|Capri": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb338733|Praiano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb205742|Minori": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb338731|Praiano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb10784|Amalfi Coast": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ }
 }

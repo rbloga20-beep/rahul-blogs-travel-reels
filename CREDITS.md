@@ -1222,3 +1222,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-24-14-28 | Castillo San Felipe del Morro | Pixabay (Radds) | https://pixabay.com/videos/id-268560/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-24-14-28 | Cueva Ventana | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jose_Murillo_2015-06-28_(Unsplash_DO8gN7GLxBM).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-24-14-28 | Puerto Rico | Pixabay (ivancpkohio) | https://pixabay.com/videos/id-124467/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-17-13 | Amalfi Coast | Pixabay (Coverr-Free-Footage) | https://pixabay.com/videos/id-10784/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-17-13 | Positano | Pixabay (spasspasov) | https://pixabay.com/videos/id-338731/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-17-13 | Amalfi Town | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-358006/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-17-13 | Sorrento | Pixabay (spasspasov) | https://pixabay.com/videos/id-331682/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-17-13 | Capri | Pixabay (norbertleki) | https://pixabay.com/videos/id-381632/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-17-13 | Amalfi Coast | Pixabay (spasspasov) | https://pixabay.com/videos/id-338733/ | Pixabay Content License, commercial use, no attribution needed |

@@ -14672,5 +14672,63 @@
    "name": "Isla Verde",
    "q": "Isla Verde"
   }
+ ],
+ "Amalfi Coast": [
+  {
+   "name": "Positano",
+   "q": "Positano"
+  },
+  {
+   "name": "Amalfi Town",
+   "q": "Amalfi"
+  },
+  {
+   "name": "Ravello",
+   "q": "Ravello"
+  },
+  {
+   "name": "Fiordo di Furore",
+   "q": "Furore"
+  },
+  {
+   "name": "Path of the Gods",
+   "q": "Path of the Gods"
+  },
+  {
+   "name": "Villa Cimbrone",
+   "q": "Villa Cimbrone"
+  },
+  {
+   "name": "Villa Rufolo",
+   "q": "Villa Rufolo"
+  },
+  {
+   "name": "Atrani",
+   "q": "Atrani"
+  },
+  {
+   "name": "Sorrento",
+   "q": "Sorrento"
+  },
+  {
+   "name": "Capri",
+   "q": "Capri"
+  },
+  {
+   "name": "Nerano",
+   "q": "Nerano"
+  },
+  {
+   "name": "Maiori",
+   "q": "Maiori"
+  },
+  {
+   "name": "Minori",
+   "q": "Minori"
+  },
+  {
+   "name": "Praiano",
+   "q": "Praiano"
+  }
  ]
 }
