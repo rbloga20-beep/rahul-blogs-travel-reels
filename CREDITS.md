@@ -1217,3 +1217,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-24-11-03 | Wat Chalong | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Wat_Chalong_Phuket_(one_of_the_temples).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-24-11-03 | Rock Beach Swing | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-79217/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-24-11-03 | Maya Bay | Pixabay (Amshuwu) | https://pixabay.com/videos/id-339775/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-14-28 | Puerto Rico | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-343671/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-14-28 | Old San Juan | Pixabay (isaacbengu) | https://pixabay.com/videos/id-16998/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-14-28 | Castillo San Felipe del Morro | Pixabay (Radds) | https://pixabay.com/videos/id-268560/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-14-28 | Cueva Ventana | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Jose_Murillo_2015-06-28_(Unsplash_DO8gN7GLxBM).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-24-14-28 | Puerto Rico | Pixabay (ivancpkohio) | https://pixabay.com/videos/id-124467/ | Pixabay Content License, commercial use, no attribution needed |

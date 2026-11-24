@@ -14614,5 +14614,63 @@
    "name": "Windmill Viewpoint",
    "q": "Windmill Viewpoint"
   }
+ ],
+ "Puerto Rico": [
+  {
+   "name": "Old San Juan",
+   "q": "San Juan"
+  },
+  {
+   "name": "El Yunque National Forest",
+   "q": "El Yunque"
+  },
+  {
+   "name": "Flamenco Beach",
+   "q": "Culebra"
+  },
+  {
+   "name": "Mosquito Bay",
+   "q": "Vieques"
+  },
+  {
+   "name": "Castillo San Felipe del Morro",
+   "q": "El Morro"
+  },
+  {
+   "name": "Cueva Ventana",
+   "q": "Cueva Ventana"
+  },
+  {
+   "name": "Guenabi",
+   "q": "Guenabi"
+  },
+  {
+   "name": "Playa Sucia",
+   "q": "Cabo Rojo"
+  },
+  {
+   "name": "Ponce",
+   "q": "Ponce"
+  },
+  {
+   "name": "La Ruta Panoramica",
+   "q": "Panoramica"
+  },
+  {
+   "name": "Bosque Estatal de Guajataca",
+   "q": "Guajataca"
+  },
+  {
+   "name": "Tres Palmas Marine Reserve",
+   "q": "Rincon"
+  },
+  {
+   "name": "Charco El Hippie",
+   "q": "Nagauo"
+  },
+  {
+   "name": "Isla Verde",
+   "q": "Isla Verde"
+  }
  ]
 }

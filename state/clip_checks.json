@@ -19776,5 +19776,71 @@
   "v": 3,
   "ok": true,
   "s": 9
- }
+ },
+ "pxb16998|Old San Juan": null,
+ "wmc13594268|Flamenco Beach": null,
+ "wmc10696639|Cueva Ventana": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc68962187|Mosquito Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc62106411|Cueva Ventana": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb268560|Castillo San Felipe del Morro": null,
+ "wmc68962172|Mosquito Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc40469290|Mosquito Bay": null,
+ "wmc176695980|Mosquito Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc107529757|Ponce": null,
+ "wmc133610096|Ponce": null,
+ "wmc177210840|Ponce": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc152034068|Ponce": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc162380945|Playa Sucia": null,
+ "wmc151022111|Bosque Estatal de Guajataca": null,
+ "wmc165502416|Bosque Estatal de Guajataca": null,
+ "wmc134313119|Bosque Estatal de Guajataca": null,
+ "wmc9680381|Bosque Estatal de Guajataca": null,
+ "wmc162831771|La Ruta Panoramica": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc36289052|Tres Palmas Marine Reserve": null,
+ "wmc36289002|Tres Palmas Marine Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc65491165|Tres Palmas Marine Reserve": null,
+ "wmc65491127|Tres Palmas Marine Reserve": null,
+ "wmc39409444|La Ruta Panoramica": null,
+ "wmc7046419|Isla Verde": null,
+ "wmc150962834|Isla Verde": null,
+ "wmc110093859|Isla Verde": null,
+ "wmc133819538|Isla Verde": null,
+ "pxb343671|Puerto Rico": null,
+ "pxb124467|Puerto Rico": null
 }
