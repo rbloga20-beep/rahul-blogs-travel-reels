@@ -1211,3 +1211,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-24-08-35 | Sekumpul Waterfall | Pixabay (NTGDroneMedia) | https://pixabay.com/videos/id-293389/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-24-08-35 | Ubud Monkey Forest | Pixabay (NatureLensStudio) | https://pixabay.com/videos/id-368503/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-24-08-35 | Bali | Pixabay (krisnapratama72) | https://pixabay.com/videos/id-197166/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-11-03 | Phuket | Pixabay (ryasnyansky) | https://pixabay.com/videos/id-76437/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-11-03 | Promthep Cape | Pixabay (FlyMore) | https://pixabay.com/videos/id-332781/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-11-03 | Freedom Beach | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-32747/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-11-03 | Wat Chalong | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Wat_Chalong_Phuket_(one_of_the_temples).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-24-11-03 | Rock Beach Swing | Pixabay (Peggy_Marco) | https://pixabay.com/videos/id-79217/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-11-03 | Maya Bay | Pixabay (Amshuwu) | https://pixabay.com/videos/id-339775/ | Pixabay Content License, commercial use, no attribution needed |

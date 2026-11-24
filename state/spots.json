@@ -14556,5 +14556,63 @@
    "name": "Broken Beach",
    "q": "Broken Beach"
   }
+ ],
+ "Phuket": [
+  {
+   "name": "Big Buddha",
+   "q": "Big Buddha"
+  },
+  {
+   "name": "Old Phuket Town",
+   "q": "Old Phuket Town"
+  },
+  {
+   "name": "Promthep Cape",
+   "q": "Promthep Cape"
+  },
+  {
+   "name": "Freedom Beach",
+   "q": "Freedom Beach"
+  },
+  {
+   "name": "Wat Chalong",
+   "q": "Wat Chalong"
+  },
+  {
+   "name": "Mai Khao Beach",
+   "q": "Mai Khao planes"
+  },
+  {
+   "name": "Karon Viewpoint",
+   "q": "Karon Viewpoint"
+  },
+  {
+   "name": "Rock Beach Swing",
+   "q": "Rock Beach Swing"
+  },
+  {
+   "name": "Pileh Lagoon",
+   "q": "Pileh Lagoon"
+  },
+  {
+   "name": "Maya Bay",
+   "q": "Maya Bay"
+  },
+  {
+   "name": "James Bond Island",
+   "q": "James Bond Island"
+  },
+  {
+   "name": "Similan Islands",
+   "q": "Similan Islands"
+  },
+  {
+   "name": "Black Rock Viewpoint",
+   "q": "Black Rock Viewpoint"
+  },
+  {
+   "name": "Windmill Viewpoint",
+   "q": "Windmill Viewpoint"
+  }
  ]
 }

@@ -19668,5 +19668,113 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc141284314|Old Phuket Town": null,
+ "wmc128789580|Old Phuket Town": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc145160794|Big Buddha": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb332781|Promthep Cape": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc145160792|Big Buddha": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc145160790|Big Buddha": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb32747|Freedom Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc154933724|Wat Chalong": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb84881|Freedom Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb41005|Freedom Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb283523|Freedom Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb79217|Rock Beach Swing": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc57594429|Similan Islands": null,
+ "pxb339775|Maya Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb131884|Maya Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb35423|Maya Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb122329|Maya Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc159961210|Black Rock Viewpoint": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc69033631|Black Rock Viewpoint": null,
+ "wmc69033619|Black Rock Viewpoint": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc69060641|Black Rock Viewpoint": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc123742650|Windmill Viewpoint": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb332781|Phuket": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb76437|Phuket": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
