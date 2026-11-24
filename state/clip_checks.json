@@ -19187,5 +19187,287 @@
   "s": 4
  },
  "wmc40734739|Frigate Bay": null,
- "pxb144406|Saint Kitts and Nevis": null
+ "pxb144406|Saint Kitts and Nevis": null,
+ "wmc42598426|Salt Whistle Bay": null,
+ "wmc43880097|Salt Whistle Bay": null,
+ "pxb299564|Tobago Cays": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc194013686|Happy Island": null,
+ "wmc67101713|Happy Island": null,
+ "wmc67101714|Happy Island": null,
+ "wmc31634728|La Soufrière Volcano": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc31634726|La Soufrière Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc103539913|La Soufrière Volcano": null,
+ "wmc103404708|La Soufrière Volcano": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb382085|Dark View Falls": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc44759122|Glossy Bay": null,
+ "pxb30655|Montreal Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc134480525|Petit St. Vincent": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc134480533|Petit St. Vincent": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc194961821|Petit St. Vincent": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc3210840|Fort Charlotte": null,
+ "wmc16698436|Fort Charlotte": null,
+ "wmc16342372|St. Vincent Botanical Gardens": null,
+ "wmc194557002|St. Vincent Botanical Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc43087946|St. Vincent Botanical Gardens": null,
+ "wmc16342378|St. Vincent Botanical Gardens": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc75431332|Pico Cão Grande": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc10721149|Cascata de São Nicolau": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc75741625|Cascata de São Nicolau": null,
+ "wmc10721156|Cascata de São Nicolau": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc75741616|Cascata de São Nicolau": null,
+ "wmc62580262|Roça Sundy": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc85844053|Bunce Island": null,
+ "wmc62565136|Bunce Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc62565126|Bunce Island": null,
+ "wmc147456662|Bunce Island": null,
+ "wmc194447550|River Number Two Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc62988384|River Number Two Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc183143871|River Number Two Beach": null,
+ "wmc183030785|River Number Two Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb284837|Banana Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb281702|Banana Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb284846|Banana Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb284842|Banana Islands": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb120390|Turtle Islands": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc73771551|John Obey Beach": null,
+ "wmc61709126|John Obey Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc157960281|John Obey Beach": null,
+ "wmc68399507|Lumley Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc169422825|Saint Peter and Paul Cathedral": null,
+ "wmc175397201|Saint Peter and Paul Cathedral": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc1836014|Saint Peter and Paul Cathedral": null,
+ "wmc85715547|Brownsberg Nature Park": null,
+ "wmc85715514|Brownsberg Nature Park": null,
+ "wmc40696070|Brownsberg Nature Park": null,
+ "wmc72463322|Galibi Nature Reserve": null,
+ "wmc66841894|Brokopondo Reservoir": null,
+ "wmc85732906|Galibi Nature Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc117586467|Galibi Nature Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc85732858|Galibi Nature Reserve": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc85615967|Jodensavanne": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc84782244|Jodensavanne": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc85469832|Peperpot Nature Park": null,
+ "wmc85470179|Peperpot Nature Park": null,
+ "wmc85469791|Peperpot Nature Park": null,
+ "wmc85711678|Frederiksdorp Plantation": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc85469994|Peperpot Nature Park": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc85616621|Jodensavanne": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc48349504|Commewijne River": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc48352942|Commewijne River": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc118188515|Commewijne River": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc9556478|Commewijne River": null,
+ "wmc194637484|Cristo Rei of Dili": null,
+ "wmc37182043|Atauro Island": null,
+ "wmc97777028|Cristo Rei of Dili": null,
+ "wmc91350907|Cristo Rei of Dili": null,
+ "wmc194637168|Atauro Island": null,
+ "wmc97772108|Cristo Rei of Dili": null,
+ "wmc186949077|Jaco Island": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc131993066|Areia Branca Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc147290908|Mount Ramelau": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc155152770|Tais Market": null,
+ "wmc97506384|Maubisse": null,
+ "wmc3939556|Tais Market": null,
+ "wmc3975763|Tais Market": null,
+ "wmc155169179|Tais Market": null,
+ "wmc141061212|Maubisse": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc141061211|Maubisse": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc140211162|Mount Matebian": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc140211168|Mount Matebian": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc97848995|Mount Matebian": null,
+ "wmc140211165|Mount Matebian": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb135360|Com Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc34268359|Dare Memorial": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ }
 }
