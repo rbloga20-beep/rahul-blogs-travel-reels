@@ -14440,5 +14440,121 @@
    "name": "Akaka Falls",
    "q": "Akaka Falls"
   }
+ ],
+ "Santorini": [
+  {
+   "name": "Oia Blue Domes",
+   "q": "Oia Blue Domes"
+  },
+  {
+   "name": "Amoudi Bay",
+   "q": "Amoudi Bay"
+  },
+  {
+   "name": "Oia Castle",
+   "q": "Oia Castle"
+  },
+  {
+   "name": "Three Bells of Fira",
+   "q": "Three Bells Fira"
+  },
+  {
+   "name": "Imerovigli",
+   "q": "Imerovigli"
+  },
+  {
+   "name": "Skaros Rock",
+   "q": "Skaros Rock"
+  },
+  {
+   "name": "Red Beach",
+   "q": "Red Beach"
+  },
+  {
+   "name": "Perissa Black Sand Beach",
+   "q": "Perissa Black Beach"
+  },
+  {
+   "name": "Akrotiri Lighthouse",
+   "q": "Akrotiri Lighthouse"
+  },
+  {
+   "name": "Pyrgos Village",
+   "q": "Pyrgos Kallistis"
+  },
+  {
+   "name": "Heart of Santorini",
+   "q": "Heart Rock Megalochori"
+  },
+  {
+   "name": "Santo Winery",
+   "q": "Santo Winery"
+  },
+  {
+   "name": "Kamari Beach",
+   "q": "Kamari Beach"
+  },
+  {
+   "name": "Megalochori Village",
+   "q": "Megalochori"
+  }
+ ],
+ "Bali": [
+  {
+   "name": "Tegalalang Rice Terrace",
+   "q": "Tegalalang Rice Terrace"
+  },
+  {
+   "name": "Kelingking Beach",
+   "q": "Kelingking Beach"
+  },
+  {
+   "name": "Lempuyang Temple",
+   "q": "Lempuyang Temple"
+  },
+  {
+   "name": "Tanah Lot Temple",
+   "q": "Tanah Lot"
+  },
+  {
+   "name": "Uluwatu Temple",
+   "q": "Uluwatu Temple"
+  },
+  {
+   "name": "Tirta Gangga",
+   "q": "Tirta Gangga"
+  },
+  {
+   "name": "Ulun Danu Beratan Temple",
+   "q": "Ulun Danu Beratan"
+  },
+  {
+   "name": "Diamond Beach",
+   "q": "Diamond Beach"
+  },
+  {
+   "name": "Handara Gate",
+   "q": "Handara Gate"
+  },
+  {
+   "name": "Campuhan Ridge Walk",
+   "q": "Campuhan Ridge"
+  },
+  {
+   "name": "Sekumpul Waterfall",
+   "q": "Sekumpul Waterfall"
+  },
+  {
+   "name": "Mount Batur",
+   "q": "Mount Batur"
+  },
+  {
+   "name": "Ubud Monkey Forest",
+   "q": "Ubud Monkey Forest"
+  },
+  {
+   "name": "Broken Beach",
+   "q": "Broken Beach"
+  }
  ]
 }

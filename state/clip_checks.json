@@ -1522,7 +1522,7 @@
   "s": 10
  },
  "pxb293788|Bali": {
-  "v": 2,
+  "v": 3,
   "ok": false,
   "s": 9
  },
@@ -1577,9 +1577,9 @@
   "s": 10
  },
  "pxb197166|Bali": {
-  "v": 2,
+  "v": 3,
   "ok": true,
-  "s": 8
+  "s": 9
  },
  "pxb32423|Maldives": {
   "v": 2,
@@ -19575,6 +19575,96 @@
   "s": 10
  },
  "pxb386256|Hawaii": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc196398338|Oia Blue Domes": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc92861162|Oia Blue Domes": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc27760857|Imerovigli": null,
+ "wmc61891788|Three Bells of Fira": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb37898|Red Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb341436|Red Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb16109|Red Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb343975|Red Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc176658408|Heart of Santorini": null,
+ "wmc176658413|Heart of Santorini": null,
+ "wmc48904458|Heart of Santorini": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc81778906|Heart of Santorini": null,
+ "wmc150969543|Lempuyang Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc150968964|Lempuyang Temple": null,
+ "wmc181461240|Campuhan Ridge Walk": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb293389|Sekumpul Waterfall": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb53969|Broken Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb368503|Ubud Monkey Forest": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb53971|Broken Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb226119|Broken Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb230429|Broken Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb386712|Bali": {
   "v": 3,
   "ok": true,
   "s": 10

@@ -1205,3 +1205,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-24-05-19 | Hawaii Volcanoes National Park | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Volcanoes_National_Park,_Hawaii_LCCN2010630474.tif | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-24-05-19 | Punaluu Black Sand Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Water_hyacinths_at_Punaluu_Black_Sand_Beach_(II).JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-24-05-19 | Hawaii | Pixabay (Tpix10) | https://pixabay.com/videos/id-375458/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-08-35 | Bali | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386712/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-08-35 | Lempuyang Temple | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lempuyang_3.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-24-08-35 | Campuhan Ridge Walk | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Aerial_picture_of_Campuhan_Ridge_Walk_,_Scenic_Green_Valley_in_Ubud_Bali._Drone_photo._(46112155712).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-24-08-35 | Sekumpul Waterfall | Pixabay (NTGDroneMedia) | https://pixabay.com/videos/id-293389/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-08-35 | Ubud Monkey Forest | Pixabay (NatureLensStudio) | https://pixabay.com/videos/id-368503/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-24-08-35 | Bali | Pixabay (krisnapratama72) | https://pixabay.com/videos/id-197166/ | Pixabay Content License, commercial use, no attribution needed |
