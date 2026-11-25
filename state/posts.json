@@ -6443,5 +6443,38 @@
    "id": "18379419787214706",
    "url": "https://www.instagram.com/stories/rahulblogsyt/4037977911276561962"
   }
+ },
+ {
+  "id": "2026-11-25-08-39",
+  "date": "2026-11-25T08:44:45.609Z",
+  "places": [
+   "Sapodilla Bay Beach",
+   "Little Water Cay",
+   "Cockburn Town"
+  ],
+  "hook": "Turks and Caicos Islands / 3 spots in Turks & Caicos",
+  "sub": "3 spots in Turks & Caicos",
+  "music": "Traveling Along.mp3",
+  "seconds": 13.07,
+  "clips": [
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:ISS053-E-7176_-_View_of_the_Turks_and_Caicos_Islands.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:ISS-26_Tidal_flats_and_channels_on_Long_Island,_Bahamas.jpg",
+   "Wikimedia Commons https://commons.wikimedia.org/wiki/File:Grand_Turk_and_Salt_Cay_Islands.jpg"
+  ],
+  "dry": false,
+  "fb": {
+   "id": "975722231988713",
+   "url": "https://www.facebook.com/reel/975722231988713/"
+  },
+  "ig": {
+   "error": "upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+  },
+  "fbStory": {
+   "id": "1467156111431321"
+  },
+  "igStory": {
+   "id": "17999957532045925",
+   "url": "https://www.instagram.com/stories/rahulblogsyt/4038077399362407052"
+  }
  }
 ]

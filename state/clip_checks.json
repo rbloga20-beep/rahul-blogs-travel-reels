@@ -20146,5 +20146,140 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc133466972|Chalk Sound National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc133467964|Chalk Sound National Park": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb124303|Grace Bay Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb57669|Taylor Bay Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc201826790|La Famille Express Shipwreck": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc180624506|La Famille Express Shipwreck": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc198321609|La Famille Express Shipwreck": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc198339542|La Famille Express Shipwreck": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb67051|Half Moon Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb170133|Half Moon Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb47662|Half Moon Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc102747271|Sapodilla Bay Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc26542228|Little Water Cay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc62478473|Grand Turk Lighthouse": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc20001716|Little Water Cay": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc6579410|Little Water Cay": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc26542230|Little Water Cay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc6579410|Cockburn Town": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc111444053|Bight Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc23581999|Cockburn Town": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc111461693|Bight Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc111444022|Bight Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc111461848|Bight Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc98721004|Salt Cay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc195271107|Salt Cay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc8768472|Salt Cay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc6579410|Salt Cay": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
