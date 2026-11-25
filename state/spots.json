@@ -14788,5 +14788,63 @@
    "name": "Elba Island",
    "q": "Elba Island"
   }
+ ],
+ "Ibiza": [
+  {
+   "name": "Es Vedrà",
+   "q": "Es Vedra"
+  },
+  {
+   "name": "Dalt Vila",
+   "q": "Dalt Vila"
+  },
+  {
+   "name": "Cala Comte",
+   "q": "Cala Comte"
+  },
+  {
+   "name": "Cala Salada",
+   "q": "Cala Salada"
+  },
+  {
+   "name": "Atlantis",
+   "q": "Sa Pedrera Atlantis"
+  },
+  {
+   "name": "Café del Mar",
+   "q": "Cafe del Mar"
+  },
+  {
+   "name": "Cala Benirràs",
+   "q": "Cala Benirras"
+  },
+  {
+   "name": "Ses Salines Beach",
+   "q": "Ses Salines"
+  },
+  {
+   "name": "Cala d'Hort",
+   "q": "Cala dHort"
+  },
+  {
+   "name": "Ushuaïa Ibiza",
+   "q": "Ushuaia"
+  },
+  {
+   "name": "Las Dalias Hippy Market",
+   "q": "Las Dalias"
+  },
+  {
+   "name": "Cala Bassa",
+   "q": "Cala Bassa"
+  },
+  {
+   "name": "Cala Xarraca",
+   "q": "Cala Xarraca"
+  },
+  {
+   "name": "Cova de Can Marçà",
+   "q": "Can Marca Cave"
+  }
  ]
 }

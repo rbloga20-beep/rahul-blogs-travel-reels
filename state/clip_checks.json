@@ -20035,5 +20035,116 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb189691|Es Vedrà": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc24419976|Cala Comte": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb189782|Es Vedrà": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc175044046|Dalt Vila": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc153679680|Dalt Vila": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc175048946|Dalt Vila": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc160584641|Café del Mar": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc197109799|Cala Salada": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc153570756|Cala Salada": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc160584597|Café del Mar": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc8615583|Atlantis": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc973433|Atlantis": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc10581306|Atlantis": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc80053163|Atlantis": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc12750773|Ses Salines Beach": null,
+ "wmc191788001|Cala d'Hort": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc141093570|Cala d'Hort": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc127661487|Ushuaïa Ibiza": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc197091574|Cala Bassa": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc8708006|Cala Xarraca": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc115851156|Cova de Can Marçà": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb342626|Ibiza": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb306124|Ibiza": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
