@@ -14904,5 +14904,121 @@
    "name": "Leeward Beach",
    "q": "Leeward Beach"
   }
+ ],
+ "Galapagos Islands": [
+  {
+   "name": "Bartolomé Island",
+   "q": "Bartolome Pinnacle Rock"
+  },
+  {
+   "name": "Kicker Rock",
+   "q": "Kicker Rock"
+  },
+  {
+   "name": "Tortuga Bay",
+   "q": "Tortuga Bay"
+  },
+  {
+   "name": "Las Grietas",
+   "q": "Las Grietas"
+  },
+  {
+   "name": "Los Tuneles",
+   "q": "Los Tuneles Isabela"
+  },
+  {
+   "name": "Gardner Bay",
+   "q": "Gardner Bay Espanola"
+  },
+  {
+   "name": "North Seymour Island",
+   "q": "North Seymour"
+  },
+  {
+   "name": "Punta Espinoza",
+   "q": "Punta Espinoza Fernandina"
+  },
+  {
+   "name": "Sierra Negra Volcano",
+   "q": "Sierra Negra Volcano"
+  },
+  {
+   "name": "Charles Darwin Research Station",
+   "q": "Charles Darwin Station"
+  },
+  {
+   "name": "South Plaza Island",
+   "q": "South Plaza Island"
+  },
+  {
+   "name": "Post Office Bay",
+   "q": "Post Office Bay"
+  },
+  {
+   "name": "Punta Cormorant",
+   "q": "Punta Cormorant"
+  },
+  {
+   "name": "Tagus Cove",
+   "q": "Tagus Cove"
+  }
+ ],
+ "Patagonia": [
+  {
+   "name": "Torres del Paine",
+   "q": "Torres del Paine"
+  },
+  {
+   "name": "Perito Moreno Glacier",
+   "q": "Perito Moreno"
+  },
+  {
+   "name": "Mount Fitz Roy",
+   "q": "Mount Fitz Roy"
+  },
+  {
+   "name": "Marble Caves",
+   "q": "Marble Caves"
+  },
+  {
+   "name": "Laguna de los Tres",
+   "q": "Laguna de los Tres"
+  },
+  {
+   "name": "Cerro Torre",
+   "q": "Cerro Torre"
+  },
+  {
+   "name": "San Carlos de Bariloche",
+   "q": "Bariloche"
+  },
+  {
+   "name": "Ushuaia",
+   "q": "Ushuaia"
+  },
+  {
+   "name": "Queulat Hanging Glacier",
+   "q": "Queulat Glacier"
+  },
+  {
+   "name": "Grey Glacier",
+   "q": "Grey Glacier"
+  },
+  {
+   "name": "Península Valdés",
+   "q": "Peninsula Valdes"
+  },
+  {
+   "name": "Carretera Austral",
+   "q": "Carretera Austral"
+  },
+  {
+   "name": "French Valley",
+   "q": "French Valley"
+  },
+  {
+   "name": "Cueva de las Manos",
+   "q": "Cueva de las Manos"
+  }
  ]
 }

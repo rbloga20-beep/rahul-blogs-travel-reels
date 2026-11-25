@@ -11288,7 +11288,11 @@
   "ok": true,
   "s": 10
  },
- "wmc177331185|Grey Glacier": null,
+ "wmc177331185|Grey Glacier": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
  "wmc177331166|Grey Glacier": null,
  "wmc177331176|Grey Glacier": null,
  "wmc1327313|Queulat Hanging Glacier": {
@@ -20278,6 +20282,151 @@
   "s": 1
  },
  "wmc6579410|Salt Cay": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc37675476|Bartolomé Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc63077217|Gardner Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc115644488|Gardner Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc146861199|Los Tuneles": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc91468344|Gardner Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc180009580|Punta Espinoza": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc79326969|Sierra Negra Volcano": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc85879072|Charles Darwin Research Station": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc85879071|Charles Darwin Research Station": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc31048095|Charles Darwin Research Station": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc85879070|Charles Darwin Research Station": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc61979577|Tagus Cove": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc178929155|Perito Moreno Glacier": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc176974433|Laguna de los Tres": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc78961956|Laguna de los Tres": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc78961952|Laguna de los Tres": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc78961950|Laguna de los Tres": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb259790|San Carlos de Bariloche": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc177641029|Ushuaia": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb316076|San Carlos de Bariloche": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc61854998|Península Valdés": {
+  "v": 3,
+  "ok": false,
+  "s": 0
+ },
+ "wmc200569076|Grey Glacier": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc146571397|French Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc163905159|French Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc147150463|French Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc146571422|French Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb203407|Patagonia": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb178546|Patagonia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb19308|Patagonia": {
   "v": 3,
   "ok": true,
   "s": 8
