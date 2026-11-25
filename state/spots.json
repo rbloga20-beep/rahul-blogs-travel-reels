@@ -15078,5 +15078,63 @@
    "name": "Forodhani Gardens",
    "q": "Forodhani Gardens"
   }
+ ],
+ "Mykonos": [
+  {
+   "name": "Kato Mili Windmills",
+   "q": "Kato Mili Windmills"
+  },
+  {
+   "name": "Little Venice",
+   "q": "Little Venice Mykonos"
+  },
+  {
+   "name": "Panagia Paraportiani",
+   "q": "Panagia Paraportiani"
+  },
+  {
+   "name": "Matogianni Street",
+   "q": "Matogianni Street"
+  },
+  {
+   "name": "Armenistis Lighthouse",
+   "q": "Armenistis Lighthouse"
+  },
+  {
+   "name": "Scorpios",
+   "q": "Scorpios Mykonos"
+  },
+  {
+   "name": "Cavo Tagoo",
+   "q": "Cavo Tagoo pool"
+  },
+  {
+   "name": "Super Paradise Beach",
+   "q": "Super Paradise Beach"
+  },
+  {
+   "name": "Psarou Beach",
+   "q": "Psarou Beach"
+  },
+  {
+   "name": "Boni Windmill",
+   "q": "Boni Windmill"
+  },
+  {
+   "name": "Ornos Beach",
+   "q": "Ornos Beach"
+  },
+  {
+   "name": "Ano Mera",
+   "q": "Ano Mera Monastery"
+  },
+  {
+   "name": "Kapari Beach",
+   "q": "Kapari Beach"
+  },
+  {
+   "name": "Platys Gialos Beach",
+   "q": "Platys Gialos"
+  }
  ]
 }

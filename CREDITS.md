@@ -1262,3 +1262,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-25-14-29 | Mnemba Atoll | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:ISS016-E-20175_-_View_of_Tanzania.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-25-14-29 | Forodhani Gardens | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Forodhani_jubilee_gardens_Zanzibar.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-25-14-29 | Zanzibar | Pixabay (WN79) | https://pixabay.com/videos/id-149969/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-25-17-14 | Mykonos | Pixabay (Surprise) | https://pixabay.com/videos/id-2366/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-25-17-14 | Kato Mili Windmills | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Windmills_of_Kato_Mili,_Mykonos_(39171204142).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-25-17-14 | Panagia Paraportiani | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Panagia_Paraportiani_church,_Chora,_Mykonos._OC.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-25-17-14 | Boni Windmill | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bonis_windmill,_Mykonos,_Greece.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-25-17-14 | Mykonos | Pixabay (Vimeo-Free-Videos) | https://pixabay.com/videos/id-1282/ | Pixabay Content License, commercial use, no attribution needed |

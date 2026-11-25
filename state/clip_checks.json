@@ -20500,5 +20500,76 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc77370432|Kato Mili Windmills": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc189614611|Panagia Paraportiani": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc9162519|Panagia Paraportiani": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc145271643|Little Venice": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc146481023|Little Venice": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc93364489|Little Venice": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc91243479|Scorpios": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc91130152|Scorpios": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc91787476|Scorpios": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc65624205|Scorpios": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc27750490|Boni Windmill": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc198773142|Ornos Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc198773138|Ornos Beach": null,
+ "pxb2366|Mykonos": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb1282|Mykonos": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
