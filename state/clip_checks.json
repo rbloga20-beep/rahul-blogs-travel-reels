@@ -19920,5 +19920,120 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb157188|Leaning Tower of Pisa": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb56452|Ponte Vecchio": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc167098466|Florence Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb282789|Leaning Tower of Pisa": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc167098497|Florence Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb282790|Leaning Tower of Pisa": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb10806|Ponte Vecchio": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb282787|Leaning Tower of Pisa": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc199698851|San Gimignano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc199830461|San Gimignano": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc199883104|San Gimignano": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc199830460|San Gimignano": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc61695866|Vitaleta Chapel": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc6922317|Piazza del Campo": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc148116196|Piazza del Campo": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc7788930|Cypress Avenue of Bolgheri": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb116034|Elba Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc22126801|Uffizi Gallery": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb365708|Elba Island": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc203705187|Uffizi Gallery": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc203705188|Uffizi Gallery": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb32601|Tuscany": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb223276|Tuscany": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

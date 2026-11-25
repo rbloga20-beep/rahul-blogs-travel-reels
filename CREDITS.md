@@ -1228,3 +1228,14 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-24-17-13 | Sorrento | Pixabay (spasspasov) | https://pixabay.com/videos/id-331682/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-24-17-13 | Capri | Pixabay (norbertleki) | https://pixabay.com/videos/id-381632/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-24-17-13 | Amalfi Coast | Pixabay (spasspasov) | https://pixabay.com/videos/id-338733/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Tuscany | Pixabay (caelan) | https://pixabay.com/videos/id-32601/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Leaning Tower of Pisa | Pixabay (Stek59) | https://pixabay.com/videos/id-157188/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Florence Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Duomo_di_Firenze_(50403).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Ponte Vecchio | Pixabay (Secco60) | https://pixabay.com/videos/id-56452/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | San Gimignano | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:The_Towers_of_San_Gimignano_at_Sunset_from_the_Rocca_of_Montestaffoli.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Piazza del Campo | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Il_campo_view_from_torre.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Vitaleta Chapel | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cappella_della_Madonna_di_Vitaleta_-_Konrad_Marx_2014_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Cypress Avenue of Bolgheri | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bolgheri_Viale_dei_Cipressi_001.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Uffizi Gallery | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Uffizi_Gallery_Entrance_Staircases.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Elba Island | Pixabay (mattluke87) | https://pixabay.com/videos/id-116034/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-25-02-25 | Tuscany | Pixabay (AttilaPergel) | https://pixabay.com/videos/id-223276/ | Pixabay Content License, commercial use, no attribution needed |

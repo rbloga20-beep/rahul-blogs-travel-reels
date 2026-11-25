@@ -14730,5 +14730,63 @@
    "name": "Praiano",
    "q": "Praiano"
   }
+ ],
+ "Tuscany": [
+  {
+   "name": "Leaning Tower of Pisa",
+   "q": "Leaning Tower Pisa"
+  },
+  {
+   "name": "Florence Cathedral",
+   "q": "Florence Duomo"
+  },
+  {
+   "name": "Ponte Vecchio",
+   "q": "Ponte Vecchio"
+  },
+  {
+   "name": "Val d'Orcia",
+   "q": "Val d'Orcia"
+  },
+  {
+   "name": "Saturnia Hot Springs",
+   "q": "Cascate del Mulino"
+  },
+  {
+   "name": "San Gimignano",
+   "q": "San Gimignano"
+  },
+  {
+   "name": "Piazza del Campo",
+   "q": "Piazza del Campo"
+  },
+  {
+   "name": "Vitaleta Chapel",
+   "q": "Vitaleta Chapel"
+  },
+  {
+   "name": "Pitigliano",
+   "q": "Pitigliano"
+  },
+  {
+   "name": "Cypress Avenue of Bolgheri",
+   "q": "Viale dei Cipressi"
+  },
+  {
+   "name": "Pienza",
+   "q": "Pienza"
+  },
+  {
+   "name": "Lucca City Walls",
+   "q": "Lucca Walls"
+  },
+  {
+   "name": "Uffizi Gallery",
+   "q": "Uffizi Gallery"
+  },
+  {
+   "name": "Elba Island",
+   "q": "Elba Island"
+  }
  ]
 }
