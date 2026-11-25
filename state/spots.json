@@ -15020,5 +15020,63 @@
    "name": "Cueva de las Manos",
    "q": "Cueva de las Manos"
   }
+ ],
+ "Zanzibar": [
+  {
+   "name": "The Rock Restaurant",
+   "q": "Rock Restaurant"
+  },
+  {
+   "name": "Stone Town",
+   "q": "Stone Town"
+  },
+  {
+   "name": "Nakupenda Sandbank",
+   "q": "Nakupenda Sandbank"
+  },
+  {
+   "name": "Nungwi Beach",
+   "q": "Nungwi Beach"
+  },
+  {
+   "name": "Kendwa Beach",
+   "q": "Kendwa Beach"
+  },
+  {
+   "name": "Prison Island",
+   "q": "Prison Island"
+  },
+  {
+   "name": "Paje Beach",
+   "q": "Paje Beach"
+  },
+  {
+   "name": "Jozani Forest",
+   "q": "Jozani Forest"
+  },
+  {
+   "name": "Baraka Natural Aquarium",
+   "q": "Baraka Aquarium"
+  },
+  {
+   "name": "Mnemba Atoll",
+   "q": "Mnemba Atoll"
+  },
+  {
+   "name": "Kuza Cave",
+   "q": "Kuza Cave"
+  },
+  {
+   "name": "Mtende Beach",
+   "q": "Mtende Beach"
+  },
+  {
+   "name": "Jambiani Beach",
+   "q": "Jambiani Beach"
+  },
+  {
+   "name": "Forodhani Gardens",
+   "q": "Forodhani Gardens"
+  }
  ]
 }

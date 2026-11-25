@@ -20430,5 +20430,75 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb110922|Stone Town": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc155869560|The Rock Restaurant": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb248206|Stone Town": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb248208|Stone Town": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb157989|Stone Town": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb131258|Prison Island": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc203666212|Nungwi Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc203667147|Nungwi Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc77544212|Kendwa Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc111062904|Mnemba Atoll": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc111062868|Mnemba Atoll": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc11924537|Forodhani Gardens": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb149725|Zanzibar": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb149969|Zanzibar": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
