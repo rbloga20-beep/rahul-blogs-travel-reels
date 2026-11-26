@@ -20763,5 +20763,214 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "pxb385890|Fushimi Inari Shrine": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb355637|Arashiyama Bamboo Grove": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb382702|Kinkaku-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb276257|Arashiyama Bamboo Grove": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb257871|Fushimi Inari Shrine": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb257870|Fushimi Inari Shrine": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb170779|Arashiyama Bamboo Grove": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb170778|Arashiyama Bamboo Grove": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb257872|Fushimi Inari Shrine": null,
+ "pxb169892|Kiyomizu-dera": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb170880|Gion District": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc65095758|Yasaka Pagoda": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc18951738|Yasaka Pagoda": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb169891|Kiyomizu-dera": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb268544|Nanzen-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb116524|Nanzen-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb116522|Nanzen-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb116520|Nanzen-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb109454|Philosopher's Path": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb265367|Tenryu-ji": null,
+ "pxb276257|Tenryu-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb152414|Philosopher's Path": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb279321|Tenryu-ji": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb156010|Philosopher's Path": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb66823|Philosopher's Path": null,
+ "pxb326081|Eikando Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc11159020|Tofuku-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb94001|Eikando Temple": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb311442|Eikando Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb19400|Eikando Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc32452069|Tofuku-ji": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc58782521|Tofuku-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc27305487|Tofuku-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb380484|Sannenzaka": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb362886|Sannenzaka": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb362885|Sannenzaka": null,
+ "pxb163101|Sannenzaka": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb355608|Kurama-dera": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb41167|Otagi Nenbutsu-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb41165|Otagi Nenbutsu-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb84618|Otagi Nenbutsu-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb33241|Otagi Nenbutsu-ji": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb330644|Kurama-dera": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb319590|Kurama-dera": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb327520|Kurama-dera": {
+  "v": 3,
+  "ok": false,
+  "s": 10
  }
 }

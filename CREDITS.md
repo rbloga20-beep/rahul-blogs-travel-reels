@@ -1289,3 +1289,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-26-08-39 | Sanbangsan Mountain | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Yongmeori_Coast.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-26-08-39 | Yongduam Rock | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Yongduam_in_jeju.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-26-08-39 | Jeju Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-11-08 | Kyoto | Pixabay (Q5) | https://pixabay.com/videos/id-257872/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-11-08 | Fushimi Inari Shrine | Pixabay (Q5) | https://pixabay.com/videos/id-257871/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-11-08 | Yasaka Pagoda | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:-Hokanji_Temple_(Yasaka_Pagoda),_Kyoto,_Japan-_MET_DP136230.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-11-08 | Philosopher's Path | Pixabay (JustYøu) | https://pixabay.com/videos/id-66823/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-11-08 | Tenryu-ji | Pixabay (bahyudinnor) | https://pixabay.com/videos/id-265367/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-11-08 | Eikando Temple | Pixabay (NickyPe) | https://pixabay.com/videos/id-94001/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-11-08 | Sannenzaka | Pixabay (MoonpetalMedia) | https://pixabay.com/videos/id-362885/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-11-08 | Tofuku-ji | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tsutenkyo_-_Koishikawa_Korakuen_-_DSC09306.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-11-08 | Kyoto | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pagoda_and_Men_in_Street_by_Adolf_de_Meyer_1900-1910.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |

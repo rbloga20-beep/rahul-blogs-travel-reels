@@ -15310,5 +15310,63 @@
    "name": "Snoopy Garden",
    "q": "Snoopy Garden"
   }
+ ],
+ "Kyoto": [
+  {
+   "name": "Fushimi Inari Shrine",
+   "q": "torii gates"
+  },
+  {
+   "name": "Arashiyama Bamboo Grove",
+   "q": "bamboo forest"
+  },
+  {
+   "name": "Kinkaku-ji",
+   "q": "golden pavilion"
+  },
+  {
+   "name": "Kiyomizu-dera",
+   "q": "wooden stage"
+  },
+  {
+   "name": "Gion District",
+   "q": "geisha"
+  },
+  {
+   "name": "Yasaka Pagoda",
+   "q": "hokan-ji"
+  },
+  {
+   "name": "Philosopher's Path",
+   "q": "cherry blossoms"
+  },
+  {
+   "name": "Nanzen-ji",
+   "q": "aqueduct"
+  },
+  {
+   "name": "Tenryu-ji",
+   "q": "zen garden"
+  },
+  {
+   "name": "Eikando Temple",
+   "q": "autumn leaves"
+  },
+  {
+   "name": "Sannenzaka",
+   "q": "stone steps"
+  },
+  {
+   "name": "Tofuku-ji",
+   "q": "tsutenkyo bridge"
+  },
+  {
+   "name": "Otagi Nenbutsu-ji",
+   "q": "stone statues"
+  },
+  {
+   "name": "Kurama-dera",
+   "q": "mountain temple"
+  }
  ]
 }
