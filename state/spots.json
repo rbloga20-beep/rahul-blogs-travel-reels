@@ -15194,5 +15194,63 @@
    "name": "Charco Azul",
    "q": "Charco Azul"
   }
+ ],
+ "Madeira": [
+  {
+   "name": "Pico do Arieiro",
+   "q": "Pico do Arieiro"
+  },
+  {
+   "name": "Fanal Forest",
+   "q": "Fanal Forest"
+  },
+  {
+   "name": "Porto Moniz Natural Pools",
+   "q": "Porto Moniz"
+  },
+  {
+   "name": "Ponta de São Lourenço",
+   "q": "Sao Lourenco"
+  },
+  {
+   "name": "Seixal Black Sand Beach",
+   "q": "Seixal Beach"
+  },
+  {
+   "name": "Cascata dos Anjos",
+   "q": "Cascata dos Anjos"
+  },
+  {
+   "name": "Cabo Girão Skywalk",
+   "q": "Cabo Girao"
+  },
+  {
+   "name": "Monte Toboggan Run",
+   "q": "Monte Toboggan"
+  },
+  {
+   "name": "Pico Ruivo",
+   "q": "Pico Ruivo"
+  },
+  {
+   "name": "Achadas da Cruz Cable Car",
+   "q": "Achadas da Cruz"
+  },
+  {
+   "name": "Véu da Noiva Waterfall",
+   "q": "Veu da Noiva"
+  },
+  {
+   "name": "Levada do Caldeirão Verde",
+   "q": "Caldeirao Verde"
+  },
+  {
+   "name": "Curral das Freiras",
+   "q": "Valley of Nuns"
+  },
+  {
+   "name": "Funchal Old Town",
+   "q": "Funchal Old Town"
+  }
  ]
 }

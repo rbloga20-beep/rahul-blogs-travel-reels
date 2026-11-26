@@ -20631,5 +20631,72 @@
   "v": 3,
   "ok": true,
   "s": 7
+ },
+ "wmc27104897|Pico do Arieiro": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc115009420|Porto Moniz Natural Pools": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc73781155|Fanal Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc73781156|Fanal Forest": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc73781162|Fanal Forest": null,
+ "wmc73781159|Fanal Forest": null,
+ "wmc115009421|Porto Moniz Natural Pools": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc91619760|Pico do Arieiro": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc146988102|Ponta de São Lourenço": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc146800158|Seixal Black Sand Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc115009437|Cabo Girão Skywalk": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc115009443|Cabo Girão Skywalk": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc2801910|Véu da Noiva Waterfall": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb344380|Madeira": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb126236|Madeira": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
