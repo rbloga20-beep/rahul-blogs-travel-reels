@@ -20698,5 +20698,70 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc144377934|Seongsan Ilchulbong": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc144377947|Seongsan Ilchulbong": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc144374191|Jusangjeolli Cliff": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc144373812|Jusangjeolli Cliff": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc109861080|Camellia Hill": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb262066|Udo Island": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc144161143|Sanbangsan Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb339975|Hamdeok Beach": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc144161144|Sanbangsan Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc144161152|Sanbangsan Mountain": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc157061355|Yongduam Rock": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb339975|Jeju Island": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb168844|Jeju Island": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }

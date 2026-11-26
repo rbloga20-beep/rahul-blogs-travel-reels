@@ -15252,5 +15252,63 @@
    "name": "Funchal Old Town",
    "q": "Funchal Old Town"
   }
+ ],
+ "Jeju Island": [
+  {
+   "name": "Seongsan Ilchulbong",
+   "q": "Seongsan Ilchulbong"
+  },
+  {
+   "name": "Hallasan National Park",
+   "q": "Hallasan"
+  },
+  {
+   "name": "Jusangjeolli Cliff",
+   "q": "Jusangjeolli"
+  },
+  {
+   "name": "Manjanggul Cave",
+   "q": "Manjanggul"
+  },
+  {
+   "name": "Hyeopjae Beach",
+   "q": "Hyeopjae"
+  },
+  {
+   "name": "Jeongbang Waterfall",
+   "q": "Jeongbang"
+  },
+  {
+   "name": "Cheonjiyeon Waterfall",
+   "q": "Cheonjiyeon"
+  },
+  {
+   "name": "Camellia Hill",
+   "q": "Camellia Hill"
+  },
+  {
+   "name": "Udo Island",
+   "q": "Udo"
+  },
+  {
+   "name": "Hamdeok Beach",
+   "q": "Hamdeok"
+  },
+  {
+   "name": "Sanbangsan Mountain",
+   "q": "Sanbangsan"
+  },
+  {
+   "name": "Oedolgae Rock",
+   "q": "Oedolgae"
+  },
+  {
+   "name": "Yongduam Rock",
+   "q": "Yongduam"
+  },
+  {
+   "name": "Snoopy Garden",
+   "q": "Snoopy Garden"
+  }
  ]
 }

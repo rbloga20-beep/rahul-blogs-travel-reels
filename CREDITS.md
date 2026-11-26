@@ -1281,3 +1281,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-26-05-23 | Seixal Black Sand Beach | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:View_of_Seixal,_Madeira,_from_mountain_road.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-26-05-23 | Cabo Girão Skywalk | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Madeira._The_Cabo_Gir%C3%A3o_Viewpoint._Read_below._(51859903084).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-26-05-23 | Madeira | Pixabay (Matthias_Groeneveld) | https://pixabay.com/videos/id-126236/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-08-39 | Jeju Island | Pixabay (써니킴) | https://pixabay.com/videos/id-168844/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-08-39 | Seongsan Ilchulbong | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_03.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-08-39 | Jusangjeolli Cliff | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Dol_Hareubangs_at_Daepo_Jusangjeolli_Cliff_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-08-39 | Udo Island | Pixabay (somedaywish) | https://pixabay.com/videos/id-262066/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-08-39 | Hamdeok Beach | Pixabay (YounStudios) | https://pixabay.com/videos/id-339975/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-08-39 | Sanbangsan Mountain | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Yongmeori_Coast.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-08-39 | Yongduam Rock | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Yongduam_in_jeju.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-08-39 | Jeju Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_01.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
