@@ -15426,5 +15426,63 @@
    "name": "Rukatunturi",
    "q": "Ruka"
   }
+ ],
+ "Transylvania": [
+  {
+   "name": "Bran Castle",
+   "q": "Dracula Castle"
+  },
+  {
+   "name": "Peles Castle",
+   "q": "Sinaia"
+  },
+  {
+   "name": "Sighisoara Citadel",
+   "q": "Medieval"
+  },
+  {
+   "name": "Corvin Castle",
+   "q": "Hunyadi"
+  },
+  {
+   "name": "Transfagarasan",
+   "q": "Roadtrip"
+  },
+  {
+   "name": "Sibiu",
+   "q": "Houses with eyes"
+  },
+  {
+   "name": "Brasov",
+   "q": "Council Square"
+  },
+  {
+   "name": "Biertan Fortified Church",
+   "q": "Transylvanian Saxons"
+  },
+  {
+   "name": "Turda Salt Mine",
+   "q": "Salina Turda"
+  },
+  {
+   "name": "Viscri",
+   "q": "Village"
+  },
+  {
+   "name": "Rasnov Citadel",
+   "q": "Fortress"
+  },
+  {
+   "name": "Cluj-Napoca",
+   "q": "St. Michael's Church"
+  },
+  {
+   "name": "Balea Lake",
+   "q": "Carpathian Mountains"
+  },
+  {
+   "name": "Sarmizegetusa Regia",
+   "q": "Dacian"
+  }
  ]
 }

@@ -1303,3 +1303,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-26-14-28 | Rovaniemi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Koivusaari_Rovaniemi_2022-09-15_32.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-26-14-28 | Ylläs | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Yll%C3%A4stunturi_20100308.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-26-14-28 | Lapland | Pixabay (XanhSen901) | https://pixabay.com/videos/id-328170/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-17-18 | Transylvania | Pixabay (GabiMedia) | https://pixabay.com/videos/id-223183/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-17-18 | Bran Castle | Pixabay (alexman89) | https://pixabay.com/videos/id-78260/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-17-18 | Cluj-Napoca | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cluj-Napoca_train_station,_Transylvania,_Romania.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-17-18 | Balea Lake | Pixabay (kykr) | https://pixabay.com/videos/id-347264/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-17-18 | Transylvania | Pixabay (OleksandrPidvalnyi) | https://pixabay.com/videos/id-173354/ | Pixabay Content License, commercial use, no attribution needed |

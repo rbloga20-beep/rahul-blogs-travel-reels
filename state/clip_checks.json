@@ -21171,5 +21171,195 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb344373|Sighisoara Citadel": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc61782556|Peles Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc31478188|Peles Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc31480005|Peles Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb227233|Sighisoara Citadel": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb78260|Bran Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb173354|Bran Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb128150|Sighisoara Citadel": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb32084|Sighisoara Citadel": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb211502|Transfagarasan": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc115842228|Sibiu": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc19808091|Corvin Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb183631|Transfagarasan": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc113514911|Corvin Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc112638572|Corvin Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc162978556|Sibiu": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb64916|Transfagarasan": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb64946|Transfagarasan": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc26702506|Corvin Castle": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc150671683|Biertan Fortified Church": null,
+ "wmc4833371|Biertan Fortified Church": null,
+ "wmc150671684|Biertan Fortified Church": null,
+ "wmc150671685|Biertan Fortified Church": null,
+ "wmc151022941|Brasov": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc23802570|Cluj-Napoca": null,
+ "pxb16137|Rasnov Citadel": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc201248341|Cluj-Napoca": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "pxb231479|Viscri": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc23801720|Cluj-Napoca": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb362889|Rasnov Citadel": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb205422|Viscri": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb357251|Rasnov Citadel": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb199347|Viscri": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb132826|Rasnov Citadel": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb31556|Viscri": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb347264|Balea Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb225419|Balea Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc31370978|Sarmizegetusa Regia": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb273999|Balea Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb173352|Balea Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb347264|Transylvania": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb223183|Transylvania": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
