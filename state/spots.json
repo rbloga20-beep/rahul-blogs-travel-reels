@@ -15136,5 +15136,63 @@
    "name": "Platys Gialos Beach",
    "q": "Platys Gialos"
   }
+ ],
+ "Canary Islands": [
+  {
+   "name": "Mount Teide",
+   "q": "Mount Teide"
+  },
+  {
+   "name": "Maspalomas Sand Dunes",
+   "q": "Maspalomas Dunes"
+  },
+  {
+   "name": "Timanfaya National Park",
+   "q": "Timanfaya"
+  },
+  {
+   "name": "Roque Nublo",
+   "q": "Roque Nublo"
+  },
+  {
+   "name": "Acantilados de Los Gigantes",
+   "q": "Los Gigantes"
+  },
+  {
+   "name": "Jameos del Agua",
+   "q": "Jameos del Agua"
+  },
+  {
+   "name": "Anaga Rural Park",
+   "q": "Anaga"
+  },
+  {
+   "name": "Cofete Beach",
+   "q": "Cofete Beach"
+  },
+  {
+   "name": "Corralejo Dunes",
+   "q": "Corralejo Dunes"
+  },
+  {
+   "name": "Playa de Papagayo",
+   "q": "Papagayo Beach"
+  },
+  {
+   "name": "Garajonay National Park",
+   "q": "Garajonay"
+  },
+  {
+   "name": "Caldera de Taburiente",
+   "q": "Taburiente"
+  },
+  {
+   "name": "Cueva de los Verdes",
+   "q": "Cueva de los Verdes"
+  },
+  {
+   "name": "Charco Azul",
+   "q": "Charco Azul"
+  }
  ]
 }

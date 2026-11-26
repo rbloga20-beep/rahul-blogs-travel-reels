@@ -20571,5 +20571,65 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc120623935|Maspalomas Sand Dunes": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc30622379|Maspalomas Sand Dunes": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc50719579|Roque Nublo": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb296996|Acantilados de Los Gigantes": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb296995|Acantilados de Los Gigantes": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc50719577|Roque Nublo": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc159568712|Caldera de Taburiente": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc159568362|Caldera de Taburiente": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc144749057|Charco Azul": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc158620872|Charco Azul": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb8813|Canary Islands": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb8815|Canary Islands": {
+  "v": 3,
+  "ok": true,
+  "s": 7
  }
 }

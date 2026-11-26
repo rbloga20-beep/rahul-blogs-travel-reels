@@ -1267,3 +1267,11 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-25-17-14 | Panagia Paraportiani | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Panagia_Paraportiani_church,_Chora,_Mykonos._OC.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-25-17-14 | Boni Windmill | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bonis_windmill,_Mykonos,_Greece.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-25-17-14 | Mykonos | Pixabay (Vimeo-Free-Videos) | https://pixabay.com/videos/id-1282/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-02-24 | Canary Islands | Pixabay (scym) | https://pixabay.com/videos/id-8813/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-02-24 | Mount Teide | Pixabay (ChristianBodhi) | https://pixabay.com/videos/id-77854/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-02-24 | Maspalomas Sand Dunes | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Maspalomas_D%C3%BCnen.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-02-24 | Roque Nublo | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Roque_Nublo_2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-02-24 | Acantilados de Los Gigantes | Pixabay (phlyingdoctor) | https://pixabay.com/videos/id-296996/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-02-24 | Caldera de Taburiente | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Barranco_de_Angustias,_Caldera_de_Taburiente_National_Park,_view_up_from_Mirador_de_la_Cancelita.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-02-24 | Charco Azul | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Moon_in_pink_clouds_over_the_ocean,_Charco_Azul,_La_Palma.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-02-24 | Canary Islands | Pixabay (scym) | https://pixabay.com/videos/id-8815/ | Pixabay Content License, commercial use, no attribution needed |
