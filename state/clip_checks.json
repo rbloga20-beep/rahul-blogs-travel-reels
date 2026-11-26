@@ -10810,7 +10810,11 @@
   "ok": false,
   "s": 8
  },
- "wmc179183404|Levi Ski Resort": null,
+ "wmc179183404|Levi Ski Resort": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
  "wmc90932612|Levi Ski Resort": null,
  "wmc145893723|Levi Ski Resort": {
   "v": 3,
@@ -20972,5 +20976,200 @@
   "v": 3,
   "ok": false,
   "s": 10
+ },
+ "wmc144432726|Santa Claus Village": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc67826714|Kakslauttanen Arctic Resort": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc67826686|Kakslauttanen Arctic Resort": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc144432721|Santa Claus Village": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb176989|Abisko National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc144432658|Santa Claus Village": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc144432768|Santa Claus Village": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb292830|Abisko National Park": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc145891795|Levi Ski Resort": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb83926|Kemi SnowCastle": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc90932542|Levi Ski Resort": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc145891145|Levi Ski Resort": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc144430080|Rovaniemi": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc144430466|Rovaniemi": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc144430473|Rovaniemi": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "pxb163479|Kiruna": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb19584|Saariselkä": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb322839|Saariselkä": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc107788985|Inari": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc146587125|Inari": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc107788983|Inari": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb57507|Saariselkä": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb75181|Saariselkä": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc82645152|Inari": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "pxb238303|Abisko Sky Station": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb238250|Abisko Sky Station": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc92737258|Ylläs": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc23995163|Ylläs": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb238307|Abisko Sky Station": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb238302|Abisko Sky Station": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc92726404|Ylläs": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc61684230|Rukatunturi": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "pxb336176|Ranua Wildlife Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb352513|Ranua Wildlife Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb192090|Ranua Wildlife Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb331922|Ranua Wildlife Park": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb307338|Lapland": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb307954|Lapland": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb328170|Lapland": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }

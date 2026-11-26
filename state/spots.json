@@ -15368,5 +15368,63 @@
    "name": "Kurama-dera",
    "q": "mountain temple"
   }
+ ],
+ "Lapland": [
+  {
+   "name": "Santa Claus Village",
+   "q": "Santa Claus, Rovaniemi"
+  },
+  {
+   "name": "Kakslauttanen Arctic Resort",
+   "q": "Glass Igloo"
+  },
+  {
+   "name": "Abisko National Park",
+   "q": "Aurora Borealis"
+  },
+  {
+   "name": "Levi Ski Resort",
+   "q": "Levi, Skiing"
+  },
+  {
+   "name": "Rovaniemi",
+   "q": "Arctic Circle"
+  },
+  {
+   "name": "Kemi SnowCastle",
+   "q": "Ice Hotel"
+  },
+  {
+   "name": "Inari",
+   "q": "Lake Inari"
+  },
+  {
+   "name": "Saariselkä",
+   "q": "Reindeer Sleigh"
+  },
+  {
+   "name": "Kiruna",
+   "q": "Icehotel"
+  },
+  {
+   "name": "Oulanka National Park",
+   "q": "Karhunkierros"
+  },
+  {
+   "name": "Ylläs",
+   "q": "Husky Safari"
+  },
+  {
+   "name": "Abisko Sky Station",
+   "q": "Northern Lights"
+  },
+  {
+   "name": "Ranua Wildlife Park",
+   "q": "Polar Bear"
+  },
+  {
+   "name": "Rukatunturi",
+   "q": "Ruka"
+  }
  ]
 }

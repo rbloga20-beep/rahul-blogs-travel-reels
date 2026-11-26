@@ -1298,3 +1298,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-26-11-08 | Sannenzaka | Pixabay (MoonpetalMedia) | https://pixabay.com/videos/id-362885/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-26-11-08 | Tofuku-ji | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Tsutenkyo_-_Koishikawa_Korakuen_-_DSC09306.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-26-11-08 | Kyoto | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pagoda_and_Men_in_Street_by_Adolf_de_Meyer_1900-1910.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-14-28 | Lapland | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-307338/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-14-28 | Abisko National Park | Pixabay (MAURICIO_BR) | https://pixabay.com/videos/id-176989/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-26-14-28 | Rovaniemi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Koivusaari_Rovaniemi_2022-09-15_32.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-14-28 | Ylläs | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Yll%C3%A4stunturi_20100308.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-26-14-28 | Lapland | Pixabay (XanhSen901) | https://pixabay.com/videos/id-328170/ | Pixabay Content License, commercial use, no attribution needed |
