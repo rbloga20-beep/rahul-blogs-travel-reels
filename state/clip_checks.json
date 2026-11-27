@@ -21754,5 +21754,35 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc42377162|Corte Citadel": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc18580927|Corte Citadel": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc201049727|Nonza Village": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb40013|Cap Corse": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb40016|Corsica": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb40015|Corsica": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

@@ -15832,5 +15832,63 @@
    "name": "Angra do Heroísmo",
    "q": "Angra do Heroismo"
   }
+ ],
+ "Corsica": [
+  {
+   "name": "Calanques de Piana",
+   "q": "Calanques de Piana"
+  },
+  {
+   "name": "Cliffs of Bonifacio",
+   "q": "Bonifacio Cliffs"
+  },
+  {
+   "name": "Aiguilles de Bavella",
+   "q": "Aiguilles de Bavella"
+  },
+  {
+   "name": "Palombaggia Beach",
+   "q": "Palombaggia Beach"
+  },
+  {
+   "name": "Scandola Nature Reserve",
+   "q": "Scandola Reserve"
+  },
+  {
+   "name": "Santa Giulia Beach",
+   "q": "Santa Giulia"
+  },
+  {
+   "name": "Corte Citadel",
+   "q": "Corte Citadel"
+  },
+  {
+   "name": "Restonica Gorge",
+   "q": "Restonica Gorge"
+  },
+  {
+   "name": "Lavezzi Islands",
+   "q": "Lavezzi Islands"
+  },
+  {
+   "name": "Saleccia Beach",
+   "q": "Saleccia Beach"
+  },
+  {
+   "name": "Nonza Village",
+   "q": "Nonza"
+  },
+  {
+   "name": "Rondinara Beach",
+   "q": "Rondinara Beach"
+  },
+  {
+   "name": "Cascade des Anglais",
+   "q": "Cascade des Anglais"
+  },
+  {
+   "name": "Cap Corse",
+   "q": "Cap Corse"
+  }
  ]
 }

@@ -1323,3 +1323,7 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-27-05-22 | Fajã da Caldeira de Santo Cristo | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fal%C3%A9sias_entre_a_Faj%C3%A3_da_Caldeira_de_Santo_Cristo_e_a_Faj%C3%A3_do_Belo,_j%C3%A1_pr%C3%B3ximo_a_esta_%C3%BAltima,_Calheta,_ilha_de_S%C3%A3o_Jorge,_A%C3%A7ores.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-27-05-22 | Cascata do Poço do Bacalhau | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cascata_do_Pozo_do_Bacallao_-_Faja_Grande_-_Azores_(34650797861).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-27-05-22 | Azores | Pixabay (AntoMes) | https://pixabay.com/videos/id-29672/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-08-36 | Corsica | Pixabay (xat-ch) | https://pixabay.com/videos/id-40016/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-08-36 | Nonza Village | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Plage_de_Nonza_(21816).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-08-36 | Cap Corse | Pixabay (xat-ch) | https://pixabay.com/videos/id-40013/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-08-36 | Corsica | Pixabay (xat-ch) | https://pixabay.com/videos/id-40015/ | Pixabay Content License, commercial use, no attribution needed |
