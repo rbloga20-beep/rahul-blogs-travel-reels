@@ -1346,3 +1346,7 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-27-14-26 | Fornalutx | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fornalutx._Cam%C3%AD_dels_Marroigs._Vista.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-27-14-26 | Castell de Bellver | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Castell_de_Bellver_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-27-14-26 | Majorca | Pixabay (Radds) | https://pixabay.com/videos/id-209720/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-17-33 | Cappadocia | Pixabay (LynX_BGW) | https://pixabay.com/videos/id-316045/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-17-33 | Göreme Hot Air Balloons | Pixabay (yunusgurel) | https://pixabay.com/videos/id-63602/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-17-33 | Uchisar Castle | Pixabay (yunusgurel) | https://pixabay.com/videos/id-17130/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-17-33 | Cappadocia | Pixabay (LynX_BGW) | https://pixabay.com/videos/id-316043/ | Pixabay Content License, commercial use, no attribution needed |

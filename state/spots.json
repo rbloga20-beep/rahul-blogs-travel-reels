@@ -16006,5 +16006,179 @@
    "name": "Castell de Bellver",
    "q": "Castell de Bellver"
   }
+ ],
+ "French Guiana": [
+  {
+   "name": "Îles du Salut",
+   "q": "Iles du Salut"
+  },
+  {
+   "name": "Guiana Space Centre",
+   "q": "Centre Spatial Guyanais"
+  },
+  {
+   "name": "Devil's Island",
+   "q": "Devils Island"
+  },
+  {
+   "name": "Île Royale",
+   "q": "Ile Royale"
+  },
+  {
+   "name": "Place des Palmistes",
+   "q": "Place des Palmistes"
+  },
+  {
+   "name": "Marché de Cayenne",
+   "q": "Marche de Cayenne"
+  },
+  {
+   "name": "Camp de la Transportation",
+   "q": "Camp de la Transportation"
+  },
+  {
+   "name": "Kaw Marshes",
+   "q": "Marais de Kaw"
+  },
+  {
+   "name": "Plage des Hattes",
+   "q": "Plage des Hattes"
+  },
+  {
+   "name": "Cacao Village",
+   "q": "Cacao Village"
+  },
+  {
+   "name": "Zoo de Guyane",
+   "q": "Zoo de Guyane"
+  },
+  {
+   "name": "Fort Cépérou",
+   "q": "Fort Ceperou"
+  },
+  {
+   "name": "Remire-Montjoly Beach",
+   "q": "Remire Montjoly"
+  },
+  {
+   "name": "Parc Amazonien de Guyane",
+   "q": "Parc Amazonien"
+  }
+ ],
+ "Saint Martin": [
+  {
+   "name": "Maho Beach",
+   "q": "Maho Beach"
+  },
+  {
+   "name": "Orient Bay Beach",
+   "q": "Orient Bay"
+  },
+  {
+   "name": "Pinel Island",
+   "q": "Pinel Island"
+  },
+  {
+   "name": "Fort Louis",
+   "q": "Fort Louis Marigot"
+  },
+  {
+   "name": "Grand Case",
+   "q": "Grand Case"
+  },
+  {
+   "name": "Mullet Bay",
+   "q": "Mullet Bay"
+  },
+  {
+   "name": "Loterie Farm",
+   "q": "Loterie Farm"
+  },
+  {
+   "name": "Pic Paradis",
+   "q": "Pic Paradis"
+  },
+  {
+   "name": "Philipsburg Boardwalk",
+   "q": "Philipsburg Boardwalk"
+  },
+  {
+   "name": "Happy Bay Beach",
+   "q": "Happy Bay"
+  },
+  {
+   "name": "Baie Rouge",
+   "q": "Baie Rouge"
+  },
+  {
+   "name": "Anse Marcel",
+   "q": "Anse Marcel"
+  },
+  {
+   "name": "Marigot Market",
+   "q": "Marigot Market"
+  },
+  {
+   "name": "Simpson Bay",
+   "q": "Simpson Bay"
+  }
+ ],
+ "Cappadocia": [
+  {
+   "name": "Göreme Hot Air Balloons",
+   "q": "Goreme Hot Air Balloons"
+  },
+  {
+   "name": "Love Valley",
+   "q": "Love Valley"
+  },
+  {
+   "name": "Pasabag Monk Valley",
+   "q": "Pasabag Fairy Chimneys"
+  },
+  {
+   "name": "Uchisar Castle",
+   "q": "Uchisar Castle"
+  },
+  {
+   "name": "Göreme Open Air Museum",
+   "q": "Goreme Open Air Museum"
+  },
+  {
+   "name": "Red Valley",
+   "q": "Red Valley Sunset"
+  },
+  {
+   "name": "Rose Valley",
+   "q": "Rose Valley"
+  },
+  {
+   "name": "Pigeon Valley",
+   "q": "Pigeon Valley"
+  },
+  {
+   "name": "Devrent Valley",
+   "q": "Devrent Valley"
+  },
+  {
+   "name": "Ihlara Valley",
+   "q": "Ihlara Valley Gorge"
+  },
+  {
+   "name": "Derinkuyu Underground City",
+   "q": "Derinkuyu Underground City"
+  },
+  {
+   "name": "Kaymakli Underground City",
+   "q": "Kaymakli Underground City"
+  },
+  {
+   "name": "Selime Monastery",
+   "q": "Selime Monastery"
+  },
+  {
+   "name": "Ortahisar Castle",
+   "q": "Ortahisar Castle"
+  }
  ]
 }

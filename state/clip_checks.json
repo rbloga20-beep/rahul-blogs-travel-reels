@@ -1613,12 +1613,12 @@
  },
  "pxb358006|Amalfi Coast": null,
  "pxb312077|Cappadocia": {
-  "v": 2,
-  "ok": true,
-  "s": 7
+  "v": 3,
+  "ok": false,
+  "s": 6
  },
  "pxb316045|Cappadocia": {
-  "v": 2,
+  "v": 3,
   "ok": true,
   "s": 8
  },
@@ -21956,5 +21956,263 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "wmc118757217|Guiana Space Centre": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc138628210|Devil's Island": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc130224394|Devil's Island": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc113645477|Guiana Space Centre": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc113645280|Guiana Space Centre": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc121788069|Île Royale": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc120206694|Marché de Cayenne": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc120206689|Marché de Cayenne": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc120206692|Marché de Cayenne": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc120206685|Marché de Cayenne": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc29566358|Plage des Hattes": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc151723950|Plage des Hattes": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc123537128|Cacao Village": null,
+ "wmc48261002|Fort Cépérou": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc148103464|Remire-Montjoly Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc183943636|Remire-Montjoly Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc33731297|Orient Bay Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc45532680|Orient Bay Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc70685242|Pinel Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc45532690|Orient Bay Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc70685254|Pinel Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc159934640|Orient Bay Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "pxb36501|Grand Case": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc3502629|Fort Louis": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc148839372|Fort Louis": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc119826273|Fort Louis": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc14693674|Mullet Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc41155690|Mullet Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc173536093|Pic Paradis": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc43163354|Pic Paradis": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc34312391|Pic Paradis": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc154336087|Pic Paradis": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb140151|Happy Bay Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc162462777|Baie Rouge": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc162462768|Baie Rouge": null,
+ "wmc195797967|Baie Rouge": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc3191122|Anse Marcel": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc131307784|Anse Marcel": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc150518959|Baie Rouge": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc131307792|Anse Marcel": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc3191286|Anse Marcel": null,
+ "pxb144658|Happy Bay Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb297746|Simpson Bay": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc119481836|Pasabag Monk Valley": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb241924|Love Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "pxb63602|Göreme Hot Air Balloons": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb63594|Göreme Hot Air Balloons": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb204778|Göreme Hot Air Balloons": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb310|Red Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb17130|Uchisar Castle": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb381058|Rose Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb379490|Rose Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb118388|Rose Valley": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "pxb316043|Cappadocia": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
