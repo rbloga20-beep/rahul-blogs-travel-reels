@@ -1066,5 +1066,25 @@
  "Transylvania": {
   "date": "2026-11-26",
   "status": "posted"
+ },
+ "British Virgin Islands": {
+  "date": "2026-11-27",
+  "status": "no footage"
+ },
+ "US Virgin Islands": {
+  "date": "2026-11-27",
+  "status": "no footage"
+ },
+ "Banff": {
+  "date": "2026-11-27",
+  "status": "no footage"
+ },
+ "Queenstown": {
+  "date": "2026-11-27",
+  "status": "no footage"
+ },
+ "Tibet": {
+  "date": "2026-11-27",
+  "status": "posted"
  }
 }

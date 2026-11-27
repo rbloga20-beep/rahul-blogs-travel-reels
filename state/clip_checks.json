@@ -21361,5 +21361,298 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "wmc157246352|The Baths": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc191205963|Devil's Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc126108592|Devil's Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc94165824|White Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc8114687|Devil's Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc5936492|The Baths": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc5936461|The Baths": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc16585153|Anegada": null,
+ "wmc55025810|Norman Island": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc34059152|Cane Garden Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc34059091|Cane Garden Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc34059043|Cane Garden Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 4
+ },
+ "wmc34059077|Cane Garden Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc159972856|The Indians": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc795259|Sandy Spit": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc159961502|The Indians": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc159972718|The Indians": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc159973739|The Indians": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc69069704|Sage Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc69069708|Sage Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc30857009|Deadman's Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc162584826|Deadman's Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc61150486|Sage Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 5
+ },
+ "wmc152491138|Sage Mountain": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc5633458|Smuggler's Cove": {
+  "v": 3,
+  "ok": false,
+  "s": 2
+ },
+ "wmc45454439|Willy T": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc10775980|Willy T": null,
+ "pxb137157|Trunk Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb202910|Cinnamon Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb137156|Trunk Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb197988|Trunk Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb3999|Trunk Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb93866|Cinnamon Bay": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb31122|Mountain Top": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb322769|Honeymoon Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc105828707|Buck Island Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb322741|Honeymoon Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb2576|Mountain Top": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc24157591|Buck Island Reef": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb322771|Honeymoon Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb2574|Mountain Top": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc80047893|Buck Island Reef": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc80044512|Buck Island Reef": null,
+ "pxb146632|Honeymoon Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb2572|Mountain Top": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc55800538|Yamdrok Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc131085991|Potala Palace": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc87446008|Jokhang Temple": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc157608876|Potala Palace": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc61869736|Yamdrok Lake": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc175182297|Mount Kailash": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc173674766|Mount Kailash": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc62250366|Namtso Lake": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc150983870|Lake Manasarovar": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc150983869|Lake Manasarovar": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc87446012|Barkhor Street": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc87446008|Barkhor Street": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc14693449|Lake Manasarovar": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc127185823|Yarlung Tsangpo Grand Canyon": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "pxb276157|Tibet": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb294029|Tibet": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

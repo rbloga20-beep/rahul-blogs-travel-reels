@@ -1308,3 +1308,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-26-17-18 | Cluj-Napoca | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cluj-Napoca_train_station,_Transylvania,_Romania.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-26-17-18 | Balea Lake | Pixabay (kykr) | https://pixabay.com/videos/id-347264/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-26-17-18 | Transylvania | Pixabay (OleksandrPidvalnyi) | https://pixabay.com/videos/id-173354/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-02-33 | Tibet | Pixabay (ruqin3389) | https://pixabay.com/videos/id-276157/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-02-33 | Potala Palace | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Potala_Palace_Breeze_Ng.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-02-33 | Yamdrok Lake | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:PIA21304_-_Yamzho_Yumco_Lake,_Tibet.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-02-33 | Mount Kailash | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Lake_Rakshasthal_-_Mount_Kailash.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-02-33 | Tibet | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-294029/ | Pixabay Content License, commercial use, no attribution needed |
