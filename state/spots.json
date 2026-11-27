@@ -15948,5 +15948,63 @@
    "name": "Palermo Cathedral",
    "q": "Palermo Cathedral"
   }
+ ],
+ "Majorca": [
+  {
+   "name": "Caló des Moro",
+   "q": "Calo des Moro"
+  },
+  {
+   "name": "Cap de Formentor",
+   "q": "Cap de Formentor"
+  },
+  {
+   "name": "Sa Calobra",
+   "q": "Sa Calobra"
+  },
+  {
+   "name": "Palma Cathedral",
+   "q": "La Seu Palma"
+  },
+  {
+   "name": "Valldemossa",
+   "q": "Valldemossa"
+  },
+  {
+   "name": "Port de Sóller",
+   "q": "Port de Soller"
+  },
+  {
+   "name": "Deià",
+   "q": "Deia"
+  },
+  {
+   "name": "Mirador Es Colomer",
+   "q": "Es Colomer"
+  },
+  {
+   "name": "Cala Llombards",
+   "q": "Cala Llombards"
+  },
+  {
+   "name": "Cuevas del Drach",
+   "q": "Cuevas del Drach"
+  },
+  {
+   "name": "Cala s'Almunia",
+   "q": "Cala sAlmunia"
+  },
+  {
+   "name": "Fornalutx",
+   "q": "Fornalutx"
+  },
+  {
+   "name": "Torrent de Pareis",
+   "q": "Torrent de Pareis"
+  },
+  {
+   "name": "Castell de Bellver",
+   "q": "Castell de Bellver"
+  }
  ]
 }

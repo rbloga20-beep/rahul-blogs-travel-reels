@@ -1336,3 +1336,13 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-27-11-03 | Ragusa Ibla | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ragusa_Ibla_da_monte_S._Cono.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-27-11-03 | Palermo Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Baroque_Cupolas_Viewed_from_Above,_Palermo_Cathedral.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-27-11-03 | Sicily | Pixabay (Oleh_1977) | https://pixabay.com/videos/id-297570/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Majorca | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-310773/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Cap de Formentor | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Pollen%C3%A7a._Formentor._El_Pal._Vista_(3).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Sa Calobra | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Escorca._Clots_Carbons._Vista_de_la_Calobra.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Palma Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Sea_view_from_Palma_Cathedral.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Valldemossa | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:VALLDEMOSSA-MAJORKA,_AB-348.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Port de Sóller | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Blick_von_der_Stra%C3%9Fenbahn_Soller,_alte_Ma-11.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Deià | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Dei%C3%A0._Son_Rutlan._Pica.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Fornalutx | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Fornalutx._Cam%C3%AD_dels_Marroigs._Vista.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Castell de Bellver | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Castell_de_Bellver_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-14-26 | Majorca | Pixabay (Radds) | https://pixabay.com/videos/id-209720/ | Pixabay Content License, commercial use, no attribution needed |

@@ -21886,5 +21886,75 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc153790794|Cap de Formentor": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc153746751|Sa Calobra": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc85229163|Valldemossa": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc175233721|Port de Sóller": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc151101362|Palma Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc153308708|Valldemossa": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc151101361|Palma Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc153872664|Deià": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc153872661|Deià": {
+  "v": 3,
+  "ok": false,
+  "s": 3
+ },
+ "wmc152982421|Fornalutx": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc162316515|Cuevas del Drach": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc61916008|Castell de Bellver": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb310773|Majorca": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb209720|Majorca": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }
