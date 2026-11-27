@@ -15774,5 +15774,63 @@
    "name": "Gyantse Kumbum",
    "q": "Gyantse Kumbum"
   }
+ ],
+ "Azores": [
+  {
+   "name": "Miradouro da Boca do Inferno",
+   "q": "Boca do Inferno"
+  },
+  {
+   "name": "Lagoa das Sete Cidades",
+   "q": "Sete Cidades"
+  },
+  {
+   "name": "Lagoa do Fogo",
+   "q": "Lagoa do Fogo"
+  },
+  {
+   "name": "Ilhéu de Vila Franca do Campo",
+   "q": "Vila Franca Islet"
+  },
+  {
+   "name": "Poço da Ribeira do Ferreiro",
+   "q": "Ribeira do Ferreiro"
+  },
+  {
+   "name": "Mount Pico",
+   "q": "Mount Pico"
+  },
+  {
+   "name": "Algar do Carvão",
+   "q": "Algar do Carvao"
+  },
+  {
+   "name": "Terra Nostra Park",
+   "q": "Terra Nostra"
+  },
+  {
+   "name": "Capelinhos Volcano",
+   "q": "Capelinhos"
+  },
+  {
+   "name": "Ribeira dos Caldeirões Park",
+   "q": "Ribeira dos Caldeiroes"
+  },
+  {
+   "name": "Ermida de Nossa Senhora da Paz",
+   "q": "Nossa Senhora Paz"
+  },
+  {
+   "name": "Fajã da Caldeira de Santo Cristo",
+   "q": "Santo Cristo Faja"
+  },
+  {
+   "name": "Cascata do Poço do Bacalhau",
+   "q": "Poco do Bacalhau"
+  },
+  {
+   "name": "Angra do Heroísmo",
+   "q": "Angra do Heroismo"
+  }
  ]
 }

@@ -21654,5 +21654,105 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc167749238|Miradouro da Boca do Inferno": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc167749169|Miradouro da Boca do Inferno": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc167749191|Miradouro da Boca do Inferno": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc62250416|Lagoa das Sete Cidades": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc8070533|Lagoa das Sete Cidades": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb4141|Mount Pico": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc8312987|Ilhéu de Vila Franca do Campo": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc7999912|Ilhéu de Vila Franca do Campo": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc5012680|Ilhéu de Vila Franca do Campo": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc12816248|Capelinhos Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc12816311|Capelinhos Volcano": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc7796963|Fajã da Caldeira de Santo Cristo": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "wmc7750755|Fajã da Caldeira de Santo Cristo": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc8312912|Ermida de Nossa Senhora da Paz": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc7774382|Fajã da Caldeira de Santo Cristo": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc93596118|Cascata do Poço do Bacalhau": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb62592|Azores": {
+  "v": 3,
+  "ok": false,
+  "s": 7
+ },
+ "pxb151218|Azores": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb62591|Azores": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb29672|Azores": {
+  "v": 3,
+  "ok": true,
+  "s": 8
  }
 }
