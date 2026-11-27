@@ -21784,5 +21784,107 @@
   "v": 3,
   "ok": true,
   "s": 9
+ },
+ "pxb89351|Teatro Antico di Taormina": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc26833182|Scala dei Turchi": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc70344849|Isola Bella": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "wmc11201309|Scala dei Turchi": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc175397039|Ortigia Island": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb23526|Mount Etna": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc175397047|Ortigia Island": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb355608|Valley of the Temples": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb330644|Valley of the Temples": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb340303|Valley of the Temples": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "pxb298122|Valley of the Temples": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc130490477|Cefalù": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "wmc3616494|Cefalù": null,
+ "wmc144465172|Noto Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc144020615|Noto Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc5601644|Tonnara di Scopello": null,
+ "wmc37024857|Ragusa Ibla": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc173412534|Palermo Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc173247040|Palermo Cathedral": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb1161|Sicily": {
+  "v": 3,
+  "ok": false,
+  "s": 9
+ },
+ "pxb3956|Sicily": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb297570|Sicily": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

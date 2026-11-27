@@ -1327,3 +1327,12 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-27-08-36 | Nonza Village | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Plage_de_Nonza_(21816).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-27-08-36 | Cap Corse | Pixabay (xat-ch) | https://pixabay.com/videos/id-40013/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-27-08-36 | Corsica | Pixabay (xat-ch) | https://pixabay.com/videos/id-40015/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-11-03 | Sicily | Pixabay (tiburi) | https://pixabay.com/videos/id-3956/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-11-03 | Teatro Antico di Taormina | Pixabay (kamilnosal94) | https://pixabay.com/videos/id-89351/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-11-03 | Scala dei Turchi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Scala_dei_Turchi.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-11-03 | Mount Etna | Pixabay (matteoarrigo) | https://pixabay.com/videos/id-23526/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-27-11-03 | Ortigia Island | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Via_Dione,_Siracusa.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-11-03 | Noto Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cathedral_(Noto)_14_01_2024_04.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-11-03 | Ragusa Ibla | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Ragusa_Ibla_da_monte_S._Cono.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-11-03 | Palermo Cathedral | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Baroque_Cupolas_Viewed_from_Above,_Palermo_Cathedral.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-27-11-03 | Sicily | Pixabay (Oleh_1977) | https://pixabay.com/videos/id-297570/ | Pixabay Content License, commercial use, no attribution needed |

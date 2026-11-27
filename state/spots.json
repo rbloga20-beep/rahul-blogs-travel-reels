@@ -15890,5 +15890,63 @@
    "name": "Cap Corse",
    "q": "Cap Corse"
   }
+ ],
+ "Sicily": [
+  {
+   "name": "Teatro Antico di Taormina",
+   "q": "Taormina Theatre"
+  },
+  {
+   "name": "Isola Bella",
+   "q": "Isola Bella"
+  },
+  {
+   "name": "Scala dei Turchi",
+   "q": "Scala dei Turchi"
+  },
+  {
+   "name": "Valley of the Temples",
+   "q": "Valley of Temples"
+  },
+  {
+   "name": "Mount Etna",
+   "q": "Mount Etna"
+  },
+  {
+   "name": "Ortigia Island",
+   "q": "Ortigia Syracuse"
+  },
+  {
+   "name": "Cefalù",
+   "q": "Cefalu"
+  },
+  {
+   "name": "San Vito Lo Capo",
+   "q": "San Vito Capo"
+  },
+  {
+   "name": "Noto Cathedral",
+   "q": "Noto Cathedral"
+  },
+  {
+   "name": "Tonnara di Scopello",
+   "q": "Scopello"
+  },
+  {
+   "name": "Zingaro Nature Reserve",
+   "q": "Zingaro"
+  },
+  {
+   "name": "Ragusa Ibla",
+   "q": "Ragusa Ibla"
+  },
+  {
+   "name": "Cala Rossa",
+   "q": "Cala Rossa"
+  },
+  {
+   "name": "Palermo Cathedral",
+   "q": "Palermo Cathedral"
+  }
  ]
 }
