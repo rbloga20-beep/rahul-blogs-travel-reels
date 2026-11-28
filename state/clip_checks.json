@@ -17241,8 +17241,16 @@
   "ok": true,
   "s": 8
  },
- "wmc7012221|Mount Otemanu": null,
- "wmc6959571|Mount Otemanu": null,
+ "wmc7012221|Mount Otemanu": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc6959571|Mount Otemanu": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
  "wmc118275978|Mount Otemanu": {
   "v": 3,
   "ok": false,
@@ -22214,5 +22222,40 @@
   "v": 3,
   "ok": true,
   "s": 8
+ },
+ "pxb386380|Coral Gardens": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb386374|Coral Gardens": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc160384084|Vaitape Harbor": {
+  "v": 3,
+  "ok": false,
+  "s": 1
+ },
+ "wmc79904824|Tupai Heart Atoll": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc2652716|Tupai Heart Atoll": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb352156|Bora Bora": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "pxb332818|Bora Bora": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }

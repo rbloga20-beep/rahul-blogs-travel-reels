@@ -1350,3 +1350,8 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-27-17-33 | Göreme Hot Air Balloons | Pixabay (yunusgurel) | https://pixabay.com/videos/id-63602/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-27-17-33 | Uchisar Castle | Pixabay (yunusgurel) | https://pixabay.com/videos/id-17130/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-27-17-33 | Cappadocia | Pixabay (LynX_BGW) | https://pixabay.com/videos/id-316043/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-28-02-21 | Bora Bora | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-352156/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-28-02-21 | Mount Otemanu | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Borabora3.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-02-21 | Coral Gardens | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386380/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-28-02-21 | Tupai Heart Atoll | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:T%C5%ABpai_Atoll_(ISS006-E-38881).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-02-21 | Bora Bora | Pixabay (Solarselle77) | https://pixabay.com/videos/id-332818/ | Pixabay Content License, commercial use, no attribution needed |

@@ -16180,5 +16180,63 @@
    "name": "Ortahisar Castle",
    "q": "Ortahisar Castle"
   }
+ ],
+ "Bora Bora": [
+  {
+   "name": "Mount Otemanu",
+   "q": "Mount Otemanu"
+  },
+  {
+   "name": "Matira Beach",
+   "q": "Matira Beach"
+  },
+  {
+   "name": "Coral Gardens",
+   "q": "Coral Gardens"
+  },
+  {
+   "name": "Mount Pahia",
+   "q": "Mount Pahia"
+  },
+  {
+   "name": "Bora Bora Lagoonarium",
+   "q": "Lagoonarium"
+  },
+  {
+   "name": "Motu Tapu",
+   "q": "Motu Tapu"
+  },
+  {
+   "name": "Tupai Heart Atoll",
+   "q": "Tupai Atoll"
+  },
+  {
+   "name": "Bloody Mary's",
+   "q": "Bloody Marys"
+  },
+  {
+   "name": "Vaitape Harbor",
+   "q": "Vaitape"
+  },
+  {
+   "name": "Motu Piti Aau",
+   "q": "Motu Piti Aau"
+  },
+  {
+   "name": "Faanui Bay",
+   "q": "Faanui Bay"
+  },
+  {
+   "name": "Anau Manta Ray Spot",
+   "q": "Anau Manta Ray"
+  },
+  {
+   "name": "Marae Fare Opu",
+   "q": "Marae Fare Opu"
+  },
+  {
+   "name": "Fitiiu Point",
+   "q": "Fitiiu Point"
+  }
  ]
 }
