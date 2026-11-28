@@ -16296,5 +16296,63 @@
    "name": "Psychro Cave",
    "q": "Psychro Cave Zeus"
   }
+ ],
+ "Sardinia": [
+  {
+   "name": "Cala Goloritzé",
+   "q": "Cala Goloritze"
+  },
+  {
+   "name": "La Pelosa Beach",
+   "q": "La Pelosa Stintino"
+  },
+  {
+   "name": "Cala Mariolu",
+   "q": "Cala Mariolu"
+  },
+  {
+   "name": "Cala Luna",
+   "q": "Cala Luna"
+  },
+  {
+   "name": "Neptune's Grotto",
+   "q": "Grotta di Nettuno"
+  },
+  {
+   "name": "Cala Coticcio",
+   "q": "Cala Coticcio Caprera"
+  },
+  {
+   "name": "Bosa",
+   "q": "Bosa colorful houses"
+  },
+  {
+   "name": "Castelsardo",
+   "q": "Castelsardo"
+  },
+  {
+   "name": "Su Nuraxi di Barumini",
+   "q": "Su Nuraxi Barumini"
+  },
+  {
+   "name": "Porto Cervo",
+   "q": "Porto Cervo"
+  },
+  {
+   "name": "Gorropu Gorge",
+   "q": "Gorropu Canyon"
+  },
+  {
+   "name": "Spiaggia Rosa",
+   "q": "Spiaggia Rosa Budelli"
+  },
+  {
+   "name": "Chia Beach",
+   "q": "Chia Su Giudeu"
+  },
+  {
+   "name": "Cala Brandinchi",
+   "q": "Cala Brandinchi"
+  }
  ]
 }

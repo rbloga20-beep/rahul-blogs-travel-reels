@@ -22309,5 +22309,50 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc38286428|La Pelosa Beach": {
+  "v": 3,
+  "ok": false,
+  "s": 10
+ },
+ "wmc61489622|Cala Luna": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc61489579|Bosa": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc10010531|Gorropu Gorge": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc10010461|Gorropu Gorge": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "wmc60771445|Cala Brandinchi": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb41689|Sardinia": {
+  "v": 3,
+  "ok": false,
+  "s": 8
+ },
+ "pxb378105|Sardinia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb197942|Sardinia": {
+  "v": 3,
+  "ok": true,
+  "s": 9
  }
 }

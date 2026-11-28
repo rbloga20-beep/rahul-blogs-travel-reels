@@ -1362,3 +1362,9 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-28-05-13 | Matala Caves | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Beach_and_troglodytes_at_Matala,_Crete,_Greece.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-28-05-13 | Rethymno Old Town | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Harbour_snowy_mountains_Rethymno_Crete_Greece.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-28-05-13 | Crete | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-377059/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-28-08-21 | Sardinia | Pixabay (u_8tbcs0g9i1) | https://pixabay.com/videos/id-378105/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-28-08-21 | Cala Luna | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Cala_Luna_Grotto.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-08-21 | Bosa | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Bosa-2298388_960_720.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-08-21 | Gorropu Gorge | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Goorroppu2.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-08-21 | Cala Brandinchi | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:San_Teodoro_-_Sardinia_-_2017_-_Cala_Brandinchi.JPG | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-08-21 | Sardinia | Pixabay (mariancroitoru) | https://pixabay.com/videos/id-197942/ | Pixabay Content License, commercial use, no attribution needed |
