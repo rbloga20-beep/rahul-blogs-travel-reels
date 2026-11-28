@@ -16238,5 +16238,63 @@
    "name": "Fitiiu Point",
    "q": "Fitiiu Point"
   }
+ ],
+ "Crete": [
+  {
+   "name": "Elafonisi Beach",
+   "q": "Elafonisi Pink Sand"
+  },
+  {
+   "name": "Balos Lagoon",
+   "q": "Balos Lagoon Beach"
+  },
+  {
+   "name": "Seitan Limania",
+   "q": "Seitan Limania Beach"
+  },
+  {
+   "name": "Chania Venetian Harbor",
+   "q": "Chania Venetian Harbor"
+  },
+  {
+   "name": "Palace of Knossos",
+   "q": "Knossos Palace"
+  },
+  {
+   "name": "Samaria Gorge",
+   "q": "Samaria Gorge"
+  },
+  {
+   "name": "Preveli Beach",
+   "q": "Preveli Palm Beach"
+  },
+  {
+   "name": "Matala Caves",
+   "q": "Matala Beach Caves"
+  },
+  {
+   "name": "Rethymno Old Town",
+   "q": "Rethymno Venetian Harbor"
+  },
+  {
+   "name": "Spinalonga Island",
+   "q": "Spinalonga Fortress"
+  },
+  {
+   "name": "Vai Palm Beach",
+   "q": "Vai Beach Palm"
+  },
+  {
+   "name": "Arkadi Monastery",
+   "q": "Arkadi Monastery"
+  },
+  {
+   "name": "Falassarna Beach",
+   "q": "Falassarna Beach Sunset"
+  },
+  {
+   "name": "Psychro Cave",
+   "q": "Psychro Cave Zeus"
+  }
  ]
 }

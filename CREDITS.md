@@ -1355,3 +1355,10 @@ Pixabay Content License and Mixkit Stock Video Free License: free commercial use
 | 2026-11-28-02-21 | Coral Gardens | Pixabay (Razzak_100) | https://pixabay.com/videos/id-386380/ | Pixabay Content License, commercial use, no attribution needed |
 | 2026-11-28-02-21 | Tupai Heart Atoll | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:T%C5%ABpai_Atoll_(ISS006-E-38881).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
 | 2026-11-28-02-21 | Bora Bora | Pixabay (Solarselle77) | https://pixabay.com/videos/id-332818/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-28-05-13 | Crete | Pixabay (BerkiRaf) | https://pixabay.com/videos/id-368827/ | Pixabay Content License, commercial use, no attribution needed |
+| 2026-11-28-05-13 | Balos Lagoon | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Drone_view_of_coastal_lagoon_(Unsplash).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-05-13 | Chania Venetian Harbor | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Battle_of_Crete_(8445835).jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-05-13 | Palace of Knossos | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Minoan_jar_Knossos_Palace.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-05-13 | Matala Caves | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Beach_and_troglodytes_at_Matala,_Crete,_Greece.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-05-13 | Rethymno Old Town | Wikimedia Commons () | https://commons.wikimedia.org/wiki/File:Harbour_snowy_mountains_Rethymno_Crete_Greece.jpg | Wikimedia Commons Content License, commercial use, no attribution needed |
+| 2026-11-28-05-13 | Crete | Pixabay (doktorkleinmusic) | https://pixabay.com/videos/id-377059/ | Pixabay Content License, commercial use, no attribution needed |

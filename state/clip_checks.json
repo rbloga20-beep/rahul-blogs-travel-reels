@@ -22257,5 +22257,57 @@
   "v": 3,
   "ok": true,
   "s": 10
+ },
+ "wmc61672471|Balos Lagoon": {
+  "v": 3,
+  "ok": true,
+  "s": 10
+ },
+ "wmc38895743|Palace of Knossos": {
+  "v": 3,
+  "ok": true,
+  "s": 6
+ },
+ "wmc155889779|Chania Venetian Harbor": {
+  "v": 3,
+  "ok": false,
+  "s": 6
+ },
+ "wmc157270324|Chania Venetian Harbor": null,
+ "wmc155889801|Chania Venetian Harbor": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc155889774|Chania Venetian Harbor": null,
+ "wmc38883820|Palace of Knossos": {
+  "v": 3,
+  "ok": true,
+  "s": 7
+ },
+ "wmc40445389|Rethymno Old Town": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc48482535|Matala Caves": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "wmc40419416|Matala Caves": {
+  "v": 3,
+  "ok": true,
+  "s": 8
+ },
+ "pxb368827|Crete": {
+  "v": 3,
+  "ok": true,
+  "s": 9
+ },
+ "pxb377059|Crete": {
+  "v": 3,
+  "ok": true,
+  "s": 10
  }
 }
